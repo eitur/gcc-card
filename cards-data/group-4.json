@@ -1,0 +1,1572 @@
+[
+  {
+    "id": 114,
+    "name": "Orc Lord Card",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "orc-lord.png"
+  },
+  {
+    "id": 122,
+    "name": "Lenasien Card",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "lenasien.png"
+  },
+  {
+    "id": 131,
+    "name": "Corrupt Ranger Card",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "corrupt-ranger.png"
+  },
+  {
+    "id": 151,
+    "name": "DK MARK-II Card",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "dk-mark-ii.png"
+  },
+  {
+    "id": 283,
+    "name": "Kumi",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "kumi.png"
+  },
+  {
+    "id": 284,
+    "name": "Lilith",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "lilith.png"
+  },
+  {
+    "id": 285,
+    "name": "Squire Gaicoz",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "squire-gaicoz.png"
+  },
+  {
+    "id": 286,
+    "name": "DK-Mark 3",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "dk-mark-3.png"
+  },
+  {
+    "id": 287,
+    "name": "Sellion",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "sellion.png"
+  },
+  {
+    "id": 288,
+    "name": "Ringmaster",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "ringmaster.png"
+  },
+  {
+    "id": 289,
+    "name": "Elesis",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "elesis.png"
+  },
+  {
+    "id": 290,
+    "name": "Knight Master Pet",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "knight-master-pet.png"
+  },
+  {
+    "id": 291,
+    "name": "Madeleine",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "madeleine.png"
+  },
+  {
+    "id": 292,
+    "name": "Tammy",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "tammy.png"
+  },
+  {
+    "id": 293,
+    "name": "Sherlook Hound",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "sherlook-hound.png"
+  },
+  {
+    "id": 294,
+    "name": "Havoc",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "havoc.png"
+  },
+  {
+    "id": 295,
+    "name": "Kaze'doggeh",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "kaze-doggeh.png"
+  },
+  {
+    "id": 296,
+    "name": "Thanny Boy",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "thanny-boy.png"
+  },
+  {
+    "id": 297,
+    "name": "Nerissa",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "nerissa.png"
+  },
+  {
+    "id": 298,
+    "name": "Claudia",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "claudia.png"
+  },
+  {
+    "id": 299,
+    "name": "Chester",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "chester.png"
+  },
+  {
+    "id": 300,
+    "name": "Mary Jane",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "mary-jane.png"
+  },
+  {
+    "id": 301,
+    "name": "Duelly",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "duelly.png"
+  },
+  {
+    "id": 302,
+    "name": "Clara",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "clara.png"
+  },
+  {
+    "id": 406,
+    "name": "Lancer Guard",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "lancer-guard.png"
+  },
+  {
+    "id": 410,
+    "name": "Prisoners",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "prisoners.png"
+  },
+  {
+    "id": 411,
+    "name": "Escaped Prisoner",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "escaped-prisoner.png"
+  },
+  {
+    "id": 418,
+    "name": "Sorcerer",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "sorcerer.png"
+  },
+  {
+    "id": 419,
+    "name": "Sergeant Musketeer",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "sergeant-musketeer.png"
+  },
+  {
+    "id": 420,
+    "name": "Colonel Musketeer",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "colonel-musketeer.png"
+  },
+  {
+    "id": 423,
+    "name": "Cleaner Maid",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "cleaner-maid.png"
+  },
+  {
+    "id": 424,
+    "name": "Sorcerer",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "sorcerer.png"
+  },
+  {
+    "id": 425,
+    "name": "Arch Sorcerer",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "arch-sorcerer.png"
+  },
+  {
+    "id": 426,
+    "name": "Kitchen Maid",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "kitchen-maid.png"
+  },
+  {
+    "id": 427,
+    "name": "Colonel Lancer",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "colonel-lancer.png"
+  },
+  {
+    "id": 428,
+    "name": "Head Cleaner Maid",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "head-cleaner-maid.png"
+  },
+  {
+    "id": 432,
+    "name": "Butler",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "butler.png"
+  },
+  {
+    "id": 433,
+    "name": "Giant Arachnia",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "giant-arachnia.png"
+  },
+  {
+    "id": 435,
+    "name": "Giant Blood Arachnia",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "giant-blood-arachnia.png"
+  },
+  {
+    "id": 436,
+    "name": "Gigantic Poisonous Arachnia",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "gigantic-poisonous-arachnia.png"
+  },
+  {
+    "id": 440,
+    "name": "Gigantic Poisonous Arachnia",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "gigantic-poisonous-arachnia.png"
+  },
+  {
+    "id": 441,
+    "name": "Sergeant Musketeer",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "sergeant-musketeer.png"
+  },
+  {
+    "id": 443,
+    "name": "Arch Sorcerer",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "arch-sorcerer.png"
+  },
+  {
+    "id": 610,
+    "name": "Gaikoz's Castle",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "gaikoz-s-castle.png"
+  },
+  {
+    "id": 611,
+    "name": "Victor's Fortress",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "victor-s-fortress.png"
+  },
+  {
+    "id": 612,
+    "name": "Kaze'aze's Castle",
+    "point": 30,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "kaze-aze-s-castle.png"
+  },
+  {
+    "id": 129,
+    "name": "Samsara Card",
+    "point": 31,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "samsara.png"
+  },
+  {
+    "id": 163,
+    "name": "Fire Hammer Smith Card",
+    "point": 31,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "fire-hammer-smith.png"
+  },
+  {
+    "id": 79,
+    "name": "Magic Kungji Card",
+    "point": 32,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "magic-kungji.png"
+  },
+  {
+    "id": 438,
+    "name": "Gigantic Blood Arachnia",
+    "point": 32,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "gigantic-blood-arachnia.png"
+  },
+  {
+    "id": 442,
+    "name": "Gigantic Blood Arachnia",
+    "point": 32,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "gigantic-blood-arachnia.png"
+  },
+  {
+    "id": 445,
+    "name": "Colonel Musketeer",
+    "point": 32,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "colonel-musketeer.png"
+  },
+  {
+    "id": 446,
+    "name": "Gigantic Arachnia",
+    "point": 32,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "gigantic-arachnia.png"
+  },
+  {
+    "id": 456,
+    "name": "Lacerta Berserker",
+    "point": 32,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "lacerta-berserker.png"
+  },
+  {
+    "id": 458,
+    "name": "Lacerta Sorcerer",
+    "point": 32,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "lacerta-sorcerer.png"
+  },
+  {
+    "id": 156,
+    "name": "Gargoyle Card",
+    "point": 33,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "gargoyle.png"
+  },
+  {
+    "id": 157,
+    "name": "Sataniel's Warrior Card",
+    "point": 33,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "sataniel-s-warrior.png"
+  },
+  {
+    "id": 382,
+    "name": "Hooded Jackal",
+    "point": 33,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "hooded-jackal.png"
+  },
+  {
+    "id": 67,
+    "name": "Stone Clan Fighter Card",
+    "point": 34,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "stone-clan-fighter.png"
+  },
+  {
+    "id": 68,
+    "name": "Stone Clan Worker Card",
+    "point": 34,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "stone-clan-worker.png"
+  },
+  {
+    "id": 69,
+    "name": "Grim Prior Card",
+    "point": 34,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "grim-prior.png"
+  },
+  {
+    "id": 120,
+    "name": "Moss Monster Card",
+    "point": 35,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "moss-monster.png"
+  },
+  {
+    "id": 138,
+    "name": "Starkiln Card",
+    "point": 35,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "starkiln.png"
+  },
+  {
+    "id": 153,
+    "name": "Dark Storm Card",
+    "point": 35,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "dark-storm.png"
+  },
+  {
+    "id": 154,
+    "name": "Furious Storm Card",
+    "point": 35,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "furious-storm.png"
+  },
+  {
+    "id": 161,
+    "name": "Iblis Card",
+    "point": 35,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "iblis.png"
+  },
+  {
+    "id": 378,
+    "name": "Sword Bandit",
+    "point": 35,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "sword-bandit.png"
+  },
+  {
+    "id": 152,
+    "name": "Wooden Card",
+    "point": 36,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "wooden.png"
+  },
+  {
+    "id": 405,
+    "name": "Fencer Guard",
+    "point": 36,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "fencer-guard.png"
+  },
+  {
+    "id": 467,
+    "name": "Void Sorcerer",
+    "point": 36,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "void-sorcerer.png"
+  },
+  {
+    "id": 476,
+    "name": "Harrier Larva",
+    "point": 36,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "harrier-larva.png"
+  },
+  {
+    "id": 133,
+    "name": "Mynos Card",
+    "point": 37,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "mynos.png"
+  },
+  {
+    "id": 147,
+    "name": "Ancient Giant Card",
+    "point": 37,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "ancient-giant.png"
+  },
+  {
+    "id": 164,
+    "name": "Fire Hammer Berserker Card",
+    "point": 37,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "fire-hammer-berserker.png"
+  },
+  {
+    "id": 80,
+    "name": "Big Kungji Card",
+    "point": 38,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "big-kungji.png"
+  },
+  {
+    "id": 379,
+    "name": "Axe Bandit",
+    "point": 38,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "axe-bandit.png"
+  },
+  {
+    "id": 407,
+    "name": "Sergeant Lancer",
+    "point": 38,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "sergeant-lancer.png"
+  },
+  {
+    "id": 414,
+    "name": "Giant Poisonous Arachnia",
+    "point": 38,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "giant-poisonous-arachnia.png"
+  },
+  {
+    "id": 421,
+    "name": "Colonel Fencer",
+    "point": 38,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "colonel-fencer.png"
+  },
+  {
+    "id": 429,
+    "name": "Head Kitchen Maid",
+    "point": 38,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "head-kitchen-maid.png"
+  },
+  {
+    "id": 437,
+    "name": "Head Manager",
+    "point": 38,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "head-manager.png"
+  },
+  {
+    "id": 466,
+    "name": "Void Shaman",
+    "point": 38,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "void-shaman.png"
+  },
+  {
+    "id": 76,
+    "name": "Scorpis Card",
+    "point": 39,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "scorpis.png"
+  },
+  {
+    "id": 123,
+    "name": "Octus Card",
+    "point": 39,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "octus.png"
+  },
+  {
+    "id": 143,
+    "name": "Yamini Card",
+    "point": 39,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "yamini.png"
+  },
+  {
+    "id": 148,
+    "name": "Lord Perseo Card",
+    "point": 39,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "lord-perseo.png"
+  },
+  {
+    "id": 165,
+    "name": "Spiderbot Guard Card",
+    "point": 39,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "spiderbot-guard.png"
+  },
+  {
+    "id": 384,
+    "name": "Hooded Crow",
+    "point": 39,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "hooded-crow.png"
+  },
+  {
+    "id": 392,
+    "name": "Seth's Amazone",
+    "point": 39,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "seth-s-amazone.png"
+  },
+  {
+    "id": 393,
+    "name": "Seth's Mummy",
+    "point": 39,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "seth-s-mummy.png"
+  },
+  {
+    "id": 73,
+    "name": "Underpass Dinergate Card",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "underpass-dinergate.png"
+  },
+  {
+    "id": 75,
+    "name": "Underpass Hugate Card",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "underpass-hugate.png"
+  },
+  {
+    "id": 162,
+    "name": "Black Wood Assassin Card",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "black-wood-assassin.png"
+  },
+  {
+    "id": 174,
+    "name": "Iron Dwarl Overseer Card",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "iron-dwarl-overseer.png"
+  },
+  {
+    "id": 189,
+    "name": "Tech Guard Card",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "tech-guard.png"
+  },
+  {
+    "id": 191,
+    "name": "Thunder Hammer Guard Card",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "thunder-hammer-guard.png"
+  },
+  {
+    "id": 223,
+    "name": "Prime Knight's Rage",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "prime-knight-s-rage.png"
+  },
+  {
+    "id": 224,
+    "name": "Rune Caster",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "rune-caster.png"
+  },
+  {
+    "id": 225,
+    "name": "Harbinger",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "harbinger.png"
+  },
+  {
+    "id": 226,
+    "name": "Fighter",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "fighter.png"
+  },
+  {
+    "id": 227,
+    "name": "Polaris",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "polaris.png"
+  },
+  {
+    "id": 228,
+    "name": "Starlet",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "starlet.png"
+  },
+  {
+    "id": 229,
+    "name": "Fighter",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "fighter.png"
+  },
+  {
+    "id": 230,
+    "name": "Prime Knight",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "prime-knight.png"
+  },
+  {
+    "id": 231,
+    "name": "Magician",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "magician.png"
+  },
+  {
+    "id": 232,
+    "name": "Archer",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "archer.png"
+  },
+  {
+    "id": 233,
+    "name": "Alchemist",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "alchemist.png"
+  },
+  {
+    "id": 234,
+    "name": "Rama",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "rama.png"
+  },
+  {
+    "id": 235,
+    "name": "Thief",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "thief.png"
+  },
+  {
+    "id": 236,
+    "name": "Wanderer",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "wanderer.png"
+  },
+  {
+    "id": 237,
+    "name": "Striker",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "striker.png"
+  },
+  {
+    "id": 238,
+    "name": "Nova",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "nova.png"
+  },
+  {
+    "id": 239,
+    "name": "Seeker",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "seeker.png"
+  },
+  {
+    "id": 240,
+    "name": "Arch Ranger",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "arch-ranger.png"
+  },
+  {
+    "id": 241,
+    "name": "Stygian",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "stygian.png"
+  },
+  {
+    "id": 242,
+    "name": "Dark Assassin",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "dark-assassin.png"
+  },
+  {
+    "id": 243,
+    "name": "Soul Stalker",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "soul-stalker.png"
+  },
+  {
+    "id": 244,
+    "name": "Arch Ranger",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "arch-ranger.png"
+  },
+  {
+    "id": 473,
+    "name": "Ambiter King Slime (Self Named)",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "ambiter-king-slime-self-named.png"
+  },
+  {
+    "id": 474,
+    "name": "Defender King Slime (Self Named)",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "defender-king-slime-self-named.png"
+  },
+  {
+    "id": 475,
+    "name": "Justicar King Slime (Self Named)",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "justicar-king-slime-self-named.png"
+  },
+  {
+    "id": 613,
+    "name": "Temple of Destruction",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "temple-of-destruction.png"
+  },
+  {
+    "id": 614,
+    "name": "Kungji Village",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "kungji-village.png"
+  },
+  {
+    "id": 615,
+    "name": "Kounat's Collapse",
+    "point": 40,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "kounat-s-collapse.png"
+  },
+  {
+    "id": 168,
+    "name": "Sand Dinergate Card",
+    "point": 41,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "sand-dinergate.png"
+  },
+  {
+    "id": 169,
+    "name": "Scorping Card",
+    "point": 41,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "scorping.png"
+  },
+  {
+    "id": 370,
+    "name": "One-Eyed Goblin",
+    "point": 41,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "one-eyed-goblin.png"
+  },
+  {
+    "id": 371,
+    "name": "Bedeviled Box",
+    "point": 41,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "bedeviled-box.png"
+  },
+  {
+    "id": 377,
+    "name": "Mine Bandit",
+    "point": 41,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "mine-bandit.png"
+  },
+  {
+    "id": 380,
+    "name": "Crossbow Bandit",
+    "point": 41,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "crossbow-bandit.png"
+  },
+  {
+    "id": 70,
+    "name": "Brutus Card",
+    "point": 42,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "brutus.png"
+  },
+  {
+    "id": 374,
+    "name": "Haetae",
+    "point": 42,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "haetae.png"
+  },
+  {
+    "id": 375,
+    "name": "Lotus the Innkeper",
+    "point": 42,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "lotus-the-innkeper.png"
+  },
+  {
+    "id": 383,
+    "name": "Hooded Hound",
+    "point": 42,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "hooded-hound.png"
+  },
+  {
+    "id": 394,
+    "name": "Seth's Warlock",
+    "point": 42,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "seth-s-warlock.png"
+  },
+  {
+    "id": 399,
+    "name": "Highlander's Illusion",
+    "point": 42,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "highlander-s-illusion.png"
+  },
+  {
+    "id": 470,
+    "name": "Arbiter King Slime",
+    "point": 42,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "arbiter-king-slime.png"
+  },
+  {
+    "id": 471,
+    "name": "Defender King Slime",
+    "point": 42,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "defender-king-slime.png"
+  },
+  {
+    "id": 472,
+    "name": "Justicar King Slime",
+    "point": 42,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "justicar-king-slime.png"
+  },
+  {
+    "id": 505,
+    "name": "Harrier Goblin Fighter",
+    "point": 42,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "harrier-goblin-fighter.png"
+  },
+  {
+    "id": 161,
+    "name": "Thanatos Card",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "thanatos.png"
+  },
+  {
+    "id": 190,
+    "name": "Thunder Hammer Rifleman Card",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "thunder-hammer-rifleman.png"
+  },
+  {
+    "id": 366,
+    "name": "Hatchling",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "hatchling.png"
+  },
+  {
+    "id": 367,
+    "name": "Lizard Man",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "lizard-man.png"
+  },
+  {
+    "id": 368,
+    "name": "Dragon Knight",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "dragon-knight.png"
+  },
+  {
+    "id": 373,
+    "name": "Maniacal Merchant",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "maniacal-merchant.png"
+  },
+  {
+    "id": 408,
+    "name": "GateKeeper Vask",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "gatekeeper-vask.png"
+  },
+  {
+    "id": 415,
+    "name": "Death Row Tarik",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "death-row-tarik.png"
+  },
+  {
+    "id": 422,
+    "name": "Guard Captain Schumacher",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "guard-captain-schumacher.png"
+  },
+  {
+    "id": 430,
+    "name": "Dreyfus de Villepin",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "dreyfus-de-villepin.png"
+  },
+  {
+    "id": 439,
+    "name": "Count Von Bucchantes",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "count-von-bucchantes.png"
+  },
+  {
+    "id": 447,
+    "name": "Countess Arachne",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "countess-arachne.png"
+  },
+  {
+    "id": 452,
+    "name": "Mountain Giant Troka",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "mountain-giant-troka.png"
+  },
+  {
+    "id": 459,
+    "name": "War Chief RakLak",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "war-chief-raklak.png"
+  },
+  {
+    "id": 460,
+    "name": "Arch-Mage RokLok",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "arch-mage-roklok.png"
+  },
+  {
+    "id": 468,
+    "name": "Morid the Despair",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "morid-the-despair.png"
+  },
+  {
+    "id": 469,
+    "name": "Garud The Hatred",
+    "point": 43,
+    "group": 4,
+    "rate": 0.006369426751592357,
+    "region": "",
+    "groupCount": 157,
+    "image": "garud-the-hatred.png"
+  }
+]

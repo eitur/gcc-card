@@ -1,0 +1,1312 @@
+[
+  {
+    "id": 167,
+    "name": "Sand Ergate Card",
+    "point": 44,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "sand-ergate.png"
+  },
+  {
+    "id": 170,
+    "name": "Frillzard Card",
+    "point": 44,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "frillzard.png"
+  },
+  {
+    "id": 198,
+    "name": "Garou",
+    "point": 44,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "garou.png"
+  },
+  {
+    "id": 361,
+    "name": "Guardian Spirit",
+    "point": 44,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "guardian-spirit.png"
+  },
+  {
+    "id": 479,
+    "name": "Harrier Dwarf Rifleman",
+    "point": 44,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-dwarf-rifleman.png"
+  },
+  {
+    "id": 569,
+    "name": "Demon Bat",
+    "point": 44,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "demon-bat.png"
+  },
+  {
+    "id": 570,
+    "name": "Raging Demon Bat",
+    "point": 44,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "raging-demon-bat.png"
+  },
+  {
+    "id": 176,
+    "name": "Power Shovel Card",
+    "point": 45,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "power-shovel.png"
+  },
+  {
+    "id": 346,
+    "name": "Escaped Prisoner",
+    "point": 45,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "escaped-prisoner.png"
+  },
+  {
+    "id": 477,
+    "name": "Harrier Carnivorous Plant",
+    "point": 45,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-carnivorous-plant.png"
+  },
+  {
+    "id": 486,
+    "name": "Harrier Orc Warrior",
+    "point": 45,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-orc-warrior.png"
+  },
+  {
+    "id": 503,
+    "name": "Harrier Frillzard",
+    "point": 45,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-frillzard.png"
+  },
+  {
+    "id": 518,
+    "name": "Harrier Decoy",
+    "point": 45,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-decoy.png"
+  },
+  {
+    "id": 519,
+    "name": "Harrier Goblin",
+    "point": 45,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-goblin.png"
+  },
+  {
+    "id": 552,
+    "name": "Harrier Cyclops Sentry",
+    "point": 45,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-cyclops-sentry.png"
+  },
+  {
+    "id": 171,
+    "name": "Giant Frillzard Card",
+    "point": 46,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "giant-frillzard.png"
+  },
+  {
+    "id": 175,
+    "name": "Fire Hammer Driller Card",
+    "point": 46,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "fire-hammer-driller.png"
+  },
+  {
+    "id": 192,
+    "name": "Mecha Taurus Card",
+    "point": 46,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "mecha-taurus.png"
+  },
+  {
+    "id": 372,
+    "name": "Tiger Trader",
+    "point": 46,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "tiger-trader.png"
+  },
+  {
+    "id": 488,
+    "name": "Harrier Hooded Hound",
+    "point": 46,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-hooded-hound.png"
+  },
+  {
+    "id": 522,
+    "name": "Harrier Hooded Jackal",
+    "point": 46,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-hooded-jackal.png"
+  },
+  {
+    "id": 524,
+    "name": "Harrier Scorping",
+    "point": 46,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-scorping.png"
+  },
+  {
+    "id": 525,
+    "name": "Harrier Lich",
+    "point": 46,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-lich.png"
+  },
+  {
+    "id": 532,
+    "name": "Harrier Assassin Champion",
+    "point": 46,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-assassin-champion.png"
+  },
+  {
+    "id": 576,
+    "name": "Templo Apostle",
+    "point": 46,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "templo-apostle.png"
+  },
+  {
+    "id": 71,
+    "name": "Sethek Card",
+    "point": 47,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "sethek.png"
+  },
+  {
+    "id": 197,
+    "name": "Garou Berserker",
+    "point": 47,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "garou-berserker.png"
+  },
+  {
+    "id": 356,
+    "name": "Dark Elven Scout",
+    "point": 47,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "dark-elven-scout.png"
+  },
+  {
+    "id": 357,
+    "name": "Dark Elven Assassin",
+    "point": 47,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "dark-elven-assassin.png"
+  },
+  {
+    "id": 362,
+    "name": "Royal Elven Guard",
+    "point": 47,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "royal-elven-guard.png"
+  },
+  {
+    "id": 492,
+    "name": "Harrier Dwarf Engineer",
+    "point": 47,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-dwarf-engineer.png"
+  },
+  {
+    "id": 527,
+    "name": "Harrier Dwarl Overseer",
+    "point": 47,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-dwarl-overseer.png"
+  },
+  {
+    "id": 347,
+    "name": "Casey Bones",
+    "point": 48,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "casey-bones.png"
+  },
+  {
+    "id": 376,
+    "name": "Gumiho",
+    "point": 48,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "gumiho.png"
+  },
+  {
+    "id": 385,
+    "name": "Hooded Scorpion",
+    "point": 48,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "hooded-scorpion.png"
+  },
+  {
+    "id": 480,
+    "name": "Harrier Native Leader",
+    "point": 48,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-native-leader.png"
+  },
+  {
+    "id": 494,
+    "name": "Harrier Royal Elven Guard",
+    "point": 48,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-royal-elven-guard.png"
+  },
+  {
+    "id": 515,
+    "name": "Harrier Gargoyle",
+    "point": 48,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-gargoyle.png"
+  },
+  {
+    "id": 548,
+    "name": "Harrier Snowfield Spearman",
+    "point": 48,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-snowfield-spearman.png"
+  },
+  {
+    "id": 553,
+    "name": "Harrier Elvin Assassin",
+    "point": 48,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-elvin-assassin.png"
+  },
+  {
+    "id": 72,
+    "name": "Underpass Ergate Card",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "underpass-ergate.png"
+  },
+  {
+    "id": 81,
+    "name": "Guardian Kungji Card",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "guardian-kungji.png"
+  },
+  {
+    "id": 155,
+    "name": "Rukkha Card",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "rukkha.png"
+  },
+  {
+    "id": 482,
+    "name": "Harrier Guardian Spirit",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-guardian-spirit.png"
+  },
+  {
+    "id": 487,
+    "name": "Harrier Garou Berserker",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-garou-berserker.png"
+  },
+  {
+    "id": 495,
+    "name": "Harrier Paraminimy",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-paraminimy.png"
+  },
+  {
+    "id": 512,
+    "name": "Harrier Dark Elven Magic Archer",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-dark-elven-magic-archer.png"
+  },
+  {
+    "id": 513,
+    "name": "Harrier Dark Elven Horseman",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-dark-elven-horseman.png"
+  },
+  {
+    "id": 521,
+    "name": "Harrier Garou Mage",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-garou-mage.png"
+  },
+  {
+    "id": 533,
+    "name": "Harrier Beholder",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-beholder.png"
+  },
+  {
+    "id": 540,
+    "name": "Harrier Harpy Queen",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-harpy-queen.png"
+  },
+  {
+    "id": 555,
+    "name": "Harrier Highlander's Illusion",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-highlander-s-illusion.png"
+  },
+  {
+    "id": 556,
+    "name": "Harrier Sand Dinergate",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-sand-dinergate.png"
+  },
+  {
+    "id": 557,
+    "name": "Harrier Native Spearman",
+    "point": 49,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-native-spearman.png"
+  },
+  {
+    "id": 77,
+    "name": "Aranya Card",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "aranya.png"
+  },
+  {
+    "id": 78,
+    "name": "Kungji Card",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "kungji.png"
+  },
+  {
+    "id": 199,
+    "name": "Garou Mage",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "garou-mage.png"
+  },
+  {
+    "id": 245,
+    "name": "Dragon Knight",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "dragon-knight.png"
+  },
+  {
+    "id": 246,
+    "name": "Rama",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "rama.png"
+  },
+  {
+    "id": 247,
+    "name": "Geas",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "geas.png"
+  },
+  {
+    "id": 248,
+    "name": "Drakar",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "drakar.png"
+  },
+  {
+    "id": 249,
+    "name": "Spell Knight",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "spell-knight.png"
+  },
+  {
+    "id": 250,
+    "name": "Executioner",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "executioner.png"
+  },
+  {
+    "id": 251,
+    "name": "Crossbowman",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "crossbowman.png"
+  },
+  {
+    "id": 252,
+    "name": "Dancer",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "dancer.png"
+  },
+  {
+    "id": 253,
+    "name": "Assassin",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "assassin.png"
+  },
+  {
+    "id": 254,
+    "name": "Sword Master",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "sword-master.png"
+  },
+  {
+    "id": 255,
+    "name": "Arbiter",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "arbiter.png"
+  },
+  {
+    "id": 256,
+    "name": "Gunslinger",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "gunslinger.png"
+  },
+  {
+    "id": 257,
+    "name": "Druid",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "druid.png"
+  },
+  {
+    "id": 258,
+    "name": "Harpe",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harpe.png"
+  },
+  {
+    "id": 259,
+    "name": "Duell & Edna",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "duell-edna.png"
+  },
+  {
+    "id": 260,
+    "name": "Edna",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "edna.png"
+  },
+  {
+    "id": 261,
+    "name": "Duell & Edna",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "duell-edna.png"
+  },
+  {
+    "id": 262,
+    "name": "Jeeves & Alfred",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "jeeves-alfred.png"
+  },
+  {
+    "id": 363,
+    "name": "Elite Elven Mage",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "elite-elven-mage.png"
+  },
+  {
+    "id": 387,
+    "name": "Vanisher",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "vanisher.png"
+  },
+  {
+    "id": 388,
+    "name": "Dusk Bringer",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "dusk-bringer.png"
+  },
+  {
+    "id": 389,
+    "name": "Awakened Card",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "awakened.png"
+  },
+  {
+    "id": 390,
+    "name": "Chaotic",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "chaotic.png"
+  },
+  {
+    "id": 391,
+    "name": "Chosen",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "chosen.png"
+  },
+  {
+    "id": 395,
+    "name": "Anubis",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "anubis.png"
+  },
+  {
+    "id": 483,
+    "name": "Harrier Vile Naga",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-vile-naga.png"
+  },
+  {
+    "id": 498,
+    "name": "Harrier Miston",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-miston.png"
+  },
+  {
+    "id": 514,
+    "name": "Harrier Violent Drillmon",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-violent-drillmon.png"
+  },
+  {
+    "id": 535,
+    "name": "Harrier Assassin Master",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-assassin-master.png"
+  },
+  {
+    "id": 542,
+    "name": "Harrier Poison Cactus",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-poison-cactus.png"
+  },
+  {
+    "id": 551,
+    "name": "Harrier Dwarf Warrior",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-dwarf-warrior.png"
+  },
+  {
+    "id": 554,
+    "name": "Harrier Obsidian Demon",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-obsidian-demon.png"
+  },
+  {
+    "id": 559,
+    "name": "Iron Infantry",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "iron-infantry.png"
+  },
+  {
+    "id": 561,
+    "name": "Iron Archer",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "iron-archer.png"
+  },
+  {
+    "id": 564,
+    "name": "Goblin Worker",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "goblin-worker.png"
+  },
+  {
+    "id": 620,
+    "name": "The Crucible",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "the-crucible.png"
+  },
+  {
+    "id": 621,
+    "name": "Sanctum of Destruction",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "sanctum-of-destruction.png"
+  },
+  {
+    "id": 622,
+    "name": "Wizard's Labyrinth",
+    "point": 50,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "wizard-s-labyrinth.png"
+  },
+  {
+    "id": 82,
+    "name": "Elder Kungji Card",
+    "point": 51,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "elder-kungji.png"
+  },
+  {
+    "id": 193,
+    "name": "Void Card",
+    "point": 51,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "void.png"
+  },
+  {
+    "id": 502,
+    "name": "Harrier Troll",
+    "point": 51,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-troll.png"
+  },
+  {
+    "id": 509,
+    "name": "Harrier Iron Guard",
+    "point": 51,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-iron-guard.png"
+  },
+  {
+    "id": 550,
+    "name": "Harrier Snowfield Tempest",
+    "point": 51,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-snowfield-tempest.png"
+  },
+  {
+    "id": 359,
+    "name": "Dark Elven Horseman",
+    "point": 52,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "dark-elven-horseman.png"
+  },
+  {
+    "id": 531,
+    "name": "Harrier Tech Guard",
+    "point": 52,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-tech-guard.png"
+  },
+  {
+    "id": 549,
+    "name": "Harrier Rock Slime",
+    "point": 52,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-rock-slime.png"
+  },
+  {
+    "id": 579,
+    "name": "Sentry Robot",
+    "point": 52,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "sentry-robot.png"
+  },
+  {
+    "id": 166,
+    "name": "Talin Elfbane Card",
+    "point": 53,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "talin-elfbane.png"
+  },
+  {
+    "id": 178,
+    "name": "Sentry Keeper No.2 Card",
+    "point": 53,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "sentry-keeper-no-2.png"
+  },
+  {
+    "id": 358,
+    "name": "Dark Elven Magic Archer",
+    "point": 53,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "dark-elven-magic-archer.png"
+  },
+  {
+    "id": 364,
+    "name": "Golem",
+    "point": 53,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "golem.png"
+  },
+  {
+    "id": 507,
+    "name": "Harrier Fytros",
+    "point": 53,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-fytros.png"
+  },
+  {
+    "id": 545,
+    "name": "Harrier Magma Paradom",
+    "point": 53,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-magma-paradom.png"
+  },
+  {
+    "id": 547,
+    "name": "Harrier Wyrm Spawn",
+    "point": 53,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-wyrm-spawn.png"
+  },
+  {
+    "id": 566,
+    "name": "Goblin Jester",
+    "point": 53,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "goblin-jester.png"
+  },
+  {
+    "id": 348,
+    "name": "Epic Death Furnace 301",
+    "point": 54,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "epic-death-furnace-301.png"
+  },
+  {
+    "id": 349,
+    "name": "Relic Death Furnace 301",
+    "point": 54,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "relic-death-furnace-301.png"
+  },
+  {
+    "id": 397,
+    "name": "Commander 'The Dark Sword'",
+    "point": 54,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "commander-the-dark-sword.png"
+  },
+  {
+    "id": 398,
+    "name": "Commander 'The Dark Staff'",
+    "point": 54,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "commander-the-dark-staff.png"
+  },
+  {
+    "id": 400,
+    "name": "Graham's Illusion",
+    "point": 54,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "graham-s-illusion.png"
+  },
+  {
+    "id": 500,
+    "name": "Harrier Sataniel's Warrior",
+    "point": 54,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-sataniel-s-warrior.png"
+  },
+  {
+    "id": 530,
+    "name": "Harrier Elite Elven Mage",
+    "point": 54,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-elite-elven-mage.png"
+  },
+  {
+    "id": 543,
+    "name": "Harrier Snowfield Shield Bearer",
+    "point": 54,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-snowfield-shield-bearer.png"
+  },
+  {
+    "id": 343,
+    "name": "Mournful Passenger",
+    "point": 55,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "mournful-passenger.png"
+  },
+  {
+    "id": 344,
+    "name": "Monster Train Attendant",
+    "point": 55,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "monster-train-attendant.png"
+  },
+  {
+    "id": 345,
+    "name": "Monster Train Security Personnel",
+    "point": 55,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "monster-train-security-personnel.png"
+  },
+  {
+    "id": 490,
+    "name": "Harrier Left Basilisk",
+    "point": 55,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-left-basilisk.png"
+  },
+  {
+    "id": 523,
+    "name": "Harrier Scorpis",
+    "point": 55,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-scorpis.png"
+  },
+  {
+    "id": 544,
+    "name": "Harrier Sand Spirit",
+    "point": 55,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-sand-spirit.png"
+  },
+  {
+    "id": 546,
+    "name": "Harrier Onyx Wendy",
+    "point": 55,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "harrier-onyx-wendy.png"
+  },
+  {
+    "id": 577,
+    "name": "Pure White Apostle",
+    "point": 55,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "pure-white-apostle.png"
+  },
+  {
+    "id": 580,
+    "name": "Elite Sentry Robot",
+    "point": 55,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "elite-sentry-robot.png"
+  },
+  {
+    "id": 582,
+    "name": "Golem of Reversing time",
+    "point": 55,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "golem-of-reversing-time.png"
+  },
+  {
+    "id": 583,
+    "name": "Golem of Suspending Time",
+    "point": 55,
+    "group": 5,
+    "rate": 0.007633587786259542,
+    "region": "",
+    "groupCount": 131,
+    "image": "golem-of-suspending-time.png"
+  }
+]

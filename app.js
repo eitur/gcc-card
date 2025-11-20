@@ -72,14 +72,37 @@ const LANG = {
   // Load card data from JSON file
   async function loadCards() {
     try {
-      const response = await fetch('cards-data.json');
-      const data = await response.json();
-      cards = data.cards;
+      // Array of your JSON file paths
+      const jsonFiles = [
+        'cards-data/group-1.json',
+        'cards-data/group-2.json',
+        'cards-data/group-3.json',
+        'cards-data/group-4.json',
+        'cards-data/group-5.json',
+        'cards-data/group-6.json',
+        'cards-data/group-7.json'
+      ];
+      
+      // Fetch all files simultaneously
+      const responses = await Promise.all(
+        jsonFiles.map(file => fetch(file))
+      );
+      
+      // Parse all JSON responses
+      const dataArrays = await Promise.all(
+        responses.map(response => response.json())
+      );
+      
+      console.log('Fetched data from all files:', dataArrays);
+      
+      // Combine all cards arrays into one
+      cards = dataArrays.flat();
+      
       loadSelections();
       renderTable();
     } catch (error) {
       console.error('Error loading cards:', error);
-      // Fallback to sample data if JSON file not found
+      // Fallback to sample data if JSON files not found
       cards = [
         { id: 1, name: "Mushmon Card", point: 1, group: 1, region: "A", dropRate: "2.78%" },
         { id: 10, name: "Orc Card", point: 1, group: 1, region: "A", dropRate: "2.78%" },
@@ -211,22 +234,90 @@ const LANG = {
     renderTable();
   }
   
-  function updateSummary() {
-    let total = 0;
-    let groupCount = 0;
+  function calculateStats() {
+    // Calculate missing cards per group
+    const groupStats = {};
+    for (let i = 1; i <= 7; i++) {
+      const groupCards = cards.filter(c => c.group === i);
+      const selectedInGroup = groupCards.filter(c => selected.has(c.id));
+      const missingCount = groupCards.length - selectedInGroup.length;
+      const groupRate = groupCards[0]?.rate || 0;
+      
+      groupStats[i] = {
+        total: groupCards.length,
+        selected: selectedInGroup.length,
+        missing: missingCount,
+        rate: groupRate,
+        missingRate: ((missingCount * groupRate) * 100).toFixed(2)
+      };
+    }
   
-    selected.forEach(id => {
-      const c = cards.find(x => x.id === id);
-      if (c) {
-        total += c.point;
-        groupCount++;
+    // Fusion rate table
+    const fusionRates = [
+      { range: '1-50', rates: { 1: 100.00, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 0 } },
+      { range: '51-95', rates: { 1: 20.00, 2: 70.00, 3: 10.00, 4: 0, 5: 0, 6: 0, 7: 0 } },
+      { range: '96-140', rates: { 1: 10.00, 2: 70.00, 3: 20.00, 4: 0, 5: 0, 6: 0, 7: 0 } },
+      { range: '141-186', rates: { 1: 0, 2: 20.00, 3: 70.00, 4: 10.00, 5: 0, 6: 0, 7: 0 } },
+      { range: '187-230', rates: { 1: 0, 2: 0, 3: 20.00, 4: 70.00, 5: 10.00, 6: 0, 7: 0 } },
+      { range: '231-276', rates: { 1: 0, 2: 0, 3: 10.00, 4: 70.00, 5: 20.00, 6: 0, 7: 0 } },
+      { range: '277-347', rates: { 1: 0, 2: 0, 3: 0, 4: 20.00, 5: 70.00, 6: 10.00, 7: 0 } },
+      { range: '348-383', rates: { 1: 0, 2: 0, 3: 0, 4: 0, 5: 20.00, 6: 70.00, 7: 10.00 } },
+      { range: '384-408', rates: { 1: 0, 2: 0, 3: 0, 4: 0, 5: 10.00, 6: 70.00, 7: 20.00 } },
+      { range: '409-500', rates: { 1: 0, 2: 0, 3: 0, 4: 0, 5: 0, 6: 0, 7: 100.00 } }
+    ];
+  
+    // Calculate probability per point ranges
+    const pointStats = {};
+    for (const fusionRatesData of fusionRates) {
+      let totalProbability = 0;
+      
+      // Calculate probability for this point range across all groups
+      for (let group = 1; group <= 7; group++) {
+        const fusionRate = fusionRatesData.rates[group]; // P1-1
+        if (fusionRate > 0 && groupStats[group]) {          
+          // Add to total probability for this point range: (G1*P1-1)+(G2*P1-2)+...
+          totalProbability += (groupStats[group].missingRate / 100) * (fusionRate / 100);
+        }
       }
-    });
+      
+      pointStats[fusionRatesData.range] = {
+        point: fusionRatesData.range,
+        probabilityPoints: (totalProbability * 100).toFixed(2)
+      };
+    }
+
+    // Get top 3 probabilities, sorted by probability (descending) then by point range (ascending)
+    let sortedPointStats = Object.values(pointStats)
+    .sort((a, b) => {
+      const probDiff = parseFloat(b.probabilityPoints) - parseFloat(a.probabilityPoints);
+      if (probDiff !== 0) return probDiff; // Sort by probability descending
+      
+      // If probabilities are equal, sort by lower point range
+      const [aMin] = a.point.split('-').map(Number);
+      const [bMin] = b.point.split('-').map(Number);
+      return aMin - bMin; // Sort by point ascending
+    })
+    .slice(0, 3); // Get top 3
   
-    const rate = (total / 500 * 100).toFixed(1);
-  
-    const text = `${LANG[currentLang].group} ${groupCount}, ${LANG[currentLang].points} ${total}, ${LANG[currentLang].rate} ${rate}%`;
-    document.getElementById("summaryText").textContent = text;
+    return {
+      groupStats,
+      pointStats,
+      sortedPointStats,
+    };
+  }
+
+  function updateSummary() {
+    const summaryEl = document.getElementById("summaryText");
+    
+    if (selected.size === 0) {
+      summaryEl.innerHTML = '<span class="no-selection">Please select the cards you have from the table below.</span>';
+    } else {
+      const sortedStats = calculateStats().sortedPointStats;
+      const lines = sortedStats.map(stat => 
+        `${stat.point}: ${stat.probabilityPoints}%`
+      );
+      summaryEl.innerHTML = `${lines.join('<br>')}`;
+    }
   }
   
   function showHelp() {
@@ -240,17 +331,19 @@ const LANG = {
     if (selected.size === 0) {
       content = '<div class="no-cards">No cards selected. Please select cards from the table below.</div>';
     } else {
-      selected.forEach(id => {
-        const c = cards.find(x => x.id === id);
-        if (c) {
-          content += `
-            <div class="card-item">
-              <strong>${c.name}</strong><br>
-              Group: ${c.group} | Region: ${c.region} | Points: ${c.point}
-            </div>
-          `;
-        }
-      });
+      const stats = calculateStats();
+      content += '<div class="missing-summary"><strong>Probabilities by Point Ranges:</strong><br>';
+      // Use Object.values() to iterate over the object
+      for (const pointStatsData of Object.values(stats.pointStats)) {
+        content += `Point Range ${pointStatsData.point}: ${pointStatsData.probabilityPoints}%<br>`;
+      }
+
+      content += '</div><div class="missing-summary"><strong>Missing Cards by Group:</strong><br>';
+      for (let i = 1; i <= 7; i++) {
+        const groupStat = stats.groupStats[i];
+        content += `Group ${i}: ${groupStat.missing} missing (${groupStat.selected}/${groupStat.total}) - ${groupStat.missingRate}%<br>`;
+      }
+      content += '</div>';
     }
     
     document.getElementById("detailsContent").innerHTML = content;
@@ -270,4 +363,5 @@ const LANG = {
   
   // Initialize
   loadSelections();
+  loadCards();
   renderTable();

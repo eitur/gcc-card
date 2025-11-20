@@ -1,0 +1,262 @@
+[
+  {
+    "id": 213,
+    "name": "Amy & Jin",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "amy-jin.png"
+  },
+  {
+    "id": 214,
+    "name": "School Uniform",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "school-uniform.png"
+  },
+  {
+    "id": 215,
+    "name": "Chaos",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "chaos.png"
+  },
+  {
+    "id": 216,
+    "name": "Dio & Parasite",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "dio-parasite.png"
+  },
+  {
+    "id": 217,
+    "name": "Rufus & Lass",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "rufus-lass.png"
+  },
+  {
+    "id": 218,
+    "name": "Ronan e Harpe",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "ronan-e-harpe.png"
+  },
+  {
+    "id": 219,
+    "name": "Hero",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "hero.png"
+  },
+  {
+    "id": 220,
+    "name": "Nutcracker Zero",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "nutcracker-zero.png"
+  },
+  {
+    "id": 221,
+    "name": "Dio & Duell",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "dio-duell.png"
+  },
+  {
+    "id": 222,
+    "name": "Happy New Year",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "happy-new-year.png"
+  },
+  {
+    "id": 517,
+    "name": "Renak",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "renak.png"
+  },
+  {
+    "id": 573,
+    "name": "Tyrant Belile",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "tyrant-belile.png"
+  },
+  {
+    "id": 599,
+    "name": "Voidal Enforcer",
+    "point": 67,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "voidal-enforcer.png"
+  },
+  {
+    "id": 606,
+    "name": "Unstable Creation",
+    "point": 68,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "unstable-creation.png"
+  },
+  {
+    "id": 607,
+    "name": "Ashtaroth the Creator",
+    "point": 70,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "ashtaroth-the-creator.png"
+  },
+  {
+    "id": 618,
+    "name": "Swelling Swampland Port",
+    "point": 70,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "swelling-swampland-port.png"
+  },
+  {
+    "id": 619,
+    "name": "Temple of Time",
+    "point": 70,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "temple-of-time.png"
+  },
+  {
+    "id": 626,
+    "name": "Void",
+    "point": 70,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "void.png"
+  },
+  {
+    "id": 586,
+    "name": "Corrupted Saint Gaian",
+    "point": 71,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "corrupted-saint-gaian.png"
+  },
+  {
+    "id": 600,
+    "name": "Voidal Gazer",
+    "point": 71,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "voidal-gazer.png"
+  },
+  {
+    "id": 592,
+    "name": "Voidal Devourer 2",
+    "point": 73,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "voidal-devourer-2.png"
+  },
+  {
+    "id": 640,
+    "name": "Voidal Apostle (Nightmare) 1",
+    "point": 73,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "voidal-apostle-nightmare-1.png"
+  },
+  {
+    "id": 642,
+    "name": "Abyssal Dominator",
+    "point": 74,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "abyssal-dominator.png"
+  },
+  {
+    "id": 641,
+    "name": "Voidal Apostle (Nightmare) 2",
+    "point": 75,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "voidal-apostle-nightmare-2.png"
+  },
+  {
+    "id": 593,
+    "name": "Voidal Devourer 3",
+    "point": 75,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "voidal-devourer-3.png"
+  },
+  {
+    "id": 608,
+    "name": "Chaotic Witch",
+    "point": 77,
+    "group": 7,
+    "rate": 0.038461538461538464,
+    "region": "",
+    "groupCount": 26,
+    "image": "chaotic-witch.png"
+  }
+]

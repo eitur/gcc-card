@@ -1,0 +1,702 @@
+[
+  {
+    "id": 177,
+    "name": "Sentry Keeper No.1 Card",
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "sentry-keeper-no-1.png"
+  },
+  {
+    "id": 194,
+    "name": "Arawn Card",
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "arawn.png"
+  },
+  {
+    "id": 369,
+    "name": "Berkas",
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "berkas.png"
+  },
+  {
+    "id": 485,
+    "name": "Harrier Giant Frillzard",
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-giant-frillzard.png"
+  },
+  {
+    "id": 508,
+    "name": "Harrier Dwarl Royal Guard",
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-dwarl-royal-guard.png"
+  },
+  {
+    "id": 520,
+    "name": "Harrier Brutus",
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-brutus.png"
+  },
+  {
+    "id": 541,
+    "name": "Harrierlang",
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrierlang.png"
+  },
+  {
+    "id": 567,
+    "name": "Goblin Defense Wall",
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "goblin-defense-wall.png"
+  },
+  {
+    "id": 597,
+    "name": "Voidal Sentry",
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "voidal-sentry.png"
+  },
+  {
+    "id": 598,
+    "name": "Voidal Crusher",
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "voidal-crusher.png"
+  },
+  {
+    "id": 172,
+    "name": "Sand Ruler Card",
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "sand-ruler.png"
+  },
+  {
+    "id": 200,
+    "name": "Veron",
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "veron.png"
+  },
+  {
+    "id": 381,
+    "name": "Khufu",
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "khufu.png"
+  },
+  {
+    "id": 484,
+    "name": "Harrier Great Gatekeeper",
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-great-gatekeeper.png"
+  },
+  {
+    "id": 510,
+    "name": "Harrier Cyclops Commander",
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-cyclops-commander.png"
+  },
+  {
+    "id": 516,
+    "name": "Harrier Dark Hierophant",
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-dark-hierophant.png"
+  },
+  {
+    "id": 528,
+    "name": "Harrier Aron",
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-aron.png"
+  },
+  {
+    "id": 538,
+    "name": "Harrier Hera",
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-hera.png"
+  },
+  {
+    "id": 386,
+    "name": "Carle",
+    "point": 58,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "carle.png"
+  },
+  {
+    "id": 396,
+    "name": "The Immortal Barakhufu",
+    "point": 58,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "the-immortal-barakhufu.png"
+  },
+  {
+    "id": 534,
+    "name": "Harrier Apostle of Revelation",
+    "point": 58,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-apostle-of-revelation.png"
+  },
+  {
+    "id": 578,
+    "name": "Shadow Apostle",
+    "point": 58,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "shadow-apostle.png"
+  },
+  {
+    "id": 581,
+    "name": "Sentry Drone",
+    "point": 58,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "sentry-drone.png"
+  },
+  {
+    "id": 560,
+    "name": "Iron Squard Commander",
+    "point": 59,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "iron-squard-commander.png"
+  },
+  {
+    "id": 562,
+    "name": "Iron Cannon",
+    "point": 59,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "iron-cannon.png"
+  },
+  {
+    "id": 565,
+    "name": "Goblin Strongman",
+    "point": 59,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "goblin-strongman.png"
+  },
+  {
+    "id": 568,
+    "name": "Dreadful Chieftain Urkah",
+    "point": 59,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "dreadful-chieftain-urkah.png"
+  },
+  {
+    "id": 201,
+    "name": "Drawl",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "drawl.png"
+  },
+  {
+    "id": 204,
+    "name": "Arme & Lass",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "arme-lass.png"
+  },
+  {
+    "id": 205,
+    "name": "Seighart & Mari",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "seighart-mari.png"
+  },
+  {
+    "id": 206,
+    "name": "Lire & Lass",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "lire-lass.png"
+  },
+  {
+    "id": 207,
+    "name": "Elesis & Jin",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "elesis-jin.png"
+  },
+  {
+    "id": 208,
+    "name": "Elesis & Lass",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "elesis-lass.png"
+  },
+  {
+    "id": 209,
+    "name": "Lire & Dio",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "lire-dio.png"
+  },
+  {
+    "id": 210,
+    "name": "Elesis & Lass",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "elesis-lass.png"
+  },
+  {
+    "id": 211,
+    "name": "HouseKeddping",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "housekeddping.png"
+  },
+  {
+    "id": 212,
+    "name": "Ley & Jeeves",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "ley-jeeves.png"
+  },
+  {
+    "id": 360,
+    "name": "Dahlia",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "dahlia.png"
+  },
+  {
+    "id": 365,
+    "name": "Quoronnos",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "quoronnos.png"
+  },
+  {
+    "id": 481,
+    "name": "Zekars",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "zekars.png"
+  },
+  {
+    "id": 496,
+    "name": "Harrier Dark Paramon",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-dark-paramon.png"
+  },
+  {
+    "id": 529,
+    "name": "Rofnus",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "rofnus.png"
+  },
+  {
+    "id": 537,
+    "name": "Harrier Slow Stone",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-slow-stone.png"
+  },
+  {
+    "id": 596,
+    "name": "Jack-O-Lanten",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "jack-o-lanten.png"
+  },
+  {
+    "id": 623,
+    "name": "Tower of Disappearance",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "tower-of-disappearance.png"
+  },
+  {
+    "id": 624,
+    "name": "Land of Judgment",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "land-of-judgment.png"
+  },
+  {
+    "id": 625,
+    "name": "Berkas'Lair",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "berkas-lair.png"
+  },
+  {
+    "id": 639,
+    "name": "BloodShadow Card",
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "bloodshadow.png"
+  },
+  {
+    "id": 401,
+    "name": "Ashtaroth",
+    "point": 61,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "ashtaroth.png"
+  },
+  {
+    "id": 402,
+    "name": "Ashtaroth (2nd Phase)",
+    "point": 61,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "ashtaroth-2nd-phase.png"
+  },
+  {
+    "id": 403,
+    "name": "Ashtaroth (Final Phase)",
+    "point": 61,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "ashtaroth-final-phase.png"
+  },
+  {
+    "id": 478,
+    "name": "Aldeon",
+    "point": 61,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "aldeon.png"
+  },
+  {
+    "id": 499,
+    "name": "Harrier Commander 'The Dark Sword'",
+    "point": 61,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-commander-the-dark-sword.png"
+  },
+  {
+    "id": 504,
+    "name": "Scurvian",
+    "point": 61,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "scurvian.png"
+  },
+  {
+    "id": 591,
+    "name": "Voidal Devourer 1",
+    "point": 61,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "voidal-devourer-1.png"
+  },
+  {
+    "id": 489,
+    "name": "Crookan",
+    "point": 62,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "crookan.png"
+  },
+  {
+    "id": 501,
+    "name": "Harrier Cavalry General",
+    "point": 62,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "harrier-cavalry-general.png"
+  },
+  {
+    "id": 506,
+    "name": "Raid Storm",
+    "point": 62,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "raid-storm.png"
+  },
+  {
+    "id": 526,
+    "name": "Sand Storm",
+    "point": 62,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "sand-storm.png"
+  },
+  {
+    "id": 563,
+    "name": "Invincible Iron Knight Dullahan",
+    "point": 62,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "invincible-iron-knight-dullahan.png"
+  },
+  {
+    "id": 571,
+    "name": "Wicked Stavrogin",
+    "point": 62,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "wicked-stavrogin.png"
+  },
+  {
+    "id": 491,
+    "name": "Scorpra",
+    "point": 63,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "scorpra.png"
+  },
+  {
+    "id": 493,
+    "name": "Zalos",
+    "point": 63,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "zalos.png"
+  },
+  {
+    "id": 584,
+    "name": "Indolent Dr.Molly",
+    "point": 63,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "indolent-dr-molly.png"
+  },
+  {
+    "id": 572,
+    "name": "Greedy Stavrogin",
+    "point": 64,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "greedy-stavrogin.png"
+  },
+  {
+    "id": 590,
+    "name": "Voidal Invader",
+    "point": 64,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "voidal-invader.png"
+  },
+  {
+    "id": 497,
+    "name": "Skeram",
+    "point": 65,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "skeram.png"
+  },
+  {
+    "id": 511,
+    "name": "Crevma",
+    "point": 65,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "crevma.png"
+  },
+  {
+    "id": 536,
+    "name": "Searetone",
+    "point": 66,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "searetone.png"
+  },
+  {
+    "id": 585,
+    "name": "Temple Guardian",
+    "point": 66,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "temple-guardian.png"
+  }
+]

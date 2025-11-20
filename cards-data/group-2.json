@@ -1,0 +1,812 @@
+[
+  {
+    "id": 7,
+    "name": "Orc Warrior Boss Card",
+    "point": 9,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "orc-warrior-boss.png"
+  },
+  {
+    "id": 19,
+    "name": "Giant Drillmon Card",
+    "point": 9,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "giant-drillmon.png"
+  },
+  {
+    "id": 21,
+    "name": "Elizabeth Card",
+    "point": 9,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "elizabeth.png"
+  },
+  {
+    "id": 187,
+    "name": "Ghost Samurai Card",
+    "point": 9,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "ghost-samurai.png"
+  },
+  {
+    "id": 9,
+    "name": "Harpy Queen Card",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "harpy-queen.png"
+  },
+  {
+    "id": 40,
+    "name": "Shock Revenant Card",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "shock-revenant.png"
+  },
+  {
+    "id": 42,
+    "name": "Coral Fiend Card",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "coral-fiend.png"
+  },
+  {
+    "id": 45,
+    "name": "Swamp Spirit Card",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "swamp-spirit.png"
+  },
+  {
+    "id": 47,
+    "name": "Violet Pixie Card",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "violet-pixie.png"
+  },
+  {
+    "id": 52,
+    "name": "Venomous Gnat Card",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "venomous-gnat.png"
+  },
+  {
+    "id": 55,
+    "name": "Queen Creeper Card",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "queen-creeper.png"
+  },
+  {
+    "id": 57,
+    "name": "Bloodwind Orc Warrior Card",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "bloodwind-orc-warrior.png"
+  },
+  {
+    "id": 188,
+    "name": "Shadow Emissary Card",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "shadow-emissary.png"
+  },
+  {
+    "id": 303,
+    "name": "Sidt",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "sidt.png"
+  },
+  {
+    "id": 304,
+    "name": "Pepe",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "pepe.png"
+  },
+  {
+    "id": 305,
+    "name": "Gon",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "gon.png"
+  },
+  {
+    "id": 306,
+    "name": "Slime",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "slime.png"
+  },
+  {
+    "id": 307,
+    "name": "Ninko",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "ninko.png"
+  },
+  {
+    "id": 308,
+    "name": "Myurin",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "myurin.png"
+  },
+  {
+    "id": 309,
+    "name": "Luna",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "luna.png"
+  },
+  {
+    "id": 310,
+    "name": "Arkham",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "arkham.png"
+  },
+  {
+    "id": 311,
+    "name": "Cuddles",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "cuddles.png"
+  },
+  {
+    "id": 312,
+    "name": "Fluffy & Buffy",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "fluffy-buffy.png"
+  },
+  {
+    "id": 313,
+    "name": "Sarimanok",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "sarimanok.png"
+  },
+  {
+    "id": 314,
+    "name": "Cupid",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "cupid.png"
+  },
+  {
+    "id": 315,
+    "name": "Casanova",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "casanova.png"
+  },
+  {
+    "id": 316,
+    "name": "Kungji",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "kungji.png"
+  },
+  {
+    "id": 317,
+    "name": "Blue Fairy",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "blue-fairy.png"
+  },
+  {
+    "id": 318,
+    "name": "Bastet",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "bastet.png"
+  },
+  {
+    "id": 319,
+    "name": "Chaos Pepe",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "chaos-pepe.png"
+  },
+  {
+    "id": 320,
+    "name": "Goldy",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "goldy.png"
+  },
+  {
+    "id": 321,
+    "name": "Saku",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "saku.png"
+  },
+  {
+    "id": 322,
+    "name": "Dokaebi",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "dokaebi.png"
+  },
+  {
+    "id": 323,
+    "name": "Rocco",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "rocco.png"
+  },
+  {
+    "id": 324,
+    "name": "Aero Kitty",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "aero-kitty.png"
+  },
+  {
+    "id": 325,
+    "name": "Ming Ming",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "ming-ming.png"
+  },
+  {
+    "id": 326,
+    "name": "Ice Pixie",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "ice-pixie.png"
+  },
+  {
+    "id": 327,
+    "name": "Ninkoro",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "ninkoro.png"
+  },
+  {
+    "id": 328,
+    "name": "Koo'ka",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "koo-ka.png"
+  },
+  {
+    "id": 329,
+    "name": "Mittens",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "mittens.png"
+  },
+  {
+    "id": 330,
+    "name": "Tian Long",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "tian-long.png"
+  },
+  {
+    "id": 331,
+    "name": "Sidtri",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "sidtri.png"
+  },
+  {
+    "id": 332,
+    "name": "Gorgon",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "gorgon.png"
+  },
+  {
+    "id": 333,
+    "name": "Peng Peng",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "peng-peng.png"
+  },
+  {
+    "id": 334,
+    "name": "Feste",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "feste.png"
+  },
+  {
+    "id": 335,
+    "name": "Lucretia",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "lucretia.png"
+  },
+  {
+    "id": 336,
+    "name": "Helper Bot",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "helper-bot.png"
+  },
+  {
+    "id": 337,
+    "name": "Emily",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "emily.png"
+  },
+  {
+    "id": 338,
+    "name": "Elena",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "elena.png"
+  },
+  {
+    "id": 339,
+    "name": "Thommo",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "thommo.png"
+  },
+  {
+    "id": 340,
+    "name": "Monkeybeard",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "monkeybeard.png"
+  },
+  {
+    "id": 341,
+    "name": "Hanana",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "hanana.png"
+  },
+  {
+    "id": 342,
+    "name": "Moon Child",
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "moon-child.png"
+  },
+  {
+    "id": 17,
+    "name": "Troll Card",
+    "point": 11,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "troll.png"
+  },
+  {
+    "id": 33,
+    "name": "Monstrous Ent Card",
+    "point": 11,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "monstrous-ent.png"
+  },
+  {
+    "id": 50,
+    "name": "Tiny Creeper Card",
+    "point": 11,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "tiny-creeper.png"
+  },
+  {
+    "id": 56,
+    "name": "Bloodwind Orc Card",
+    "point": 12,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "bloodwind-orc.png"
+  },
+  {
+    "id": 61,
+    "name": "Black Knights Spearman Card",
+    "point": 12,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "black-knights-spearman.png"
+  },
+  {
+    "id": 63,
+    "name": "Dark Acolyte Card",
+    "point": 12,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "dark-acolyte.png"
+  },
+  {
+    "id": 83,
+    "name": "Armor Lobster Card",
+    "point": 12,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "armor-lobster.png"
+  },
+  {
+    "id": 14,
+    "name": "Red Gorgos Card",
+    "point": 13,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "red-gorgos.png"
+  },
+  {
+    "id": 34,
+    "name": "Guardian Ent Card",
+    "point": 13,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "guardian-ent.png"
+  },
+  {
+    "id": 46,
+    "name": "Violet Fairy Card",
+    "point": 13,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "violet-fairy.png"
+  },
+  {
+    "id": 91,
+    "name": "Mini Fire Golem Card",
+    "point": 13,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "mini-fire-golem.png"
+  },
+  {
+    "id": 101,
+    "name": "Skeleton Archer Card",
+    "point": 13,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "skeleton-archer.png"
+  },
+  {
+    "id": 24,
+    "name": "Lich Card",
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "lich.png"
+  },
+  {
+    "id": 28,
+    "name": "Elite Anmon Scout Card",
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "elite-anmon-scout.png"
+  },
+  {
+    "id": 41,
+    "name": "Emerald Claw Shrimp Card",
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "emerald-claw-shrimp.png"
+  },
+  {
+    "id": 43,
+    "name": "Krakos Card",
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "krakos.png"
+  },
+  {
+    "id": 84,
+    "name": "Hungry Ghost Card",
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "hungry-ghost.png"
+  },
+  {
+    "id": 85,
+    "name": "Mini ice Golem Card",
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "mini-ice-golem.png"
+  },
+  {
+    "id": 87,
+    "name": "Dark Anmon Scout Card",
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "dark-anmon-scout.png"
+  },
+  {
+    "id": 97,
+    "name": "Dark Mage Card",
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "dark-mage.png"
+  },
+  {
+    "id": 27,
+    "name": "Paradom Card",
+    "point": 15,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "paradom.png"
+  },
+  {
+    "id": 30,
+    "name": "Gaicoz Card",
+    "point": 15,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "gaicoz.png"
+  },
+  {
+    "id": 48,
+    "name": "Mystic Golem Card",
+    "point": 15,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "mystic-golem.png"
+  },
+  {
+    "id": 49,
+    "name": "King Guang Card",
+    "point": 15,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "king-guang.png"
+  },
+  {
+    "id": 53,
+    "name": "Onyx Wendy Card",
+    "point": 15,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "onyx-wendy.png"
+  },
+  {
+    "id": 59,
+    "name": "Tartarus Card",
+    "point": 15,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "tartarus.png"
+  },
+  {
+    "id": 60,
+    "name": "King Fang Card",
+    "point": 15,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "king-fang.png"
+  },
+  {
+    "id": 409,
+    "name": "Mutated Rat",
+    "point": 15,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "mutated-rat.png"
+  }
+]
