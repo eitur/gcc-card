@@ -1,7 +1,7 @@
 [
   {
     "id": 114,
-    "name": "Orc Lord Card",
+    "nameKey": "orc_lord_card",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -11,7 +11,7 @@
   },
   {
     "id": 122,
-    "name": "Lenasien Card",
+    "nameKey": "lenasien_card",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -21,7 +21,7 @@
   },
   {
     "id": 131,
-    "name": "Corrupt Ranger Card",
+    "nameKey": "corrupt_ranger_card",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -31,7 +31,7 @@
   },
   {
     "id": 151,
-    "name": "DK MARK-II Card",
+    "nameKey": "dk_mark_ii_card",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -41,7 +41,7 @@
   },
   {
     "id": 283,
-    "name": "Kumi",
+    "nameKey": "kumi",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -51,7 +51,7 @@
   },
   {
     "id": 284,
-    "name": "Lilith",
+    "nameKey": "lilith",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -61,7 +61,7 @@
   },
   {
     "id": 285,
-    "name": "Squire Gaicoz",
+    "nameKey": "squire_gaicoz",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -71,7 +71,7 @@
   },
   {
     "id": 286,
-    "name": "DK-Mark 3",
+    "nameKey": "dk_mark_3",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -81,7 +81,7 @@
   },
   {
     "id": 287,
-    "name": "Sellion",
+    "nameKey": "sellion",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -91,7 +91,7 @@
   },
   {
     "id": 288,
-    "name": "Ringmaster",
+    "nameKey": "ringmaster",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -101,7 +101,7 @@
   },
   {
     "id": 289,
-    "name": "Elesis",
+    "nameKey": "elesis",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -111,7 +111,7 @@
   },
   {
     "id": 290,
-    "name": "Knight Master Pet",
+    "nameKey": "knight_master_pet",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -121,7 +121,7 @@
   },
   {
     "id": 291,
-    "name": "Madeleine",
+    "nameKey": "madeleine",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -131,7 +131,7 @@
   },
   {
     "id": 292,
-    "name": "Tammy",
+    "nameKey": "tammy",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -141,7 +141,7 @@
   },
   {
     "id": 293,
-    "name": "Sherlook Hound",
+    "nameKey": "sherlook_hound",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -151,7 +151,7 @@
   },
   {
     "id": 294,
-    "name": "Havoc",
+    "nameKey": "havoc",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -161,7 +161,7 @@
   },
   {
     "id": 295,
-    "name": "Kaze'doggeh",
+    "nameKey": "kaze_doggeh",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -171,7 +171,7 @@
   },
   {
     "id": 296,
-    "name": "Thanny Boy",
+    "nameKey": "thanny_boy",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -181,7 +181,7 @@
   },
   {
     "id": 297,
-    "name": "Nerissa",
+    "nameKey": "nerissa",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -191,7 +191,7 @@
   },
   {
     "id": 298,
-    "name": "Claudia",
+    "nameKey": "claudia",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -201,7 +201,7 @@
   },
   {
     "id": 299,
-    "name": "Chester",
+    "nameKey": "chester",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -211,7 +211,7 @@
   },
   {
     "id": 300,
-    "name": "Mary Jane",
+    "nameKey": "mary_jane",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -221,7 +221,7 @@
   },
   {
     "id": 301,
-    "name": "Duelly",
+    "nameKey": "duelly",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -231,7 +231,7 @@
   },
   {
     "id": 302,
-    "name": "Clara",
+    "nameKey": "clara",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -241,7 +241,7 @@
   },
   {
     "id": 406,
-    "name": "Lancer Guard",
+    "nameKey": "lancer_guard",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -251,7 +251,7 @@
   },
   {
     "id": 410,
-    "name": "Prisoners",
+    "nameKey": "prisoners",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -261,7 +261,7 @@
   },
   {
     "id": 411,
-    "name": "Escaped Prisoner",
+    "nameKey": "escaped_prisoner",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -271,7 +271,7 @@
   },
   {
     "id": 418,
-    "name": "Sorcerer",
+    "nameKey": "sorcerer",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -281,7 +281,7 @@
   },
   {
     "id": 419,
-    "name": "Sergeant Musketeer",
+    "nameKey": "sergeant_musketeer",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -291,7 +291,7 @@
   },
   {
     "id": 420,
-    "name": "Colonel Musketeer",
+    "nameKey": "colonel_musketeer",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -301,7 +301,7 @@
   },
   {
     "id": 423,
-    "name": "Cleaner Maid",
+    "nameKey": "cleaner_maid",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -311,7 +311,7 @@
   },
   {
     "id": 424,
-    "name": "Sorcerer",
+    "nameKey": "sorcerer",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -321,7 +321,7 @@
   },
   {
     "id": 425,
-    "name": "Arch Sorcerer",
+    "nameKey": "arch_sorcerer",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -331,7 +331,7 @@
   },
   {
     "id": 426,
-    "name": "Kitchen Maid",
+    "nameKey": "kitchen_maid",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -341,7 +341,7 @@
   },
   {
     "id": 427,
-    "name": "Colonel Lancer",
+    "nameKey": "colonel_lancer",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -351,7 +351,7 @@
   },
   {
     "id": 428,
-    "name": "Head Cleaner Maid",
+    "nameKey": "head_cleaner_maid",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -361,7 +361,7 @@
   },
   {
     "id": 432,
-    "name": "Butler",
+    "nameKey": "butler",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -371,7 +371,7 @@
   },
   {
     "id": 433,
-    "name": "Giant Arachnia",
+    "nameKey": "giant_arachnia",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -381,7 +381,7 @@
   },
   {
     "id": 435,
-    "name": "Giant Blood Arachnia",
+    "nameKey": "giant_blood_arachnia",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -391,7 +391,7 @@
   },
   {
     "id": 436,
-    "name": "Gigantic Poisonous Arachnia",
+    "nameKey": "gigantic_poisonous_arachnia",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -401,7 +401,7 @@
   },
   {
     "id": 440,
-    "name": "Gigantic Poisonous Arachnia",
+    "nameKey": "gigantic_poisonous_arachnia",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -411,7 +411,7 @@
   },
   {
     "id": 441,
-    "name": "Sergeant Musketeer",
+    "nameKey": "sergeant_musketeer",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -421,7 +421,7 @@
   },
   {
     "id": 443,
-    "name": "Arch Sorcerer",
+    "nameKey": "arch_sorcerer",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -431,7 +431,7 @@
   },
   {
     "id": 610,
-    "name": "Gaikoz's Castle",
+    "nameKey": "gaikoz_s_castle",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -441,7 +441,7 @@
   },
   {
     "id": 611,
-    "name": "Victor's Fortress",
+    "nameKey": "victor_s_fortress",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -451,7 +451,7 @@
   },
   {
     "id": 612,
-    "name": "Kaze'aze's Castle",
+    "nameKey": "kaze_aze_s_castle",
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -461,7 +461,7 @@
   },
   {
     "id": 129,
-    "name": "Samsara Card",
+    "nameKey": "samsara_card",
     "point": 31,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -471,7 +471,7 @@
   },
   {
     "id": 163,
-    "name": "Fire Hammer Smith Card",
+    "nameKey": "fire_hammer_smith_card",
     "point": 31,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -481,7 +481,7 @@
   },
   {
     "id": 79,
-    "name": "Magic Kungji Card",
+    "nameKey": "magic_kungji_card",
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -491,7 +491,7 @@
   },
   {
     "id": 438,
-    "name": "Gigantic Blood Arachnia",
+    "nameKey": "gigantic_blood_arachnia",
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -501,7 +501,7 @@
   },
   {
     "id": 442,
-    "name": "Gigantic Blood Arachnia",
+    "nameKey": "gigantic_blood_arachnia",
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -511,7 +511,7 @@
   },
   {
     "id": 445,
-    "name": "Colonel Musketeer",
+    "nameKey": "colonel_musketeer",
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -521,7 +521,7 @@
   },
   {
     "id": 446,
-    "name": "Gigantic Arachnia",
+    "nameKey": "gigantic_arachnia",
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -531,7 +531,7 @@
   },
   {
     "id": 456,
-    "name": "Lacerta Berserker",
+    "nameKey": "lacerta_berserker",
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -541,7 +541,7 @@
   },
   {
     "id": 458,
-    "name": "Lacerta Sorcerer",
+    "nameKey": "lacerta_sorcerer",
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -551,7 +551,7 @@
   },
   {
     "id": 156,
-    "name": "Gargoyle Card",
+    "nameKey": "gargoyle_card",
     "point": 33,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -561,7 +561,7 @@
   },
   {
     "id": 157,
-    "name": "Sataniel's Warrior Card",
+    "nameKey": "sataniel_s_warrior_card",
     "point": 33,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -571,7 +571,7 @@
   },
   {
     "id": 382,
-    "name": "Hooded Jackal",
+    "nameKey": "hooded_jackal",
     "point": 33,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -581,7 +581,7 @@
   },
   {
     "id": 67,
-    "name": "Stone Clan Fighter Card",
+    "nameKey": "stone_clan_fighter_card",
     "point": 34,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -591,7 +591,7 @@
   },
   {
     "id": 68,
-    "name": "Stone Clan Worker Card",
+    "nameKey": "stone_clan_worker_card",
     "point": 34,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -601,7 +601,7 @@
   },
   {
     "id": 69,
-    "name": "Grim Prior Card",
+    "nameKey": "grim_prior_card",
     "point": 34,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -611,7 +611,7 @@
   },
   {
     "id": 120,
-    "name": "Moss Monster Card",
+    "nameKey": "moss_monster_card",
     "point": 35,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -621,7 +621,7 @@
   },
   {
     "id": 138,
-    "name": "Starkiln Card",
+    "nameKey": "starkiln_card",
     "point": 35,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -631,7 +631,7 @@
   },
   {
     "id": 153,
-    "name": "Dark Storm Card",
+    "nameKey": "dark_storm_card",
     "point": 35,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -641,7 +641,7 @@
   },
   {
     "id": 154,
-    "name": "Furious Storm Card",
+    "nameKey": "furious_storm_card",
     "point": 35,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -651,7 +651,7 @@
   },
   {
     "id": 161,
-    "name": "Iblis Card",
+    "nameKey": "iblis_card",
     "point": 35,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -661,7 +661,7 @@
   },
   {
     "id": 378,
-    "name": "Sword Bandit",
+    "nameKey": "sword_bandit",
     "point": 35,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -671,7 +671,7 @@
   },
   {
     "id": 152,
-    "name": "Wooden Card",
+    "nameKey": "wooden_card",
     "point": 36,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -681,7 +681,7 @@
   },
   {
     "id": 405,
-    "name": "Fencer Guard",
+    "nameKey": "fencer_guard",
     "point": 36,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -691,7 +691,7 @@
   },
   {
     "id": 467,
-    "name": "Void Sorcerer",
+    "nameKey": "void_sorcerer",
     "point": 36,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -701,7 +701,7 @@
   },
   {
     "id": 476,
-    "name": "Harrier Larva",
+    "nameKey": "harrier_larva",
     "point": 36,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -711,7 +711,7 @@
   },
   {
     "id": 133,
-    "name": "Mynos Card",
+    "nameKey": "mynos_card",
     "point": 37,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -721,7 +721,7 @@
   },
   {
     "id": 147,
-    "name": "Ancient Giant Card",
+    "nameKey": "ancient_giant_card",
     "point": 37,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -731,7 +731,7 @@
   },
   {
     "id": 164,
-    "name": "Fire Hammer Berserker Card",
+    "nameKey": "fire_hammer_berserker_card",
     "point": 37,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -741,7 +741,7 @@
   },
   {
     "id": 80,
-    "name": "Big Kungji Card",
+    "nameKey": "big_kungji_card",
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -751,7 +751,7 @@
   },
   {
     "id": 379,
-    "name": "Axe Bandit",
+    "nameKey": "axe_bandit",
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -761,7 +761,7 @@
   },
   {
     "id": 407,
-    "name": "Sergeant Lancer",
+    "nameKey": "sergeant_lancer",
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -771,7 +771,7 @@
   },
   {
     "id": 414,
-    "name": "Giant Poisonous Arachnia",
+    "nameKey": "giant_poisonous_arachnia",
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -781,7 +781,7 @@
   },
   {
     "id": 421,
-    "name": "Colonel Fencer",
+    "nameKey": "colonel_fencer",
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -791,7 +791,7 @@
   },
   {
     "id": 429,
-    "name": "Head Kitchen Maid",
+    "nameKey": "head_kitchen_maid",
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -801,7 +801,7 @@
   },
   {
     "id": 437,
-    "name": "Head Manager",
+    "nameKey": "head_manager",
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -811,7 +811,7 @@
   },
   {
     "id": 466,
-    "name": "Void Shaman",
+    "nameKey": "void_shaman",
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -821,7 +821,7 @@
   },
   {
     "id": 76,
-    "name": "Scorpis Card",
+    "nameKey": "scorpis_card",
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -831,7 +831,7 @@
   },
   {
     "id": 123,
-    "name": "Octus Card",
+    "nameKey": "octus_card",
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -841,7 +841,7 @@
   },
   {
     "id": 143,
-    "name": "Yamini Card",
+    "nameKey": "yamini_card",
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -851,7 +851,7 @@
   },
   {
     "id": 148,
-    "name": "Lord Perseo Card",
+    "nameKey": "lord_perseo_card",
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -861,7 +861,7 @@
   },
   {
     "id": 165,
-    "name": "Spiderbot Guard Card",
+    "nameKey": "spiderbot_guard_card",
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -871,7 +871,7 @@
   },
   {
     "id": 384,
-    "name": "Hooded Crow",
+    "nameKey": "hooded_crow",
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -881,7 +881,7 @@
   },
   {
     "id": 392,
-    "name": "Seth's Amazone",
+    "nameKey": "seth_s_amazone",
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -891,7 +891,7 @@
   },
   {
     "id": 393,
-    "name": "Seth's Mummy",
+    "nameKey": "seth_s_mummy",
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -901,7 +901,7 @@
   },
   {
     "id": 73,
-    "name": "Underpass Dinergate Card",
+    "nameKey": "underpass_dinergate_card",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -911,7 +911,7 @@
   },
   {
     "id": 75,
-    "name": "Underpass Hugate Card",
+    "nameKey": "underpass_hugate_card",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -921,7 +921,7 @@
   },
   {
     "id": 162,
-    "name": "Black Wood Assassin Card",
+    "nameKey": "black_wood_assassin_card",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -931,7 +931,7 @@
   },
   {
     "id": 174,
-    "name": "Iron Dwarl Overseer Card",
+    "nameKey": "iron_dwarl_overseer_card",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -941,7 +941,7 @@
   },
   {
     "id": 189,
-    "name": "Tech Guard Card",
+    "nameKey": "tech_guard_card",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -951,7 +951,7 @@
   },
   {
     "id": 191,
-    "name": "Thunder Hammer Guard Card",
+    "nameKey": "thunder_hammer_guard_card",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -961,7 +961,7 @@
   },
   {
     "id": 223,
-    "name": "Prime Knight's Rage",
+    "nameKey": "prime_knight_s_rage",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -971,7 +971,7 @@
   },
   {
     "id": 224,
-    "name": "Rune Caster",
+    "nameKey": "rune_caster",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -981,7 +981,7 @@
   },
   {
     "id": 225,
-    "name": "Harbinger",
+    "nameKey": "harbinger",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -991,7 +991,7 @@
   },
   {
     "id": 226,
-    "name": "Fighter",
+    "nameKey": "fighter",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1001,7 +1001,7 @@
   },
   {
     "id": 227,
-    "name": "Polaris",
+    "nameKey": "polaris",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1011,7 +1011,7 @@
   },
   {
     "id": 228,
-    "name": "Starlet",
+    "nameKey": "starlet",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1021,7 +1021,7 @@
   },
   {
     "id": 229,
-    "name": "Fighter",
+    "nameKey": "fighter",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1031,7 +1031,7 @@
   },
   {
     "id": 230,
-    "name": "Prime Knight",
+    "nameKey": "prime_knight",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1041,7 +1041,7 @@
   },
   {
     "id": 231,
-    "name": "Magician",
+    "nameKey": "magician",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1051,7 +1051,7 @@
   },
   {
     "id": 232,
-    "name": "Archer",
+    "nameKey": "archer",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1061,7 +1061,7 @@
   },
   {
     "id": 233,
-    "name": "Alchemist",
+    "nameKey": "alchemist",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1071,7 +1071,7 @@
   },
   {
     "id": 234,
-    "name": "Rama",
+    "nameKey": "rama",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 235,
-    "name": "Thief",
+    "nameKey": "thief",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1091,7 +1091,7 @@
   },
   {
     "id": 236,
-    "name": "Wanderer",
+    "nameKey": "wanderer",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 237,
-    "name": "Striker",
+    "nameKey": "striker",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1111,7 +1111,7 @@
   },
   {
     "id": 238,
-    "name": "Nova",
+    "nameKey": "nova",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1121,7 +1121,7 @@
   },
   {
     "id": 239,
-    "name": "Seeker",
+    "nameKey": "seeker",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1131,7 +1131,7 @@
   },
   {
     "id": 240,
-    "name": "Arch Ranger",
+    "nameKey": "arch_ranger",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1141,7 +1141,7 @@
   },
   {
     "id": 241,
-    "name": "Stygian",
+    "nameKey": "stygian",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1151,7 +1151,7 @@
   },
   {
     "id": 242,
-    "name": "Dark Assassin",
+    "nameKey": "dark_assassin",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1161,7 +1161,7 @@
   },
   {
     "id": 243,
-    "name": "Soul Stalker",
+    "nameKey": "soul_stalker",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1171,7 +1171,7 @@
   },
   {
     "id": 244,
-    "name": "Arch Ranger",
+    "nameKey": "arch_ranger",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1181,7 +1181,7 @@
   },
   {
     "id": 473,
-    "name": "Ambiter King Slime (Self Named)",
+    "nameKey": "ambiter_king_slime_self_named",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1191,7 +1191,7 @@
   },
   {
     "id": 474,
-    "name": "Defender King Slime (Self Named)",
+    "nameKey": "defender_king_slime_self_named",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1201,7 +1201,7 @@
   },
   {
     "id": 475,
-    "name": "Justicar King Slime (Self Named)",
+    "nameKey": "justicar_king_slime_self_named",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1211,7 +1211,7 @@
   },
   {
     "id": 613,
-    "name": "Temple of Destruction",
+    "nameKey": "temple_of_destruction",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1221,7 +1221,7 @@
   },
   {
     "id": 614,
-    "name": "Kungji Village",
+    "nameKey": "kungji_village",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1231,7 +1231,7 @@
   },
   {
     "id": 615,
-    "name": "Kounat's Collapse",
+    "nameKey": "kounat_s_collapse",
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1241,7 +1241,7 @@
   },
   {
     "id": 168,
-    "name": "Sand Dinergate Card",
+    "nameKey": "sand_dinergate_card",
     "point": 41,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1251,7 +1251,7 @@
   },
   {
     "id": 169,
-    "name": "Scorping Card",
+    "nameKey": "scorping_card",
     "point": 41,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1261,7 +1261,7 @@
   },
   {
     "id": 370,
-    "name": "One-Eyed Goblin",
+    "nameKey": "one_eyed_goblin",
     "point": 41,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1271,7 +1271,7 @@
   },
   {
     "id": 371,
-    "name": "Bedeviled Box",
+    "nameKey": "bedeviled_box",
     "point": 41,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1281,7 +1281,7 @@
   },
   {
     "id": 377,
-    "name": "Mine Bandit",
+    "nameKey": "mine_bandit",
     "point": 41,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1291,7 +1291,7 @@
   },
   {
     "id": 380,
-    "name": "Crossbow Bandit",
+    "nameKey": "crossbow_bandit",
     "point": 41,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1301,7 +1301,7 @@
   },
   {
     "id": 70,
-    "name": "Brutus Card",
+    "nameKey": "brutus_card",
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1311,7 +1311,7 @@
   },
   {
     "id": 374,
-    "name": "Haetae",
+    "nameKey": "haetae",
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 375,
-    "name": "Lotus the Innkeper",
+    "nameKey": "lotus_the_innkeper",
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1331,7 +1331,7 @@
   },
   {
     "id": 383,
-    "name": "Hooded Hound",
+    "nameKey": "hooded_hound",
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1341,7 +1341,7 @@
   },
   {
     "id": 394,
-    "name": "Seth's Warlock",
+    "nameKey": "seth_s_warlock",
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1351,7 +1351,7 @@
   },
   {
     "id": 399,
-    "name": "Highlander's Illusion",
+    "nameKey": "highlander_s_illusion",
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1361,7 +1361,7 @@
   },
   {
     "id": 470,
-    "name": "Arbiter King Slime",
+    "nameKey": "arbiter_king_slime",
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1371,7 +1371,7 @@
   },
   {
     "id": 471,
-    "name": "Defender King Slime",
+    "nameKey": "defender_king_slime",
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1381,7 +1381,7 @@
   },
   {
     "id": 472,
-    "name": "Justicar King Slime",
+    "nameKey": "justicar_king_slime",
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1391,7 +1391,7 @@
   },
   {
     "id": 505,
-    "name": "Harrier Goblin Fighter",
+    "nameKey": "harrier_goblin_fighter",
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1401,7 +1401,7 @@
   },
   {
     "id": 161,
-    "name": "Thanatos Card",
+    "nameKey": "thanatos_card",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1411,7 +1411,7 @@
   },
   {
     "id": 190,
-    "name": "Thunder Hammer Rifleman Card",
+    "nameKey": "thunder_hammer_rifleman_card",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1421,7 +1421,7 @@
   },
   {
     "id": 366,
-    "name": "Hatchling",
+    "nameKey": "hatchling",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1431,7 +1431,7 @@
   },
   {
     "id": 367,
-    "name": "Lizard Man",
+    "nameKey": "lizard_man",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1441,7 +1441,7 @@
   },
   {
     "id": 368,
-    "name": "Dragon Knight",
+    "nameKey": "dragon_knight",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1451,7 +1451,7 @@
   },
   {
     "id": 373,
-    "name": "Maniacal Merchant",
+    "nameKey": "maniacal_merchant",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1461,7 +1461,7 @@
   },
   {
     "id": 408,
-    "name": "GateKeeper Vask",
+    "nameKey": "gatekeeper_vask",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1471,7 +1471,7 @@
   },
   {
     "id": 415,
-    "name": "Death Row Tarik",
+    "nameKey": "death_row_tarik",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1481,7 +1481,7 @@
   },
   {
     "id": 422,
-    "name": "Guard Captain Schumacher",
+    "nameKey": "guard_captain_schumacher",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1491,7 +1491,7 @@
   },
   {
     "id": 430,
-    "name": "Dreyfus de Villepin",
+    "nameKey": "dreyfus_de_villepin",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1501,7 +1501,7 @@
   },
   {
     "id": 439,
-    "name": "Count Von Bucchantes",
+    "nameKey": "count_von_bucchantes",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1511,7 +1511,7 @@
   },
   {
     "id": 447,
-    "name": "Countess Arachne",
+    "nameKey": "countess_arachne",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1521,7 +1521,7 @@
   },
   {
     "id": 452,
-    "name": "Mountain Giant Troka",
+    "nameKey": "mountain_giant_troka",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1531,7 +1531,7 @@
   },
   {
     "id": 459,
-    "name": "War Chief RakLak",
+    "nameKey": "war_chief_raklak",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1541,7 +1541,7 @@
   },
   {
     "id": 460,
-    "name": "Arch-Mage RokLok",
+    "nameKey": "arch_mage_roklok",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1551,7 +1551,7 @@
   },
   {
     "id": 468,
-    "name": "Morid the Despair",
+    "nameKey": "morid_the_despair",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1561,7 +1561,7 @@
   },
   {
     "id": 469,
-    "name": "Garud The Hatred",
+    "nameKey": "garud_the_hatred",
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,

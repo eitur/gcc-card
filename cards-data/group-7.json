@@ -1,7 +1,7 @@
 [
   {
     "id": 213,
-    "name": "Amy & Jin",
+    "nameKey": "amy_jin",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -11,7 +11,7 @@
   },
   {
     "id": 214,
-    "name": "School Uniform",
+    "nameKey": "school_uniform",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -21,7 +21,7 @@
   },
   {
     "id": 215,
-    "name": "Chaos",
+    "nameKey": "chaos",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -31,7 +31,7 @@
   },
   {
     "id": 216,
-    "name": "Dio & Parasite",
+    "nameKey": "dio_parasite",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -41,7 +41,7 @@
   },
   {
     "id": 217,
-    "name": "Rufus & Lass",
+    "nameKey": "rufus_lass",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -51,7 +51,7 @@
   },
   {
     "id": 218,
-    "name": "Ronan e Harpe",
+    "nameKey": "ronan_e_harpe",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -61,7 +61,7 @@
   },
   {
     "id": 219,
-    "name": "Hero",
+    "nameKey": "hero",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -71,7 +71,7 @@
   },
   {
     "id": 220,
-    "name": "Nutcracker Zero",
+    "nameKey": "nutcracker_zero",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -81,7 +81,7 @@
   },
   {
     "id": 221,
-    "name": "Dio & Duell",
+    "nameKey": "dio_duell",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -91,7 +91,7 @@
   },
   {
     "id": 222,
-    "name": "Happy New Year",
+    "nameKey": "happy_new_year",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -101,7 +101,7 @@
   },
   {
     "id": 517,
-    "name": "Renak",
+    "nameKey": "renak",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -111,7 +111,7 @@
   },
   {
     "id": 573,
-    "name": "Tyrant Belile",
+    "nameKey": "tyrant_belile",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -121,7 +121,7 @@
   },
   {
     "id": 599,
-    "name": "Voidal Enforcer",
+    "nameKey": "voidal_enforcer",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -131,7 +131,7 @@
   },
   {
     "id": 606,
-    "name": "Unstable Creation",
+    "nameKey": "unstable_creation",
     "point": 68,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -141,7 +141,7 @@
   },
   {
     "id": 607,
-    "name": "Ashtaroth the Creator",
+    "nameKey": "ashtaroth_the_creator",
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -151,7 +151,7 @@
   },
   {
     "id": 618,
-    "name": "Swelling Swampland Port",
+    "nameKey": "swelling_swampland_port",
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -161,7 +161,7 @@
   },
   {
     "id": 619,
-    "name": "Temple of Time",
+    "nameKey": "temple_of_time",
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -171,7 +171,7 @@
   },
   {
     "id": 626,
-    "name": "Void",
+    "nameKey": "void",
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -181,7 +181,7 @@
   },
   {
     "id": 586,
-    "name": "Corrupted Saint Gaian",
+    "nameKey": "corrupted_saint_gaian",
     "point": 71,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -191,7 +191,7 @@
   },
   {
     "id": 600,
-    "name": "Voidal Gazer",
+    "nameKey": "voidal_gazer",
     "point": 71,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -201,7 +201,7 @@
   },
   {
     "id": 592,
-    "name": "Voidal Devourer 2",
+    "nameKey": "voidal_devourer_2",
     "point": 73,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -211,7 +211,7 @@
   },
   {
     "id": 640,
-    "name": "Voidal Apostle (Nightmare) 1",
+    "nameKey": "voidal_apostle_nightmare_1",
     "point": 73,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -221,7 +221,7 @@
   },
   {
     "id": 642,
-    "name": "Abyssal Dominator",
+    "nameKey": "abyssal_dominator",
     "point": 74,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -231,7 +231,7 @@
   },
   {
     "id": 641,
-    "name": "Voidal Apostle (Nightmare) 2",
+    "nameKey": "voidal_apostle_nightmare_2",
     "point": 75,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -241,7 +241,7 @@
   },
   {
     "id": 593,
-    "name": "Voidal Devourer 3",
+    "nameKey": "voidal_devourer_3",
     "point": 75,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -251,7 +251,7 @@
   },
   {
     "id": 608,
-    "name": "Chaotic Witch",
+    "nameKey": "chaotic_witch",
     "point": 77,
     "group": 7,
     "rate": 0.038461538461538464,

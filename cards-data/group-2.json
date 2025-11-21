@@ -1,7 +1,7 @@
 [
   {
     "id": 7,
-    "name": "Orc Warrior Boss Card",
+    "nameKey": "orc_warrior_boss_card",
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -11,7 +11,7 @@
   },
   {
     "id": 19,
-    "name": "Giant Drillmon Card",
+    "nameKey": "giant_drillmon_card",
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -21,7 +21,7 @@
   },
   {
     "id": 21,
-    "name": "Elizabeth Card",
+    "nameKey": "elizabeth_card",
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -31,7 +31,7 @@
   },
   {
     "id": 187,
-    "name": "Ghost Samurai Card",
+    "nameKey": "ghost_samurai_card",
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -41,7 +41,7 @@
   },
   {
     "id": 9,
-    "name": "Harpy Queen Card",
+    "nameKey": "harpy_queen_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -51,7 +51,7 @@
   },
   {
     "id": 40,
-    "name": "Shock Revenant Card",
+    "nameKey": "shock_revenant_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -61,7 +61,7 @@
   },
   {
     "id": 42,
-    "name": "Coral Fiend Card",
+    "nameKey": "coral_fiend_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -71,7 +71,7 @@
   },
   {
     "id": 45,
-    "name": "Swamp Spirit Card",
+    "nameKey": "swamp_spirit_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -81,7 +81,7 @@
   },
   {
     "id": 47,
-    "name": "Violet Pixie Card",
+    "nameKey": "violet_pixie_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -91,7 +91,7 @@
   },
   {
     "id": 52,
-    "name": "Venomous Gnat Card",
+    "nameKey": "venomous_gnat_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -101,7 +101,7 @@
   },
   {
     "id": 55,
-    "name": "Queen Creeper Card",
+    "nameKey": "queen_creeper_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -111,7 +111,7 @@
   },
   {
     "id": 57,
-    "name": "Bloodwind Orc Warrior Card",
+    "nameKey": "bloodwind_orc_warrior_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -121,7 +121,7 @@
   },
   {
     "id": 188,
-    "name": "Shadow Emissary Card",
+    "nameKey": "shadow_emissary_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -131,7 +131,7 @@
   },
   {
     "id": 303,
-    "name": "Sidt",
+    "nameKey": "sidt",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -141,7 +141,7 @@
   },
   {
     "id": 304,
-    "name": "Pepe",
+    "nameKey": "pepe",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -151,7 +151,7 @@
   },
   {
     "id": 305,
-    "name": "Gon",
+    "nameKey": "gon",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -161,7 +161,7 @@
   },
   {
     "id": 306,
-    "name": "Slime",
+    "nameKey": "slime",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -171,7 +171,7 @@
   },
   {
     "id": 307,
-    "name": "Ninko",
+    "nameKey": "ninko",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -181,7 +181,7 @@
   },
   {
     "id": 308,
-    "name": "Myurin",
+    "nameKey": "myurin",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -191,7 +191,7 @@
   },
   {
     "id": 309,
-    "name": "Luna",
+    "nameKey": "luna",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -201,7 +201,7 @@
   },
   {
     "id": 310,
-    "name": "Arkham",
+    "nameKey": "arkham",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -211,7 +211,7 @@
   },
   {
     "id": 311,
-    "name": "Cuddles",
+    "nameKey": "cuddles",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -221,7 +221,7 @@
   },
   {
     "id": 312,
-    "name": "Fluffy & Buffy",
+    "nameKey": "fluffy_buffy",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -231,7 +231,7 @@
   },
   {
     "id": 313,
-    "name": "Sarimanok",
+    "nameKey": "sarimanok",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -241,7 +241,7 @@
   },
   {
     "id": 314,
-    "name": "Cupid",
+    "nameKey": "cupid",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -251,7 +251,7 @@
   },
   {
     "id": 315,
-    "name": "Casanova",
+    "nameKey": "casanova",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -261,7 +261,7 @@
   },
   {
     "id": 316,
-    "name": "Kungji",
+    "nameKey": "kungji",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -271,7 +271,7 @@
   },
   {
     "id": 317,
-    "name": "Blue Fairy",
+    "nameKey": "blue_fairy",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -281,7 +281,7 @@
   },
   {
     "id": 318,
-    "name": "Bastet",
+    "nameKey": "bastet",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -291,7 +291,7 @@
   },
   {
     "id": 319,
-    "name": "Chaos Pepe",
+    "nameKey": "chaos_pepe",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -301,7 +301,7 @@
   },
   {
     "id": 320,
-    "name": "Goldy",
+    "nameKey": "goldy",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -311,7 +311,7 @@
   },
   {
     "id": 321,
-    "name": "Saku",
+    "nameKey": "saku",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -321,7 +321,7 @@
   },
   {
     "id": 322,
-    "name": "Dokaebi",
+    "nameKey": "dokaebi",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -331,7 +331,7 @@
   },
   {
     "id": 323,
-    "name": "Rocco",
+    "nameKey": "rocco",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -341,7 +341,7 @@
   },
   {
     "id": 324,
-    "name": "Aero Kitty",
+    "nameKey": "aero_kitty",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -351,7 +351,7 @@
   },
   {
     "id": 325,
-    "name": "Ming Ming",
+    "nameKey": "ming_ming",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -361,7 +361,7 @@
   },
   {
     "id": 326,
-    "name": "Ice Pixie",
+    "nameKey": "ice_pixie",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -371,7 +371,7 @@
   },
   {
     "id": 327,
-    "name": "Ninkoro",
+    "nameKey": "ninkoro",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -381,7 +381,7 @@
   },
   {
     "id": 328,
-    "name": "Koo'ka",
+    "nameKey": "koo_ka",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -391,7 +391,7 @@
   },
   {
     "id": 329,
-    "name": "Mittens",
+    "nameKey": "mittens",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -401,7 +401,7 @@
   },
   {
     "id": 330,
-    "name": "Tian Long",
+    "nameKey": "tian_long",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -411,7 +411,7 @@
   },
   {
     "id": 331,
-    "name": "Sidtri",
+    "nameKey": "sidtri",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -421,7 +421,7 @@
   },
   {
     "id": 332,
-    "name": "Gorgon",
+    "nameKey": "gorgon",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -431,7 +431,7 @@
   },
   {
     "id": 333,
-    "name": "Peng Peng",
+    "nameKey": "peng_peng",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -441,7 +441,7 @@
   },
   {
     "id": 334,
-    "name": "Feste",
+    "nameKey": "feste",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -451,7 +451,7 @@
   },
   {
     "id": 335,
-    "name": "Lucretia",
+    "nameKey": "lucretia",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -461,7 +461,7 @@
   },
   {
     "id": 336,
-    "name": "Helper Bot",
+    "nameKey": "helper_bot",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -471,7 +471,7 @@
   },
   {
     "id": 337,
-    "name": "Emily",
+    "nameKey": "emily",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -481,7 +481,7 @@
   },
   {
     "id": 338,
-    "name": "Elena",
+    "nameKey": "elena",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -491,7 +491,7 @@
   },
   {
     "id": 339,
-    "name": "Thommo",
+    "nameKey": "thommo",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -501,7 +501,7 @@
   },
   {
     "id": 340,
-    "name": "Monkeybeard",
+    "nameKey": "monkeybeard",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -511,7 +511,7 @@
   },
   {
     "id": 341,
-    "name": "Hanana",
+    "nameKey": "hanana",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -521,7 +521,7 @@
   },
   {
     "id": 342,
-    "name": "Moon Child",
+    "nameKey": "moon_child",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -531,7 +531,7 @@
   },
   {
     "id": 17,
-    "name": "Troll Card",
+    "nameKey": "troll_card",
     "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -541,7 +541,7 @@
   },
   {
     "id": 33,
-    "name": "Monstrous Ent Card",
+    "nameKey": "monstrous_ent_card",
     "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -551,7 +551,7 @@
   },
   {
     "id": 50,
-    "name": "Tiny Creeper Card",
+    "nameKey": "tiny_creeper_card",
     "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -561,7 +561,7 @@
   },
   {
     "id": 56,
-    "name": "Bloodwind Orc Card",
+    "nameKey": "bloodwind_orc_card",
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -571,7 +571,7 @@
   },
   {
     "id": 61,
-    "name": "Black Knights Spearman Card",
+    "nameKey": "black_knights_spearman_card",
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -581,7 +581,7 @@
   },
   {
     "id": 63,
-    "name": "Dark Acolyte Card",
+    "nameKey": "dark_acolyte_card",
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -591,7 +591,7 @@
   },
   {
     "id": 83,
-    "name": "Armor Lobster Card",
+    "nameKey": "armor_lobster_card",
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -601,7 +601,7 @@
   },
   {
     "id": 14,
-    "name": "Red Gorgos Card",
+    "nameKey": "red_gorgos_card",
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -611,7 +611,7 @@
   },
   {
     "id": 34,
-    "name": "Guardian Ent Card",
+    "nameKey": "guardian_ent_card",
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -621,7 +621,7 @@
   },
   {
     "id": 46,
-    "name": "Violet Fairy Card",
+    "nameKey": "violet_fairy_card",
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -631,7 +631,7 @@
   },
   {
     "id": 91,
-    "name": "Mini Fire Golem Card",
+    "nameKey": "mini_fire_golem_card",
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -641,7 +641,7 @@
   },
   {
     "id": 101,
-    "name": "Skeleton Archer Card",
+    "nameKey": "skeleton_archer_card",
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -651,7 +651,7 @@
   },
   {
     "id": 24,
-    "name": "Lich Card",
+    "nameKey": "lich_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -661,7 +661,7 @@
   },
   {
     "id": 28,
-    "name": "Elite Anmon Scout Card",
+    "nameKey": "elite_anmon_scout_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -671,7 +671,7 @@
   },
   {
     "id": 41,
-    "name": "Emerald Claw Shrimp Card",
+    "nameKey": "emerald_claw_shrimp_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -681,7 +681,7 @@
   },
   {
     "id": 43,
-    "name": "Krakos Card",
+    "nameKey": "krakos_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -691,7 +691,7 @@
   },
   {
     "id": 84,
-    "name": "Hungry Ghost Card",
+    "nameKey": "hungry_ghost_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -701,7 +701,7 @@
   },
   {
     "id": 85,
-    "name": "Mini ice Golem Card",
+    "nameKey": "mini_ice_golem_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -711,7 +711,7 @@
   },
   {
     "id": 87,
-    "name": "Dark Anmon Scout Card",
+    "nameKey": "dark_anmon_scout_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -721,7 +721,7 @@
   },
   {
     "id": 97,
-    "name": "Dark Mage Card",
+    "nameKey": "dark_mage_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -731,7 +731,7 @@
   },
   {
     "id": 27,
-    "name": "Paradom Card",
+    "nameKey": "paradom_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -741,7 +741,7 @@
   },
   {
     "id": 30,
-    "name": "Gaicoz Card",
+    "nameKey": "gaicoz_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -751,7 +751,7 @@
   },
   {
     "id": 48,
-    "name": "Mystic Golem Card",
+    "nameKey": "mystic_golem_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -761,7 +761,7 @@
   },
   {
     "id": 49,
-    "name": "King Guang Card",
+    "nameKey": "king_guang_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -771,7 +771,7 @@
   },
   {
     "id": 53,
-    "name": "Onyx Wendy Card",
+    "nameKey": "onyx_wendy_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -781,7 +781,7 @@
   },
   {
     "id": 59,
-    "name": "Tartarus Card",
+    "nameKey": "tartarus_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -791,7 +791,7 @@
   },
   {
     "id": 60,
-    "name": "King Fang Card",
+    "nameKey": "king_fang_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -801,7 +801,7 @@
   },
   {
     "id": 409,
-    "name": "Mutated Rat",
+    "nameKey": "mutated_rat",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,

@@ -1,7 +1,7 @@
 [
   {
     "id": 177,
-    "name": "Sentry Keeper No.1 Card",
+    "nameKey": "sentry_keeper_no_1_card",
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -11,7 +11,7 @@
   },
   {
     "id": 194,
-    "name": "Arawn Card",
+    "nameKey": "arawn_card",
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -21,7 +21,7 @@
   },
   {
     "id": 369,
-    "name": "Berkas",
+    "nameKey": "berkas",
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -31,7 +31,7 @@
   },
   {
     "id": 485,
-    "name": "Harrier Giant Frillzard",
+    "nameKey": "harrier_giant_frillzard",
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -41,7 +41,7 @@
   },
   {
     "id": 508,
-    "name": "Harrier Dwarl Royal Guard",
+    "nameKey": "harrier_dwarl_royal_guard",
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -51,7 +51,7 @@
   },
   {
     "id": 520,
-    "name": "Harrier Brutus",
+    "nameKey": "harrier_brutus",
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -61,7 +61,7 @@
   },
   {
     "id": 541,
-    "name": "Harrierlang",
+    "nameKey": "harrierlang",
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -71,7 +71,7 @@
   },
   {
     "id": 567,
-    "name": "Goblin Defense Wall",
+    "nameKey": "goblin_defense_wall",
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -81,7 +81,7 @@
   },
   {
     "id": 597,
-    "name": "Voidal Sentry",
+    "nameKey": "voidal_sentry",
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -91,7 +91,7 @@
   },
   {
     "id": 598,
-    "name": "Voidal Crusher",
+    "nameKey": "voidal_crusher",
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -101,7 +101,7 @@
   },
   {
     "id": 172,
-    "name": "Sand Ruler Card",
+    "nameKey": "sand_ruler_card",
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -111,7 +111,7 @@
   },
   {
     "id": 200,
-    "name": "Veron",
+    "nameKey": "veron",
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -121,7 +121,7 @@
   },
   {
     "id": 381,
-    "name": "Khufu",
+    "nameKey": "khufu",
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -131,7 +131,7 @@
   },
   {
     "id": 484,
-    "name": "Harrier Great Gatekeeper",
+    "nameKey": "harrier_great_gatekeeper",
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -141,7 +141,7 @@
   },
   {
     "id": 510,
-    "name": "Harrier Cyclops Commander",
+    "nameKey": "harrier_cyclops_commander",
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -151,7 +151,7 @@
   },
   {
     "id": 516,
-    "name": "Harrier Dark Hierophant",
+    "nameKey": "harrier_dark_hierophant",
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -161,7 +161,7 @@
   },
   {
     "id": 528,
-    "name": "Harrier Aron",
+    "nameKey": "harrier_aron",
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -171,7 +171,7 @@
   },
   {
     "id": 538,
-    "name": "Harrier Hera",
+    "nameKey": "harrier_hera",
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -181,7 +181,7 @@
   },
   {
     "id": 386,
-    "name": "Carle",
+    "nameKey": "carle",
     "point": 58,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -191,7 +191,7 @@
   },
   {
     "id": 396,
-    "name": "The Immortal Barakhufu",
+    "nameKey": "the_immortal_barakhufu",
     "point": 58,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -201,7 +201,7 @@
   },
   {
     "id": 534,
-    "name": "Harrier Apostle of Revelation",
+    "nameKey": "harrier_apostle_of_revelation",
     "point": 58,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -211,7 +211,7 @@
   },
   {
     "id": 578,
-    "name": "Shadow Apostle",
+    "nameKey": "shadow_apostle",
     "point": 58,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -221,7 +221,7 @@
   },
   {
     "id": 581,
-    "name": "Sentry Drone",
+    "nameKey": "sentry_drone",
     "point": 58,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -231,7 +231,7 @@
   },
   {
     "id": 560,
-    "name": "Iron Squard Commander",
+    "nameKey": "iron_squard_commander",
     "point": 59,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -241,7 +241,7 @@
   },
   {
     "id": 562,
-    "name": "Iron Cannon",
+    "nameKey": "iron_cannon",
     "point": 59,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -251,7 +251,7 @@
   },
   {
     "id": 565,
-    "name": "Goblin Strongman",
+    "nameKey": "goblin_strongman",
     "point": 59,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -261,7 +261,7 @@
   },
   {
     "id": 568,
-    "name": "Dreadful Chieftain Urkah",
+    "nameKey": "dreadful_chieftain_urkah",
     "point": 59,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -271,7 +271,7 @@
   },
   {
     "id": 201,
-    "name": "Drawl",
+    "nameKey": "drawl",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -281,7 +281,7 @@
   },
   {
     "id": 204,
-    "name": "Arme & Lass",
+    "nameKey": "arme_lass",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -291,7 +291,7 @@
   },
   {
     "id": 205,
-    "name": "Seighart & Mari",
+    "nameKey": "seighart_mari",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -301,7 +301,7 @@
   },
   {
     "id": 206,
-    "name": "Lire & Lass",
+    "nameKey": "lire_lass",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -311,7 +311,7 @@
   },
   {
     "id": 207,
-    "name": "Elesis & Jin",
+    "nameKey": "elesis_jin",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -321,7 +321,7 @@
   },
   {
     "id": 208,
-    "name": "Elesis & Lass",
+    "nameKey": "elesis_lass",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -331,7 +331,7 @@
   },
   {
     "id": 209,
-    "name": "Lire & Dio",
+    "nameKey": "lire_dio",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -341,7 +341,7 @@
   },
   {
     "id": 210,
-    "name": "Elesis & Lass",
+    "nameKey": "elesis_lass",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -351,7 +351,7 @@
   },
   {
     "id": 211,
-    "name": "HouseKeddping",
+    "nameKey": "housekeddping",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -361,7 +361,7 @@
   },
   {
     "id": 212,
-    "name": "Ley & Jeeves",
+    "nameKey": "ley_jeeves",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -371,7 +371,7 @@
   },
   {
     "id": 360,
-    "name": "Dahlia",
+    "nameKey": "dahlia",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -381,7 +381,7 @@
   },
   {
     "id": 365,
-    "name": "Quoronnos",
+    "nameKey": "quoronnos",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -391,7 +391,7 @@
   },
   {
     "id": 481,
-    "name": "Zekars",
+    "nameKey": "zekars",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -401,7 +401,7 @@
   },
   {
     "id": 496,
-    "name": "Harrier Dark Paramon",
+    "nameKey": "harrier_dark_paramon",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -411,7 +411,7 @@
   },
   {
     "id": 529,
-    "name": "Rofnus",
+    "nameKey": "rofnus",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -421,7 +421,7 @@
   },
   {
     "id": 537,
-    "name": "Harrier Slow Stone",
+    "nameKey": "harrier_slow_stone",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -431,7 +431,7 @@
   },
   {
     "id": 596,
-    "name": "Jack-O-Lanten",
+    "nameKey": "jack_o_lanten",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -441,7 +441,7 @@
   },
   {
     "id": 623,
-    "name": "Tower of Disappearance",
+    "nameKey": "tower_of_disappearance",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -451,7 +451,7 @@
   },
   {
     "id": 624,
-    "name": "Land of Judgment",
+    "nameKey": "land_of_judgment",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -461,7 +461,7 @@
   },
   {
     "id": 625,
-    "name": "Berkas'Lair",
+    "nameKey": "berkas_lair",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -471,7 +471,7 @@
   },
   {
     "id": 639,
-    "name": "BloodShadow Card",
+    "nameKey": "bloodshadow_card",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -481,7 +481,7 @@
   },
   {
     "id": 401,
-    "name": "Ashtaroth",
+    "nameKey": "ashtaroth",
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -491,7 +491,7 @@
   },
   {
     "id": 402,
-    "name": "Ashtaroth (2nd Phase)",
+    "nameKey": "ashtaroth_2nd_phase",
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -501,7 +501,7 @@
   },
   {
     "id": 403,
-    "name": "Ashtaroth (Final Phase)",
+    "nameKey": "ashtaroth_final_phase",
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -511,7 +511,7 @@
   },
   {
     "id": 478,
-    "name": "Aldeon",
+    "nameKey": "aldeon",
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -521,7 +521,7 @@
   },
   {
     "id": 499,
-    "name": "Harrier Commander 'The Dark Sword'",
+    "nameKey": "harrier_commander_the_dark_sword",
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -531,7 +531,7 @@
   },
   {
     "id": 504,
-    "name": "Scurvian",
+    "nameKey": "scurvian",
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -541,7 +541,7 @@
   },
   {
     "id": 591,
-    "name": "Voidal Devourer 1",
+    "nameKey": "voidal_devourer_1",
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -551,7 +551,7 @@
   },
   {
     "id": 489,
-    "name": "Crookan",
+    "nameKey": "crookan",
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -561,7 +561,7 @@
   },
   {
     "id": 501,
-    "name": "Harrier Cavalry General",
+    "nameKey": "harrier_cavalry_general",
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -571,7 +571,7 @@
   },
   {
     "id": 506,
-    "name": "Raid Storm",
+    "nameKey": "raid_storm",
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -581,7 +581,7 @@
   },
   {
     "id": 526,
-    "name": "Sand Storm",
+    "nameKey": "sand_storm",
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -591,7 +591,7 @@
   },
   {
     "id": 563,
-    "name": "Invincible Iron Knight Dullahan",
+    "nameKey": "invincible_iron_knight_dullahan",
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -601,7 +601,7 @@
   },
   {
     "id": 571,
-    "name": "Wicked Stavrogin",
+    "nameKey": "wicked_stavrogin",
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -611,7 +611,7 @@
   },
   {
     "id": 491,
-    "name": "Scorpra",
+    "nameKey": "scorpra",
     "point": 63,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -621,7 +621,7 @@
   },
   {
     "id": 493,
-    "name": "Zalos",
+    "nameKey": "zalos",
     "point": 63,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -631,7 +631,7 @@
   },
   {
     "id": 584,
-    "name": "Indolent Dr.Molly",
+    "nameKey": "indolent_dr_molly",
     "point": 63,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -641,7 +641,7 @@
   },
   {
     "id": 572,
-    "name": "Greedy Stavrogin",
+    "nameKey": "greedy_stavrogin",
     "point": 64,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -651,7 +651,7 @@
   },
   {
     "id": 590,
-    "name": "Voidal Invader",
+    "nameKey": "voidal_invader",
     "point": 64,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -661,7 +661,7 @@
   },
   {
     "id": 497,
-    "name": "Skeram",
+    "nameKey": "skeram",
     "point": 65,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -671,7 +671,7 @@
   },
   {
     "id": 511,
-    "name": "Crevma",
+    "nameKey": "crevma",
     "point": 65,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -681,7 +681,7 @@
   },
   {
     "id": 536,
-    "name": "Searetone",
+    "nameKey": "searetone",
     "point": 66,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -691,7 +691,7 @@
   },
   {
     "id": 585,
-    "name": "Temple Guardian",
+    "nameKey": "temple_guardian",
     "point": 66,
     "group": 6,
     "rate": 0.014285714285714285,

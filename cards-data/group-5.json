@@ -1,7 +1,7 @@
 [
   {
     "id": 167,
-    "name": "Sand Ergate Card",
+    "nameKey": "sand_ergate_card",
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -11,7 +11,7 @@
   },
   {
     "id": 170,
-    "name": "Frillzard Card",
+    "nameKey": "frillzard_card",
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -21,7 +21,7 @@
   },
   {
     "id": 198,
-    "name": "Garou",
+    "nameKey": "garou",
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -31,7 +31,7 @@
   },
   {
     "id": 361,
-    "name": "Guardian Spirit",
+    "nameKey": "guardian_spirit",
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -41,7 +41,7 @@
   },
   {
     "id": 479,
-    "name": "Harrier Dwarf Rifleman",
+    "nameKey": "harrier_dwarf_rifleman",
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -51,7 +51,7 @@
   },
   {
     "id": 569,
-    "name": "Demon Bat",
+    "nameKey": "demon_bat",
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -61,7 +61,7 @@
   },
   {
     "id": 570,
-    "name": "Raging Demon Bat",
+    "nameKey": "raging_demon_bat",
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -71,7 +71,7 @@
   },
   {
     "id": 176,
-    "name": "Power Shovel Card",
+    "nameKey": "power_shovel_card",
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -81,7 +81,7 @@
   },
   {
     "id": 346,
-    "name": "Escaped Prisoner",
+    "nameKey": "escaped_prisoner",
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -91,7 +91,7 @@
   },
   {
     "id": 477,
-    "name": "Harrier Carnivorous Plant",
+    "nameKey": "harrier_carnivorous_plant",
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -101,7 +101,7 @@
   },
   {
     "id": 486,
-    "name": "Harrier Orc Warrior",
+    "nameKey": "harrier_orc_warrior",
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -111,7 +111,7 @@
   },
   {
     "id": 503,
-    "name": "Harrier Frillzard",
+    "nameKey": "harrier_frillzard",
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -121,7 +121,7 @@
   },
   {
     "id": 518,
-    "name": "Harrier Decoy",
+    "nameKey": "harrier_decoy",
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -131,7 +131,7 @@
   },
   {
     "id": 519,
-    "name": "Harrier Goblin",
+    "nameKey": "harrier_goblin",
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -141,7 +141,7 @@
   },
   {
     "id": 552,
-    "name": "Harrier Cyclops Sentry",
+    "nameKey": "harrier_cyclops_sentry",
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -151,7 +151,7 @@
   },
   {
     "id": 171,
-    "name": "Giant Frillzard Card",
+    "nameKey": "giant_frillzard_card",
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -161,7 +161,7 @@
   },
   {
     "id": 175,
-    "name": "Fire Hammer Driller Card",
+    "nameKey": "fire_hammer_driller_card",
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -171,7 +171,7 @@
   },
   {
     "id": 192,
-    "name": "Mecha Taurus Card",
+    "nameKey": "mecha_taurus_card",
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -181,7 +181,7 @@
   },
   {
     "id": 372,
-    "name": "Tiger Trader",
+    "nameKey": "tiger_trader",
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -191,7 +191,7 @@
   },
   {
     "id": 488,
-    "name": "Harrier Hooded Hound",
+    "nameKey": "harrier_hooded_hound",
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -201,7 +201,7 @@
   },
   {
     "id": 522,
-    "name": "Harrier Hooded Jackal",
+    "nameKey": "harrier_hooded_jackal",
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -211,7 +211,7 @@
   },
   {
     "id": 524,
-    "name": "Harrier Scorping",
+    "nameKey": "harrier_scorping",
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -221,7 +221,7 @@
   },
   {
     "id": 525,
-    "name": "Harrier Lich",
+    "nameKey": "harrier_lich",
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -231,7 +231,7 @@
   },
   {
     "id": 532,
-    "name": "Harrier Assassin Champion",
+    "nameKey": "harrier_assassin_champion",
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -241,7 +241,7 @@
   },
   {
     "id": 576,
-    "name": "Templo Apostle",
+    "nameKey": "templo_apostle",
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -251,7 +251,7 @@
   },
   {
     "id": 71,
-    "name": "Sethek Card",
+    "nameKey": "sethek_card",
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -261,7 +261,7 @@
   },
   {
     "id": 197,
-    "name": "Garou Berserker",
+    "nameKey": "garou_berserker",
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -271,7 +271,7 @@
   },
   {
     "id": 356,
-    "name": "Dark Elven Scout",
+    "nameKey": "dark_elven_scout",
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -281,7 +281,7 @@
   },
   {
     "id": 357,
-    "name": "Dark Elven Assassin",
+    "nameKey": "dark_elven_assassin",
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -291,7 +291,7 @@
   },
   {
     "id": 362,
-    "name": "Royal Elven Guard",
+    "nameKey": "royal_elven_guard",
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -301,7 +301,7 @@
   },
   {
     "id": 492,
-    "name": "Harrier Dwarf Engineer",
+    "nameKey": "harrier_dwarf_engineer",
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -311,7 +311,7 @@
   },
   {
     "id": 527,
-    "name": "Harrier Dwarl Overseer",
+    "nameKey": "harrier_dwarl_overseer",
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -321,7 +321,7 @@
   },
   {
     "id": 347,
-    "name": "Casey Bones",
+    "nameKey": "casey_bones",
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -331,7 +331,7 @@
   },
   {
     "id": 376,
-    "name": "Gumiho",
+    "nameKey": "gumiho",
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -341,7 +341,7 @@
   },
   {
     "id": 385,
-    "name": "Hooded Scorpion",
+    "nameKey": "hooded_scorpion",
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -351,7 +351,7 @@
   },
   {
     "id": 480,
-    "name": "Harrier Native Leader",
+    "nameKey": "harrier_native_leader",
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -361,7 +361,7 @@
   },
   {
     "id": 494,
-    "name": "Harrier Royal Elven Guard",
+    "nameKey": "harrier_royal_elven_guard",
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -371,7 +371,7 @@
   },
   {
     "id": 515,
-    "name": "Harrier Gargoyle",
+    "nameKey": "harrier_gargoyle",
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -381,7 +381,7 @@
   },
   {
     "id": 548,
-    "name": "Harrier Snowfield Spearman",
+    "nameKey": "harrier_snowfield_spearman",
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -391,7 +391,7 @@
   },
   {
     "id": 553,
-    "name": "Harrier Elvin Assassin",
+    "nameKey": "harrier_elvin_assassin",
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -401,7 +401,7 @@
   },
   {
     "id": 72,
-    "name": "Underpass Ergate Card",
+    "nameKey": "underpass_ergate_card",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -411,7 +411,7 @@
   },
   {
     "id": 81,
-    "name": "Guardian Kungji Card",
+    "nameKey": "guardian_kungji_card",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -421,7 +421,7 @@
   },
   {
     "id": 155,
-    "name": "Rukkha Card",
+    "nameKey": "rukkha_card",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -431,7 +431,7 @@
   },
   {
     "id": 482,
-    "name": "Harrier Guardian Spirit",
+    "nameKey": "harrier_guardian_spirit",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -441,7 +441,7 @@
   },
   {
     "id": 487,
-    "name": "Harrier Garou Berserker",
+    "nameKey": "harrier_garou_berserker",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -451,7 +451,7 @@
   },
   {
     "id": 495,
-    "name": "Harrier Paraminimy",
+    "nameKey": "harrier_paraminimy",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -461,7 +461,7 @@
   },
   {
     "id": 512,
-    "name": "Harrier Dark Elven Magic Archer",
+    "nameKey": "harrier_dark_elven_magic_archer",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -471,7 +471,7 @@
   },
   {
     "id": 513,
-    "name": "Harrier Dark Elven Horseman",
+    "nameKey": "harrier_dark_elven_horseman",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -481,7 +481,7 @@
   },
   {
     "id": 521,
-    "name": "Harrier Garou Mage",
+    "nameKey": "harrier_garou_mage",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -491,7 +491,7 @@
   },
   {
     "id": 533,
-    "name": "Harrier Beholder",
+    "nameKey": "harrier_beholder",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -501,7 +501,7 @@
   },
   {
     "id": 540,
-    "name": "Harrier Harpy Queen",
+    "nameKey": "harrier_harpy_queen",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -511,7 +511,7 @@
   },
   {
     "id": 555,
-    "name": "Harrier Highlander's Illusion",
+    "nameKey": "harrier_highlander_s_illusion",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -521,7 +521,7 @@
   },
   {
     "id": 556,
-    "name": "Harrier Sand Dinergate",
+    "nameKey": "harrier_sand_dinergate",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -531,7 +531,7 @@
   },
   {
     "id": 557,
-    "name": "Harrier Native Spearman",
+    "nameKey": "harrier_native_spearman",
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -541,7 +541,7 @@
   },
   {
     "id": 77,
-    "name": "Aranya Card",
+    "nameKey": "aranya_card",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -551,7 +551,7 @@
   },
   {
     "id": 78,
-    "name": "Kungji Card",
+    "nameKey": "kungji_card",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -561,7 +561,7 @@
   },
   {
     "id": 199,
-    "name": "Garou Mage",
+    "nameKey": "garou_mage",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -571,7 +571,7 @@
   },
   {
     "id": 245,
-    "name": "Dragon Knight",
+    "nameKey": "dragon_knight",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -581,7 +581,7 @@
   },
   {
     "id": 246,
-    "name": "Rama",
+    "nameKey": "rama",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -591,7 +591,7 @@
   },
   {
     "id": 247,
-    "name": "Geas",
+    "nameKey": "geas",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -601,7 +601,7 @@
   },
   {
     "id": 248,
-    "name": "Drakar",
+    "nameKey": "drakar",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -611,7 +611,7 @@
   },
   {
     "id": 249,
-    "name": "Spell Knight",
+    "nameKey": "spell_knight",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -621,7 +621,7 @@
   },
   {
     "id": 250,
-    "name": "Executioner",
+    "nameKey": "executioner",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -631,7 +631,7 @@
   },
   {
     "id": 251,
-    "name": "Crossbowman",
+    "nameKey": "crossbowman",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -641,7 +641,7 @@
   },
   {
     "id": 252,
-    "name": "Dancer",
+    "nameKey": "dancer",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -651,7 +651,7 @@
   },
   {
     "id": 253,
-    "name": "Assassin",
+    "nameKey": "assassin",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -661,7 +661,7 @@
   },
   {
     "id": 254,
-    "name": "Sword Master",
+    "nameKey": "sword_master",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -671,7 +671,7 @@
   },
   {
     "id": 255,
-    "name": "Arbiter",
+    "nameKey": "arbiter",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -681,7 +681,7 @@
   },
   {
     "id": 256,
-    "name": "Gunslinger",
+    "nameKey": "gunslinger",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -691,7 +691,7 @@
   },
   {
     "id": 257,
-    "name": "Druid",
+    "nameKey": "druid",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -701,7 +701,7 @@
   },
   {
     "id": 258,
-    "name": "Harpe",
+    "nameKey": "harpe",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -711,7 +711,7 @@
   },
   {
     "id": 259,
-    "name": "Duell & Edna",
+    "nameKey": "duell_edna",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -721,7 +721,7 @@
   },
   {
     "id": 260,
-    "name": "Edna",
+    "nameKey": "edna",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -731,7 +731,7 @@
   },
   {
     "id": 261,
-    "name": "Duell & Edna",
+    "nameKey": "duell_edna",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -741,7 +741,7 @@
   },
   {
     "id": 262,
-    "name": "Jeeves & Alfred",
+    "nameKey": "jeeves_alfred",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -751,7 +751,7 @@
   },
   {
     "id": 363,
-    "name": "Elite Elven Mage",
+    "nameKey": "elite_elven_mage",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -761,7 +761,7 @@
   },
   {
     "id": 387,
-    "name": "Vanisher",
+    "nameKey": "vanisher",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -771,7 +771,7 @@
   },
   {
     "id": 388,
-    "name": "Dusk Bringer",
+    "nameKey": "dusk_bringer",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -781,7 +781,7 @@
   },
   {
     "id": 389,
-    "name": "Awakened Card",
+    "nameKey": "awakened_card",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -791,7 +791,7 @@
   },
   {
     "id": 390,
-    "name": "Chaotic",
+    "nameKey": "chaotic",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -801,7 +801,7 @@
   },
   {
     "id": 391,
-    "name": "Chosen",
+    "nameKey": "chosen",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -811,7 +811,7 @@
   },
   {
     "id": 395,
-    "name": "Anubis",
+    "nameKey": "anubis",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -821,7 +821,7 @@
   },
   {
     "id": 483,
-    "name": "Harrier Vile Naga",
+    "nameKey": "harrier_vile_naga",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -831,7 +831,7 @@
   },
   {
     "id": 498,
-    "name": "Harrier Miston",
+    "nameKey": "harrier_miston",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -841,7 +841,7 @@
   },
   {
     "id": 514,
-    "name": "Harrier Violent Drillmon",
+    "nameKey": "harrier_violent_drillmon",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -851,7 +851,7 @@
   },
   {
     "id": 535,
-    "name": "Harrier Assassin Master",
+    "nameKey": "harrier_assassin_master",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -861,7 +861,7 @@
   },
   {
     "id": 542,
-    "name": "Harrier Poison Cactus",
+    "nameKey": "harrier_poison_cactus",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -871,7 +871,7 @@
   },
   {
     "id": 551,
-    "name": "Harrier Dwarf Warrior",
+    "nameKey": "harrier_dwarf_warrior",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -881,7 +881,7 @@
   },
   {
     "id": 554,
-    "name": "Harrier Obsidian Demon",
+    "nameKey": "harrier_obsidian_demon",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -891,7 +891,7 @@
   },
   {
     "id": 559,
-    "name": "Iron Infantry",
+    "nameKey": "iron_infantry",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -901,7 +901,7 @@
   },
   {
     "id": 561,
-    "name": "Iron Archer",
+    "nameKey": "iron_archer",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -911,7 +911,7 @@
   },
   {
     "id": 564,
-    "name": "Goblin Worker",
+    "nameKey": "goblin_worker",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -921,7 +921,7 @@
   },
   {
     "id": 620,
-    "name": "The Crucible",
+    "nameKey": "the_crucible",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -931,7 +931,7 @@
   },
   {
     "id": 621,
-    "name": "Sanctum of Destruction",
+    "nameKey": "sanctum_of_destruction",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -941,7 +941,7 @@
   },
   {
     "id": 622,
-    "name": "Wizard's Labyrinth",
+    "nameKey": "wizard_s_labyrinth",
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -951,7 +951,7 @@
   },
   {
     "id": 82,
-    "name": "Elder Kungji Card",
+    "nameKey": "elder_kungji_card",
     "point": 51,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -961,7 +961,7 @@
   },
   {
     "id": 193,
-    "name": "Void Card",
+    "nameKey": "void_card",
     "point": 51,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -971,7 +971,7 @@
   },
   {
     "id": 502,
-    "name": "Harrier Troll",
+    "nameKey": "harrier_troll",
     "point": 51,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -981,7 +981,7 @@
   },
   {
     "id": 509,
-    "name": "Harrier Iron Guard",
+    "nameKey": "harrier_iron_guard",
     "point": 51,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -991,7 +991,7 @@
   },
   {
     "id": 550,
-    "name": "Harrier Snowfield Tempest",
+    "nameKey": "harrier_snowfield_tempest",
     "point": 51,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1001,7 +1001,7 @@
   },
   {
     "id": 359,
-    "name": "Dark Elven Horseman",
+    "nameKey": "dark_elven_horseman",
     "point": 52,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1011,7 +1011,7 @@
   },
   {
     "id": 531,
-    "name": "Harrier Tech Guard",
+    "nameKey": "harrier_tech_guard",
     "point": 52,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1021,7 +1021,7 @@
   },
   {
     "id": 549,
-    "name": "Harrier Rock Slime",
+    "nameKey": "harrier_rock_slime",
     "point": 52,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1031,7 +1031,7 @@
   },
   {
     "id": 579,
-    "name": "Sentry Robot",
+    "nameKey": "sentry_robot",
     "point": 52,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1041,7 +1041,7 @@
   },
   {
     "id": 166,
-    "name": "Talin Elfbane Card",
+    "nameKey": "talin_elfbane_card",
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1051,7 +1051,7 @@
   },
   {
     "id": 178,
-    "name": "Sentry Keeper No.2 Card",
+    "nameKey": "sentry_keeper_no_2_card",
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1061,7 +1061,7 @@
   },
   {
     "id": 358,
-    "name": "Dark Elven Magic Archer",
+    "nameKey": "dark_elven_magic_archer",
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1071,7 +1071,7 @@
   },
   {
     "id": 364,
-    "name": "Golem",
+    "nameKey": "golem",
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1081,7 +1081,7 @@
   },
   {
     "id": 507,
-    "name": "Harrier Fytros",
+    "nameKey": "harrier_fytros",
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1091,7 +1091,7 @@
   },
   {
     "id": 545,
-    "name": "Harrier Magma Paradom",
+    "nameKey": "harrier_magma_paradom",
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 547,
-    "name": "Harrier Wyrm Spawn",
+    "nameKey": "harrier_wyrm_spawn",
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1111,7 +1111,7 @@
   },
   {
     "id": 566,
-    "name": "Goblin Jester",
+    "nameKey": "goblin_jester",
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1121,7 +1121,7 @@
   },
   {
     "id": 348,
-    "name": "Epic Death Furnace 301",
+    "nameKey": "epic_death_furnace_301",
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1131,7 +1131,7 @@
   },
   {
     "id": 349,
-    "name": "Relic Death Furnace 301",
+    "nameKey": "relic_death_furnace_301",
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1141,7 +1141,7 @@
   },
   {
     "id": 397,
-    "name": "Commander 'The Dark Sword'",
+    "nameKey": "commander_the_dark_sword",
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1151,7 +1151,7 @@
   },
   {
     "id": 398,
-    "name": "Commander 'The Dark Staff'",
+    "nameKey": "commander_the_dark_staff",
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1161,7 +1161,7 @@
   },
   {
     "id": 400,
-    "name": "Graham's Illusion",
+    "nameKey": "graham_s_illusion",
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1171,7 +1171,7 @@
   },
   {
     "id": 500,
-    "name": "Harrier Sataniel's Warrior",
+    "nameKey": "harrier_sataniel_s_warrior",
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1181,7 +1181,7 @@
   },
   {
     "id": 530,
-    "name": "Harrier Elite Elven Mage",
+    "nameKey": "harrier_elite_elven_mage",
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1191,7 +1191,7 @@
   },
   {
     "id": 543,
-    "name": "Harrier Snowfield Shield Bearer",
+    "nameKey": "harrier_snowfield_shield_bearer",
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1201,7 +1201,7 @@
   },
   {
     "id": 343,
-    "name": "Mournful Passenger",
+    "nameKey": "mournful_passenger",
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1211,7 +1211,7 @@
   },
   {
     "id": 344,
-    "name": "Monster Train Attendant",
+    "nameKey": "monster_train_attendant",
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1221,7 +1221,7 @@
   },
   {
     "id": 345,
-    "name": "Monster Train Security Personnel",
+    "nameKey": "monster_train_security_personnel",
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1231,7 +1231,7 @@
   },
   {
     "id": 490,
-    "name": "Harrier Left Basilisk",
+    "nameKey": "harrier_left_basilisk",
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1241,7 +1241,7 @@
   },
   {
     "id": 523,
-    "name": "Harrier Scorpis",
+    "nameKey": "harrier_scorpis",
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1251,7 +1251,7 @@
   },
   {
     "id": 544,
-    "name": "Harrier Sand Spirit",
+    "nameKey": "harrier_sand_spirit",
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1261,7 +1261,7 @@
   },
   {
     "id": 546,
-    "name": "Harrier Onyx Wendy",
+    "nameKey": "harrier_onyx_wendy",
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1271,7 +1271,7 @@
   },
   {
     "id": 577,
-    "name": "Pure White Apostle",
+    "nameKey": "pure_white_apostle",
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1281,7 +1281,7 @@
   },
   {
     "id": 580,
-    "name": "Elite Sentry Robot",
+    "nameKey": "elite_sentry_robot",
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1291,7 +1291,7 @@
   },
   {
     "id": 582,
-    "name": "Golem of Reversing time",
+    "nameKey": "golem_of_reversing_time",
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
@@ -1301,7 +1301,7 @@
   },
   {
     "id": 583,
-    "name": "Golem of Suspending Time",
+    "nameKey": "golem_of_suspending_time",
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,

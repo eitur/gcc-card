@@ -21,17 +21,23 @@ body {
     align-items: center;
   }
   .lang-btn, .help-btn {
+    display: inline-block;
     padding: 6px 12px;
     border: 1px solid #ddd;
     border-radius: 6px;
     cursor: pointer;
     background: white;
+    text-decoration: none;
     font-size: 13px;
-    transition: all 0.2s;
+    transition: all 0.3s;
   }
   .lang-btn:hover, .help-btn:hover {
     background: #f0f0f0;
-    border-color: #999;
+  }
+  .lang-btn.active {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
   }
   
   /* Summary panel */

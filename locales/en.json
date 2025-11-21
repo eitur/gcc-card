@@ -1,0 +1,28 @@
+{
+    "ui": {
+      "title": "Card Fusion Probabilities Calculator",
+      "group": "Group",
+      "points": "Points",
+      "rate": "Rate",
+      "details": "See details",
+      "detailsTitle": "Details",
+      "search": "Search cards...",
+      "reset": "Reset",
+      "selectAll": "Select All",
+      "reverse": "Reverse",
+      "noCards": "No cards selected",
+      "region": "Region",
+      "cardName": "Card",
+      "number": "No.",
+      "all": "All",
+      "howToUse": "How to Use",
+      "probabilitiesByRange": "Probabilities by Point Range",
+      "missingCardsByGroup": "Missing Cards by Group",
+      "pointRange": "Point Range",
+      "missing": "missing"
+    },
+    "help": {
+      "title": "How to Use",
+      "content": "<p>This tool helps you calculate card fusion probabilities and manage your card collection.</p><ul><li><strong>Select cards:</strong> Click the checkboxes to select cards you have</li><li><strong>Sort columns:</strong> Click on Point, Group, or No. headers to sort</li><li><strong>View summary:</strong> The top panel shows recommended point ranges for fusion</li><li><strong>Reverse:</strong> Invert your current selection</li></ul><p>Your selections are automatically saved and will persist on your next visit.</p>"
+    }
+  }
