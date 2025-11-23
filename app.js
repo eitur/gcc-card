@@ -1,5 +1,5 @@
 const isGitHubPages = window.location.hostname.includes('github.io');
-const BASE_PATH = isGitHubPages ? '/gc-card' : '';
+const BASE_PATH = isGitHubPages ? '/gcc-card' : '';
 
 function getLangUrl(lang) {
   if (lang === 'en') {

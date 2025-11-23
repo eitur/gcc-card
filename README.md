@@ -2,7 +2,7 @@
 
 A web-based tool to calculate card fusion probabilities and manage your card collection with multi-language support.
 
- **Live Demo:** [https://eitur.github.io/gc-card/](https://eitur.github.io/gc-card/)
+ **Live Demo:** [https://eitur.github.io/gcc-card/](https://eitur.github.io/gcc-card/)
 
 
 ## Features
