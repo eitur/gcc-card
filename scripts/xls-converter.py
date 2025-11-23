@@ -7,7 +7,7 @@ from io import BytesIO
 
 
 # Google Sheets published URL (published xlsx)
-SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQwgz_xiekC9B5pLjj7e3Af2bRYkjz5GAHZ0E_plOxN122PlZcs7OVqDqihuZkyaDQZFaonaanT7AX9/pub?output=xlsx'
+SHEET_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRddMHNdnFESEpNUoT0f5AWBXL4IswirigL1Qdd8vvgkVcabrjvW4sZ4DwIH4I-Q5e_zw-LmOxlrk-Y/pub?output=xlsx'
 
 # Download spreadsheet
 print("Downloading spreadsheet...")
