@@ -374,6 +374,17 @@ async function sendFeedback(event) {
   submitBtn.disabled = true;
   submitBtn.textContent = i18n.t('ui.sending') || 'Sending...';
   statusDiv.style.display = 'none';
+
+  let locationInfo = 'Unknown';
+  try {
+    const geoResponse = await fetch('https://ipapi.co/json/');
+    if (geoResponse.ok) {
+      const geoData = await geoResponse.json();
+      locationInfo = `${geoData.city || 'Unknown'}, ${geoData.region || ''}, ${geoData.country_name || 'Unknown'} (${geoData.ip || ''})`;
+    }
+  } catch (geoError) {
+    console.log('Could not fetch location:', geoError);
+  }
   
   try {
     const response = await fetch('https://formspree.io/f/xzzwknop', {
@@ -386,6 +397,8 @@ async function sendFeedback(event) {
         message: email ? message : `[Anonymous Submission]\n\n${message}`,
         page: window.location.href,
         language: window.CURRENT_LANG || 'en',
+        location: locationInfo,
+        userAgent: navigator.userAgent,
         timestamp: new Date().toISOString()
       })
     });
