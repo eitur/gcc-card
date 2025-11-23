@@ -13,6 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.querySelector('[href="/"]').href = getLangUrl('en');
   document.querySelector('[href="/kr/"]').href = getLangUrl('kr');
   document.querySelector('[href="/br/"]').href = getLangUrl('br');
+  document.querySelector('[href="/tw/"]').href = getLangUrl('tw');
 });
 
 let cards = [];
