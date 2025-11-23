@@ -21,7 +21,18 @@
       "missingCardsByGroup": "그룹별 부족한 카드",
       "pointRange": "카드 점수 합계",
       "missing": "장 부족",
-      "progress": "완성도"
+      "progress": "완성도",
+
+      "feedbackTitle": "의견이나 질문이 있으신가요?",
+      "feedbackEmail": "이메일 (선택사항):",
+      "feedbackEmailPlaceholder": "your@email.com",
+      "feedbackMessage": "메시지: *",
+      "feedbackMessagePlaceholder": "생각, 문제 보고 또는 개선 제안을 공유해 주세요...",
+      "cancel": "취소",
+      "sendFeedback": "보내기",
+      "sending": "전송 중...",
+      "feedbackSuccess": "감사합니다! 소중한 의견 잘 받았습니다.",
+      "feedbackError": "죄송합니다. 피드백 전송 중 오류가 발생했습니다. 다시 시도해 주세요."
     },
     "help": {
       "title": "사용 방법",

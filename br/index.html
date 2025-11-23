@@ -38,6 +38,9 @@
   <a href="/kr/" class="lang-btn ">KR</a>
   <a href="/br/" class="lang-btn active">BR</a>
   <div class="help-btn" data-i18n="ui.howToUse" onclick="showHelp()">How to use</div>
+  <div class="feedback-btn" onclick="showFeedback()" title="Send Feedback">
+    <img src="../images/theme/mail-dark.png" alt="Feedback" class="feedback-icon">
+  </div>
   <div class="theme-toggle" onclick="toggleTheme()" title="Toggle Dark Mode">
     <img src="../images/theme/dark-mode.png" alt="Theme" class="theme-icon" id="themeIcon">
   </div>
@@ -119,6 +122,28 @@
     <span class="close" onclick="closeModal('detailsModal')">&times;</span>
     <h2 data-i18n="ui.detailsTitle">Selected Cards Details</h2>
     <div id="detailsContent"></div>
+  </div>
+</div>
+
+<div id="feedbackModal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('feedbackModal')">&times;</span>
+    <h2 data-i18n="ui.feedbackTitle">Send Feedback</h2>
+    <form id="feedbackForm" onsubmit="sendFeedback(event)">
+      <div class="form-group">
+        <label for="feedbackEmail" data-i18n="ui.feedbackEmail">Email (optional):</label>
+        <input type="email" id="feedbackEmail" data-i18n="ui.feedbackEmailPlaceholder" placeholder="your@email.com">
+      </div>
+      <div class="form-group">
+        <label for="feedbackMessage" data-i18n="ui.feedbackMessage">Message: *</label>
+        <textarea id="feedbackMessage" rows="6" required data-i18n="ui.feedbackMessagePlaceholder" placeholder="Share your thoughts, report issues, or suggest improvements..."></textarea>
+      </div>
+      <div class="form-actions">
+        <button type="button" onclick="closeModal('feedbackModal')" class="cancel-btn" data-i18n="ui.cancel">Cancel</button>
+        <button type="submit" class="submit-btn" data-i18n="ui.sendFeedback">Send Feedback</button>
+      </div>
+      <div id="feedbackStatus" class="feedback-status"></div>
+    </form>
   </div>
 </div>
 

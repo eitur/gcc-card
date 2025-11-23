@@ -21,7 +21,18 @@
       "missingCardsByGroup": "Cartas Faltando por Grupo",
       "pointRange": "Faixa de Pontos",
       "missing": "faltando",
-      "progress": "Progresso"
+      "progress": "Progresso",
+
+      "feedbackTitle": "Algum comentário?",
+      "feedbackEmail": "Email (opcional):",
+      "feedbackEmailPlaceholder": "seu@email.com",
+      "feedbackMessage": "Mensagem: *",
+      "feedbackMessagePlaceholder": "Compartilhe seus pensamentos, reporte problemas ou sugira melhorias...",
+      "cancel": "Cancelar",
+      "sendFeedback": "Enviar",
+      "sending": "Enviando...",
+      "feedbackSuccess": "Obrigado! Seu feedback foi enviado com sucesso.",
+      "feedbackError": "Desculpe, ocorreu um erro ao enviar seu feedback. Por favor, tente novamente."
     },
     "help": {
       "title": "Como Usar",

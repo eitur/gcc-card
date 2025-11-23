@@ -313,16 +313,19 @@ window.onclick = function(event) {
 // Dark mode toggle functionality
 function toggleTheme() {
   const body = document.body;
+  const feedbackIcon = document.querySelector('.feedback-icon');
   const themeIcon = document.querySelector('.theme-icon');
   
   body.classList.toggle('dark-mode');
   
   // Update icon
   if (body.classList.contains('dark-mode')) {
+    feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-light.png`;
     themeIcon.src = `${window.BASE_PATH}/images/theme/light-mode.png`;
     themeIcon.alt = 'Light Mode';
     localStorage.setItem('theme', 'dark');
   } else {
+    feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-dark.png`;
     themeIcon.src = `${window.BASE_PATH}/images/theme/dark-mode.png`;
     themeIcon.alt = 'Dark Mode';
     localStorage.setItem('theme', 'light');
@@ -332,19 +335,81 @@ function toggleTheme() {
 // Load saved theme on page load
 function loadTheme() {
   const savedTheme = localStorage.getItem('theme');
+  const feedbackIcon = document.querySelector('.feedback-icon');
   const themeIcon = document.querySelector('.theme-icon');
   
   if (savedTheme === 'dark') {
     document.body.classList.add('dark-mode');
     if (themeIcon) {
+      feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-light.png`;
       themeIcon.src = `${window.BASE_PATH}/images/theme/light-mode.png`;
       themeIcon.alt = 'Light Mode';
     }
   } else {
     if (themeIcon) {
+      feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-dark.png`;
       themeIcon.src = `${window.BASE_PATH}/images/theme/dark-mode.png`;
       themeIcon.alt = 'Dark Mode';
     }
+  }
+}
+// Feedback functionality
+function showFeedback() {
+  document.getElementById("feedbackModal").style.display = "block";
+  document.getElementById("feedbackForm").reset();
+  document.getElementById("feedbackStatus").style.display = "none";
+}
+
+async function sendFeedback(event) {
+  event.preventDefault();
+  
+  const email = document.getElementById("feedbackEmail").value;
+  const message = document.getElementById("feedbackMessage").value;
+  const submitBtn = event.target.querySelector('.submit-btn');
+  const statusDiv = document.getElementById("feedbackStatus");
+  
+  // Store original button text
+  const originalBtnText = submitBtn.textContent;
+  
+  // Disable submit button
+  submitBtn.disabled = true;
+  submitBtn.textContent = i18n.t('ui.sending') || 'Sending...';
+  statusDiv.style.display = 'none';
+  
+  try {
+    const response = await fetch('https://formspree.io/f/xzzwknop', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({
+        email: email || 'Anonymous',
+        message: message,
+        page: window.location.href,
+        language: window.CURRENT_LANG || 'en',
+        timestamp: new Date().toISOString()
+      })
+    });
+    
+    if (response.ok) {
+      statusDiv.className = 'feedback-status success';
+      statusDiv.textContent = i18n.t('ui.feedbackSuccess') || 'Thank you! Your feedback has been sent successfully.';
+      statusDiv.style.display = 'block';
+      
+      // Clear form and close modal after 2 seconds
+      setTimeout(() => {
+        closeModal('feedbackModal');
+      }, 2000);
+    } else {
+      throw new Error('Failed to send feedback');
+    }
+  } catch (error) {
+    statusDiv.className = 'feedback-status error';
+    statusDiv.textContent = i18n.t('ui.feedbackError') || 'Sorry, there was an error sending your feedback. Please try again.';
+    statusDiv.style.display = 'block';
+  } finally {
+    submitBtn.disabled = false;
+    submitBtn.textContent = originalBtnText;
   }
 }
 

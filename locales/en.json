@@ -21,7 +21,18 @@
       "missingCardsByGroup": "Missing Cards by Group",
       "pointRange": "Point Range",
       "missing": "missing",
-      "progress": "Progress"
+      "progress": "Progress",
+
+    "feedbackTitle": "Any thoughts?",
+      "feedbackEmail": "Email (optional):",
+      "feedbackEmailPlaceholder": "your@email.com",
+      "feedbackMessage": "Message: *",
+      "feedbackMessagePlaceholder": "Share your thoughts, report issues, or suggest improvements...",
+      "cancel": "Cancel",
+      "sendFeedback": "Send",
+      "sending": "Sending...",
+      "feedbackSuccess": "Thank you! Your feedback has been sent successfully.",
+      "feedbackError": "Sorry, there was an error sending your feedback. Please try again."
     },
     "help": {
       "title": "How to Use",
