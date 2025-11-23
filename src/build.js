@@ -12,7 +12,8 @@ const configs = [
     output: path.join(outputDir, 'index.html'),
     activeEn: 'active',
     activeKr: '',
-    activeBr: ''
+    activeBr: '',
+    activeTw: ''
   },
   { 
     lang: 'kr', 
@@ -20,7 +21,8 @@ const configs = [
     output: path.join(outputDir, 'kr/index.html'),
     activeEn: '',
     activeKr: 'active',
-    activeBr: ''
+    activeBr: '',
+    activeTw: ''
   },
   { 
     lang: 'br', 
@@ -28,7 +30,17 @@ const configs = [
     output: path.join(outputDir, 'br/index.html'),
     activeEn: '',
     activeKr: '',
-    activeBr: 'active'
+    activeBr: 'active',
+    activeTw: ''
+  },
+  { 
+    lang: 'tw', 
+    basePath: '..', 
+    output: path.join(outputDir, 'tw/index.html'),
+    activeEn: '',
+    activeKr: '',
+    activeBr: '',
+    activeTw: 'active'
   }
 ];
 
@@ -38,7 +50,8 @@ configs.forEach(config => {
     .replace(/\{\{BASE_PATH\}\}/g, config.basePath)
     .replace(/\{\{ACTIVE_EN\}\}/g, config.activeEn)
     .replace(/\{\{ACTIVE_KR\}\}/g, config.activeKr)
-    .replace(/\{\{ACTIVE_BR\}\}/g, config.activeBr);
+    .replace(/\{\{ACTIVE_BR\}\}/g, config.activeBr)
+    .replace(/\{\{ACTIVE_TW\}\}/g, config.activeTw);
   
   const dir = path.dirname(config.output);
   if (!fs.existsSync(dir)) {

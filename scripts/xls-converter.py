@@ -15,7 +15,7 @@ response = requests.get(SHEET_URL)
 df = pd.read_excel(BytesIO(response.content))
 df.columns = df.columns.str.lower()
 
-columns_to_keep = ['id', 'name', 'point', 'group', 'namekr', 'namebr']
+columns_to_keep = ['id', 'name', 'point', 'group', 'namekr', 'namebr', 'nametw']
 df = df[columns_to_keep]
 
 def generate_name(name, replace_character='-'):
@@ -31,7 +31,8 @@ def generate_name(name, replace_character='-'):
 card_names_dict = {
     'en': {},
     'kr': {},
-    'br': {}
+    'br': {},
+    'tw': {}
 }
 
 # Populate translations
@@ -52,6 +53,12 @@ for _, row in df.iterrows():
         card_names_dict['br'][name_key] = row['namebr']
     else:
         card_names_dict['br'][name_key] = row['name']  # fallback to English
+
+    # Chinese translation
+    if pd.notna(row.get('nametw')):
+        card_names_dict['tw'][name_key] = row['nametw']
+    else:
+        card_names_dict['tw'][name_key] = row['name']  # fallback to English
 
 # Save card-names.json
 locales_folder = "locales"
