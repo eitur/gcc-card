@@ -429,9 +429,33 @@ async function sendFeedback(event) {
   }
 }
 
+// Scroll to Top functionality
+function scrollToTop() {
+  window.scrollTo({
+    top: 0,
+    behavior: 'smooth'
+  });
+}
+
+// Show/hide scroll to top button based on scroll position
+function handleScrollButton() {
+  const scrollButton = document.getElementById('scrollToTop');
+  if (scrollButton) {
+    if (window.pageYOffset > 300) {
+      scrollButton.classList.add('visible');
+    } else {
+      scrollButton.classList.remove('visible');
+    }
+  }
+}
+
+// Add scroll event listener
+window.addEventListener('scroll', handleScrollButton);
+
 // Call loadTheme immediately when script loads
 document.addEventListener('DOMContentLoaded', () => {
   loadTheme();
+  handleScrollButton();
 });
 
 async function initApp() {
