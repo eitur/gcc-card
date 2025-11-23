@@ -24,6 +24,7 @@ npm run build
 - `index.html` (English)
 - `kr/index.html` (Korean)
 - `br/index.html` (Portuguese)
+- `tw/index.html` (Traditional Chinese)
 
 
 ### 2. Update Card Data
