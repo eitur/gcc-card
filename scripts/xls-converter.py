@@ -18,6 +18,16 @@ df.columns = df.columns.str.lower()
 columns_to_keep = ['id', 'name', 'point', 'image', 'group', 'namekr', 'namebr', 'nametw']
 df = df[columns_to_keep]
 
+def safe_int_convert(value):
+    """Safely convert value to int, return '-' if not possible"""
+    if pd.isna(value):
+        return '-'
+    try:
+        # Try to convert to float first (handles string numbers), then to int
+        return int(float(value))
+    except (ValueError, TypeError):
+        return '-'
+    
 # Process each group from 1 to 7, none (cards not belong to collections), and undefined (info not filled)
 for group_number in list(range(1, 8)) + ['none', 'undefined']:
     if isinstance(group_number, int):
@@ -46,7 +56,7 @@ for group_number in list(range(1, 8)) + ['none', 'undefined']:
         card_obj = {
             'id': int(row['id']),
             'names': names_obj,
-            'point': int(row['point']) if isinstance(group_number, int) else '-',
+            'point': safe_int_convert(row['point']),
             'group': int(group_number) if isinstance(group_number, int) else ('-' if group_number == 'none' else group_number),
             'rate': 1/len(group_df),
             'region': '',

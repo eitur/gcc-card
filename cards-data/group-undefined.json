@@ -7,7 +7,7 @@
       "br": "Mongban Card",
       "tw": "Mongban Card"
     },
-    "point": "-",
+    "point": 30,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -22,7 +22,7 @@
       "br": "Claustro Infinito - Golem do Tempo",
       "tw": "Infinite Cloister - Golem of Time"
     },
-    "point": "-",
+    "point": 39,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -37,7 +37,7 @@
       "br": "Claustro Infinito - Morid",
       "tw": "Infinite Cloister - Morid"
     },
-    "point": "-",
+    "point": 41,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -52,7 +52,7 @@
       "br": "Claustro Infinito - Urca",
       "tw": "Infinite Cloister - Urkah"
     },
-    "point": "-",
+    "point": 43,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -67,7 +67,7 @@
       "br": "Claustro Infinito - Duel(I)",
       "tw": "Infinite Cloister - Duel (I)"
     },
-    "point": "-",
+    "point": 45,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -82,7 +82,7 @@
       "br": "Claustro Infinito - Duel(II)",
       "tw": "Infinite Cloister - Duel (II)"
     },
-    "point": "-",
+    "point": 54,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -97,7 +97,7 @@
       "br": "Claustro Infinito - Duel(III)",
       "tw": "Infinite Cloister - Duel (III)"
     },
-    "point": "-",
+    "point": 60,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -112,7 +112,7 @@
       "br": "Claustro Infinito - Tarik",
       "tw": "Infinite Cloister - Tarik"
     },
-    "point": "-",
+    "point": 45,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -127,7 +127,7 @@
       "br": "Claustro Infinito - Criação Instável",
       "tw": "Infinite Cloister - Unstable Creation"
     },
-    "point": "-",
+    "point": 47,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -142,7 +142,7 @@
       "br": "Claustro Infinito - Sistema de Controle do Trono",
       "tw": "Infinite Cloister - Throne Control System"
     },
-    "point": "-",
+    "point": 49,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -157,7 +157,7 @@
       "br": "Claustro Infinito - Rofnus",
       "tw": "Infinite Cloister - Rofnus"
     },
-    "point": "-",
+    "point": 54,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -172,7 +172,7 @@
       "br": "Claustro Infinito - Skeram",
       "tw": "Infinite Cloister -  Skeram"
     },
-    "point": "-",
+    "point": 56,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -187,7 +187,7 @@
       "br": "Claustro Infinito - Bruxa do Caos",
       "tw": "Infinite Cloister - Chaotic Witch"
     },
-    "point": "-",
+    "point": 58,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -202,7 +202,7 @@
       "br": "Vingador do Vazio",
       "tw": "Void Avenger"
     },
-    "point": "-",
+    "point": 70,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -217,7 +217,7 @@
       "br": "Divindade Cáida (Falso) Gaian",
       "tw": "Fallen (Fake) Saint Gaian"
     },
-    "point": "-",
+    "point": 1,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -232,7 +232,7 @@
       "br": "Guerreiro Gon Desconhecido",
       "tw": "Unknown Gon Warrior"
     },
-    "point": "-",
+    "point": 60,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -247,7 +247,7 @@
       "br": "Claustro Infinito - Astaroth, O Criador",
       "tw": "Infinite Cloister - Ashtaroth the Creator"
     },
-    "point": "-",
+    "point": 60,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -262,7 +262,7 @@
       "br": "Claustro Infinito - Dragão Guerreiro",
       "tw": "Infinite Cloister - Dragon Knight"
     },
-    "point": "-",
+    "point": 62,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -277,7 +277,7 @@
       "br": "Claustro Infinito - Encantrix",
       "tw": "Infinite Cloister - Harbinger"
     },
-    "point": "-",
+    "point": 64,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -292,7 +292,7 @@
       "br": "Claustro Infinito - Duel (IV)",
       "tw": "Infinite Cloister -  Duel (IV)"
     },
-    "point": "-",
+    "point": 68,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -307,7 +307,7 @@
       "br": "[Abismo] Coletor de Morte",
       "tw": "[Abyss] Grim Reaper"
     },
-    "point": "-",
+    "point": 81,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -1642,7 +1642,7 @@
       "br": "Chaser Para Sempre!",
       "tw": "4Ever! Chaser"
     },
-    "point": "-",
+    "point": 4,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
@@ -1657,7 +1657,7 @@
       "br": "Harpe Triste",
       "tw": "Sad Harpe"
     },
-    "point": "-",
+    "point": 60,
     "group": "undefined",
     "rate": 0.008928571428571428,
     "region": "",
