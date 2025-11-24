@@ -316,6 +316,7 @@ window.onclick = function(event) {
 // Dark mode toggle functionality
 function toggleTheme() {
   const body = document.body;
+  const searchIcon = document.querySelector('.search-icon');
   const feedbackIcon = document.querySelector('.feedback-icon');
   const themeIcon = document.querySelector('.theme-icon');
   
@@ -323,11 +324,13 @@ function toggleTheme() {
   
   // Update icon
   if (body.classList.contains('dark-mode')) {
+    searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-light.png`;
     feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-light.png`;
     themeIcon.src = `${window.BASE_PATH}/images/theme/light-mode.png`;
     themeIcon.alt = 'Light Mode';
     localStorage.setItem('theme', 'dark');
   } else {
+    searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-dark.png`;
     feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-dark.png`;
     themeIcon.src = `${window.BASE_PATH}/images/theme/dark-mode.png`;
     themeIcon.alt = 'Dark Mode';
@@ -337,6 +340,7 @@ function toggleTheme() {
 
 // Load saved theme on page load
 function loadTheme() {
+  const searchIcon = document.querySelector('.search-icon');
   const savedTheme = localStorage.getItem('theme');
   const feedbackIcon = document.querySelector('.feedback-icon');
   const themeIcon = document.querySelector('.theme-icon');
@@ -344,12 +348,14 @@ function loadTheme() {
   if (savedTheme === 'dark') {
     document.body.classList.add('dark-mode');
     if (themeIcon) {
+      searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-light.png`;
       feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-light.png`;
       themeIcon.src = `${window.BASE_PATH}/images/theme/light-mode.png`;
       themeIcon.alt = 'Light Mode';
     }
   } else {
     if (themeIcon) {
+      searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-dark.png`;
       feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-dark.png`;
       themeIcon.src = `${window.BASE_PATH}/images/theme/dark-mode.png`;
       themeIcon.alt = 'Dark Mode';
