@@ -68,13 +68,22 @@ with open(card_names_file, 'w', encoding='utf-8') as f:
 print(f"Card names translations saved to {card_names_file}")
 
 
-# Process each group from 1 to 7
-for group_number in range(1, 8):
-    group_df = df[df['group'] == group_number].copy()  # filter group
+# Process each group from 1 to 7 and non-group
+for group_number in list(range(1, 8)) + ['none']:
+    if group_number != 'none':
+        group_df = df[df['group'] == group_number].copy()  # filter group
+    else:
+        group_df = df[df['group'].isna()].copy()
     if group_df.empty:
         print(f"No data for group {group_number}")
         continue
 
+    if group_number != 'none':
+        group_df['point'] = group_df['point'].astype(int)
+        group_df['group'] = group_df['group'].astype(int)
+    else:
+        group_df['point'] = '-'
+        group_df['group'] = '-'
     group_df['rate'] = 1/len(group_df)  # probability of getting the card
     group_df['region'] = ''
     group_df['groupCount'] = len(group_df)
