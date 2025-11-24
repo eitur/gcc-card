@@ -1,812 +1,731 @@
 [
   {
     "id": 7,
-    "nameKey": "orc_warrior_boss_card",
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "orc-warrior-boss-card.webp"
-  },
-  {
-    "id": 19,
-    "nameKey": "giant_drillmon_card",
-    "point": 9,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "giant-drillmon-card.webp"
-  },
-  {
-    "id": 21,
-    "nameKey": "elizabeth_card",
-    "point": 9,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "elizabeth-card.webp"
-  },
-  {
-    "id": 187,
-    "nameKey": "ghost_samurai_card",
-    "point": 9,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "ghost-samurai-card.webp"
+    "image": "7.webp"
   },
   {
     "id": 9,
-    "nameKey": "harpy_queen_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "harpy-queen-card.webp"
-  },
-  {
-    "id": 40,
-    "nameKey": "shock_revenant_card",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "shock-revenant-card.webp"
-  },
-  {
-    "id": 42,
-    "nameKey": "coral_fiend_card",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "coral-fiend-card.webp"
-  },
-  {
-    "id": 45,
-    "nameKey": "swamp_spirit_card",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "swamp-spirit-card.webp"
-  },
-  {
-    "id": 47,
-    "nameKey": "violet_pixie_card",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "violet-pixie-card.webp"
-  },
-  {
-    "id": 52,
-    "nameKey": "venomous_gnat_card",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "venomous-gnat-card.webp"
-  },
-  {
-    "id": 55,
-    "nameKey": "queen_creeper_card",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "queen-creeper-card.webp"
-  },
-  {
-    "id": 57,
-    "nameKey": "bloodwind_orc_warrior_card",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "bloodwind-orc-warrior-card.webp"
-  },
-  {
-    "id": 188,
-    "nameKey": "shadow_emissary_card",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "shadow-emissary-card.webp"
-  },
-  {
-    "id": 303,
-    "nameKey": "sidt",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "sidt.webp"
-  },
-  {
-    "id": 304,
-    "nameKey": "pepe",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "pepe.webp"
-  },
-  {
-    "id": 305,
-    "nameKey": "gon",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "gon.webp"
-  },
-  {
-    "id": 306,
-    "nameKey": "slime",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "slime.webp"
-  },
-  {
-    "id": 307,
-    "nameKey": "ninko",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "ninko.webp"
-  },
-  {
-    "id": 308,
-    "nameKey": "myurin",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "myurin.webp"
-  },
-  {
-    "id": 309,
-    "nameKey": "luna",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "luna.webp"
-  },
-  {
-    "id": 310,
-    "nameKey": "arkham",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "arkham.webp"
-  },
-  {
-    "id": 311,
-    "nameKey": "cuddles",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "cuddles.webp"
-  },
-  {
-    "id": 312,
-    "nameKey": "fluffy_buffy",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "fluffy-buffy.webp"
-  },
-  {
-    "id": 313,
-    "nameKey": "sarimanok",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "sarimanok.webp"
-  },
-  {
-    "id": 314,
-    "nameKey": "cupid",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "cupid.webp"
-  },
-  {
-    "id": 315,
-    "nameKey": "casanova",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "casanova.webp"
-  },
-  {
-    "id": 316,
-    "nameKey": "kungji",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "kungji.webp"
-  },
-  {
-    "id": 317,
-    "nameKey": "blue_fairy",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "blue-fairy.webp"
-  },
-  {
-    "id": 318,
-    "nameKey": "bastet",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "bastet.webp"
-  },
-  {
-    "id": 319,
-    "nameKey": "chaos_pepe",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "chaos-pepe.webp"
-  },
-  {
-    "id": 320,
-    "nameKey": "goldy",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "goldy.webp"
-  },
-  {
-    "id": 321,
-    "nameKey": "saku",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "saku.webp"
-  },
-  {
-    "id": 322,
-    "nameKey": "dokaebi",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "dokaebi.webp"
-  },
-  {
-    "id": 323,
-    "nameKey": "rocco",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "rocco.webp"
-  },
-  {
-    "id": 324,
-    "nameKey": "aero_kitty",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "aero-kitty.webp"
-  },
-  {
-    "id": 325,
-    "nameKey": "ming_ming",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "ming-ming.webp"
-  },
-  {
-    "id": 326,
-    "nameKey": "ice_pixie",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "ice-pixie.webp"
-  },
-  {
-    "id": 327,
-    "nameKey": "ninkoro",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "ninkoro.webp"
-  },
-  {
-    "id": 328,
-    "nameKey": "koo_ka",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "koo-ka.webp"
-  },
-  {
-    "id": 329,
-    "nameKey": "mittens",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "mittens.webp"
-  },
-  {
-    "id": 330,
-    "nameKey": "tian_long",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "tian-long.webp"
-  },
-  {
-    "id": 331,
-    "nameKey": "sidtri",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "sidtri.webp"
-  },
-  {
-    "id": 332,
-    "nameKey": "gorgon",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "gorgon.webp"
-  },
-  {
-    "id": 333,
-    "nameKey": "peng_peng",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "peng-peng.webp"
-  },
-  {
-    "id": 334,
-    "nameKey": "feste",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "feste.webp"
-  },
-  {
-    "id": 335,
-    "nameKey": "lucretia",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "lucretia.webp"
-  },
-  {
-    "id": 336,
-    "nameKey": "helper_bot",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "helper-bot.webp"
-  },
-  {
-    "id": 337,
-    "nameKey": "emily",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "emily.webp"
-  },
-  {
-    "id": 338,
-    "nameKey": "elena",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "elena.webp"
-  },
-  {
-    "id": 339,
-    "nameKey": "thommo",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "thommo.webp"
-  },
-  {
-    "id": 340,
-    "nameKey": "monkeybeard",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "monkeybeard.webp"
-  },
-  {
-    "id": 341,
-    "nameKey": "hanana",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "hanana.webp"
-  },
-  {
-    "id": 342,
-    "nameKey": "moon_child",
-    "point": 10,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "moon-child.webp"
-  },
-  {
-    "id": 17,
-    "nameKey": "troll_card",
-    "point": 11,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "troll-card.webp"
-  },
-  {
-    "id": 33,
-    "nameKey": "monstrous_ent_card",
-    "point": 11,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "monstrous-ent-card.webp"
-  },
-  {
-    "id": 50,
-    "nameKey": "tiny_creeper_card",
-    "point": 11,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "tiny-creeper-card.webp"
-  },
-  {
-    "id": 56,
-    "nameKey": "bloodwind_orc_card",
-    "point": 12,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "bloodwind-orc-card.webp"
-  },
-  {
-    "id": 61,
-    "nameKey": "black_knights_spearman_card",
-    "point": 12,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "black-knights-spearman-card.webp"
-  },
-  {
-    "id": 63,
-    "nameKey": "dark_acolyte_card",
-    "point": 12,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "dark-acolyte-card.webp"
-  },
-  {
-    "id": 83,
-    "nameKey": "armor_lobster_card",
-    "point": 12,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "armor-lobster-card.webp"
+    "image": "9.webp"
   },
   {
     "id": 14,
-    "nameKey": "red_gorgos_card",
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "red-gorgos-card.webp"
+    "image": "14.webp"
   },
   {
-    "id": 34,
-    "nameKey": "guardian_ent_card",
-    "point": 13,
+    "id": 17,
+    "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "guardian-ent-card.webp"
+    "image": "17.webp"
   },
   {
-    "id": 46,
-    "nameKey": "violet_fairy_card",
-    "point": 13,
+    "id": 19,
+    "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "violet-fairy-card.webp"
+    "image": "19.webp"
   },
   {
-    "id": 91,
-    "nameKey": "mini_fire_golem_card",
-    "point": 13,
+    "id": 21,
+    "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "mini-fire-golem-card.webp"
-  },
-  {
-    "id": 101,
-    "nameKey": "skeleton_archer_card",
-    "point": 13,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "skeleton-archer-card.webp"
+    "image": "21.webp"
   },
   {
     "id": 24,
-    "nameKey": "lich_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "lich-card.webp"
-  },
-  {
-    "id": 28,
-    "nameKey": "elite_anmon_scout_card",
-    "point": 14,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "elite-anmon-scout-card.webp"
-  },
-  {
-    "id": 41,
-    "nameKey": "emerald_claw_shrimp_card",
-    "point": 14,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "emerald-claw-shrimp-card.webp"
-  },
-  {
-    "id": 43,
-    "nameKey": "krakos_card",
-    "point": 14,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "krakos-card.webp"
-  },
-  {
-    "id": 84,
-    "nameKey": "hungry_ghost_card",
-    "point": 14,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "hungry-ghost-card.webp"
-  },
-  {
-    "id": 85,
-    "nameKey": "mini_ice_golem_card",
-    "point": 14,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "mini-ice-golem-card.webp"
-  },
-  {
-    "id": 87,
-    "nameKey": "dark_anmon_scout_card",
-    "point": 14,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "dark-anmon-scout-card.webp"
-  },
-  {
-    "id": 97,
-    "nameKey": "dark_mage_card",
-    "point": 14,
-    "group": 2,
-    "rate": 0.012345679012345678,
-    "region": "",
-    "groupCount": 81,
-    "image": "dark-mage-card.webp"
+    "image": "24.webp"
   },
   {
     "id": 27,
-    "nameKey": "paradom_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "paradom-card.webp"
+    "image": "27.webp"
+  },
+  {
+    "id": 28,
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "28.webp"
   },
   {
     "id": 30,
-    "nameKey": "gaicoz_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "gaicoz-card.webp"
+    "image": "30.webp"
+  },
+  {
+    "id": 33,
+    "point": 11,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "33.webp"
+  },
+  {
+    "id": 34,
+    "point": 13,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "34.webp"
+  },
+  {
+    "id": 40,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "40.webp"
+  },
+  {
+    "id": 41,
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "41.webp"
+  },
+  {
+    "id": 42,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "42.webp"
+  },
+  {
+    "id": 43,
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "43.webp"
+  },
+  {
+    "id": 45,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "45.webp"
+  },
+  {
+    "id": 46,
+    "point": 13,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "46.webp"
+  },
+  {
+    "id": 47,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "47.webp"
   },
   {
     "id": 48,
-    "nameKey": "mystic_golem_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "mystic-golem-card.webp"
+    "image": "48.webp"
   },
   {
     "id": 49,
-    "nameKey": "king_guang_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "king-guang-card.webp"
+    "image": "49.webp"
+  },
+  {
+    "id": 50,
+    "point": 11,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "50.webp"
+  },
+  {
+    "id": 52,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "52.webp"
   },
   {
     "id": 53,
-    "nameKey": "onyx_wendy_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "onyx-wendy-card.webp"
+    "image": "53.webp"
+  },
+  {
+    "id": 55,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "55.webp"
+  },
+  {
+    "id": 56,
+    "point": 12,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "56.webp"
+  },
+  {
+    "id": 57,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "57.webp"
   },
   {
     "id": 59,
-    "nameKey": "tartarus_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "tartarus-card.webp"
+    "image": "59.webp"
   },
   {
     "id": 60,
-    "nameKey": "king_fang_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "king-fang-card.webp"
+    "image": "60.webp"
+  },
+  {
+    "id": 61,
+    "point": 12,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "61.webp"
+  },
+  {
+    "id": 63,
+    "point": 12,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "63.webp"
+  },
+  {
+    "id": 83,
+    "point": 12,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "83.webp"
+  },
+  {
+    "id": 84,
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "84.webp"
+  },
+  {
+    "id": 85,
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "85.webp"
+  },
+  {
+    "id": 87,
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "87.webp"
+  },
+  {
+    "id": 91,
+    "point": 13,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "91.webp"
+  },
+  {
+    "id": 97,
+    "point": 14,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "97.webp"
+  },
+  {
+    "id": 101,
+    "point": 13,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "101.webp"
+  },
+  {
+    "id": 187,
+    "point": 9,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "187.webp"
+  },
+  {
+    "id": 188,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "188.webp"
+  },
+  {
+    "id": 303,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "303.webp"
+  },
+  {
+    "id": 304,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "304.webp"
+  },
+  {
+    "id": 305,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "305.webp"
+  },
+  {
+    "id": 306,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "306.webp"
+  },
+  {
+    "id": 307,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "307.webp"
+  },
+  {
+    "id": 308,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "308.webp"
+  },
+  {
+    "id": 309,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "309.webp"
+  },
+  {
+    "id": 310,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "310.webp"
+  },
+  {
+    "id": 311,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "311.webp"
+  },
+  {
+    "id": 312,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "312.webp"
+  },
+  {
+    "id": 313,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "313.webp"
+  },
+  {
+    "id": 314,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "314.webp"
+  },
+  {
+    "id": 315,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "315.webp"
+  },
+  {
+    "id": 316,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "316.webp"
+  },
+  {
+    "id": 317,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "317.webp"
+  },
+  {
+    "id": 318,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "318.webp"
+  },
+  {
+    "id": 319,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "319.webp"
+  },
+  {
+    "id": 320,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "320.webp"
+  },
+  {
+    "id": 321,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "321.webp"
+  },
+  {
+    "id": 322,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "322.webp"
+  },
+  {
+    "id": 323,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "323.webp"
+  },
+  {
+    "id": 324,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "324.webp"
+  },
+  {
+    "id": 325,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "325.webp"
+  },
+  {
+    "id": 326,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "326.webp"
+  },
+  {
+    "id": 327,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "327.webp"
+  },
+  {
+    "id": 328,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "328.webp"
+  },
+  {
+    "id": 329,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "329.webp"
+  },
+  {
+    "id": 330,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "330.webp"
+  },
+  {
+    "id": 331,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "331.webp"
+  },
+  {
+    "id": 332,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "332.webp"
+  },
+  {
+    "id": 333,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "333.webp"
+  },
+  {
+    "id": 334,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "334.webp"
+  },
+  {
+    "id": 335,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "335.webp"
+  },
+  {
+    "id": 336,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "336.webp"
+  },
+  {
+    "id": 337,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "337.webp"
+  },
+  {
+    "id": 338,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "338.webp"
+  },
+  {
+    "id": 339,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "339.webp"
+  },
+  {
+    "id": 340,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "340.webp"
+  },
+  {
+    "id": 341,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "341.webp"
+  },
+  {
+    "id": 342,
+    "point": 10,
+    "group": 2,
+    "rate": 0.012345679012345678,
+    "region": "",
+    "groupCount": 81,
+    "image": "342.webp"
   },
   {
     "id": 409,
-    "nameKey": "mutated_rat",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "mutated-rat.webp"
+    "image": "409.webp"
   }
 ]

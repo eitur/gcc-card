@@ -41,8 +41,8 @@ class I18n {
       return value;
     }
   
-    getCardName(nameKey) {
-      return this.cardNames[this.currentLang]?.[nameKey] || nameKey;
+    getCardName(id) {
+      return this.cardNames[this.currentLang]?.[id] || id;
     }
   
     updateUI() {

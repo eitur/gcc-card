@@ -23,7 +23,7 @@ const selected = new Set();
 
 // Get base path for asset loading
 const basePath = window.BASE_PATH || '.';
-const imageBasePath = `${basePath}/images/cards`; // Image folder path
+const imageBasePath = `${basePath}/images/cards-webp`; // Image folder path
 
 async function loadCards() {
   try {
@@ -87,7 +87,7 @@ function getFilteredCards() {
   const filterGroup = document.getElementById("filterGroup").value;
 
   return cards.filter(c => {
-    const cardName = i18n.getCardName(c.nameKey).toLowerCase();
+    const cardName = i18n.getCardName(c.id).toLowerCase();
     return cardName.includes(search) &&
       (filterRegion ? c.region === filterRegion : true) &&
       (filterGroup ? c.group == filterGroup : true);
@@ -120,10 +120,10 @@ function renderTable() {
       <td>
         <div class='card-pic' 
              data-src='${imageBasePath}/${c.image}'
-             title='${i18n.getCardName(c.nameKey)}'>
+             title='${i18n.getCardName(c.id)}'>
         </div>
       </td>
-      <td>${i18n.getCardName(c.nameKey)}</td>
+      <td>${i18n.getCardName(c.id)}</td>
       <td>${c.point}</td>
       <td>${c.group}</td>
       <td style="display:none;">${c.region}</td>

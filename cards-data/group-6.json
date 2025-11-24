@@ -1,702 +1,632 @@
 [
   {
+    "id": 172,
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "172.webp"
+  },
+  {
     "id": 177,
-    "nameKey": "sentry_keeper_no_1_card",
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "sentry-keeper-no-1-card.webp"
+    "image": "177.webp"
   },
   {
     "id": 194,
-    "nameKey": "arawn_card",
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "arawn-card.webp"
-  },
-  {
-    "id": 369,
-    "nameKey": "berkas",
-    "point": 56,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "berkas.webp"
-  },
-  {
-    "id": 485,
-    "nameKey": "harrier_giant_frillzard",
-    "point": 56,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "harrier-giant-frillzard.webp"
-  },
-  {
-    "id": 508,
-    "nameKey": "harrier_dwarl_royal_guard",
-    "point": 56,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "harrier-dwarl-royal-guard.webp"
-  },
-  {
-    "id": 520,
-    "nameKey": "harrier_brutus",
-    "point": 56,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "harrier-brutus.webp"
-  },
-  {
-    "id": 541,
-    "nameKey": "harrierlang",
-    "point": 56,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "harrierlang.webp"
-  },
-  {
-    "id": 567,
-    "nameKey": "goblin_defense_wall",
-    "point": 56,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "goblin-defense-wall.webp"
-  },
-  {
-    "id": 597,
-    "nameKey": "voidal_sentry",
-    "point": 56,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "voidal-sentry.webp"
-  },
-  {
-    "id": 598,
-    "nameKey": "voidal_crusher",
-    "point": 56,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "voidal-crusher.webp"
-  },
-  {
-    "id": 172,
-    "nameKey": "sand_ruler_card",
-    "point": 57,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "sand-ruler-card.webp"
+    "image": "194.webp"
   },
   {
     "id": 200,
-    "nameKey": "veron",
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "veron.webp"
-  },
-  {
-    "id": 381,
-    "nameKey": "khufu",
-    "point": 57,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "khufu.webp"
-  },
-  {
-    "id": 484,
-    "nameKey": "harrier_great_gatekeeper",
-    "point": 57,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "harrier-great-gatekeeper.webp"
-  },
-  {
-    "id": 510,
-    "nameKey": "harrier_cyclops_commander",
-    "point": 57,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "harrier-cyclops-commander.webp"
-  },
-  {
-    "id": 516,
-    "nameKey": "harrier_dark_hierophant",
-    "point": 57,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "harrier-dark-hierophant.webp"
-  },
-  {
-    "id": 528,
-    "nameKey": "harrier_aron",
-    "point": 57,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "harrier-aron.webp"
-  },
-  {
-    "id": 538,
-    "nameKey": "harrier_hera",
-    "point": 57,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "harrier-hera.webp"
-  },
-  {
-    "id": 386,
-    "nameKey": "carle",
-    "point": 58,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "carle.webp"
-  },
-  {
-    "id": 396,
-    "nameKey": "the_immortal_barakhufu",
-    "point": 58,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "the-immortal-barakhufu.webp"
-  },
-  {
-    "id": 534,
-    "nameKey": "harrier_apostle_of_revelation",
-    "point": 58,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "harrier-apostle-of-revelation.webp"
-  },
-  {
-    "id": 578,
-    "nameKey": "shadow_apostle",
-    "point": 58,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "shadow-apostle.webp"
-  },
-  {
-    "id": 581,
-    "nameKey": "sentry_drone",
-    "point": 58,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "sentry-drone.webp"
-  },
-  {
-    "id": 560,
-    "nameKey": "iron_squard_commander",
-    "point": 59,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "iron-squard-commander.webp"
-  },
-  {
-    "id": 562,
-    "nameKey": "iron_cannon",
-    "point": 59,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "iron-cannon.webp"
-  },
-  {
-    "id": 565,
-    "nameKey": "goblin_strongman",
-    "point": 59,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "goblin-strongman.webp"
-  },
-  {
-    "id": 568,
-    "nameKey": "dreadful_chieftain_urkah",
-    "point": 59,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "dreadful-chieftain-urkah.webp"
+    "image": "200.webp"
   },
   {
     "id": 201,
-    "nameKey": "drawl",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "drawl.webp"
+    "image": "201.webp"
   },
   {
     "id": 204,
-    "nameKey": "arme_lass",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "arme-lass.webp"
+    "image": "204.webp"
   },
   {
     "id": 205,
-    "nameKey": "seighart_mari",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "seighart-mari.webp"
+    "image": "205.webp"
   },
   {
     "id": 206,
-    "nameKey": "lire_lass",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "lire-lass.webp"
+    "image": "206.webp"
   },
   {
     "id": 207,
-    "nameKey": "elesis_jin",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "elesis-jin.webp"
+    "image": "207.webp"
   },
   {
     "id": 208,
-    "nameKey": "elesis_lass",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "elesis-lass.webp"
+    "image": "208.webp"
   },
   {
     "id": 209,
-    "nameKey": "lire_dio",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "lire-dio.webp"
+    "image": "209.webp"
   },
   {
     "id": 210,
-    "nameKey": "elesis_lass",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "elesis-lass.webp"
+    "image": "210.webp"
   },
   {
     "id": 211,
-    "nameKey": "housekeddping",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "housekeddping.webp"
+    "image": "211.webp"
   },
   {
     "id": 212,
-    "nameKey": "ley_jeeves",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "ley-jeeves.webp"
+    "image": "212.webp"
   },
   {
     "id": 360,
-    "nameKey": "dahlia",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "dahlia.webp"
+    "image": "360.webp"
   },
   {
     "id": 365,
-    "nameKey": "quoronnos",
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "quoronnos.webp"
+    "image": "365.webp"
   },
   {
-    "id": 481,
-    "nameKey": "zekars",
-    "point": 60,
+    "id": 369,
+    "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "zekars.webp"
+    "image": "369.webp"
   },
   {
-    "id": 496,
-    "nameKey": "harrier_dark_paramon",
-    "point": 60,
+    "id": 381,
+    "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "harrier-dark-paramon.webp"
+    "image": "381.webp"
   },
   {
-    "id": 529,
-    "nameKey": "rofnus",
-    "point": 60,
+    "id": 386,
+    "point": 58,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "rofnus.webp"
+    "image": "386.webp"
   },
   {
-    "id": 537,
-    "nameKey": "harrier_slow_stone",
-    "point": 60,
+    "id": 396,
+    "point": 58,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "harrier-slow-stone.webp"
-  },
-  {
-    "id": 596,
-    "nameKey": "jack_o_lanten",
-    "point": 60,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "jack-o-lanten.webp"
-  },
-  {
-    "id": 623,
-    "nameKey": "tower_of_disappearance",
-    "point": 60,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "tower-of-disappearance.webp"
-  },
-  {
-    "id": 624,
-    "nameKey": "land_of_judgment",
-    "point": 60,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "land-of-judgment.webp"
-  },
-  {
-    "id": 625,
-    "nameKey": "berkas_lair",
-    "point": 60,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "berkas-lair.webp"
-  },
-  {
-    "id": 639,
-    "nameKey": "bloodshadow_card",
-    "point": 60,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "bloodshadow-card.webp"
+    "image": "396.webp"
   },
   {
     "id": 401,
-    "nameKey": "ashtaroth",
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "ashtaroth.webp"
+    "image": "401.webp"
   },
   {
     "id": 402,
-    "nameKey": "ashtaroth_2nd_phase",
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "ashtaroth-2nd-phase.webp"
+    "image": "402.webp"
   },
   {
     "id": 403,
-    "nameKey": "ashtaroth_final_phase",
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "ashtaroth-final-phase.webp"
+    "image": "403.webp"
   },
   {
     "id": 478,
-    "nameKey": "aldeon",
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "aldeon.webp"
+    "image": "478.webp"
   },
   {
-    "id": 499,
-    "nameKey": "harrier_commander_the_dark_sword",
-    "point": 61,
+    "id": 481,
+    "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "harrier-commander-the-dark-sword.webp"
+    "image": "481.webp"
   },
   {
-    "id": 504,
-    "nameKey": "scurvian",
-    "point": 61,
+    "id": 484,
+    "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "scurvian.webp"
+    "image": "484.webp"
   },
   {
-    "id": 591,
-    "nameKey": "voidal_devourer_1",
-    "point": 61,
+    "id": 485,
+    "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "voidal-devourer-1.webp"
+    "image": "485.webp"
   },
   {
     "id": 489,
-    "nameKey": "crookan",
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "crookan.webp"
-  },
-  {
-    "id": 501,
-    "nameKey": "harrier_cavalry_general",
-    "point": 62,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "harrier-cavalry-general.webp"
-  },
-  {
-    "id": 506,
-    "nameKey": "raid_storm",
-    "point": 62,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "raid-storm.webp"
-  },
-  {
-    "id": 526,
-    "nameKey": "sand_storm",
-    "point": 62,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "sand-storm.webp"
-  },
-  {
-    "id": 563,
-    "nameKey": "invincible_iron_knight_dullahan",
-    "point": 62,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "invincible-iron-knight-dullahan.webp"
-  },
-  {
-    "id": 571,
-    "nameKey": "wicked_stavrogin",
-    "point": 62,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "wicked-stavrogin.webp"
+    "image": "489.webp"
   },
   {
     "id": 491,
-    "nameKey": "scorpra",
     "point": 63,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "scorpra.webp"
+    "image": "491.webp"
   },
   {
     "id": 493,
-    "nameKey": "zalos",
     "point": 63,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "zalos.webp"
+    "image": "493.webp"
   },
   {
-    "id": 584,
-    "nameKey": "indolent_dr_molly",
-    "point": 63,
+    "id": 496,
+    "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "indolent-dr-molly.webp"
-  },
-  {
-    "id": 572,
-    "nameKey": "greedy_stavrogin",
-    "point": 64,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "greedy-stavrogin.webp"
-  },
-  {
-    "id": 590,
-    "nameKey": "voidal_invader",
-    "point": 64,
-    "group": 6,
-    "rate": 0.014285714285714285,
-    "region": "",
-    "groupCount": 70,
-    "image": "voidal-invader.webp"
+    "image": "496.webp"
   },
   {
     "id": 497,
-    "nameKey": "skeram",
     "point": 65,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "skeram.webp"
+    "image": "497.webp"
+  },
+  {
+    "id": 499,
+    "point": 61,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "499.webp"
+  },
+  {
+    "id": 501,
+    "point": 62,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "501.webp"
+  },
+  {
+    "id": 504,
+    "point": 61,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "504.webp"
+  },
+  {
+    "id": 506,
+    "point": 62,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "506.webp"
+  },
+  {
+    "id": 508,
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "508.webp"
+  },
+  {
+    "id": 510,
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "510.webp"
   },
   {
     "id": 511,
-    "nameKey": "crevma",
     "point": 65,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "crevma.webp"
+    "image": "511.webp"
+  },
+  {
+    "id": 516,
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "516.webp"
+  },
+  {
+    "id": 520,
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "520.webp"
+  },
+  {
+    "id": 526,
+    "point": 62,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "526.webp"
+  },
+  {
+    "id": 528,
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "528.webp"
+  },
+  {
+    "id": 529,
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "529.webp"
+  },
+  {
+    "id": 534,
+    "point": 58,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "534.webp"
   },
   {
     "id": 536,
-    "nameKey": "searetone",
     "point": 66,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "searetone.webp"
+    "image": "536.webp"
+  },
+  {
+    "id": 537,
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "537.webp"
+  },
+  {
+    "id": 538,
+    "point": 57,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "538.webp"
+  },
+  {
+    "id": 541,
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "541.webp"
+  },
+  {
+    "id": 560,
+    "point": 59,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "560.webp"
+  },
+  {
+    "id": 562,
+    "point": 59,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "562.webp"
+  },
+  {
+    "id": 563,
+    "point": 62,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "563.webp"
+  },
+  {
+    "id": 565,
+    "point": 59,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "565.webp"
+  },
+  {
+    "id": 567,
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "567.webp"
+  },
+  {
+    "id": 568,
+    "point": 59,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "568.webp"
+  },
+  {
+    "id": 571,
+    "point": 62,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "571.webp"
+  },
+  {
+    "id": 572,
+    "point": 64,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "572.webp"
+  },
+  {
+    "id": 578,
+    "point": 58,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "578.webp"
+  },
+  {
+    "id": 581,
+    "point": 58,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "581.webp"
+  },
+  {
+    "id": 584,
+    "point": 63,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "584.webp"
   },
   {
     "id": 585,
-    "nameKey": "temple_guardian",
     "point": 66,
     "group": 6,
     "rate": 0.014285714285714285,
     "region": "",
     "groupCount": 70,
-    "image": "temple-guardian.webp"
+    "image": "585.webp"
+  },
+  {
+    "id": 590,
+    "point": 64,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "590.webp"
+  },
+  {
+    "id": 591,
+    "point": 61,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "591.webp"
+  },
+  {
+    "id": 596,
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "596.webp"
+  },
+  {
+    "id": 597,
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "597.webp"
+  },
+  {
+    "id": 598,
+    "point": 56,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "598.webp"
+  },
+  {
+    "id": 623,
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "623.webp"
+  },
+  {
+    "id": 624,
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "624.webp"
+  },
+  {
+    "id": 625,
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "625.webp"
+  },
+  {
+    "id": 639,
+    "point": 60,
+    "group": 6,
+    "rate": 0.014285714285714285,
+    "region": "",
+    "groupCount": 70,
+    "image": "639.webp"
   }
 ]

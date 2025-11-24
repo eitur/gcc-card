@@ -1,1042 +1,938 @@
 [
   {
     "id": 38,
-    "nameKey": "black_fairy_queen_card",
     "point": 16,
     "group": 3,
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "black-fairy-queen-card.webp"
-  },
-  {
-    "id": 58,
-    "nameKey": "magma_paradom_card",
-    "point": 16,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "magma-paradom-card.webp"
-  },
-  {
-    "id": 102,
-    "nameKey": "skeleton_knight_card",
-    "point": 16,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "skeleton-knight-card.webp"
-  },
-  {
-    "id": 107,
-    "nameKey": "skeleton_archer_boss_card",
-    "point": 16,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "skeleton-archer-boss-card.webp"
-  },
-  {
-    "id": 126,
-    "nameKey": "fanatic_bomb_soldier_card",
-    "point": 16,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "fanatic-bomb-soldier-card.webp"
-  },
-  {
-    "id": 130,
-    "nameKey": "foul_swordsman_card",
-    "point": 16,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "foul-swordsman-card.webp"
-  },
-  {
-    "id": 448,
-    "nameKey": "stone_fist_goliath",
-    "point": 16,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "stone-fist-goliath.webp"
-  },
-  {
-    "id": 457,
-    "nameKey": "lacerta_shaman",
-    "point": 16,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "lacerta-shaman.webp"
-  },
-  {
-    "id": 462,
-    "nameKey": "void_patrol",
-    "point": 16,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "void-patrol.webp"
-  },
-  {
-    "id": 64,
-    "nameKey": "black_tempest_card",
-    "point": 17,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "black-tempest-card.webp"
-  },
-  {
-    "id": 93,
-    "nameKey": "dark_anmon_guard_card",
-    "point": 17,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "dark-anmon-guard-card.webp"
-  },
-  {
-    "id": 108,
-    "nameKey": "skeleton_knight_boss_card",
-    "point": 17,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "skeleton-knight-boss-card.webp"
-  },
-  {
-    "id": 453,
-    "nameKey": "lacerta_pathfinder",
-    "point": 17,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "lacerta-pathfinder.webp"
+    "image": "38.webp"
   },
   {
     "id": 54,
-    "nameKey": "audrey_card",
     "point": 18,
     "group": 3,
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "audrey-card.webp"
+    "image": "54.webp"
+  },
+  {
+    "id": 58,
+    "point": 16,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "58.webp"
   },
   {
     "id": 62,
-    "nameKey": "black_knights_shield_bearer_card",
     "point": 18,
     "group": 3,
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "black-knights-shield-bearer-card.webp"
+    "image": "62.webp"
   },
   {
-    "id": 96,
-    "nameKey": "gardosen_card",
-    "point": 18,
+    "id": 64,
+    "point": 17,
     "group": 3,
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "gardosen-card.webp"
-  },
-  {
-    "id": 116,
-    "nameKey": "native_spearman_card",
-    "point": 18,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "native-spearman-card.webp"
-  },
-  {
-    "id": 117,
-    "nameKey": "native_leader_card",
-    "point": 18,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "native-leader-card.webp"
-  },
-  {
-    "id": 140,
-    "nameKey": "icefang_card",
-    "point": 18,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "icefang-card.webp"
-  },
-  {
-    "id": 455,
-    "nameKey": "lacerta_warrior",
-    "point": 18,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "lacerta-warrior.webp"
-  },
-  {
-    "id": 461,
-    "nameKey": "void_scout",
-    "point": 18,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "void-scout.webp"
+    "image": "64.webp"
   },
   {
     "id": 65,
-    "nameKey": "victor_card",
     "point": 19,
     "group": 3,
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "victor-card.webp"
-  },
-  {
-    "id": 86,
-    "nameKey": "partusay_card",
-    "point": 19,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "partusay-card.webp"
-  },
-  {
-    "id": 103,
-    "nameKey": "fire_golem_card",
-    "point": 19,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "fire-golem-card.webp"
-  },
-  {
-    "id": 106,
-    "nameKey": "paraminimy_card",
-    "point": 19,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "paraminimy-card.webp"
-  },
-  {
-    "id": 454,
-    "nameKey": "lacerta_fighter",
-    "point": 19,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "lacerta-fighter.webp"
-  },
-  {
-    "id": 463,
-    "nameKey": "void_pathfinder",
-    "point": 19,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "void-pathfinder.webp"
-  },
-  {
-    "id": 117,
-    "nameKey": "carnivorous_plant_jr_card",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "carnivorous-plant-jr-card.webp"
-  },
-  {
-    "id": 134,
-    "nameKey": "fytros_card",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "fytros-card.webp"
-  },
-  {
-    "id": 145,
-    "nameKey": "mistone_card",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "mistone-card.webp"
-  },
-  {
-    "id": 263,
-    "nameKey": "sphinx",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "sphinx.webp"
-  },
-  {
-    "id": 264,
-    "nameKey": "bastion_mary",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "bastion-mary.webp"
-  },
-  {
-    "id": 265,
-    "nameKey": "runaway_mary",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "runaway-mary.webp"
-  },
-  {
-    "id": 266,
-    "nameKey": "sebastian",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "sebastian.webp"
-  },
-  {
-    "id": 267,
-    "nameKey": "zero_archetype",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "zero-archetype.webp"
-  },
-  {
-    "id": 268,
-    "nameKey": "lass_fan_girls",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "lass-fan-girls.webp"
-  },
-  {
-    "id": 269,
-    "nameKey": "oz_pone_max_reinhardt",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "oz-pone-max-reinhardt.webp"
-  },
-  {
-    "id": 270,
-    "nameKey": "rifa",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "rifa.webp"
-  },
-  {
-    "id": 271,
-    "nameKey": "elscud_sieghart",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "elscud-sieghart.webp"
-  },
-  {
-    "id": 272,
-    "nameKey": "flora",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "flora.webp"
-  },
-  {
-    "id": 273,
-    "nameKey": "brody",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "brody.webp"
-  },
-  {
-    "id": 274,
-    "nameKey": "klara_libri",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "klara-libri.webp"
-  },
-  {
-    "id": 275,
-    "nameKey": "jeeves",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "jeeves.webp"
-  },
-  {
-    "id": 276,
-    "nameKey": "violet",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "violet.webp"
-  },
-  {
-    "id": 277,
-    "nameKey": "alfred",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "alfred.webp"
-  },
-  {
-    "id": 278,
-    "nameKey": "knight_master",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "knight-master.webp"
-  },
-  {
-    "id": 279,
-    "nameKey": "lillian_arquemeece",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "lillian-arquemeece.webp"
-  },
-  {
-    "id": 280,
-    "nameKey": "krustaccio",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "krustaccio.webp"
-  },
-  {
-    "id": 281,
-    "nameKey": "winky",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "winky.webp"
-  },
-  {
-    "id": 282,
-    "nameKey": "abingdon",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "abingdon.webp"
-  },
-  {
-    "id": 449,
-    "nameKey": "boulder_fist_goliath",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "boulder-fist-goliath.webp"
-  },
-  {
-    "id": 609,
-    "nameKey": "outer_wall_of_serdin",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "outer-wall-of-serdin.webp"
-  },
-  {
-    "id": 616,
-    "nameKey": "cursed_garden",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "cursed-garden.webp"
-  },
-  {
-    "id": 617,
-    "nameKey": "dimension_s_end",
-    "point": 20,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "dimension-s-end.webp"
-  },
-  {
-    "id": 99,
-    "nameKey": "dark_gorgos_card",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "dark-gorgos-card.webp"
-  },
-  {
-    "id": 109,
-    "nameKey": "ancient_paradom_card",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "ancient-paradom-card.webp"
-  },
-  {
-    "id": 124,
-    "nameKey": "fanatic_shield_soldier_card",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "fanatic-shield-soldier-card.webp"
-  },
-  {
-    "id": 125,
-    "nameKey": "fanatic_monk_card",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "fanatic-monk-card.webp"
-  },
-  {
-    "id": 132,
-    "nameKey": "vile_naga_card",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "vile-naga-card.webp"
-  },
-  {
-    "id": 135,
-    "nameKey": "wyrm_spawn_card",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "wyrm-spawn-card.webp"
-  },
-  {
-    "id": 404,
-    "nameKey": "servant",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "servant.webp"
-  },
-  {
-    "id": 412,
-    "nameKey": "blood_arachnia",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "blood-arachnia.webp"
-  },
-  {
-    "id": 413,
-    "nameKey": "poisonous_arachnia",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "poisonous-arachnia.webp"
-  },
-  {
-    "id": 416,
-    "nameKey": "fencer_guard",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "fencer-guard.webp"
-  },
-  {
-    "id": 417,
-    "nameKey": "sergeant_fencer",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "sergeant-fencer.webp"
-  },
-  {
-    "id": 431,
-    "nameKey": "sergeant_sniper",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "sergeant-sniper.webp"
-  },
-  {
-    "id": 434,
-    "nameKey": "manager",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "manager.webp"
-  },
-  {
-    "id": 450,
-    "nameKey": "stone_elemental_goliath",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "stone-elemental-goliath.webp"
-  },
-  {
-    "id": 464,
-    "nameKey": "void_observer",
-    "point": 21,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "void-observer.webp"
-  },
-  {
-    "id": 88,
-    "nameKey": "elena_card",
-    "point": 22,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "elena-card.webp"
-  },
-  {
-    "id": 95,
-    "nameKey": "lich_card",
-    "point": 22,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "lich-card.webp"
-  },
-  {
-    "id": 111,
-    "nameKey": "armor_cat_card",
-    "point": 22,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "armor-cat-card.webp"
-  },
-  {
-    "id": 112,
-    "nameKey": "violent_orc_card",
-    "point": 22,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "violent-orc-card.webp"
-  },
-  {
-    "id": 115,
-    "nameKey": "dark_anmon_card",
-    "point": 23,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "dark-anmon-card.webp"
-  },
-  {
-    "id": 144,
-    "nameKey": "hideous_borer_card",
-    "point": 23,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "hideous-borer-card.webp"
-  },
-  {
-    "id": 444,
-    "nameKey": "colonel_sniper",
-    "point": 23,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "colonel-sniper.webp"
-  },
-  {
-    "id": 451,
-    "nameKey": "earth_elemental_goliath",
-    "point": 23,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "earth-elemental-goliath.webp"
-  },
-  {
-    "id": 89,
-    "nameKey": "kamiki_card",
-    "point": 24,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "kamiki-card.webp"
-  },
-  {
-    "id": 92,
-    "nameKey": "basilisk_card",
-    "point": 24,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "basilisk-card.webp"
-  },
-  {
-    "id": 98,
-    "nameKey": "dark_troll_card",
-    "point": 24,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "dark-troll-card.webp"
-  },
-  {
-    "id": 113,
-    "nameKey": "black_fairy_queen_card",
-    "point": 24,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "black-fairy-queen-card.webp"
-  },
-  {
-    "id": 150,
-    "nameKey": "decoy_card",
-    "point": 24,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "decoy-card.webp"
-  },
-  {
-    "id": 159,
-    "nameKey": "hera_card",
-    "point": 24,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "hera-card.webp"
-  },
-  {
-    "id": 137,
-    "nameKey": "magmok_card",
-    "point": 25,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "magmok-card.webp"
-  },
-  {
-    "id": 142,
-    "nameKey": "aron_card",
-    "point": 25,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "aron-card.webp"
-  },
-  {
-    "id": 90,
-    "nameKey": "mongban_leader_card",
-    "point": 26,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "mongban-leader-card.webp"
-  },
-  {
-    "id": 94,
-    "nameKey": "dark_mongban_card",
-    "point": 26,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "dark-mongban-card.webp"
-  },
-  {
-    "id": 100,
-    "nameKey": "final_kaze_aze_card",
-    "point": 26,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "final-kaze-aze-card.webp"
-  },
-  {
-    "id": 104,
-    "nameKey": "cyclops_card",
-    "point": 26,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "cyclops-card.webp"
-  },
-  {
-    "id": 110,
-    "nameKey": "giant_stone_golem_card",
-    "point": 26,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "giant-stone-golem-card.webp"
-  },
-  {
-    "id": 121,
-    "nameKey": "mutant_skeleton_card",
-    "point": 26,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "mutant-skeleton-card.webp"
-  },
-  {
-    "id": 139,
-    "nameKey": "ice_wyrm_spawn_card",
-    "point": 26,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "ice-wyrm-spawn-card.webp"
-  },
-  {
-    "id": 141,
-    "nameKey": "endarion_card",
-    "point": 26,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "endarion-card.webp"
-  },
-  {
-    "id": 146,
-    "nameKey": "dk_mark_1_card",
-    "point": 26,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "dk-mark-1-card.webp"
-  },
-  {
-    "id": 127,
-    "nameKey": "gashimon_card",
-    "point": 27,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "gashimon-card.webp"
-  },
-  {
-    "id": 149,
-    "nameKey": "poisonous_thorn_monster_card",
-    "point": 27,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "poisonous-thorn-monster-card.webp"
-  },
-  {
-    "id": 158,
-    "nameKey": "dark_hierophant_card",
-    "point": 27,
-    "group": 3,
-    "rate": 0.009615384615384616,
-    "region": "",
-    "groupCount": 104,
-    "image": "dark-hierophant-card.webp"
+    "image": "65.webp"
   },
   {
     "id": 66,
-    "nameKey": "stone_clan_goblin_card",
     "point": 28,
     "group": 3,
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "stone-clan-goblin-card.webp"
+    "image": "66.webp"
   },
   {
     "id": 74,
-    "nameKey": "underpass_larva_card",
     "point": 28,
     "group": 3,
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "underpass-larva-card.webp"
+    "image": "74.webp"
   },
   {
-    "id": 136,
-    "nameKey": "iron_guard_card",
-    "point": 28,
+    "id": 86,
+    "point": 19,
     "group": 3,
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "iron-guard-card.webp"
+    "image": "86.webp"
   },
   {
-    "id": 173,
-    "nameKey": "iron_dwart_engineer_card",
-    "point": 28,
+    "id": 88,
+    "point": 22,
     "group": 3,
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "iron-dwart-engineer-card.webp"
+    "image": "88.webp"
+  },
+  {
+    "id": 89,
+    "point": 24,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "89.webp"
+  },
+  {
+    "id": 90,
+    "point": 26,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "90.webp"
+  },
+  {
+    "id": 92,
+    "point": 24,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "92.webp"
+  },
+  {
+    "id": 93,
+    "point": 17,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "93.webp"
+  },
+  {
+    "id": 94,
+    "point": 26,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "94.webp"
+  },
+  {
+    "id": 95,
+    "point": 22,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "95.webp"
+  },
+  {
+    "id": 96,
+    "point": 18,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "96.webp"
+  },
+  {
+    "id": 98,
+    "point": 24,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "98.webp"
+  },
+  {
+    "id": 99,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "99.webp"
+  },
+  {
+    "id": 100,
+    "point": 26,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "100.webp"
+  },
+  {
+    "id": 102,
+    "point": 16,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "102.webp"
+  },
+  {
+    "id": 103,
+    "point": 19,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "103.webp"
+  },
+  {
+    "id": 104,
+    "point": 26,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "104.webp"
+  },
+  {
+    "id": 106,
+    "point": 19,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "106.webp"
+  },
+  {
+    "id": 107,
+    "point": 16,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "107.webp"
+  },
+  {
+    "id": 108,
+    "point": 17,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "108.webp"
+  },
+  {
+    "id": 109,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "109.webp"
+  },
+  {
+    "id": 110,
+    "point": 26,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "110.webp"
+  },
+  {
+    "id": 111,
+    "point": 22,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "111.webp"
+  },
+  {
+    "id": 112,
+    "point": 22,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "112.webp"
+  },
+  {
+    "id": 113,
+    "point": 24,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "113.webp"
+  },
+  {
+    "id": 115,
+    "point": 23,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "115.webp"
+  },
+  {
+    "id": 116,
+    "point": 18,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "116.webp"
+  },
+  {
+    "id": 117,
+    "point": 18,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "117.webp"
+  },
+  {
+    "id": 117,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "117.webp"
   },
   {
     "id": 119,
-    "nameKey": "beholder_card",
     "point": 29,
     "group": 3,
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "beholder-card.webp"
+    "image": "119.webp"
+  },
+  {
+    "id": 121,
+    "point": 26,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "121.webp"
+  },
+  {
+    "id": 124,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "124.webp"
+  },
+  {
+    "id": 125,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "125.webp"
+  },
+  {
+    "id": 126,
+    "point": 16,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "126.webp"
+  },
+  {
+    "id": 127,
+    "point": 27,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "127.webp"
   },
   {
     "id": 128,
-    "nameKey": "vanessa_card",
     "point": 29,
     "group": 3,
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "vanessa-card.webp"
+    "image": "128.webp"
+  },
+  {
+    "id": 130,
+    "point": 16,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "130.webp"
+  },
+  {
+    "id": 132,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "132.webp"
+  },
+  {
+    "id": 134,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "134.webp"
+  },
+  {
+    "id": 135,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "135.webp"
+  },
+  {
+    "id": 136,
+    "point": 28,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "136.webp"
+  },
+  {
+    "id": 137,
+    "point": 25,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "137.webp"
+  },
+  {
+    "id": 139,
+    "point": 26,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "139.webp"
+  },
+  {
+    "id": 140,
+    "point": 18,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "140.webp"
+  },
+  {
+    "id": 141,
+    "point": 26,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "141.webp"
+  },
+  {
+    "id": 142,
+    "point": 25,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "142.webp"
+  },
+  {
+    "id": 144,
+    "point": 23,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "144.webp"
+  },
+  {
+    "id": 145,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "145.webp"
+  },
+  {
+    "id": 146,
+    "point": 26,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "146.webp"
+  },
+  {
+    "id": 149,
+    "point": 27,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "149.webp"
+  },
+  {
+    "id": 150,
+    "point": 24,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "150.webp"
+  },
+  {
+    "id": 158,
+    "point": 27,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "158.webp"
+  },
+  {
+    "id": 159,
+    "point": 24,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "159.webp"
+  },
+  {
+    "id": 173,
+    "point": 28,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "173.webp"
+  },
+  {
+    "id": 263,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "263.webp"
+  },
+  {
+    "id": 264,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "264.webp"
+  },
+  {
+    "id": 265,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "265.webp"
+  },
+  {
+    "id": 266,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "266.webp"
+  },
+  {
+    "id": 267,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "267.webp"
+  },
+  {
+    "id": 268,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "268.webp"
+  },
+  {
+    "id": 269,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "269.webp"
+  },
+  {
+    "id": 270,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "270.webp"
+  },
+  {
+    "id": 271,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "271.webp"
+  },
+  {
+    "id": 272,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "272.webp"
+  },
+  {
+    "id": 273,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "273.webp"
+  },
+  {
+    "id": 274,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "274.webp"
+  },
+  {
+    "id": 275,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "275.webp"
+  },
+  {
+    "id": 276,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "276.webp"
+  },
+  {
+    "id": 277,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "277.webp"
+  },
+  {
+    "id": 278,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "278.webp"
+  },
+  {
+    "id": 279,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "279.webp"
+  },
+  {
+    "id": 280,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "280.webp"
+  },
+  {
+    "id": 281,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "281.webp"
+  },
+  {
+    "id": 282,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "282.webp"
+  },
+  {
+    "id": 404,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "404.webp"
+  },
+  {
+    "id": 412,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "412.webp"
+  },
+  {
+    "id": 413,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "413.webp"
+  },
+  {
+    "id": 416,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "416.webp"
+  },
+  {
+    "id": 417,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "417.webp"
+  },
+  {
+    "id": 431,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "431.webp"
+  },
+  {
+    "id": 434,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "434.webp"
+  },
+  {
+    "id": 444,
+    "point": 23,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "444.webp"
+  },
+  {
+    "id": 448,
+    "point": 16,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "448.webp"
+  },
+  {
+    "id": 449,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "449.webp"
+  },
+  {
+    "id": 450,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "450.webp"
+  },
+  {
+    "id": 451,
+    "point": 23,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "451.webp"
+  },
+  {
+    "id": 453,
+    "point": 17,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "453.webp"
+  },
+  {
+    "id": 454,
+    "point": 19,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "454.webp"
+  },
+  {
+    "id": 455,
+    "point": 18,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "455.webp"
+  },
+  {
+    "id": 457,
+    "point": 16,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "457.webp"
+  },
+  {
+    "id": 461,
+    "point": 18,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "461.webp"
+  },
+  {
+    "id": 462,
+    "point": 16,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "462.webp"
+  },
+  {
+    "id": 463,
+    "point": 19,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "463.webp"
+  },
+  {
+    "id": 464,
+    "point": 21,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "464.webp"
   },
   {
     "id": 465,
-    "nameKey": "void_warrior",
     "point": 29,
     "group": 3,
     "rate": 0.009615384615384616,
     "region": "",
     "groupCount": 104,
-    "image": "void-warrior.webp"
+    "image": "465.webp"
+  },
+  {
+    "id": 609,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "609.webp"
+  },
+  {
+    "id": 616,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "616.webp"
+  },
+  {
+    "id": 617,
+    "point": 20,
+    "group": 3,
+    "rate": 0.009615384615384616,
+    "region": "",
+    "groupCount": 104,
+    "image": "617.webp"
   }
 ]

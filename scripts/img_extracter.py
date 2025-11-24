@@ -72,7 +72,7 @@ def optimize_image(image_bytes, max_width=300, quality=60, output_format='webp')
         return image_bytes, 'png'  # Return original if optimization fails
 
 
-def extract_images_from_pdf(pdf_path, output_folder="images/cards", optimize=True, 
+def extract_images_from_pdf(pdf_path, output_folder="images/cards-webp", optimize=True, 
                            max_width=800, quality=85, output_format='webp'):
     """
     Extract images from PDF and name them based on the English card name.
@@ -186,7 +186,7 @@ def extract_images_from_pdf(pdf_path, output_folder="images/cards", optimize=Tru
 # Usage
 if __name__ == "__main__":
     pdf_file = "card_image.pdf"  # Change this to your PDF filename
-    output_dir = "../images/cards"
+    output_dir = "../images/cards-webp"
     
     # WebP (BEST - smallest size, good quality)
     extract_images_from_pdf(

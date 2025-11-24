@@ -42,7 +42,7 @@ Extract card images from PDF file:
 python scripts/img_extracter.py
 ```
 
-**Output:** Images stored in `images/cards/`
+**Output:** Images stored in `images/cards-webp/`
 
 ### 4. Deploy to GitHub Pages
 ```bash
