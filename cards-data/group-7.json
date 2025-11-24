@@ -1,7 +1,12 @@
 [
   {
     "id": 213,
-    "nameKey": "amy_jin",
+    "names": {
+      "en": "Amy & Jin",
+      "kr": "에이미&진",
+      "br": "Amy & Jin",
+      "tw": "愛咪& 傑恩"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -11,7 +16,12 @@
   },
   {
     "id": 214,
-    "nameKey": "school_uniform",
+    "names": {
+      "en": "School Uniform",
+      "kr": "교복",
+      "br": "Escolar",
+      "tw": "校服"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -21,7 +31,12 @@
   },
   {
     "id": 215,
-    "nameKey": "chaos",
+    "names": {
+      "en": "Chaos",
+      "kr": "카오스",
+      "br": "Caos",
+      "tw": "渾沌"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -31,7 +46,12 @@
   },
   {
     "id": 216,
-    "nameKey": "dio_parasite",
+    "names": {
+      "en": "Dio & Parasite",
+      "kr": "디오&곱등이",
+      "br": "Dio & Parasita",
+      "tw": "迪奧& 蟋蟀"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -41,7 +61,12 @@
   },
   {
     "id": 217,
-    "nameKey": "rufus_lass",
+    "names": {
+      "en": "Rufus & Lass",
+      "kr": "루퍼스&라스",
+      "br": "Lupus & Lass",
+      "tw": "拉斯& 路帕斯"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -51,7 +76,12 @@
   },
   {
     "id": 218,
-    "nameKey": "ronan_e_harpe",
+    "names": {
+      "en": "Ronan e Harpe",
+      "kr": "로난&하르페",
+      "br": "Ronan e Harpe",
+      "tw": "羅納& 哈爾菲"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -61,7 +91,12 @@
   },
   {
     "id": 219,
-    "nameKey": "hero",
+    "names": {
+      "en": "Hero",
+      "kr": "HERO",
+      "br": "Heroi",
+      "tw": "Hero"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -71,7 +106,12 @@
   },
   {
     "id": 220,
-    "nameKey": "nutcracker_zero",
+    "names": {
+      "en": "Nutcracker Zero",
+      "kr": "호두까기 제로",
+      "br": "O Quebra-nozes, Zero",
+      "tw": "胡桃鉗傑洛"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -81,7 +121,12 @@
   },
   {
     "id": 221,
-    "nameKey": "dio_duell",
+    "names": {
+      "en": "Dio & Duell",
+      "kr": "디오&듀엘",
+      "br": "Dio & Duel",
+      "tw": "迪奧& 杜爾"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -91,7 +136,12 @@
   },
   {
     "id": 222,
-    "nameKey": "happy_new_year",
+    "names": {
+      "en": "Happy New Year",
+      "kr": "신년축하",
+      "br": "Ano Novo",
+      "tw": "祝賀新年"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -101,7 +151,12 @@
   },
   {
     "id": 517,
-    "nameKey": "renak",
+    "names": {
+      "en": "Renak",
+      "kr": "레낙",
+      "br": "Renak",
+      "tw": "雷娜克"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -111,7 +166,12 @@
   },
   {
     "id": 573,
-    "nameKey": "tyrant_belile",
+    "names": {
+      "en": "Tyrant Belile",
+      "kr": "폭군 베라일",
+      "br": "Tirano Belile",
+      "tw": "暴君偉萊爾"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -121,7 +181,12 @@
   },
   {
     "id": 586,
-    "nameKey": "corrupted_saint_gaian",
+    "names": {
+      "en": "Corrupted Saint Gaian",
+      "kr": "타락한 성자 가이안",
+      "br": "A Divindade Corrompida Gaian",
+      "tw": "墮落聖人蓋安"
+    },
     "point": 71,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -131,7 +196,12 @@
   },
   {
     "id": 592,
-    "nameKey": "voidal_devourer_2",
+    "names": {
+      "en": "Voidal Devourer 2",
+      "kr": "공허 포식자 2",
+      "br": "Devorador do Vazio 2",
+      "tw": "空許捕食者 2"
+    },
     "point": 73,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -141,7 +211,12 @@
   },
   {
     "id": 593,
-    "nameKey": "voidal_devourer_3",
+    "names": {
+      "en": "Voidal Devourer 3",
+      "kr": "공허 포식자 3",
+      "br": "Devorador do Vazio 3",
+      "tw": "空虛捕食者 3"
+    },
     "point": 75,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -151,7 +226,12 @@
   },
   {
     "id": 599,
-    "nameKey": "voidal_enforcer",
+    "names": {
+      "en": "Voidal Enforcer",
+      "kr": "공허 집행자",
+      "br": "Executor do Vazio",
+      "tw": "虛空執行者"
+    },
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -161,7 +241,12 @@
   },
   {
     "id": 600,
-    "nameKey": "voidal_gazer",
+    "names": {
+      "en": "Voidal Gazer",
+      "kr": "공허 주시자",
+      "br": "Observador do Vazio",
+      "tw": "虛空注視者"
+    },
     "point": 71,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -171,7 +256,12 @@
   },
   {
     "id": 606,
-    "nameKey": "unstable_creation",
+    "names": {
+      "en": "Unstable Creation",
+      "kr": "불안정한 창조물",
+      "br": "Criação Instável",
+      "tw": "不穩定創造物"
+    },
     "point": 68,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -181,7 +271,12 @@
   },
   {
     "id": 607,
-    "nameKey": "ashtaroth_the_creator",
+    "names": {
+      "en": "Ashtaroth the Creator",
+      "kr": "창조주 아스타롯",
+      "br": "Astaroth, O Criador",
+      "tw": "創造神阿斯塔羅斯"
+    },
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -191,7 +286,12 @@
   },
   {
     "id": 608,
-    "nameKey": "chaotic_witch",
+    "names": {
+      "en": "Chaotic Witch",
+      "kr": "혼돈의 마녀",
+      "br": "Bruxa do Caos",
+      "tw": "渾沌魔女"
+    },
     "point": 77,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -201,7 +301,12 @@
   },
   {
     "id": 618,
-    "nameKey": "swelling_swampland_port",
+    "names": {
+      "en": "Swelling Swampland Port",
+      "kr": "해리어 레낙의 심장부",
+      "br": "Porto Pantonoso Transbordante",
+      "tw": "海利爾雷娜克核心"
+    },
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -211,7 +316,12 @@
   },
   {
     "id": 619,
-    "nameKey": "temple_of_time",
+    "names": {
+      "en": "Temple of Time",
+      "kr": "시간의 사원",
+      "br": "Templo do Tempo",
+      "tw": "時之寺院"
+    },
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -221,7 +331,12 @@
   },
   {
     "id": 626,
-    "nameKey": "void",
+    "names": {
+      "en": "Void",
+      "kr": "공허",
+      "br": "Vazio",
+      "tw": "虛空"
+    },
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -231,7 +346,12 @@
   },
   {
     "id": 640,
-    "nameKey": "voidal_apostle_nightmare_1",
+    "names": {
+      "en": "Voidal Apostle (Nightmare) 1",
+      "kr": "공허의 사도 (악몽) 1",
+      "br": "Apóstolo do Vazio(Pesadelo) 1",
+      "tw": "空虛使徒(惡夢)1"
+    },
     "point": 73,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -241,7 +361,12 @@
   },
   {
     "id": 641,
-    "nameKey": "voidal_apostle_nightmare_2",
+    "names": {
+      "en": "Voidal Apostle (Nightmare) 2",
+      "kr": "공허의 사도 (악몽) 2",
+      "br": "póstolo do Vazio(Pesadelo) 2",
+      "tw": "空虛使徒(惡夢)2"
+    },
     "point": 75,
     "group": 7,
     "rate": 0.038461538461538464,
@@ -251,7 +376,12 @@
   },
   {
     "id": 642,
-    "nameKey": "abyssal_dominator",
+    "names": {
+      "en": "Abyssal Dominator",
+      "kr": "심연의 지배자",
+      "br": "Dominador Abissal",
+      "tw": "深淵統治者"
+    },
     "point": 74,
     "group": 7,
     "rate": 0.038461538461538464,

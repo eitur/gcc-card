@@ -1,7 +1,12 @@
 [
   {
     "id": 172,
-    "nameKey": "sand_ruler_card",
+    "names": {
+      "en": "Sand Ruler Card",
+      "kr": "샌드룰러 카드",
+      "br": "Carta Escaravelho do Deserto",
+      "tw": "沙之尺"
+    },
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -11,7 +16,12 @@
   },
   {
     "id": 177,
-    "nameKey": "sentry_keeper_no_1_card",
+    "names": {
+      "en": "Sentry Keeper No.1 Card",
+      "kr": "센트리 키퍼 1호 카드",
+      "br": "Carta Sentinela No.1",
+      "tw": "中心守衛1號"
+    },
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -21,7 +31,12 @@
   },
   {
     "id": 194,
-    "nameKey": "arawn_card",
+    "names": {
+      "en": "Arawn Card",
+      "kr": "아론 카드",
+      "br": "Carta Aron",
+      "tw": "亞倫"
+    },
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -31,7 +46,12 @@
   },
   {
     "id": 200,
-    "nameKey": "veron",
+    "names": {
+      "en": "Veron",
+      "kr": "베른 카드",
+      "br": "Carta Vairne",
+      "tw": "貝倫"
+    },
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -41,7 +61,12 @@
   },
   {
     "id": 201,
-    "nameKey": "drawl",
+    "names": {
+      "en": "Drawl",
+      "kr": "드랄 카드",
+      "br": "Carta Drall",
+      "tw": "德拉爾"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -51,7 +76,12 @@
   },
   {
     "id": 204,
-    "nameKey": "arme_lass",
+    "names": {
+      "en": "Arme & Lass",
+      "kr": "아르메&라스",
+      "br": "Arme & Lass",
+      "tw": "亞梅 & 拉斯"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -61,7 +91,12 @@
   },
   {
     "id": 205,
-    "nameKey": "seighart_mari",
+    "names": {
+      "en": "Seighart & Mari",
+      "kr": "지크&마리",
+      "br": "Seighart & Mari",
+      "tw": "賽格特 & 瑪莉"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -71,7 +106,12 @@
   },
   {
     "id": 206,
-    "nameKey": "lire_lass",
+    "names": {
+      "en": "Lire & Lass",
+      "kr": "리르&라스",
+      "br": "Lire & Lass",
+      "tw": "利樂& 拉斯"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -81,7 +121,12 @@
   },
   {
     "id": 207,
-    "nameKey": "elesis_jin",
+    "names": {
+      "en": "Elesis & Jin",
+      "kr": "엘리시스&진",
+      "br": "Elesis & Jin",
+      "tw": "愛麗絲& 杰恩"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -91,7 +136,12 @@
   },
   {
     "id": 208,
-    "nameKey": "elesis_lass",
+    "names": {
+      "en": "Elesis & Lass",
+      "kr": "엘리시스&라스",
+      "br": "Elesis & Lass",
+      "tw": "愛麗絲& 拉斯5.39"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -101,7 +151,12 @@
   },
   {
     "id": 209,
-    "nameKey": "lire_dio",
+    "names": {
+      "en": "Lire & Dio",
+      "kr": "리르&디오",
+      "br": "Lire & Dio",
+      "tw": "利樂& 迪奧"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -111,7 +166,12 @@
   },
   {
     "id": 210,
-    "nameKey": "elesis_lass",
+    "names": {
+      "en": "Elesis & Lass",
+      "kr": "엘리시스&라스",
+      "br": "Elesis & Lass",
+      "tw": "愛麗絲& 拉斯5.67"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -121,7 +181,12 @@
   },
   {
     "id": 211,
-    "nameKey": "housekeddping",
+    "names": {
+      "en": "HouseKeddping",
+      "kr": "메이드",
+      "br": "Criados",
+      "tw": "女僕"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -131,7 +196,12 @@
   },
   {
     "id": 212,
-    "nameKey": "ley_jeeves",
+    "names": {
+      "en": "Ley & Jeeves",
+      "kr": "레이&지브스",
+      "br": "Rey & James",
+      "tw": "蕾& 吉維斯"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -141,7 +211,12 @@
   },
   {
     "id": 360,
-    "nameKey": "dahlia",
+    "names": {
+      "en": "Dahlia",
+      "kr": "정예군 단장 달리아",
+      "br": "Daliah",
+      "tw": "精銳軍團長戴利婭"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -151,7 +226,12 @@
   },
   {
     "id": 365,
-    "nameKey": "quoronnos",
+    "names": {
+      "en": "Quoronnos",
+      "kr": "크로모스",
+      "br": "Chromos",
+      "tw": "克羅默斯"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -161,7 +241,12 @@
   },
   {
     "id": 369,
-    "nameKey": "berkas",
+    "names": {
+      "en": "Berkas",
+      "kr": "베르카스",
+      "br": "Berkas",
+      "tw": "貝爾卡斯"
+    },
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -171,7 +256,12 @@
   },
   {
     "id": 381,
-    "nameKey": "khufu",
+    "names": {
+      "en": "Khufu",
+      "kr": "쿠푸와 사막전갈",
+      "br": "Kupu",
+      "tw": "胡夫與沙漠蠍子"
+    },
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -181,7 +271,12 @@
   },
   {
     "id": 386,
-    "nameKey": "carle",
+    "names": {
+      "en": "Carle",
+      "kr": "카르트",
+      "br": "Karle",
+      "tw": "卡勒特"
+    },
     "point": 58,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -191,7 +286,12 @@
   },
   {
     "id": 396,
-    "nameKey": "the_immortal_barakhufu",
+    "names": {
+      "en": "The Immortal Barakhufu",
+      "kr": "불멸의 바라쿱",
+      "br": "Barakhufu Imortal",
+      "tw": "不滅的巴勒庫"
+    },
     "point": 58,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -201,7 +301,12 @@
   },
   {
     "id": 401,
-    "nameKey": "ashtaroth",
+    "names": {
+      "en": "Ashtaroth",
+      "kr": "아스타롯",
+      "br": "Astaroth",
+      "tw": "阿斯塔羅斯"
+    },
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -211,7 +316,12 @@
   },
   {
     "id": 402,
-    "nameKey": "ashtaroth_2nd_phase",
+    "names": {
+      "en": "Ashtaroth (2nd Phase)",
+      "kr": "마-아스타롯",
+      "br": "Astaroth Demoníaco",
+      "tw": "魔-阿斯塔羅斯"
+    },
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -221,7 +331,12 @@
   },
   {
     "id": 403,
-    "nameKey": "ashtaroth_final_phase",
+    "names": {
+      "en": "Ashtaroth (Final Phase)",
+      "kr": "신-아스타롯",
+      "br": "Deus Astaroth",
+      "tw": "神-阿斯塔羅斯"
+    },
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -231,7 +346,12 @@
   },
   {
     "id": 478,
-    "nameKey": "aldeon",
+    "names": {
+      "en": "Aldeon",
+      "kr": "알데온",
+      "br": "Aldeon",
+      "tw": "阿爾迪翁"
+    },
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -241,7 +361,12 @@
   },
   {
     "id": 481,
-    "nameKey": "zekars",
+    "names": {
+      "en": "Zekars",
+      "kr": "제카스",
+      "br": "Zekars",
+      "tw": "澤卡斯"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -251,7 +376,12 @@
   },
   {
     "id": 484,
-    "nameKey": "harrier_great_gatekeeper",
+    "names": {
+      "en": "Harrier Great Gatekeeper",
+      "kr": "해리어 상급 수문장",
+      "br": "Grande Guardião Harrier",
+      "tw": "海利爾上級鬥神"
+    },
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -261,7 +391,12 @@
   },
   {
     "id": 485,
-    "nameKey": "harrier_giant_frillzard",
+    "names": {
+      "en": "Harrier Giant Frillzard",
+      "kr": "해리어 자이언트 프릴자드",
+      "br": "Lagarto Gigante Harrier",
+      "tw": "海利爾巨形普利紮特"
+    },
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -271,7 +406,12 @@
   },
   {
     "id": 489,
-    "nameKey": "crookan",
+    "names": {
+      "en": "Crookan",
+      "kr": "클루칸",
+      "br": "Crookan",
+      "tw": "克魯砍"
+    },
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -281,7 +421,12 @@
   },
   {
     "id": 491,
-    "nameKey": "scorpra",
+    "names": {
+      "en": "Scorpra",
+      "kr": "스콜프라",
+      "br": "Scorpra",
+      "tw": "斯柯普拉"
+    },
     "point": 63,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -291,7 +436,12 @@
   },
   {
     "id": 493,
-    "nameKey": "zalos",
+    "names": {
+      "en": "Zalos",
+      "kr": "잘로스",
+      "br": "Zalos",
+      "tw": "札洛特"
+    },
     "point": 63,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -301,7 +451,12 @@
   },
   {
     "id": 496,
-    "nameKey": "harrier_dark_paramon",
+    "names": {
+      "en": "Harrier Dark Paramon",
+      "kr": "해리어 다크 파라돔",
+      "br": "Paradom Negro Harrier",
+      "tw": "海利爾黑暗發射器"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -311,7 +466,12 @@
   },
   {
     "id": 497,
-    "nameKey": "skeram",
+    "names": {
+      "en": "Skeram",
+      "kr": "스케람",
+      "br": "Skeram",
+      "tw": "斯克拉姆"
+    },
     "point": 65,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -321,7 +481,12 @@
   },
   {
     "id": 499,
-    "nameKey": "harrier_commander_the_dark_sword",
+    "names": {
+      "en": "Harrier Commander 'The Dark Sword'",
+      "kr": "해리어 마군단 흑검 대장",
+      "br": "Mestre Espadachim Demoníaco Harrier",
+      "tw": "海利爾魔界軍團黑劍隊長"
+    },
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -331,7 +496,12 @@
   },
   {
     "id": 501,
-    "nameKey": "harrier_cavalry_general",
+    "names": {
+      "en": "Harrier Cavalry General",
+      "kr": "해리어 기병 대장",
+      "br": "General da Cavalaria Harrier",
+      "tw": "海利爾騎兵隊長"
+    },
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -341,7 +511,12 @@
   },
   {
     "id": 504,
-    "nameKey": "scurvian",
+    "names": {
+      "en": "Scurvian",
+      "kr": "스커비안",
+      "br": "Scurvian",
+      "tw": "斯克維安"
+    },
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -351,7 +526,12 @@
   },
   {
     "id": 506,
-    "nameKey": "raid_storm",
+    "names": {
+      "en": "Raid Storm",
+      "kr": "레이드 스톰",
+      "br": "Tempestade Furiosa Harrier",
+      "tw": "海利爾風暴"
+    },
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -361,7 +541,12 @@
   },
   {
     "id": 508,
-    "nameKey": "harrier_dwarl_royal_guard",
+    "names": {
+      "en": "Harrier Dwarl Royal Guard",
+      "kr": "해리어 드워프 로얄가드",
+      "br": "Anão Guarda Real Harrier",
+      "tw": "海利爾小矮人皇家守衛"
+    },
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -371,7 +556,12 @@
   },
   {
     "id": 510,
-    "nameKey": "harrier_cyclops_commander",
+    "names": {
+      "en": "Harrier Cyclops Commander",
+      "kr": "해리어 사이클롭스 사령관",
+      "br": "Ciclope Comandante Harrier",
+      "tw": "海利爾獨眼巨人司令官"
+    },
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -381,7 +571,12 @@
   },
   {
     "id": 511,
-    "nameKey": "crevma",
+    "names": {
+      "en": "Crevma",
+      "kr": "크레브마",
+      "br": "Crevma",
+      "tw": "克里夫瑪"
+    },
     "point": 65,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -391,7 +586,12 @@
   },
   {
     "id": 516,
-    "nameKey": "harrier_dark_hierophant",
+    "names": {
+      "en": "Harrier Dark Hierophant",
+      "kr": "해리어 상급 암흑사제",
+      "br": "Sacerdote Negro Harrier",
+      "tw": "海利爾上級黑暗祭司"
+    },
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -401,7 +601,12 @@
   },
   {
     "id": 520,
-    "nameKey": "harrier_brutus",
+    "names": {
+      "en": "Harrier Brutus",
+      "kr": "해리어 브루터스",
+      "br": "Brutus Harrier",
+      "tw": "海利爾布魯斯特"
+    },
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -411,7 +616,12 @@
   },
   {
     "id": 526,
-    "nameKey": "sand_storm",
+    "names": {
+      "en": "Sand Storm",
+      "kr": "샌드 스톰",
+      "br": "Tempestade Arenosa Harrier",
+      "tw": "沙塵暴"
+    },
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -421,7 +631,12 @@
   },
   {
     "id": 528,
-    "nameKey": "harrier_aron",
+    "names": {
+      "en": "Harrier Aron",
+      "kr": "해리어 샤크아론",
+      "br": "Sharkaron Harrier",
+      "tw": "海利爾鯊魚阿隆"
+    },
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -431,7 +646,12 @@
   },
   {
     "id": 529,
-    "nameKey": "rofnus",
+    "names": {
+      "en": "Rofnus",
+      "kr": "로푸누스",
+      "br": "Rofnus",
+      "tw": "洛普努斯"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -441,7 +661,12 @@
   },
   {
     "id": 534,
-    "nameKey": "harrier_apostle_of_revelation",
+    "names": {
+      "en": "Harrier Apostle of Revelation",
+      "kr": "해리어 신탁의 사도",
+      "br": "Apóstolo Da Revelação Harrier",
+      "tw": "海利爾神諭的使徒"
+    },
     "point": 58,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -451,7 +676,12 @@
   },
   {
     "id": 536,
-    "nameKey": "searetone",
+    "names": {
+      "en": "Searetone",
+      "kr": "세아레톤",
+      "br": "Seareton",
+      "tw": "席亞雷通"
+    },
     "point": 66,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -461,7 +691,12 @@
   },
   {
     "id": 537,
-    "nameKey": "harrier_slow_stone",
+    "names": {
+      "en": "Harrier Slow Stone",
+      "kr": "해리어 슬로우 스톤",
+      "br": "Rocha Lenta Harrier",
+      "tw": "海利爾慢石"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -471,7 +706,12 @@
   },
   {
     "id": 538,
-    "nameKey": "harrier_hera",
+    "names": {
+      "en": "Harrier Hera",
+      "kr": "해리어 헤라",
+      "br": "Hera Harrier",
+      "tw": "海利爾赫拉"
+    },
     "point": 57,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -481,7 +721,12 @@
   },
   {
     "id": 541,
-    "nameKey": "harrierlang",
+    "names": {
+      "en": "Harrierlang",
+      "kr": "해리어 세이버투스",
+      "br": "Dente de Sabre Harrier",
+      "tw": "海利爾劍齒虎"
+    },
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -491,7 +736,12 @@
   },
   {
     "id": 560,
-    "nameKey": "iron_squard_commander",
+    "names": {
+      "en": "Iron Squard Commander",
+      "kr": "강철 분대장",
+      "br": "Líder do Esquadrão de Aço",
+      "tw": "鋼鐵分隊長"
+    },
     "point": 59,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -501,7 +751,12 @@
   },
   {
     "id": 562,
-    "nameKey": "iron_cannon",
+    "names": {
+      "en": "Iron Cannon",
+      "kr": "강철 대포",
+      "br": "Artilharia de Aço",
+      "tw": "鋼鐵大砲"
+    },
     "point": 59,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -511,7 +766,12 @@
   },
   {
     "id": 563,
-    "nameKey": "invincible_iron_knight_dullahan",
+    "names": {
+      "en": "Invincible Iron Knight Dullahan",
+      "kr": "무적의 철기사 듀라한",
+      "br": "Cavaleiro de Ferro",
+      "tw": "無敵鋼鐵騎士杜拉漢"
+    },
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -521,7 +781,12 @@
   },
   {
     "id": 565,
-    "nameKey": "goblin_strongman",
+    "names": {
+      "en": "Goblin Strongman",
+      "kr": "고블린 힘꾼",
+      "br": "Goblin Forte",
+      "tw": "哥布林大力士"
+    },
     "point": 59,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -531,7 +796,12 @@
   },
   {
     "id": 567,
-    "nameKey": "goblin_defense_wall",
+    "names": {
+      "en": "Goblin Defense Wall",
+      "kr": "고블린 방호벽",
+      "br": "Barreira Goblin",
+      "tw": "哥布林防護牆"
+    },
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -541,7 +811,12 @@
   },
   {
     "id": 568,
-    "nameKey": "dreadful_chieftain_urkah",
+    "names": {
+      "en": "Dreadful Chieftain Urkah",
+      "kr": "공포의 족장 우르카",
+      "br": "Chefe do Terror Urca",
+      "tw": "恐怖族長烏爾卡"
+    },
     "point": 59,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -551,7 +826,12 @@
   },
   {
     "id": 571,
-    "nameKey": "wicked_stavrogin",
+    "names": {
+      "en": "Wicked Stavrogin",
+      "kr": "악덕한 스타브로긴",
+      "br": "Perverso Stavrogin",
+      "tw": "惡漢塔夫羅金"
+    },
     "point": 62,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -561,7 +841,12 @@
   },
   {
     "id": 572,
-    "nameKey": "greedy_stavrogin",
+    "names": {
+      "en": "Greedy Stavrogin",
+      "kr": "탐욕의 스타브로긴",
+      "br": "Ganancioso Stavrogin",
+      "tw": "貪心的塔夫羅金"
+    },
     "point": 64,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -571,7 +856,12 @@
   },
   {
     "id": 578,
-    "nameKey": "shadow_apostle",
+    "names": {
+      "en": "Shadow Apostle",
+      "kr": "그림자 신도",
+      "br": "Apóstolo Sombrio",
+      "tw": "影子信徒"
+    },
     "point": 58,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -581,7 +871,12 @@
   },
   {
     "id": 581,
-    "nameKey": "sentry_drone",
+    "names": {
+      "en": "Sentry Drone",
+      "kr": "경비 드론",
+      "br": "Drone Sentinela",
+      "tw": "無人機守衛"
+    },
     "point": 58,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -591,7 +886,12 @@
   },
   {
     "id": 584,
-    "nameKey": "indolent_dr_molly",
+    "names": {
+      "en": "Indolent Dr.Molly",
+      "kr": "나태한 박사 몰리",
+      "br": "A Preguiçosa Dra. Molly",
+      "tw": "怠惰茉莉博士"
+    },
     "point": 63,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -601,7 +901,12 @@
   },
   {
     "id": 585,
-    "nameKey": "temple_guardian",
+    "names": {
+      "en": "Temple Guardian",
+      "kr": "사원의 수호자",
+      "br": "Guardião do Templo",
+      "tw": "寺院守護者"
+    },
     "point": 66,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -611,7 +916,12 @@
   },
   {
     "id": 590,
-    "nameKey": "voidal_invader",
+    "names": {
+      "en": "Voidal Invader",
+      "kr": "공허 침략자",
+      "br": "Invasor do Vazio",
+      "tw": "虛空侵略者"
+    },
     "point": 64,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -621,7 +931,12 @@
   },
   {
     "id": 591,
-    "nameKey": "voidal_devourer_1",
+    "names": {
+      "en": "Voidal Devourer 1",
+      "kr": "공허 포식자 1",
+      "br": "Devorador do Vazio 1",
+      "tw": "空許捕食者 1"
+    },
     "point": 61,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -631,7 +946,12 @@
   },
   {
     "id": 596,
-    "nameKey": "jack_o_lanten",
+    "names": {
+      "en": "Jack-O-Lanten",
+      "kr": "잭 오 랜턴",
+      "br": "Jack da Lanterna",
+      "tw": "南瓜燈"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -641,7 +961,12 @@
   },
   {
     "id": 597,
-    "nameKey": "voidal_sentry",
+    "names": {
+      "en": "Voidal Sentry",
+      "kr": "공허 파수꾼",
+      "br": "Sentinela do Vazio",
+      "tw": "虛空守衛"
+    },
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -651,7 +976,12 @@
   },
   {
     "id": 598,
-    "nameKey": "voidal_crusher",
+    "names": {
+      "en": "Voidal Crusher",
+      "kr": "공허 파쇄꾼",
+      "br": "Demolidor do Vazio",
+      "tw": "虛空破壞者"
+    },
     "point": 56,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -661,7 +991,12 @@
   },
   {
     "id": 623,
-    "nameKey": "tower_of_disappearance",
+    "names": {
+      "en": "Tower of Disappearance",
+      "kr": "소멸의 탑",
+      "br": "Torre da Extinção",
+      "tw": "消亡之塔"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -671,7 +1006,12 @@
   },
   {
     "id": 624,
-    "nameKey": "land_of_judgment",
+    "names": {
+      "en": "Land of Judgment",
+      "kr": "심판의 땅",
+      "br": "Terra do Julgamento",
+      "tw": "審判之地"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -681,7 +1021,12 @@
   },
   {
     "id": 625,
-    "nameKey": "berkas_lair",
+    "names": {
+      "en": "Berkas'Lair",
+      "kr": "베르카스의 요새",
+      "br": "Covil de Berkas",
+      "tw": "貝爾卡斯要塞"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,
@@ -691,7 +1036,12 @@
   },
   {
     "id": 639,
-    "nameKey": "bloodshadow_card",
+    "names": {
+      "en": "BloodShadow Card",
+      "kr": "혈영 카드",
+      "br": "Carta do Sombra Sangrenta",
+      "tw": "血影"
+    },
     "point": 60,
     "group": 6,
     "rate": 0.014285714285714285,

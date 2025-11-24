@@ -1,7 +1,12 @@
 [
   {
     "id": 29,
-    "nameKey": "mongban_card",
+    "names": {
+      "en": "Mongban Card",
+      "kr": "Mongban Card",
+      "br": "Mongban Card",
+      "tw": "Mongban Card"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -11,7 +16,12 @@
   },
   {
     "id": 627,
-    "nameKey": "infinite_cloister_golem_of_time",
+    "names": {
+      "en": "Infinite Cloister - Golem of Time",
+      "kr": "무한회랑-시간의 골렘",
+      "br": "Claustro Infinito - Golem do Tempo",
+      "tw": "Infinite Cloister - Golem of Time"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -21,7 +31,12 @@
   },
   {
     "id": 628,
-    "nameKey": "infinite_cloister_morid",
+    "names": {
+      "en": "Infinite Cloister - Morid",
+      "kr": "무한회랑-모리드",
+      "br": "Claustro Infinito - Morid",
+      "tw": "Infinite Cloister - Morid"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -31,7 +46,12 @@
   },
   {
     "id": 629,
-    "nameKey": "infinite_cloister_urkah",
+    "names": {
+      "en": "Infinite Cloister - Urkah",
+      "kr": "무한회랑-우르카",
+      "br": "Claustro Infinito - Urca",
+      "tw": "Infinite Cloister - Urkah"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -41,7 +61,12 @@
   },
   {
     "id": 630,
-    "nameKey": "infinite_cloister_duel_i",
+    "names": {
+      "en": "Infinite Cloister - Duel (I)",
+      "kr": "무한회랑-듀엘(I)",
+      "br": "Claustro Infinito - Duel(I)",
+      "tw": "Infinite Cloister - Duel (I)"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -51,7 +76,12 @@
   },
   {
     "id": 631,
-    "nameKey": "infinite_cloister_duel_ii",
+    "names": {
+      "en": "Infinite Cloister - Duel (II)",
+      "kr": "무한회랑-듀엘(II)",
+      "br": "Claustro Infinito - Duel(II)",
+      "tw": "Infinite Cloister - Duel (II)"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -61,7 +91,12 @@
   },
   {
     "id": 632,
-    "nameKey": "infinite_cloister_duel_iii",
+    "names": {
+      "en": "Infinite Cloister - Duel (III)",
+      "kr": "무한회랑-듀엘(III)",
+      "br": "Claustro Infinito - Duel(III)",
+      "tw": "Infinite Cloister - Duel (III)"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -71,7 +106,12 @@
   },
   {
     "id": 633,
-    "nameKey": "infinite_cloister_tarik",
+    "names": {
+      "en": "Infinite Cloister - Tarik",
+      "kr": "무한회랑-타리크",
+      "br": "Claustro Infinito - Tarik",
+      "tw": "Infinite Cloister - Tarik"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -81,7 +121,12 @@
   },
   {
     "id": 634,
-    "nameKey": "infinite_cloister_unstable_creation",
+    "names": {
+      "en": "Infinite Cloister - Unstable Creation",
+      "kr": "무한회랑-불안정한 창조물",
+      "br": "Claustro Infinito - Criação Instável",
+      "tw": "Infinite Cloister - Unstable Creation"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -91,7 +136,12 @@
   },
   {
     "id": 635,
-    "nameKey": "infinite_cloister_throne_control_system",
+    "names": {
+      "en": "Infinite Cloister - Throne Control System",
+      "kr": "무한회랑-옥좌 관제 시스템",
+      "br": "Claustro Infinito - Sistema de Controle do Trono",
+      "tw": "Infinite Cloister - Throne Control System"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -101,7 +151,12 @@
   },
   {
     "id": 636,
-    "nameKey": "infinite_cloister_rofnus",
+    "names": {
+      "en": "Infinite Cloister - Rofnus",
+      "kr": "무한회랑-로프누스",
+      "br": "Claustro Infinito - Rofnus",
+      "tw": "Infinite Cloister - Rofnus"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -111,7 +166,12 @@
   },
   {
     "id": 637,
-    "nameKey": "infinite_cloister_skeram",
+    "names": {
+      "en": "Infinite Cloister -  Skeram",
+      "kr": "무한회랑-스케람",
+      "br": "Claustro Infinito - Skeram",
+      "tw": "Infinite Cloister -  Skeram"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -121,7 +181,12 @@
   },
   {
     "id": 638,
-    "nameKey": "infinite_cloister_chaotic_witch",
+    "names": {
+      "en": "Infinite Cloister - Chaotic Witch",
+      "kr": "무한회랑-혼돈의 마녀",
+      "br": "Claustro Infinito - Bruxa do Caos",
+      "tw": "Infinite Cloister - Chaotic Witch"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -131,7 +196,12 @@
   },
   {
     "id": 643,
-    "nameKey": "void_avenger",
+    "names": {
+      "en": "Void Avenger",
+      "kr": "보이드 어벤져",
+      "br": "Vingador do Vazio",
+      "tw": "Void Avenger"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -141,7 +211,12 @@
   },
   {
     "id": 644,
-    "nameKey": "fallen_fake_saint_gaian",
+    "names": {
+      "en": "Fallen (Fake) Saint Gaian",
+      "kr": "타락한 성자 가(짜)이안",
+      "br": "Divindade Cáida (Falso) Gaian",
+      "tw": "Fallen (Fake) Saint Gaian"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -151,7 +226,12 @@
   },
   {
     "id": 645,
-    "nameKey": "unknown_gon_warrior",
+    "names": {
+      "en": "Unknown Gon Warrior",
+      "kr": "의문의 곤 용사",
+      "br": "Guerreiro Gon Desconhecido",
+      "tw": "Unknown Gon Warrior"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -161,7 +241,12 @@
   },
   {
     "id": 646,
-    "nameKey": "infinite_cloister_ashtaroth_the_creator",
+    "names": {
+      "en": "Infinite Cloister - Ashtaroth the Creator",
+      "kr": "무한회랑-창조주 아스타롯",
+      "br": "Claustro Infinito - Astaroth, O Criador",
+      "tw": "Infinite Cloister - Ashtaroth the Creator"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -171,7 +256,12 @@
   },
   {
     "id": 647,
-    "nameKey": "infinite_cloister_dragon_knight",
+    "names": {
+      "en": "Infinite Cloister - Dragon Knight",
+      "kr": "무한회랑-용기병",
+      "br": "Claustro Infinito - Dragão Guerreiro",
+      "tw": "Infinite Cloister - Dragon Knight"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -181,7 +271,12 @@
   },
   {
     "id": 648,
-    "nameKey": "infinite_cloister_harbinger",
+    "names": {
+      "en": "Infinite Cloister - Harbinger",
+      "kr": "무한회랑-다크브링어",
+      "br": "Claustro Infinito - Encantrix",
+      "tw": "Infinite Cloister - Harbinger"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -191,7 +286,12 @@
   },
   {
     "id": 649,
-    "nameKey": "infinite_cloister_duel_iv",
+    "names": {
+      "en": "Infinite Cloister -  Duel (IV)",
+      "kr": "무한회랑-듀엘(VI)",
+      "br": "Claustro Infinito - Duel (IV)",
+      "tw": "Infinite Cloister -  Duel (IV)"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -201,7 +301,12 @@
   },
   {
     "id": 650,
-    "nameKey": "abyss_grim_reaper",
+    "names": {
+      "en": "[Abyss] Grim Reaper",
+      "kr": "[심연] 죽음 수확자",
+      "br": "[Abismo] Coletor de Morte",
+      "tw": "[Abyss] Grim Reaper"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -211,7 +316,12 @@
   },
   {
     "id": 651,
-    "nameKey": "abyss_guardian_ent",
+    "names": {
+      "en": "[Abyss] Guardian Ent",
+      "kr": "[심연] 에이션트 엔트",
+      "br": "[Abismo] Ente Antigo",
+      "tw": "[Abyss] Guardian Ent"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -221,7 +331,12 @@
   },
   {
     "id": 652,
-    "nameKey": "abyss_audrey",
+    "names": {
+      "en": "[Abyss] Audrey",
+      "kr": "[심연] 앙뜨와네트",
+      "br": "[Abismo] Antoinette",
+      "tw": "[Abyss] Audrey"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -231,7 +346,12 @@
   },
   {
     "id": 653,
-    "nameKey": "abyss_gardosen",
+    "names": {
+      "en": "[Abyss] Gardosen",
+      "kr": "[심연] 가도센",
+      "br": "[Abismo] Gadosen",
+      "tw": "[Abyss] Gardosen"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -241,7 +361,12 @@
   },
   {
     "id": 654,
-    "nameKey": "abyss_mynos",
+    "names": {
+      "en": "[Abyss] Mynos",
+      "kr": "[심연] 불타로스",
+      "br": "[Abismo] Bultaros",
+      "tw": "[Abyss] Mynos"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -251,7 +376,12 @@
   },
   {
     "id": 655,
-    "nameKey": "abyss_starkiln",
+    "names": {
+      "en": "[Abyss] Starkiln",
+      "kr": "[심연] 지그",
+      "br": "[Abismo] ZIG",
+      "tw": "[Abyss] Starkiln"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -261,7 +391,12 @@
   },
   {
     "id": 656,
-    "nameKey": "abyss_lord_perseo",
+    "names": {
+      "en": "[Abyss] Lord Perseo",
+      "kr": "[심연] 페리어트",
+      "br": "[Abismo] Periett",
+      "tw": "[Abyss] Lord Perseo"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -271,7 +406,12 @@
   },
   {
     "id": 657,
-    "nameKey": "abyss_sethek",
+    "names": {
+      "en": "[Abyss] Sethek",
+      "kr": "[심연] 세태쉬",
+      "br": "[Abismo] Setesh",
+      "tw": "[Abyss] Sethek"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -281,7 +421,12 @@
   },
   {
     "id": 658,
-    "nameKey": "abyss_sand_ruler",
+    "names": {
+      "en": "[Abyss] Sand Ruler",
+      "kr": "[심연] 샌드룰러",
+      "br": "[Abismo] Escaravelho do Deserto",
+      "tw": "[Abyss] Sand Ruler"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -291,7 +436,12 @@
   },
   {
     "id": 659,
-    "nameKey": "abyss_quoronnos",
+    "names": {
+      "en": "[Abyss] Quoronnos",
+      "kr": "[심연] 크로모스",
+      "br": "[Abismo] Chromos",
+      "tw": "[Abyss] Quoronnos"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -301,7 +451,12 @@
   },
   {
     "id": 660,
-    "nameKey": "abyss_aldeon",
+    "names": {
+      "en": "[Abyss] Aldeon",
+      "kr": "[심연] 알데온",
+      "br": "[Abismo] Aldeon",
+      "tw": "[Abyss] Aldeon"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -311,7 +466,12 @@
   },
   {
     "id": 661,
-    "nameKey": "abyss_crookan",
+    "names": {
+      "en": "[Abyss] Crookan",
+      "kr": "[심연] 클루칸",
+      "br": "[Abismo] Crookan",
+      "tw": "[Abyss] Crookan"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -321,7 +481,12 @@
   },
   {
     "id": 662,
-    "nameKey": "abyss_skeram",
+    "names": {
+      "en": "[Abyss] Skeram",
+      "kr": "[심연] 스케람",
+      "br": "[Abismo] Skeram",
+      "tw": "[Abyss] Skeram"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -331,7 +496,12 @@
   },
   {
     "id": 663,
-    "nameKey": "abyss_scorpra",
+    "names": {
+      "en": "[Abyss] Scorpra",
+      "kr": "[심연] 스콜프라",
+      "br": "[Abismo] Scorpra",
+      "tw": "[Abyss] Scorpra"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -341,7 +511,12 @@
   },
   {
     "id": 664,
-    "nameKey": "abyss_zekars",
+    "names": {
+      "en": "[Abyss] Zekars",
+      "kr": "[심연] 제카스",
+      "br": "[Abismo] Zekars Harrier",
+      "tw": "[Abyss] Zekars"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -351,7 +526,12 @@
   },
   {
     "id": 665,
-    "nameKey": "abyss_zalos",
+    "names": {
+      "en": "[Abyss] Zalos",
+      "kr": "[심연] 잘로스",
+      "br": "[Abismo] Zalos",
+      "tw": "[Abyss] Zalos"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -361,7 +541,12 @@
   },
   {
     "id": 666,
-    "nameKey": "abyss_rofnus",
+    "names": {
+      "en": "[Abyss] Rofnus",
+      "kr": "[심연] 로프누스",
+      "br": "[Abismo] Rofnos",
+      "tw": "[Abyss] Rofnus"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -371,7 +556,12 @@
   },
   {
     "id": 667,
-    "nameKey": "abyss_crevma",
+    "names": {
+      "en": "[Abyss] Crevma",
+      "kr": "[심연] 크레브마",
+      "br": "[Abismo] Crevma",
+      "tw": "[Abyss] Crevma"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -381,7 +571,12 @@
   },
   {
     "id": 668,
-    "nameKey": "abyss_searetone",
+    "names": {
+      "en": "[Abyss] Searetone",
+      "kr": "[심연] 세아레톤",
+      "br": "[Abismo] Seareton",
+      "tw": "[Abyss] Searetone"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -391,7 +586,12 @@
   },
   {
     "id": 669,
-    "nameKey": "abyss_temple_guardian",
+    "names": {
+      "en": "[Abyss] Temple Guardian",
+      "kr": "[심연] 사원의 수호자",
+      "br": "[Abismo] Guardião do Templo",
+      "tw": "[Abyss] Temple Guardian"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -401,7 +601,12 @@
   },
   {
     "id": 670,
-    "nameKey": "abyss_tyrant_belile",
+    "names": {
+      "en": "[Abyss] Tyrant Belile",
+      "kr": "[심연] 폭군 베라일",
+      "br": "[Abismo] Tirano Belile",
+      "tw": "[Abyss] Tyrant Belile"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -411,7 +616,12 @@
   },
   {
     "id": 671,
-    "nameKey": "abyss_fytros",
+    "names": {
+      "en": "[Abyss] Fytros",
+      "kr": "[심연] 로쉐",
+      "br": "[Abismo] Rocher",
+      "tw": "[Abyss] Fytros"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -421,7 +631,12 @@
   },
   {
     "id": 672,
-    "nameKey": "abyss_magmok",
+    "names": {
+      "en": "[Abyss] Magmok",
+      "kr": "[심연] 마그몬",
+      "br": "[Abismo] Magma Mon",
+      "tw": "[Abyss] Magmok"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -431,7 +646,12 @@
   },
   {
     "id": 673,
-    "nameKey": "abyss_mutated_skeleton",
+    "names": {
+      "en": "[Abyss] Mutated Skeleton",
+      "kr": "[심연] 변이스켈레톤",
+      "br": "[Abismo] Esqueleto Mutante",
+      "tw": "[Abyss] Mutated Skeleton"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -441,7 +661,12 @@
   },
   {
     "id": 674,
-    "nameKey": "abyss_beholder",
+    "names": {
+      "en": "[Abyss] Beholder",
+      "kr": "[심연] 비홀더",
+      "br": "[Abismo] Observador",
+      "tw": "[Abyss] Beholder"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -451,7 +676,12 @@
   },
   {
     "id": 675,
-    "nameKey": "abyss_scorpis",
+    "names": {
+      "en": "[Abyss] Scorpis",
+      "kr": "[심연] 스콜피스",
+      "br": "[Abismo] Escorpius",
+      "tw": "[Abyss] Scorpis"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -461,7 +691,12 @@
   },
   {
     "id": 676,
-    "nameKey": "abyss_vanessa",
+    "names": {
+      "en": "[Abyss] Vanessa",
+      "kr": "[심연] 바네사",
+      "br": "[Abismo] Venese",
+      "tw": "[Abyss] Vanessa"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -471,7 +706,12 @@
   },
   {
     "id": 677,
-    "nameKey": "abyss_aron",
+    "names": {
+      "en": "[Abyss] Aron",
+      "kr": "[심연] 샤크아론",
+      "br": "[Abismo] Sharkaron",
+      "tw": "[Abyss] Aron"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -481,7 +721,12 @@
   },
   {
     "id": 678,
-    "nameKey": "abyss_tartarus",
+    "names": {
+      "en": "[Abyss] Tartarus",
+      "kr": "[심연] 타이타로스",
+      "br": "[Abismo] Taitaros",
+      "tw": "[Abyss] Tartarus"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -491,7 +736,12 @@
   },
   {
     "id": 679,
-    "nameKey": "abyss_black_knight_shield_bearer",
+    "names": {
+      "en": "[Abyss] Black Knight Shield Bearer",
+      "kr": "[심연] 블랙나이츠 방패병",
+      "br": "[Abismo] Escudeiro Negro",
+      "tw": "[Abyss] Black Knight Shield Bearer"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -501,7 +751,12 @@
   },
   {
     "id": 680,
-    "nameKey": "abyss_black_knight_spearman",
+    "names": {
+      "en": "[Abyss] Black Knight Spearman",
+      "kr": "[심연] 블랙나이츠 창병",
+      "br": "[Abismo] Lanceiro Negro",
+      "tw": "[Abyss] Black Knight Spearman"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -511,7 +766,12 @@
   },
   {
     "id": 681,
-    "nameKey": "abyss_black_tempest",
+    "names": {
+      "en": "[Abyss] Black Tempest",
+      "kr": "[심연] 블랙 템페스트",
+      "br": "[Abismo] Tormenta Negra",
+      "tw": "[Abyss] Black Tempest"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -521,7 +781,12 @@
   },
   {
     "id": 682,
-    "nameKey": "abyss_wooden",
+    "names": {
+      "en": "[Abyss] Wooden",
+      "kr": "[심연] 우덴",
+      "br": "[Abismo] Mognum",
+      "tw": "[Abyss] Wooden"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -531,7 +796,12 @@
   },
   {
     "id": 683,
-    "nameKey": "abyss_brutus",
+    "names": {
+      "en": "[Abyss] Brutus",
+      "kr": "[심연] 브루터스",
+      "br": "[Abismo] Blutus",
+      "tw": "[Abyss] Brutus"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -541,7 +811,12 @@
   },
   {
     "id": 684,
-    "nameKey": "abyss_kungji",
+    "names": {
+      "en": "[Abyss] Kungji",
+      "kr": "[심연] 쿵지",
+      "br": "[Abismo] Kungji",
+      "tw": "[Abyss] Kungji"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -551,7 +826,12 @@
   },
   {
     "id": 685,
-    "nameKey": "abyss_big_kungji",
+    "names": {
+      "en": "[Abyss] Big Kungji",
+      "kr": "[심연] 빅 쿵",
+      "br": "[Abismo] Grande Kungji",
+      "tw": "[Abyss] Big Kungji"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -561,7 +841,12 @@
   },
   {
     "id": 686,
-    "nameKey": "abyss_guardian_kungji",
+    "names": {
+      "en": "[Abyss] Guardian Kungji",
+      "kr": "[심연] 가디언 쿵",
+      "br": "[Abismo] Guardião Kungji",
+      "tw": "[Abyss] Guardian Kungji"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -571,7 +856,12 @@
   },
   {
     "id": 687,
-    "nameKey": "abyss_black_wood_assassin",
+    "names": {
+      "en": "[Abyss] Black Wood Assassin",
+      "kr": "[심연] 암흑숲 정찰자",
+      "br": "[Abismo] Assassino Sombrio",
+      "tw": "[Abyss] Black Wood Assassin"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -581,7 +871,12 @@
   },
   {
     "id": 688,
-    "nameKey": "abyss_fire_hammer_smith",
+    "names": {
+      "en": "[Abyss] Fire Hammer Smith",
+      "kr": "[심연] 불망치 대장장이",
+      "br": "[Abismo] Ferreiro Goblin",
+      "tw": "[Abyss] Fire Hammer Smith"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -591,7 +886,12 @@
   },
   {
     "id": 689,
-    "nameKey": "abyss_fire_hammer_berserker",
+    "names": {
+      "en": "[Abyss] Fire Hammer Berserker",
+      "kr": "[심연] 불망치 버서커",
+      "br": "[Abismo] Goblin Berserker",
+      "tw": "[Abyss] Fire Hammer Berserker"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -601,7 +901,12 @@
   },
   {
     "id": 690,
-    "nameKey": "abyss_frillzard",
+    "names": {
+      "en": "[Abyss] Frillzard",
+      "kr": "[심연] 프릴자드",
+      "br": "[Abismo] Largato Gigante",
+      "tw": "[Abyss] Frillzard"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -611,7 +916,12 @@
   },
   {
     "id": 691,
-    "nameKey": "abyss_giant_frillzard",
+    "names": {
+      "en": "[Abyss] Giant Frillzard",
+      "kr": "[심연] 자이언트 프릴자드",
+      "br": "[Abismo]  Dragão do Deserto",
+      "tw": "[Abyss] Giant Frillzard"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -621,7 +931,12 @@
   },
   {
     "id": 692,
-    "nameKey": "abyss_fire_hammer_driller",
+    "names": {
+      "en": "[Abyss] Fire Hammer Driller",
+      "kr": "[심연] 불망치 드릴러",
+      "br": "[Abismo] Escavador Goblin",
+      "tw": "[Abyss] Fire Hammer Driller"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -631,7 +946,12 @@
   },
   {
     "id": 693,
-    "nameKey": "abyss_garou",
+    "names": {
+      "en": "[Abyss] Garou",
+      "kr": "[심연] 웨어울프",
+      "br": "[Abismo] Lobisomem",
+      "tw": "[Abyss] Garou"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -641,7 +961,12 @@
   },
   {
     "id": 694,
-    "nameKey": "abyss_dahlia",
+    "names": {
+      "en": "[Abyss] Dahlia",
+      "kr": "[심연] 정예군 단장 달리아",
+      "br": "[Abismo] Daliah",
+      "tw": "[Abyss] Dahlia"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -651,7 +976,12 @@
   },
   {
     "id": 695,
-    "nameKey": "abyss_golem",
+    "names": {
+      "en": "[Abyss] Golem",
+      "kr": "[심연] 골렘",
+      "br": "[Abismo] Golem",
+      "tw": "[Abyss] Golem"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -661,7 +991,12 @@
   },
   {
     "id": 696,
-    "nameKey": "abyss_hooded_scorpion",
+    "names": {
+      "en": "[Abyss] Hooded Scorpion",
+      "kr": "[심연] 후드스콜피온",
+      "br": "[Abismo] Assassino Encapuzado",
+      "tw": "[Abyss] Hooded Scorpion"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -671,7 +1006,12 @@
   },
   {
     "id": 697,
-    "nameKey": "abyss_commander_the_dark_staff",
+    "names": {
+      "en": "[Abyss] Commander 'The Dark Staff'",
+      "kr": "[심연] 마군단 흑마대장",
+      "br": "[Abismo] Mestre Feiticeiro Demoníaco",
+      "tw": "[Abyss] Commander 'The Dark Staff'"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -681,7 +1021,12 @@
   },
   {
     "id": 698,
-    "nameKey": "abyss_lacerta_berserker",
+    "names": {
+      "en": "[Abyss] Lacerta Berserker",
+      "kr": "[심연] 라세르타 광전사",
+      "br": "[Abismo] Lagarto Berserker",
+      "tw": "[Abyss] Lacerta Berserker"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -691,7 +1036,12 @@
   },
   {
     "id": 699,
-    "nameKey": "abyss_arch_mage_roklok",
+    "names": {
+      "en": "[Abyss] Arch-Mage RokLok",
+      "kr": "[심연] 대마도사 로크로크",
+      "br": "[Abismo] Rei Xamã Lok-Lok",
+      "tw": "[Abyss] Arch-Mage RokLok"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -701,7 +1051,12 @@
   },
   {
     "id": 700,
-    "nameKey": "abyss_troll",
+    "names": {
+      "en": "[Abyss] Troll",
+      "kr": "[심연] 트롤",
+      "br": "[Abismo] Troll",
+      "tw": "[Abyss] Troll"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -711,7 +1066,12 @@
   },
   {
     "id": 701,
-    "nameKey": "abyss_garou_berserker",
+    "names": {
+      "en": "[Abyss] Garou Berserker",
+      "kr": "[심연] 웨어울프 버서커",
+      "br": "[Abismo] Lobisomem Guerreiro",
+      "tw": "[Abyss] Garou Berserker"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -721,7 +1081,12 @@
   },
   {
     "id": 702,
-    "nameKey": "abyss_hooded_jackal",
+    "names": {
+      "en": "[Abyss] Hooded Jackal",
+      "kr": "[심연] 후드자칼",
+      "br": "[Abismo] Vingador Encapuzado",
+      "tw": "[Abyss] Hooded Jackal"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -731,7 +1096,12 @@
   },
   {
     "id": 703,
-    "nameKey": "abyss_hooded_hound",
+    "names": {
+      "en": "[Abyss] Hooded Hound",
+      "kr": "[심연] 후드하운드",
+      "br": "[Abismo] Espadachim Encapuzado",
+      "tw": "[Abyss] Hooded Hound"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -741,7 +1111,12 @@
   },
   {
     "id": 704,
-    "nameKey": "abyss_scorping",
+    "names": {
+      "en": "[Abyss] Scorping",
+      "kr": "[심연] 스콜핑",
+      "br": "[Abismo] Escrpião-Rei",
+      "tw": "[Abyss] Scorping"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -751,7 +1126,12 @@
   },
   {
     "id": 705,
-    "nameKey": "abyss_lich",
+    "names": {
+      "en": "[Abyss] Lich",
+      "kr": "[심연] 리치",
+      "br": "[Abismo] Lich",
+      "tw": "[Abyss] Lich"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -761,7 +1141,12 @@
   },
   {
     "id": 706,
-    "nameKey": "abyss_raid_storm",
+    "names": {
+      "en": "[Abyss] Raid Storm",
+      "kr": "[심연] 레이드 스톰",
+      "br": "[Abismo] Tempestade Furiosa Harrier",
+      "tw": "[Abyss] Raid Storm"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -771,7 +1156,12 @@
   },
   {
     "id": 707,
-    "nameKey": "abyss_sandstorm",
+    "names": {
+      "en": "[Abyss] SandStorm",
+      "kr": "[심연] 샌드 스톰",
+      "br": "[Abismo] Tempestade Arenosa Harrier",
+      "tw": "[Abyss] SandStorm"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -781,7 +1171,12 @@
   },
   {
     "id": 708,
-    "nameKey": "abyss_harrier_dwarf_overserr",
+    "names": {
+      "en": "[Abyss] Harrier Dwarf Overserr",
+      "kr": "[심연] 해리어 드워프 감독관",
+      "br": "[Abismo] Anão Guardião Harrier",
+      "tw": "[Abyss] Harrier Dwarf Overserr"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -791,7 +1186,12 @@
   },
   {
     "id": 709,
-    "nameKey": "abyss_harrier_dwarf_engineer",
+    "names": {
+      "en": "[Abyss] Harrier Dwarf Engineer",
+      "kr": "[심연] 해리어 드워프 공병",
+      "br": "[Abismo] Anão Engenheiro Harrier",
+      "tw": "[Abyss] Harrier Dwarf Engineer"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -801,7 +1201,12 @@
   },
   {
     "id": 710,
-    "nameKey": "abyss_harrier_dwarf_rifleman",
+    "names": {
+      "en": "[Abyss] Harrier Dwarf Rifleman",
+      "kr": "[심연] 해리어 드워프 소총병",
+      "br": "[Abismo] Anão Atirador Harrier",
+      "tw": "[Abyss] Harrier Dwarf Rifleman"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -811,7 +1216,12 @@
   },
   {
     "id": 711,
-    "nameKey": "abyss_harrier_dwarf_royal_guard",
+    "names": {
+      "en": "[Abyss] Harrier Dwarf Royal Guard",
+      "kr": "[심연] 해리어 드워프 로얄가드",
+      "br": "[Abismo] Anão Guarda Real Harrier",
+      "tw": "[Abyss] Harrier Dwarf Royal Guard"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -821,7 +1231,12 @@
   },
   {
     "id": 712,
-    "nameKey": "abyss_harrier_icefang",
+    "names": {
+      "en": "[Abyss] Harrier Icefang",
+      "kr": "[심연] 해리어 세이버투스",
+      "br": "[Abismo] Dente de Sabre Harrier",
+      "tw": "[Abyss] Harrier Icefang"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -831,7 +1246,12 @@
   },
   {
     "id": 713,
-    "nameKey": "abyss_harrier_royal_elven_guard",
+    "names": {
+      "en": "[Abyss] Harrier Royal Elven Guard",
+      "kr": "[심연] 해리어 엘프 근위병",
+      "br": "[Abismo] Guarda Real Élfica Harrier",
+      "tw": "[Abyss] Harrier Royal Elven Guard"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -841,7 +1261,12 @@
   },
   {
     "id": 714,
-    "nameKey": "abyss_harrier_elite_elven_mage",
+    "names": {
+      "en": "[Abyss] Harrier Elite Elven Mage",
+      "kr": "[심연] 엘프 정예 마법사",
+      "br": "[Abismo] Maga de Elite Élfica Harrier",
+      "tw": "[Abyss] Harrier Elite Elven Mage"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -851,7 +1276,12 @@
   },
   {
     "id": 715,
-    "nameKey": "abyss_iron_guard",
+    "names": {
+      "en": "[Abyss] Iron Guard",
+      "kr": "[심연] 해머몬",
+      "br": "[Abismo] Hammer Mon",
+      "tw": "[Abyss] Iron Guard"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -861,7 +1291,12 @@
   },
   {
     "id": 716,
-    "nameKey": "abyss_harrier_cyclops",
+    "names": {
+      "en": "[Abyss] Harrier Cyclops",
+      "kr": "[심연] 해리어 사이클롭스",
+      "br": "[Abismo] Ciclope Harrier",
+      "tw": "[Abyss] Harrier Cyclops"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -871,7 +1306,12 @@
   },
   {
     "id": 717,
-    "nameKey": "abyss_harrier_dark_elven_magic_archer",
+    "names": {
+      "en": "[Abyss] Harrier Dark Elven Magic Archer",
+      "kr": "[심연] 해리어 다크엘프 마법궁수",
+      "br": "[Abismo] Elfa Negra Arqueira Harrier",
+      "tw": "[Abyss] Harrier Dark Elven Magic Archer"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -881,7 +1321,12 @@
   },
   {
     "id": 718,
-    "nameKey": "abyss_harrier_dark_elven_horseman",
+    "names": {
+      "en": "[Abyss] Harrier Dark Elven Horseman",
+      "kr": "[심연] 해리어 다크엘프 기마병",
+      "br": "[Abismo] Elfa Negra Cavaleira Harrier",
+      "tw": "[Abyss] Harrier Dark Elven Horseman"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -891,7 +1336,12 @@
   },
   {
     "id": 719,
-    "nameKey": "abyss_miston",
+    "names": {
+      "en": "[Abyss] Miston",
+      "kr": "[심연] 미스톤",
+      "br": "[Abismo] Meowpedra",
+      "tw": "[Abyss] Miston"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -901,7 +1351,12 @@
   },
   {
     "id": 720,
-    "nameKey": "abyss_harrier_assassin_master",
+    "names": {
+      "en": "[Abyss] Harrier Assassin Master",
+      "kr": "[심연] 해리어 어쌔신 마스터",
+      "br": "[Abismo] Mestre Assassino Harrier",
+      "tw": "[Abyss] Harrier Assassin Master"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -911,7 +1366,12 @@
   },
   {
     "id": 721,
-    "nameKey": "abyss_commander_the_dark_sword",
+    "names": {
+      "en": "[Abyss] Commander 'The Dark Sword'",
+      "kr": "[심연] 마군단 흑검대장",
+      "br": "[Abismo] Mestre Espadachim Demoniáco",
+      "tw": "[Abyss] Commander 'The Dark Sword'"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -921,7 +1381,12 @@
   },
   {
     "id": 722,
-    "nameKey": "abyss_gargoyle",
+    "names": {
+      "en": "[Abyss] Gargoyle",
+      "kr": "[심연] 가고일",
+      "br": "[Abismo] Gagoil",
+      "tw": "[Abyss] Gargoyle"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -931,7 +1396,12 @@
   },
   {
     "id": 723,
-    "nameKey": "abyss_hera",
+    "names": {
+      "en": "[Abyss] Hera",
+      "kr": "[심연] 헤라",
+      "br": "[Abismo] Hera",
+      "tw": "[Abyss] Hera"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -941,7 +1411,12 @@
   },
   {
     "id": 724,
-    "nameKey": "abyss_harrier_elite_gatekeeper",
+    "names": {
+      "en": "[Abyss] Harrier Elite Gatekeeper",
+      "kr": "[심연] 해리어 상급 수문장",
+      "br": "[Abismo] Guardião de Elite Harrier",
+      "tw": "[Abyss] Harrier Elite Gatekeeper"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -951,7 +1426,12 @@
   },
   {
     "id": 725,
-    "nameKey": "abyss_harrier_black_knight_shield_bearer",
+    "names": {
+      "en": "[Abyss] Harrier Black Knight Shield Bearer",
+      "kr": "[심연] 해리어 설원 방패병",
+      "br": "[Abismo] Escudeiro Nevado Harrier",
+      "tw": "[Abyss] Harrier Black Knight Shield Bearer"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -961,7 +1441,12 @@
   },
   {
     "id": 726,
-    "nameKey": "abyss_harrier_black_knight_spearman",
+    "names": {
+      "en": "[Abyss] Harrier Black Knight Spearman",
+      "kr": "[심연] 해리어 설원 창병",
+      "br": "[Abismo] Lanceiro Nevado Harrier",
+      "tw": "[Abyss] Harrier Black Knight Spearman"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -971,7 +1456,12 @@
   },
   {
     "id": 727,
-    "nameKey": "abyss_harrier_black_tempest",
+    "names": {
+      "en": "[Abyss] Harrier Black Tempest",
+      "kr": "[심연] 해리어 설원 템페스트",
+      "br": "[Abismo] Tempestade Nevada Harrier",
+      "tw": "[Abyss] Harrier Black Tempest"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -981,7 +1471,12 @@
   },
   {
     "id": 728,
-    "nameKey": "abyss_harrier_elven_assassin",
+    "names": {
+      "en": "[Abyss] Harrier Elven Assassin",
+      "kr": "[심연] 해리어 엘프 암살자",
+      "br": "[Abismo] Elfa Assassina Harrier",
+      "tw": "[Abyss] Harrier Elven Assassin"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -991,7 +1486,12 @@
   },
   {
     "id": 729,
-    "nameKey": "abyss_harrier_cyclops_sentry",
+    "names": {
+      "en": "[Abyss] Harrier Cyclops Sentry",
+      "kr": "[심연] 해리어 사이클롭스 초병",
+      "br": "[Abismo] Sentinela Ciclope Harrier",
+      "tw": "[Abyss] Harrier Cyclops Sentry"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -1001,7 +1501,12 @@
   },
   {
     "id": 730,
-    "nameKey": "abyss_harrier_highlander_s_illusion",
+    "names": {
+      "en": "[Abyss] Harrier Highlander's Illusion",
+      "kr": "[심연] 해리어 하이랜더 기사의 잔영",
+      "br": "[Abismo] Espírito do Cavaleiro Highlander Harrier",
+      "tw": "[Abyss] Harrier Highlander's Illusion"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -1011,7 +1516,12 @@
   },
   {
     "id": 731,
-    "nameKey": "abyss_harrier_apostle_of_revelation",
+    "names": {
+      "en": "[Abyss] Harrier Apostle of Revelation",
+      "kr": "[심연] 해리어 신탁의 사도",
+      "br": "[Abismo] Apóstulo da Revelação Harrier",
+      "tw": "[Abyss] Harrier Apostle of Revelation"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -1021,7 +1531,12 @@
   },
   {
     "id": 732,
-    "nameKey": "abyss_harrier_iron_infantry",
+    "names": {
+      "en": "[Abyss] Harrier Iron Infantry",
+      "kr": "[심연] 강철 보병",
+      "br": "[Abismo] Infantaria de Aço",
+      "tw": "[Abyss] Harrier Iron Infantry"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -1031,7 +1546,12 @@
   },
   {
     "id": 733,
-    "nameKey": "abyss_goblin_worker",
+    "names": {
+      "en": "[Abyss] Goblin Worker",
+      "kr": "[심연] 고블린 일꾼",
+      "br": "[Abismo]  Goblin Operário",
+      "tw": "[Abyss] Goblin Worker"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -1041,7 +1561,12 @@
   },
   {
     "id": 734,
-    "nameKey": "abyss_goblin_jester",
+    "names": {
+      "en": "[Abyss] Goblin Jester",
+      "kr": "[심연] 고블린 재주꾼",
+      "br": "[Abismo] Goblin Talentoso",
+      "tw": "[Abyss] Goblin Jester"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -1051,7 +1576,12 @@
   },
   {
     "id": 735,
-    "nameKey": "abyss_greedy_stavrogin",
+    "names": {
+      "en": "[Abyss] Greedy Stavrogin",
+      "kr": "[심연] 탐욕의 스타브로긴",
+      "br": "[Abismo] Ganancioso Stavrogin",
+      "tw": "[Abyss] Greedy Stavrogin"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -1061,7 +1591,12 @@
   },
   {
     "id": 736,
-    "nameKey": "abyss_temple_apostle",
+    "names": {
+      "en": "[Abyss] Temple Apostle",
+      "kr": "[심연] 사원의 신도",
+      "br": "[Abismo] Apóstulo do Templo",
+      "tw": "[Abyss] Temple Apostle"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -1071,7 +1606,12 @@
   },
   {
     "id": 737,
-    "nameKey": "abyss_shadow_apostle",
+    "names": {
+      "en": "[Abyss] Shadow Apostle",
+      "kr": "[심연] 그림자 신도",
+      "br": "[Abismo] Apóstulo Sombrio",
+      "tw": "[Abyss] Shadow Apostle"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -1081,7 +1621,12 @@
   },
   {
     "id": 738,
-    "nameKey": "abyss_eliste_sentry_robot",
+    "names": {
+      "en": "[Abyss] Eliste Sentry Robot",
+      "kr": "[심연] 강화 경비 로봇",
+      "br": "[Abismo] Robô Sentinela de Elite",
+      "tw": "[Abyss] Eliste Sentry Robot"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -1091,7 +1636,12 @@
   },
   {
     "id": 739,
-    "nameKey": "4ever_chaser",
+    "names": {
+      "en": "4Ever! Chaser",
+      "kr": "4Ever! 체이서",
+      "br": "Chaser Para Sempre!",
+      "tw": "4Ever! Chaser"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -1101,7 +1651,12 @@
   },
   {
     "id": 740,
-    "nameKey": "sad_harpe",
+    "names": {
+      "en": "Sad Harpe",
+      "kr": "슬픈 하르페",
+      "br": "Harpe Triste",
+      "tw": "Sad Harpe"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,
@@ -1111,7 +1666,12 @@
   },
   {
     "id": 741,
-    "nameKey": "iris",
+    "names": {
+      "en": "Iris",
+      "kr": "이리스",
+      "br": "Iris",
+      "tw": "Iris"
+    },
     "point": "-",
     "group": "undefined",
     "rate": 0.008928571428571428,

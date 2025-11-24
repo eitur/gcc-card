@@ -18,56 +18,6 @@ df.columns = df.columns.str.lower()
 columns_to_keep = ['id', 'name', 'point', 'image', 'group', 'namekr', 'namebr', 'nametw']
 df = df[columns_to_keep]
 
-def generate_name(name, replace_character='-'):
-    name = name.lower()                   # lowercase
-    name = re.sub(r'[^a-z0-9]+', replace_character, name)  # replace non-alphanumeric with replace_character
-    name = name.strip(replace_character)  # remove leading/trailing replace_character
-    return name
-
-# Create card-names translation dictionary
-card_names_dict = {
-    'en': {},
-    'kr': {},
-    'br': {},
-    'tw': {}
-}
-
-# Populate translations
-for _, row in df.iterrows():
-    id_key = row['id']
-    
-    # English (original name)
-    card_names_dict['en'][id_key] = row['name']
-    
-    # Korean translation
-    if pd.notna(row.get('namekr')):
-        card_names_dict['kr'][id_key] = row['namekr']
-    else:
-        card_names_dict['kr'][id_key] = row['name']  # fallback to English
-    
-    # Portuguese translation
-    if pd.notna(row.get('namebr')):
-        card_names_dict['br'][id_key] = row['namebr']
-    else:
-        card_names_dict['br'][id_key] = row['name']  # fallback to English
-
-    # Chinese translation
-    if pd.notna(row.get('nametw')):
-        card_names_dict['tw'][id_key] = row['nametw']
-    else:
-        card_names_dict['tw'][id_key] = row['name']  # fallback to English
-
-# Save card-names.json
-locales_folder = "locales"
-os.makedirs(locales_folder, exist_ok=True)
-card_names_file = os.path.join(locales_folder, 'card-names.json')
-
-with open(card_names_file, 'w', encoding='utf-8') as f:
-    json.dump(card_names_dict, f, indent=2, ensure_ascii=False)
-
-print(f"Card names translations saved to {card_names_file}")
-
-
 # Process each group from 1 to 7, none (cards not belong to collections), and undefined (info not filled)
 for group_number in list(range(1, 8)) + ['none', 'undefined']:
     if isinstance(group_number, int):
@@ -80,29 +30,37 @@ for group_number in list(range(1, 8)) + ['none', 'undefined']:
         print(f"No data for group {group_number}")
         continue
 
-    if isinstance(group_number, int):
-        group_df['point'] = group_df['point'].astype(int)
-        group_df['group'] = group_df['group'].astype(int)
-    else:
-        group_df['point'] = '-'
-        group_df['group'] = '-' if group_number == 'none' else group_number
-    group_df['rate'] = 1/len(group_df)  # probability of getting the card
-    group_df['region'] = ''
-    group_df['groupCount'] = len(group_df)
-    group_df['nameKey'] = group_df['name'].apply(lambda x: generate_name(x, '_'))
-
-    # Keep only necessary columns for JSON output
-    output_columns = ['id', 'nameKey', 'point', 'group', 'rate', 'region', 'groupCount', 'image']
-    group_df_output = group_df[output_columns]
-
-    # Convert to JSON
-    data_json = group_df_output.to_dict(orient='records')
+    # Prepare the data for JSON output
+    data_json = []
+    
+    for _, row in group_df.iterrows():
+        # Build the names object with all translations
+        names_obj = {
+            'en': row['name'],
+            'kr': row['namekr'] if pd.notna(row.get('namekr')) else row['name'],
+            'br': row['namebr'] if pd.notna(row.get('namebr')) else row['name'],
+            'tw': row['nametw'] if pd.notna(row.get('nametw')) else row['name']
+        }
+        
+        # Build the card object
+        card_obj = {
+            'id': int(row['id']),
+            'names': names_obj,
+            'point': int(row['point']) if isinstance(group_number, int) else '-',
+            'group': int(group_number) if isinstance(group_number, int) else ('-' if group_number == 'none' else group_number),
+            'rate': 1/len(group_df),
+            'region': '',
+            'groupCount': len(group_df),
+            'image': row['image']
+        }
+        
+        data_json.append(card_obj)
 
     # Save JSON file
     cards_folder = "cards-data"               # your folder name
     os.makedirs(cards_folder, exist_ok=True)   # create it if missing
     output_file = os.path.join(cards_folder, f'group-{group_number}.json')
     with open(output_file, 'w') as f:
-        json.dump(data_json, f, indent=2)
+        json.dump(data_json, f, indent=2, ensure_ascii=False)
 
     print(f"Group {group_number} JSON saved as {output_file}")

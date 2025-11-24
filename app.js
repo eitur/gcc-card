@@ -25,6 +25,26 @@ const selected = new Set();
 const basePath = window.BASE_PATH || '.';
 const imageBasePath = `${basePath}/images/cards-webp`; // Image folder path
 
+function getCardName(cardId) {
+  const card = cards.find(c => c.id === cardId);
+  if (!card) return `Card ${cardId}`;
+  
+  const currentLang = window.CURRENT_LANG || 'en';
+  
+  // If card has names object with translations, use it
+  if (card.names && card.names[currentLang]) {
+    return card.names[currentLang];
+  }
+  
+  // Fallback to English if current language not found
+  if (card.names && card.names.en) {
+    return card.names.en;
+  }
+  
+  // Final fallback to card ID
+  return `Card ${cardId}`;
+}
+
 async function loadCards() {
   try {
     const jsonFiles = [
@@ -89,7 +109,7 @@ function getFilteredCards() {
   const filterGroup = document.getElementById("filterGroup").value;
 
   return cards.filter(c => {
-    const cardName = i18n.getCardName(c.id).toLowerCase();
+    const cardName = getCardName(c.id).toLowerCase(); // Use new function
     return cardName.includes(search) &&
       (filterRegion ? c.region === filterRegion : true) &&
       (filterGroup ? c.group == filterGroup : true);
@@ -122,10 +142,10 @@ function renderTable() {
       <td>
         <div class='card-pic' 
              data-src='${imageBasePath}/${c.image}'
-             title='${i18n.getCardName(c.id)}'>
+             title='${getCardName(c.id)}'>
         </div>
       </td>
-      <td>${i18n.getCardName(c.id)}</td>
+      <td>${getCardName(c.id)}</td>
       <td>${c.point}</td>
       <td>${c.group}</td>
       <td style="display:none;">${c.region}</td>

@@ -1,7 +1,12 @@
 [
   {
     "id": 67,
-    "nameKey": "stone_clan_fighter_card",
+    "names": {
+      "en": "Stone Clan Fighter Card",
+      "kr": "조약돌 고블린 싸움꾼 카드",
+      "br": "Carta Guerreiro Goblin",
+      "tw": "鵝卵石哥布林戰士"
+    },
     "point": 34,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -11,7 +16,12 @@
   },
   {
     "id": 68,
-    "nameKey": "stone_clan_worker_card",
+    "names": {
+      "en": "Stone Clan Worker Card",
+      "kr": "조약돌 고블린 노역꾼 카드",
+      "br": "Carta Trabalhador Goblin",
+      "tw": "鵝卵石哥布林奴隸"
+    },
     "point": 34,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -21,7 +31,12 @@
   },
   {
     "id": 69,
-    "nameKey": "grim_prior_card",
+    "names": {
+      "en": "Grim Prior Card",
+      "kr": "천년사도 카드",
+      "br": "Carta Sacerdote de Setesh",
+      "tw": "千年使徒"
+    },
     "point": 34,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -31,7 +46,12 @@
   },
   {
     "id": 70,
-    "nameKey": "brutus_card",
+    "names": {
+      "en": "Brutus Card",
+      "kr": "브루터스 카드",
+      "br": "Carta Blutus",
+      "tw": "布魯特斯"
+    },
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -41,7 +61,12 @@
   },
   {
     "id": 73,
-    "nameKey": "underpass_dinergate_card",
+    "names": {
+      "en": "Underpass Dinergate Card",
+      "kr": "병정 깨미 카드",
+      "br": "Carta Guerreiro de Túnel",
+      "tw": "兵勇蓋米"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -51,7 +76,12 @@
   },
   {
     "id": 75,
-    "nameKey": "underpass_hugate_card",
+    "names": {
+      "en": "Underpass Hugate Card",
+      "kr": "대장 깨미 카드",
+      "br": "Carta Guerreiro Alado",
+      "tw": "蓋米隊長"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -61,7 +91,12 @@
   },
   {
     "id": 76,
-    "nameKey": "scorpis_card",
+    "names": {
+      "en": "Scorpis Card",
+      "kr": "스콜피스 카드",
+      "br": "Carta Escorpius",
+      "tw": "斯克菲斯"
+    },
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -71,7 +106,12 @@
   },
   {
     "id": 79,
-    "nameKey": "magic_kungji_card",
+    "names": {
+      "en": "Magic Kungji Card",
+      "kr": "매직 쿵 카드",
+      "br": "Carta Xamã Kungji",
+      "tw": "魔法噗嘰"
+    },
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -81,7 +121,12 @@
   },
   {
     "id": 80,
-    "nameKey": "big_kungji_card",
+    "names": {
+      "en": "Big Kungji Card",
+      "kr": "빅 쿵 카드",
+      "br": "Carta Grande Kungji",
+      "tw": "巨噗嘰"
+    },
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -91,7 +136,12 @@
   },
   {
     "id": 114,
-    "nameKey": "orc_lord_card",
+    "names": {
+      "en": "Orc Lord Card",
+      "kr": "광폭한 오크 로드 카드",
+      "br": "Carta Lorde Oak",
+      "tw": "狂暴半獸人族長"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -101,7 +151,12 @@
   },
   {
     "id": 120,
-    "nameKey": "moss_monster_card",
+    "names": {
+      "en": "Moss Monster Card",
+      "kr": "이끼괴수 카드",
+      "br": "Carta Monstro Musgo",
+      "tw": "苔蘚怪"
+    },
     "point": 35,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -111,7 +166,12 @@
   },
   {
     "id": 122,
-    "nameKey": "lenasien_card",
+    "names": {
+      "en": "Lenasien Card",
+      "kr": "레나시엔 카드",
+      "br": "Carta Lenacien",
+      "tw": "雷納辛"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -121,7 +181,12 @@
   },
   {
     "id": 123,
-    "nameKey": "octus_card",
+    "names": {
+      "en": "Octus Card",
+      "kr": "옥투스 카드",
+      "br": "Carta Octus",
+      "tw": "奧克圖斯"
+    },
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -131,7 +196,12 @@
   },
   {
     "id": 129,
-    "nameKey": "samsara_card",
+    "names": {
+      "en": "Samsara Card",
+      "kr": "순환의 신 카드",
+      "br": "Carta Lutador Assassino",
+      "tw": "輪迴之神"
+    },
     "point": 31,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -141,7 +211,12 @@
   },
   {
     "id": 131,
-    "nameKey": "corrupt_ranger_card",
+    "names": {
+      "en": "Corrupt Ranger Card",
+      "kr": "어쌔신 순찰자 카드",
+      "br": "Carta Inspetor Assassino",
+      "tw": "刺客遊俠"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -151,7 +226,12 @@
   },
   {
     "id": 133,
-    "nameKey": "mynos_card",
+    "names": {
+      "en": "Mynos Card",
+      "kr": "불타로스 카드",
+      "br": "Carta Bultaros",
+      "tw": "布塔洛斯"
+    },
     "point": 37,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -161,7 +241,12 @@
   },
   {
     "id": 138,
-    "nameKey": "starkiln_card",
+    "names": {
+      "en": "Starkiln Card",
+      "kr": "지그 카드",
+      "br": "Carta Zig",
+      "tw": "吉戈"
+    },
     "point": 35,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -171,7 +256,12 @@
   },
   {
     "id": 143,
-    "nameKey": "yamini_card",
+    "names": {
+      "en": "Yamini Card",
+      "kr": "쥬리오르 카드",
+      "br": "Carta Juriore",
+      "tw": "朱利奧爾"
+    },
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -181,7 +271,12 @@
   },
   {
     "id": 147,
-    "nameKey": "ancient_giant_card",
+    "names": {
+      "en": "Ancient Giant Card",
+      "kr": "거인 카드",
+      "br": "Carta Gigantut",
+      "tw": "巨人"
+    },
     "point": 37,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -191,7 +286,12 @@
   },
   {
     "id": 148,
-    "nameKey": "lord_perseo_card",
+    "names": {
+      "en": "Lord Perseo Card",
+      "kr": "페리어트 카드",
+      "br": "Carta Periett",
+      "tw": "派裡亞特"
+    },
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -201,7 +301,12 @@
   },
   {
     "id": 151,
-    "nameKey": "dk_mark_ii_card",
+    "names": {
+      "en": "DK MARK-II Card",
+      "kr": "DK Mark-II 카드",
+      "br": "Carta DK Mark-II",
+      "tw": "DK Mark-II"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -211,7 +316,12 @@
   },
   {
     "id": 152,
-    "nameKey": "wooden_card",
+    "names": {
+      "en": "Wooden Card",
+      "kr": "우덴 카드",
+      "br": "Carta Mognum",
+      "tw": "烏燈"
+    },
     "point": 36,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -221,7 +331,12 @@
   },
   {
     "id": 153,
-    "nameKey": "dark_storm_card",
+    "names": {
+      "en": "Dark Storm Card",
+      "kr": "다크 스톰 카드",
+      "br": "Carta Tempestade Escura",
+      "tw": "黑暗風暴"
+    },
     "point": 35,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -231,7 +346,12 @@
   },
   {
     "id": 154,
-    "nameKey": "furious_storm_card",
+    "names": {
+      "en": "Furious Storm Card",
+      "kr": "퓨리어스 스톰 카드",
+      "br": "Carta Tempestade Furiosa",
+      "tw": "狂怒風暴"
+    },
     "point": 35,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -241,7 +361,12 @@
   },
   {
     "id": 156,
-    "nameKey": "gargoyle_card",
+    "names": {
+      "en": "Gargoyle Card",
+      "kr": "가고일 카드",
+      "br": "Carta Gagoil",
+      "tw": "石像鬼"
+    },
     "point": 33,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -251,7 +376,12 @@
   },
   {
     "id": 157,
-    "nameKey": "sataniel_s_warrior_card",
+    "names": {
+      "en": "Sataniel's Warrior Card",
+      "kr": "사타니엘 전사 카드",
+      "br": "Carta Sataniel",
+      "tw": "撒旦戰士"
+    },
     "point": 33,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -261,7 +391,12 @@
   },
   {
     "id": 160,
-    "nameKey": "iblis_card",
+    "names": {
+      "en": "Iblis Card",
+      "kr": "이블리스 카드",
+      "br": "Carta Evillis",
+      "tw": "伊布麗斯"
+    },
     "point": 35,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -271,7 +406,12 @@
   },
   {
     "id": 161,
-    "nameKey": "thanatos_card",
+    "names": {
+      "en": "Thanatos Card",
+      "kr": "타나토스 카드",
+      "br": "Carta Thanatos",
+      "tw": "塔納托斯"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -281,7 +421,12 @@
   },
   {
     "id": 162,
-    "nameKey": "black_wood_assassin_card",
+    "names": {
+      "en": "Black Wood Assassin Card",
+      "kr": "암흑숲 암살자 카드",
+      "br": "Carta Assassino Sombrio",
+      "tw": "暗黑森林暗殺者"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -291,7 +436,12 @@
   },
   {
     "id": 163,
-    "nameKey": "fire_hammer_smith_card",
+    "names": {
+      "en": "Fire Hammer Smith Card",
+      "kr": "불망치 대장장이 카드",
+      "br": "Carta Ferreiro Goblin",
+      "tw": "火錘鐵匠"
+    },
     "point": 31,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -301,7 +451,12 @@
   },
   {
     "id": 164,
-    "nameKey": "fire_hammer_berserker_card",
+    "names": {
+      "en": "Fire Hammer Berserker Card",
+      "kr": "불망치 버서커 카드",
+      "br": "Carta Goblin Berserker",
+      "tw": "火錘狂戰士"
+    },
     "point": 37,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -311,7 +466,12 @@
   },
   {
     "id": 165,
-    "nameKey": "spiderbot_guard_card",
+    "names": {
+      "en": "Spiderbot Guard Card",
+      "kr": "스파이더 가드머신 카드",
+      "br": "Carta Aranha Mecânica",
+      "tw": "蜘蛛防俱"
+    },
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -321,7 +481,12 @@
   },
   {
     "id": 168,
-    "nameKey": "sand_dinergate_card",
+    "names": {
+      "en": "Sand Dinergate Card",
+      "kr": "모래 병정 깨미 카드",
+      "br": "Carta Formiga Guerreira",
+      "tw": "泥沙兵勇蓋米"
+    },
     "point": 41,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -331,7 +496,12 @@
   },
   {
     "id": 169,
-    "nameKey": "scorping_card",
+    "names": {
+      "en": "Scorping Card",
+      "kr": "스콜핑 카드",
+      "br": "Carta Escorpião-Rei",
+      "tw": "變異蠍"
+    },
     "point": 41,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -341,7 +511,12 @@
   },
   {
     "id": 174,
-    "nameKey": "iron_dwarl_overseer_card",
+    "names": {
+      "en": "Iron Dwarl Overseer Card",
+      "kr": "강철 드워프 감독관 카드",
+      "br": "Carta Anão Guardião",
+      "tw": "鋼鐵小矮人監察官"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -351,7 +526,12 @@
   },
   {
     "id": 189,
-    "nameKey": "tech_guard_card",
+    "names": {
+      "en": "Tech Guard Card",
+      "kr": "테크니컬 가드 카드",
+      "br": "Carta Carcereiro Goblin",
+      "tw": "武裝守衛"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -361,7 +541,12 @@
   },
   {
     "id": 190,
-    "nameKey": "thunder_hammer_rifleman_card",
+    "names": {
+      "en": "Thunder Hammer Rifleman Card",
+      "kr": "썬더 해머 소총병 카드",
+      "br": "Carta Anão Fuzileiro",
+      "tw": "雷霆之槌步槍兵"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -371,7 +556,12 @@
   },
   {
     "id": 191,
-    "nameKey": "thunder_hammer_guard_card",
+    "names": {
+      "en": "Thunder Hammer Guard Card",
+      "kr": "썬더 해머 수호병 카드",
+      "br": "Carta Guarda Real de Mjölnir",
+      "tw": "雷霆之槌衛兵"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -381,7 +571,12 @@
   },
   {
     "id": 223,
-    "nameKey": "prime_knight_s_rage",
+    "names": {
+      "en": "Prime Knight's Rage",
+      "kr": "프라임나이트",
+      "br": "Avatar",
+      "tw": "終極騎士(MP4.06)"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -391,7 +586,12 @@
   },
   {
     "id": 224,
-    "nameKey": "rune_caster",
+    "names": {
+      "en": "Rune Caster",
+      "kr": "마도공학자",
+      "br": "Tecnomaga",
+      "tw": "煉金工程學家"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -401,7 +601,12 @@
   },
   {
     "id": 225,
-    "nameKey": "harbinger",
+    "names": {
+      "en": "Harbinger",
+      "kr": "다크브링어",
+      "br": "Encantrix",
+      "tw": "黑暗史者"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -411,7 +616,12 @@
   },
   {
     "id": 226,
-    "nameKey": "fighter",
+    "names": {
+      "en": "Fighter",
+      "kr": "격투가",
+      "br": "Lutador",
+      "tw": "鬥士(必攻527)"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -421,7 +631,12 @@
   },
   {
     "id": 227,
-    "nameKey": "polaris",
+    "names": {
+      "en": "Polaris",
+      "kr": "폴라리스",
+      "br": "Polaris",
+      "tw": "北極星"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -431,7 +646,12 @@
   },
   {
     "id": 228,
-    "nameKey": "starlet",
+    "names": {
+      "en": "Starlet",
+      "kr": "시스티나",
+      "br": "Superstar",
+      "tw": "希絲緹娜"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -441,7 +661,12 @@
   },
   {
     "id": 229,
-    "nameKey": "fighter",
+    "names": {
+      "en": "Fighter",
+      "kr": "격투가",
+      "br": "Lutador",
+      "tw": "鬥士(攻330)"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -451,7 +676,12 @@
   },
   {
     "id": 230,
-    "nameKey": "prime_knight",
+    "names": {
+      "en": "Prime Knight",
+      "kr": "프라임나이트",
+      "br": "Avatar",
+      "tw": "終極騎士(生命108)"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -461,7 +691,12 @@
   },
   {
     "id": 231,
-    "nameKey": "magician",
+    "names": {
+      "en": "Magician",
+      "kr": "마법사",
+      "br": "Maga",
+      "tw": "魔法師"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -471,7 +706,12 @@
   },
   {
     "id": 232,
-    "nameKey": "archer",
+    "names": {
+      "en": "Archer",
+      "kr": "궁수",
+      "br": "Arqueira",
+      "tw": "弓箭手"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -481,7 +721,12 @@
   },
   {
     "id": 233,
-    "nameKey": "alchemist",
+    "names": {
+      "en": "Alchemist",
+      "kr": "연금술사",
+      "br": "Alquimista",
+      "tw": "煉金術士"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -491,7 +736,12 @@
   },
   {
     "id": 234,
-    "nameKey": "rama",
+    "names": {
+      "en": "Rama",
+      "kr": "파천황",
+      "br": "Iluminado",
+      "tw": "破天鳳"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -501,7 +751,12 @@
   },
   {
     "id": 235,
-    "nameKey": "thief",
+    "names": {
+      "en": "Thief",
+      "kr": "도적",
+      "br": "Ninja",
+      "tw": "盜賊"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -511,7 +766,12 @@
   },
   {
     "id": 236,
-    "nameKey": "wanderer",
+    "names": {
+      "en": "Wanderer",
+      "kr": "완더러",
+      "br": "Andarilho",
+      "tw": "流浪者"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -521,7 +781,12 @@
   },
   {
     "id": 237,
-    "nameKey": "striker",
+    "names": {
+      "en": "Striker",
+      "kr": "스트라이퍼",
+      "br": "Retalhador",
+      "tw": "浪人"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -531,7 +796,12 @@
   },
   {
     "id": 238,
-    "nameKey": "nova",
+    "names": {
+      "en": "Nova",
+      "kr": "노바",
+      "br": "Nova",
+      "tw": "獵魔使"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -541,7 +811,12 @@
   },
   {
     "id": 239,
-    "nameKey": "seeker",
+    "names": {
+      "en": "Seeker",
+      "kr": "크레이버",
+      "br": "Peregrino",
+      "tw": "追尋者"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -551,7 +826,12 @@
   },
   {
     "id": 240,
-    "nameKey": "arch_ranger",
+    "names": {
+      "en": "Arch Ranger",
+      "kr": "아크레인저",
+      "br": "Guardiã",
+      "tw": "神箭使(攻355"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -561,7 +841,12 @@
   },
   {
     "id": 241,
-    "nameKey": "stygian",
+    "names": {
+      "en": "Stygian",
+      "kr": "클리퍼",
+      "br": "Profano",
+      "tw": "收割者"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -571,7 +856,12 @@
   },
   {
     "id": 242,
-    "nameKey": "dark_assassin",
+    "names": {
+      "en": "Dark Assassin",
+      "kr": "다크어쎄신",
+      "br": "Vingador",
+      "tw": "暗黑刺客"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -581,7 +871,12 @@
   },
   {
     "id": 243,
-    "nameKey": "soul_stalker",
+    "names": {
+      "en": "Soul Stalker",
+      "kr": "서쳐스",
+      "br": "Rastreador",
+      "tw": "尋魔獵人"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -591,7 +886,12 @@
   },
   {
     "id": 244,
-    "nameKey": "arch_ranger",
+    "names": {
+      "en": "Arch Ranger",
+      "kr": "아크레인저",
+      "br": "Guardiã",
+      "tw": "神箭使(攻360"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -601,7 +901,12 @@
   },
   {
     "id": 283,
-    "nameKey": "kumi",
+    "names": {
+      "en": "Kumi",
+      "kr": "쿠미",
+      "br": "Kumi",
+      "tw": "啾咪"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -611,7 +916,12 @@
   },
   {
     "id": 284,
-    "nameKey": "lilith",
+    "names": {
+      "en": "Lilith",
+      "kr": "리리스",
+      "br": "Lilith",
+      "tw": "莉莉絲"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -621,7 +931,12 @@
   },
   {
     "id": 285,
-    "nameKey": "squire_gaicoz",
+    "names": {
+      "en": "Squire Gaicoz",
+      "kr": "Jr.가이코즈",
+      "br": "Gaicoz Jr.",
+      "tw": "jr.蓋斯科"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -631,7 +946,12 @@
   },
   {
     "id": 286,
-    "nameKey": "dk_mark_3",
+    "names": {
+      "en": "DK-Mark 3",
+      "kr": "DK Mark III",
+      "br": "DK-Mark 3",
+      "tw": "DK-MARK3"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -641,7 +961,12 @@
   },
   {
     "id": 287,
-    "nameKey": "sellion",
+    "names": {
+      "en": "Sellion",
+      "kr": "셀리온",
+      "br": "Selion",
+      "tw": "塞莉翁"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -651,7 +976,12 @@
   },
   {
     "id": 288,
-    "nameKey": "ringmaster",
+    "names": {
+      "en": "Ringmaster",
+      "kr": "Jr.지들러",
+      "br": "Zidler Jr.",
+      "tw": "jr.其德勒"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -661,7 +991,12 @@
   },
   {
     "id": 289,
-    "nameKey": "elesis",
+    "names": {
+      "en": "Elesis",
+      "kr": "엘리시스",
+      "br": "Mini Elesis",
+      "tw": "艾莉絲"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -671,7 +1006,12 @@
   },
   {
     "id": 290,
-    "nameKey": "knight_master_pet",
+    "names": {
+      "en": "Knight Master Pet",
+      "kr": "Jr.기사단장",
+      "br": "Lothos Jr.",
+      "tw": "jr.騎士團長"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -681,7 +1021,12 @@
   },
   {
     "id": 291,
-    "nameKey": "madeleine",
+    "names": {
+      "en": "Madeleine",
+      "kr": "마들렌",
+      "br": "Madeleine",
+      "tw": "瑪德琳"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -691,7 +1036,12 @@
   },
   {
     "id": 292,
-    "nameKey": "tammy",
+    "names": {
+      "en": "Tammy",
+      "kr": "타미",
+      "br": "Tammy",
+      "tw": "泰咪"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -701,7 +1051,12 @@
   },
   {
     "id": 293,
-    "nameKey": "sherlook_hound",
+    "names": {
+      "en": "Sherlook Hound",
+      "kr": "셜록하운드",
+      "br": "Sherlockão",
+      "tw": "夏洛克獵犬"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -711,7 +1066,12 @@
   },
   {
     "id": 294,
-    "nameKey": "havoc",
+    "names": {
+      "en": "Havoc",
+      "kr": "켈비",
+      "br": "Cerberus",
+      "tw": "凱爾比"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -721,7 +1081,12 @@
   },
   {
     "id": 295,
-    "nameKey": "kaze_doggeh",
+    "names": {
+      "en": "Kaze'doggeh",
+      "kr": "Jr.카제아제",
+      "br": "Cazaaje Jr.",
+      "tw": "jr卡查伊斯"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -731,7 +1096,12 @@
   },
   {
     "id": 296,
-    "nameKey": "thanny_boy",
+    "names": {
+      "en": "Thanny Boy",
+      "kr": "Jr.타나토스",
+      "br": "Thanatos Jr.",
+      "tw": "jr.塔納托斯"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -741,7 +1111,12 @@
   },
   {
     "id": 297,
-    "nameKey": "nerissa",
+    "names": {
+      "en": "Nerissa",
+      "kr": "네리사",
+      "br": "Nerissa",
+      "tw": "妮麗莎"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -751,7 +1126,12 @@
   },
   {
     "id": 298,
-    "nameKey": "claudia",
+    "names": {
+      "en": "Claudia",
+      "kr": "프랑소와즈",
+      "br": "Françoise",
+      "tw": "佛朗所瓦絲"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -761,7 +1141,12 @@
   },
   {
     "id": 299,
-    "nameKey": "chester",
+    "names": {
+      "en": "Chester",
+      "kr": "부르비스",
+      "br": "Chester",
+      "tw": "布林維斯"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -771,7 +1156,12 @@
   },
   {
     "id": 300,
-    "nameKey": "mary_jane",
+    "names": {
+      "en": "Mary Jane",
+      "kr": "메리제인",
+      "br": "Mary Jane",
+      "tw": "瑪利亞簡"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -781,7 +1171,12 @@
   },
   {
     "id": 301,
-    "nameKey": "duelly",
+    "names": {
+      "en": "Duelly",
+      "kr": "Jr.듀엘",
+      "br": "Duel Jr.",
+      "tw": "杜爾"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -791,7 +1186,12 @@
   },
   {
     "id": 302,
-    "nameKey": "clara",
+    "names": {
+      "en": "Clara",
+      "kr": "클라라",
+      "br": "Clara",
+      "tw": "克拉拉"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -801,7 +1201,12 @@
   },
   {
     "id": 366,
-    "nameKey": "hatchling",
+    "names": {
+      "en": "Hatchling",
+      "kr": "해츨링",
+      "br": "Lagarto Novo",
+      "tw": "幼龍"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -811,7 +1216,12 @@
   },
   {
     "id": 367,
-    "nameKey": "lizard_man",
+    "names": {
+      "en": "Lizard Man",
+      "kr": "리자드맨",
+      "br": "Lagarto Guerreiro",
+      "tw": "蜥蜴人"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -821,7 +1231,12 @@
   },
   {
     "id": 368,
-    "nameKey": "dragon_knight",
+    "names": {
+      "en": "Dragon Knight",
+      "kr": "용기병",
+      "br": "Dragão Guerreiro",
+      "tw": "龍騎兵"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -831,7 +1246,12 @@
   },
   {
     "id": 370,
-    "nameKey": "one_eyed_goblin",
+    "names": {
+      "en": "One-Eyed Goblin",
+      "kr": "외눈깨비",
+      "br": "Goblin Ciclope",
+      "tw": "獨眼"
+    },
     "point": 41,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -841,7 +1261,12 @@
   },
   {
     "id": 371,
-    "nameKey": "bedeviled_box",
+    "names": {
+      "en": "Bedeviled Box",
+      "kr": "초롱귀",
+      "br": "Caixa Amaldiçoada",
+      "tw": "燈籠耳"
+    },
     "point": 41,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -851,7 +1276,12 @@
   },
   {
     "id": 373,
-    "nameKey": "maniacal_merchant",
+    "names": {
+      "en": "Maniacal Merchant",
+      "kr": "폭죽상인",
+      "br": "Vendedor Maníaco",
+      "tw": "爆竹商人"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -861,7 +1291,12 @@
   },
   {
     "id": 374,
-    "nameKey": "haetae",
+    "names": {
+      "en": "Haetae",
+      "kr": "해태",
+      "br": "Haetae",
+      "tw": "懈怠"
+    },
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -871,7 +1306,12 @@
   },
   {
     "id": 375,
-    "nameKey": "lotus_the_innkeper",
+    "names": {
+      "en": "Lotus the Innkeper",
+      "kr": "여객주 홍련",
+      "br": "Lotus a dona do hotel",
+      "tw": "女客主 紅蓮"
+    },
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -881,7 +1321,12 @@
   },
   {
     "id": 377,
-    "nameKey": "mine_bandit",
+    "names": {
+      "en": "Mine Bandit",
+      "kr": "사막 지뢰도적",
+      "br": "Bandido Disfarçado",
+      "tw": "沙漠地雷盜賊"
+    },
     "point": 41,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -891,7 +1336,12 @@
   },
   {
     "id": 378,
-    "nameKey": "sword_bandit",
+    "names": {
+      "en": "Sword Bandit",
+      "kr": "사막 검도적",
+      "br": "Bandido Espadachim",
+      "tw": "沙漠劍盜賊"
+    },
     "point": 35,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -901,7 +1351,12 @@
   },
   {
     "id": 379,
-    "nameKey": "axe_bandit",
+    "names": {
+      "en": "Axe Bandit",
+      "kr": "사막 도끼도적",
+      "br": "Bandido Bárbaro",
+      "tw": "沙漠斧頭盜賊"
+    },
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -911,7 +1366,12 @@
   },
   {
     "id": 380,
-    "nameKey": "crossbow_bandit",
+    "names": {
+      "en": "Crossbow Bandit",
+      "kr": "사막 석궁도적",
+      "br": "Bandino Atirador",
+      "tw": "沙漠努弓盜賊"
+    },
     "point": 41,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -921,7 +1381,12 @@
   },
   {
     "id": 382,
-    "nameKey": "hooded_jackal",
+    "names": {
+      "en": "Hooded Jackal",
+      "kr": "후드 자칼",
+      "br": "Vingador Encapuzado",
+      "tw": "胡德胡狼"
+    },
     "point": 33,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -931,7 +1396,12 @@
   },
   {
     "id": 383,
-    "nameKey": "hooded_hound",
+    "names": {
+      "en": "Hooded Hound",
+      "kr": "후드 하운드",
+      "br": "Espadachim Encapuzado",
+      "tw": "胡德獵犬"
+    },
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -941,7 +1411,12 @@
   },
   {
     "id": 384,
-    "nameKey": "hooded_crow",
+    "names": {
+      "en": "Hooded Crow",
+      "kr": "후드 크로우",
+      "br": "Piloto Encapuzado",
+      "tw": "胡德烏鴉"
+    },
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -951,7 +1426,12 @@
   },
   {
     "id": 392,
-    "nameKey": "seth_s_amazone",
+    "names": {
+      "en": "Seth's Amazone",
+      "kr": "세트 여전사",
+      "br": "Algoz de Seth",
+      "tw": "賽斯女戰士"
+    },
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -961,7 +1441,12 @@
   },
   {
     "id": 393,
-    "nameKey": "seth_s_mummy",
+    "names": {
+      "en": "Seth's Mummy",
+      "kr": "세트 미이라",
+      "br": "Múmia de Seth",
+      "tw": "賽斯木乃伊"
+    },
     "point": 39,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -971,7 +1456,12 @@
   },
   {
     "id": 394,
-    "nameKey": "seth_s_warlock",
+    "names": {
+      "en": "Seth's Warlock",
+      "kr": "세트 악령술사",
+      "br": "Feiticeiro de Seth",
+      "tw": "賽斯惡靈術師"
+    },
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -981,7 +1471,12 @@
   },
   {
     "id": 399,
-    "nameKey": "highlander_s_illusion",
+    "names": {
+      "en": "Highlander's Illusion",
+      "kr": "하이랜더의 잔영",
+      "br": "Espírito do Cavaleiro Highlander",
+      "tw": "高地人的殘影"
+    },
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -991,7 +1486,12 @@
   },
   {
     "id": 405,
-    "nameKey": "fencer_guard",
+    "names": {
+      "en": "Fencer Guard",
+      "kr": "경비대 펜서 상등병",
+      "br": "Soldado Esgrimista",
+      "tw": "警備隊配劍上等兵"
+    },
     "point": 36,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1001,7 +1501,12 @@
   },
   {
     "id": 406,
-    "nameKey": "lancer_guard",
+    "names": {
+      "en": "Lancer Guard",
+      "kr": "경비대 렌서 상등병",
+      "br": "Soldado Lanceiro",
+      "tw": "警備隊槍騎兵上等"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1011,7 +1516,12 @@
   },
   {
     "id": 407,
-    "nameKey": "sergeant_lancer",
+    "names": {
+      "en": "Sergeant Lancer",
+      "kr": "경비대 렌서 병장",
+      "br": "Guarda Lanceiro",
+      "tw": "警備隊槍騎兵兵長"
+    },
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1021,7 +1531,12 @@
   },
   {
     "id": 408,
-    "nameKey": "gatekeeper_vask",
+    "names": {
+      "en": "GateKeeper Vask",
+      "kr": "문지기 바스커빌",
+      "br": "Baskerville o Guardião do Portão",
+      "tw": "守衛巴斯柯維爾"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1031,7 +1546,12 @@
   },
   {
     "id": 410,
-    "nameKey": "prisoners",
+    "names": {
+      "en": "Prisoners",
+      "kr": "죄수",
+      "br": "Prisioneiro",
+      "tw": "囚犯"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1041,7 +1561,12 @@
   },
   {
     "id": 411,
-    "nameKey": "escaped_prisoner",
+    "names": {
+      "en": "Escaped Prisoner",
+      "kr": "탈옥수",
+      "br": "Prisioneiro em Fuga",
+      "tw": "越獄犯"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1051,7 +1576,12 @@
   },
   {
     "id": 414,
-    "nameKey": "giant_poisonous_arachnia",
+    "names": {
+      "en": "Giant Poisonous Arachnia",
+      "kr": "자이언트 포이즌 아라크니아",
+      "br": "Arachnia Venenosa Gigante",
+      "tw": "巨型毒蜘蛛"
+    },
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1061,7 +1591,12 @@
   },
   {
     "id": 415,
-    "nameKey": "death_row_tarik",
+    "names": {
+      "en": "Death Row Tarik",
+      "kr": "사형수 타리크",
+      "br": "Taric o Condenado à Morte",
+      "tw": "死囚塔里克"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1071,7 +1606,12 @@
   },
   {
     "id": 418,
-    "nameKey": "sorcerer",
+    "names": {
+      "en": "Sorcerer",
+      "kr": "마도사",
+      "br": "Mago",
+      "tw": "魔導師"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1081,7 +1621,12 @@
   },
   {
     "id": 419,
-    "nameKey": "sergeant_musketeer",
+    "names": {
+      "en": "Sergeant Musketeer",
+      "kr": "경비대 사격수 병장",
+      "br": "Guarda Atirador",
+      "tw": "警備隊射擊兵長"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1091,7 +1636,12 @@
   },
   {
     "id": 420,
-    "nameKey": "colonel_musketeer",
+    "names": {
+      "en": "Colonel Musketeer",
+      "kr": "경비대 사격수 하사",
+      "br": "Sargento Atirador",
+      "tw": "警備隊射擊下士"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1101,7 +1651,12 @@
   },
   {
     "id": 421,
-    "nameKey": "colonel_fencer",
+    "names": {
+      "en": "Colonel Fencer",
+      "kr": "경비대 펜서 하사",
+      "br": "Sargento Esgrimista",
+      "tw": "警備隊配劍下士"
+    },
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1111,7 +1666,12 @@
   },
   {
     "id": 422,
-    "nameKey": "guard_captain_schumacher",
+    "names": {
+      "en": "Guard Captain Schumacher",
+      "kr": "경비대장 나이트슈마허",
+      "br": "Schumacher o Cavaleiro",
+      "tw": "警備隊長奈特什馬赫"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1121,7 +1681,12 @@
   },
   {
     "id": 423,
-    "nameKey": "cleaner_maid",
+    "names": {
+      "en": "Cleaner Maid",
+      "kr": "청소담당 메이드",
+      "br": "Criada",
+      "tw": "清掃擔當 女僕"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1131,7 +1696,12 @@
   },
   {
     "id": 424,
-    "nameKey": "sorcerer",
+    "names": {
+      "en": "Sorcerer",
+      "kr": "마도사",
+      "br": "Mago",
+      "tw": "魔導師(Mp+0.7)"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1141,7 +1711,12 @@
   },
   {
     "id": 425,
-    "nameKey": "arch_sorcerer",
+    "names": {
+      "en": "Arch Sorcerer",
+      "kr": "마도사 단장",
+      "br": "Arquimago",
+      "tw": "魔導師團長"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1151,7 +1726,12 @@
   },
   {
     "id": 426,
-    "nameKey": "kitchen_maid",
+    "names": {
+      "en": "Kitchen Maid",
+      "kr": "요리담당 메이드",
+      "br": "Cozinheira",
+      "tw": "料理擔當 女僕"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1161,7 +1741,12 @@
   },
   {
     "id": 427,
-    "nameKey": "colonel_lancer",
+    "names": {
+      "en": "Colonel Lancer",
+      "kr": "경비대 렌서 하사",
+      "br": "Sargento Lanceiro",
+      "tw": "警備隊槍騎兵下士"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1171,7 +1756,12 @@
   },
   {
     "id": 428,
-    "nameKey": "head_cleaner_maid",
+    "names": {
+      "en": "Head Cleaner Maid",
+      "kr": "청소담당 메이드 메니저",
+      "br": "Criada Chefe",
+      "tw": "保潔女僕經紀人"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1181,7 +1771,12 @@
   },
   {
     "id": 429,
-    "nameKey": "head_kitchen_maid",
+    "names": {
+      "en": "Head Kitchen Maid",
+      "kr": "요리담당 메이드 메니저",
+      "br": "Cozinheira Chefe",
+      "tw": "料理女僕經紀人"
+    },
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1191,7 +1786,12 @@
   },
   {
     "id": 430,
-    "nameKey": "dreyfus_de_villepin",
+    "names": {
+      "en": "Dreyfus de Villepin",
+      "kr": "존잘르 드 그리다 화백",
+      "br": "Jonjalle de Greeda",
+      "tw": "畫家約翰紮勒*德*格里達"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1201,7 +1801,12 @@
   },
   {
     "id": 432,
-    "nameKey": "butler",
+    "names": {
+      "en": "Butler",
+      "kr": "집사",
+      "br": "Mordomo",
+      "tw": "管家"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1211,7 +1816,12 @@
   },
   {
     "id": 433,
-    "nameKey": "giant_arachnia",
+    "names": {
+      "en": "Giant Arachnia",
+      "kr": "자이언트 데스 아라크니아",
+      "br": "Arachnia Gigante",
+      "tw": "巨型死亡蜘蛛"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1221,7 +1831,12 @@
   },
   {
     "id": 435,
-    "nameKey": "giant_blood_arachnia",
+    "names": {
+      "en": "Giant Blood Arachnia",
+      "kr": "자이언트 블러디 아라크니아",
+      "br": "Arachnia Sanguinária",
+      "tw": "巨型血腥蜘蛛"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1231,7 +1846,12 @@
   },
   {
     "id": 436,
-    "nameKey": "gigantic_poisonous_arachnia",
+    "names": {
+      "en": "Gigantic Poisonous Arachnia",
+      "kr": "기간틱 포이즌 아라크니아",
+      "br": "Arachnia Venenosa Gigante",
+      "tw": "大型毒蜘蛛"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1241,7 +1861,12 @@
   },
   {
     "id": 437,
-    "nameKey": "head_manager",
+    "names": {
+      "en": "Head Manager",
+      "kr": "지배인",
+      "br": "Administrador",
+      "tw": "經理"
+    },
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1251,7 +1876,12 @@
   },
   {
     "id": 438,
-    "nameKey": "gigantic_blood_arachnia",
+    "names": {
+      "en": "Gigantic Blood Arachnia",
+      "kr": "기간틱 블러디 아라크니아",
+      "br": "Arachnia Sanguinária Gigante",
+      "tw": "大型血腥蜘蛛(生命37)"
+    },
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1261,7 +1891,12 @@
   },
   {
     "id": 439,
-    "nameKey": "count_von_bucchantes",
+    "names": {
+      "en": "Count Von Bucchantes",
+      "kr": "슈발루 퐁 지라르풍자크 백작",
+      "br": "Shubalu Pon JirarpungJark",
+      "tw": "斯瓦盧*蓬吉拉馮紮克伯爵"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1271,7 +1906,12 @@
   },
   {
     "id": 440,
-    "nameKey": "gigantic_poisonous_arachnia",
+    "names": {
+      "en": "Gigantic Poisonous Arachnia",
+      "kr": "기간틱 포이즌 아라크니아",
+      "br": "Arachnia Venenosa Gigante",
+      "tw": "大型毒蜘蛛(爆擊0.52)"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1281,7 +1921,12 @@
   },
   {
     "id": 441,
-    "nameKey": "sergeant_musketeer",
+    "names": {
+      "en": "Sergeant Musketeer",
+      "kr": "경비대 사격수 병장",
+      "br": "Guarda Atirador",
+      "tw": "警備隊射擊兵長"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1291,7 +1936,12 @@
   },
   {
     "id": 442,
-    "nameKey": "gigantic_blood_arachnia",
+    "names": {
+      "en": "Gigantic Blood Arachnia",
+      "kr": "기간틱 블러디 아라크니아",
+      "br": "Arachnia Sanguinária Gigante",
+      "tw": "大型血腥蜘蛛(mp1.12)"
+    },
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1301,7 +1951,12 @@
   },
   {
     "id": 443,
-    "nameKey": "arch_sorcerer",
+    "names": {
+      "en": "Arch Sorcerer",
+      "kr": "마도사 단장",
+      "br": "Arquimago",
+      "tw": "魔導師團長(必攻145)"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1311,7 +1966,12 @@
   },
   {
     "id": 445,
-    "nameKey": "colonel_musketeer",
+    "names": {
+      "en": "Colonel Musketeer",
+      "kr": "경비대 사격수 하사",
+      "br": "Sargento Atirador",
+      "tw": "警備隊射擊下士"
+    },
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1321,7 +1981,12 @@
   },
   {
     "id": 446,
-    "nameKey": "gigantic_arachnia",
+    "names": {
+      "en": "Gigantic Arachnia",
+      "kr": "기간틱 데스 아라크니아",
+      "br": "Arachnia Mortífera Gigante",
+      "tw": "巨型死亡蜘蛛"
+    },
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1331,7 +1996,12 @@
   },
   {
     "id": 447,
-    "nameKey": "countess_arachne",
+    "names": {
+      "en": "Countess Arachne",
+      "kr": "아라크네 백작부인",
+      "br": "Condessa Arachne",
+      "tw": "阿拉喀涅伯爵夫人"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1341,7 +2011,12 @@
   },
   {
     "id": 452,
-    "nameKey": "mountain_giant_troka",
+    "names": {
+      "en": "Mountain Giant Troka",
+      "kr": "큰바위 트로카",
+      "br": "Gigante da Montanha Troka",
+      "tw": "巨石特洛卡"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1351,7 +2026,12 @@
   },
   {
     "id": 456,
-    "nameKey": "lacerta_berserker",
+    "names": {
+      "en": "Lacerta Berserker",
+      "kr": "라세르타 광전사",
+      "br": "Lagarto Berserker",
+      "tw": "蠍虎座 狂戰士"
+    },
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1361,7 +2041,12 @@
   },
   {
     "id": 458,
-    "nameKey": "lacerta_sorcerer",
+    "names": {
+      "en": "Lacerta Sorcerer",
+      "kr": "라세르타 마도사",
+      "br": "Lagarto Bruxo",
+      "tw": "蠍虎座 魔導師"
+    },
     "point": 32,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1371,7 +2056,12 @@
   },
   {
     "id": 459,
-    "nameKey": "war_chief_raklak",
+    "names": {
+      "en": "War Chief RakLak",
+      "kr": "대전사 라크라크",
+      "br": "General Lak-Lak",
+      "tw": "大戰士 拉克拉克"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1381,7 +2071,12 @@
   },
   {
     "id": 460,
-    "nameKey": "arch_mage_roklok",
+    "names": {
+      "en": "Arch-Mage RokLok",
+      "kr": "대마도사 로크로크",
+      "br": "Rei Xamã Lok-Lok",
+      "tw": "大魔導 洛克洛克"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1391,7 +2086,12 @@
   },
   {
     "id": 466,
-    "nameKey": "void_shaman",
+    "names": {
+      "en": "Void Shaman",
+      "kr": "공허의 주술사",
+      "br": "Shamã do Vazio",
+      "tw": "虛空精靈使"
+    },
     "point": 38,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1401,7 +2101,12 @@
   },
   {
     "id": 467,
-    "nameKey": "void_sorcerer",
+    "names": {
+      "en": "Void Sorcerer",
+      "kr": "공허의 마도사",
+      "br": "Bruxo do Vazio",
+      "tw": "虛空魔導師"
+    },
     "point": 36,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1411,7 +2116,12 @@
   },
   {
     "id": 468,
-    "nameKey": "morid_the_despair",
+    "names": {
+      "en": "Morid the Despair",
+      "kr": "절망의 모리드",
+      "br": "Morid o Desepero",
+      "tw": "絕望的莫里德"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1421,7 +2131,12 @@
   },
   {
     "id": 469,
-    "nameKey": "garud_the_hatred",
+    "names": {
+      "en": "Garud The Hatred",
+      "kr": "증오의 가루드",
+      "br": "Garuda o Peçonhento",
+      "tw": "仇恨的家魯德"
+    },
     "point": 43,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1431,7 +2146,12 @@
   },
   {
     "id": 470,
-    "nameKey": "arbiter_king_slime",
+    "names": {
+      "en": "Arbiter King Slime",
+      "kr": "심판자 킹슬라임",
+      "br": "Rei Gosma Juiz",
+      "tw": "審判者使萊姆"
+    },
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1441,7 +2161,12 @@
   },
   {
     "id": 471,
-    "nameKey": "defender_king_slime",
+    "names": {
+      "en": "Defender King Slime",
+      "kr": "수호자 킹슬라임",
+      "br": "Rei Gosma Guardião",
+      "tw": "守護者史萊姆"
+    },
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1451,7 +2176,12 @@
   },
   {
     "id": 472,
-    "nameKey": "justicar_king_slime",
+    "names": {
+      "en": "Justicar King Slime",
+      "kr": "신의 대리인 왕슬라임",
+      "br": "Rei Gosma Mensageiro",
+      "tw": "神之代理史萊姆"
+    },
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1461,7 +2191,12 @@
   },
   {
     "id": 473,
-    "nameKey": "ambiter_king_slime_self_named",
+    "names": {
+      "en": "Ambiter King Slime (Self Named)",
+      "kr": "(자칭) 심판자 킹슬라임",
+      "br": "Juiz",
+      "tw": "(自稱)審判者史萊姆王"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1471,7 +2206,12 @@
   },
   {
     "id": 474,
-    "nameKey": "defender_king_slime_self_named",
+    "names": {
+      "en": "Defender King Slime (Self Named)",
+      "kr": "(자칭) 수호자 킹슬라임",
+      "br": "Guardião",
+      "tw": "(自稱)守護者史萊姆王"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1481,7 +2221,12 @@
   },
   {
     "id": 475,
-    "nameKey": "justicar_king_slime_self_named",
+    "names": {
+      "en": "Justicar King Slime (Self Named)",
+      "kr": "(자칭) 신의 대리인 킹슬라임",
+      "br": "Mensageiro",
+      "tw": "(自稱)神之代理史萊姆王"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1491,7 +2236,12 @@
   },
   {
     "id": 476,
-    "nameKey": "harrier_larva",
+    "names": {
+      "en": "Harrier Larva",
+      "kr": "해리어 검방이",
+      "br": "Larva Harrier",
+      "tw": "海利爾 地痞"
+    },
     "point": 36,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1501,7 +2251,12 @@
   },
   {
     "id": 505,
-    "nameKey": "harrier_goblin_fighter",
+    "names": {
+      "en": "Harrier Goblin Fighter",
+      "kr": "해리어 고블린 싸움꾼",
+      "br": "Goblin Lutador Harrier",
+      "tw": "海利爾哥布林打手"
+    },
     "point": 42,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1511,7 +2266,12 @@
   },
   {
     "id": 610,
-    "nameKey": "gaikoz_s_castle",
+    "names": {
+      "en": "Gaikoz's Castle",
+      "kr": "가이코즈의 성",
+      "br": "Castelo de Gaicoz",
+      "tw": "蓋科斯之城"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1521,7 +2281,12 @@
   },
   {
     "id": 611,
-    "nameKey": "victor_s_fortress",
+    "names": {
+      "en": "Victor's Fortress",
+      "kr": "빅터의 요새",
+      "br": "Fortaleza do Victor",
+      "tw": "維克托要塞"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1531,7 +2296,12 @@
   },
   {
     "id": 612,
-    "nameKey": "kaze_aze_s_castle",
+    "names": {
+      "en": "Kaze'aze's Castle",
+      "kr": "카제아제의 성",
+      "br": "Castelo de Cazeaje",
+      "tw": "卡查伊斯之城"
+    },
     "point": 30,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1541,7 +2311,12 @@
   },
   {
     "id": 613,
-    "nameKey": "temple_of_destruction",
+    "names": {
+      "en": "Temple of Destruction",
+      "kr": "파괴의 신전",
+      "br": "Altar de Destruição",
+      "tw": "破壞神殿"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1551,7 +2326,12 @@
   },
   {
     "id": 614,
-    "nameKey": "kungji_village",
+    "names": {
+      "en": "Kungji Village",
+      "kr": "쿵지 쿵지",
+      "br": "Vila Kungji",
+      "tw": "噗嘰噗嘰"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,
@@ -1561,7 +2341,12 @@
   },
   {
     "id": 615,
-    "nameKey": "kounat_s_collapse",
+    "names": {
+      "en": "Kounat's Collapse",
+      "kr": "코우나트 붕괴지",
+      "br": "Império de Astaroth",
+      "tw": "克吾納特廢墟"
+    },
     "point": 40,
     "group": 4,
     "rate": 0.006369426751592357,

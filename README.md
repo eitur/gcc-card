@@ -33,18 +33,11 @@ Fetch latest card information from online spreadsheet and generate JSON files:
 python scripts/xls-converter.py
 ```
 **Generates:**
-- `cards-data/group-1.json` through `group-7.json`
-- `locales/card-names.json`
+- `cards-data/group-1.json`
+- `cards-data/group-2.json`
+- ...
 
-### 3. Extract card images:
-Extract card images from PDF file:
-```bash
-python scripts/img_extracter.py
-```
-
-**Output:** Images stored in `images/cards-webp/`
-
-### 4. Deploy to GitHub Pages
+### 3. Deploy to GitHub Pages
 ```bash
 # Commit generated files
 git add .

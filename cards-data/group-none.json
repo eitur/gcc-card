@@ -1,7 +1,12 @@
 [
   {
     "id": 195,
-    "nameKey": "naamah_card",
+    "names": {
+      "en": "Naamah Card",
+      "kr": "Naamah Card",
+      "br": "Naamah Card",
+      "tw": "Naamah Card"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -11,7 +16,12 @@
   },
   {
     "id": 196,
-    "nameKey": "demon_core_card",
+    "names": {
+      "en": "Demon Core Card",
+      "kr": "Demon Core Card",
+      "br": "Demon Core Card",
+      "tw": "Demon Core Card"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -21,7 +31,12 @@
   },
   {
     "id": 202,
-    "nameKey": "veron",
+    "names": {
+      "en": "Veron",
+      "kr": "Veron",
+      "br": "Veron",
+      "tw": "Veron"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -31,7 +46,12 @@
   },
   {
     "id": 203,
-    "nameKey": "drawl",
+    "names": {
+      "en": "Drawl",
+      "kr": "Drawl",
+      "br": "Drawl",
+      "tw": "Drawl"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -41,7 +61,12 @@
   },
   {
     "id": 350,
-    "nameKey": "gaikoz",
+    "names": {
+      "en": "Gaikoz",
+      "kr": "Gaikoz",
+      "br": "Gaikoz",
+      "tw": "Gaikoz"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -51,7 +76,12 @@
   },
   {
     "id": 351,
-    "nameKey": "victor",
+    "names": {
+      "en": "Victor",
+      "kr": "Victor",
+      "br": "Victor",
+      "tw": "Victor"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -61,7 +91,12 @@
   },
   {
     "id": 352,
-    "nameKey": "dark_anmon",
+    "names": {
+      "en": "Dark Anmon",
+      "kr": "Dark Anmon",
+      "br": "Dark Anmon",
+      "tw": "Dark Anmon"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -71,7 +106,12 @@
   },
   {
     "id": 353,
-    "nameKey": "ashtaroth",
+    "names": {
+      "en": "Ashtaroth",
+      "kr": "Ashtaroth",
+      "br": "Ashtaroth",
+      "tw": "Ashtaroth"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -81,7 +121,12 @@
   },
   {
     "id": 354,
-    "nameKey": "arawn",
+    "names": {
+      "en": "Arawn",
+      "kr": "Arawn",
+      "br": "Arawn",
+      "tw": "Arawn"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -91,7 +136,12 @@
   },
   {
     "id": 355,
-    "nameKey": "elder_kungji",
+    "names": {
+      "en": "Elder Kungji",
+      "kr": "Elder Kungji",
+      "br": "Elder Kungji",
+      "tw": "Elder Kungji"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -101,7 +151,12 @@
   },
   {
     "id": 539,
-    "nameKey": "harrier_orc_lord",
+    "names": {
+      "en": "Harrier Orc Lord",
+      "kr": "Harrier Orc Lord",
+      "br": "Harrier Orc Lord",
+      "tw": "Harrier Orc Lord"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -111,7 +166,12 @@
   },
   {
     "id": 558,
-    "nameKey": "gorgos_queen",
+    "names": {
+      "en": "Gorgos Queen",
+      "kr": "Gorgos Queen",
+      "br": "Gorgos Queen",
+      "tw": "Gorgos Queen"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -121,7 +181,12 @@
   },
   {
     "id": 574,
-    "nameKey": "kaze_aze_s_illusion",
+    "names": {
+      "en": "Kaze'aze's Illusion",
+      "kr": "Kaze'aze's Illusion",
+      "br": "Kaze'aze's Illusion",
+      "tw": "Kaze'aze's Illusion"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -131,7 +196,12 @@
   },
   {
     "id": 575,
-    "nameKey": "unknown_demon",
+    "names": {
+      "en": "Unknown Demon",
+      "kr": "Unknown Demon",
+      "br": "Unknown Demon",
+      "tw": "Unknown Demon"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -141,7 +211,12 @@
   },
   {
     "id": 587,
-    "nameKey": "star_chaser",
+    "names": {
+      "en": "Star Chaser",
+      "kr": "Star Chaser",
+      "br": "Star Chaser",
+      "tw": "Star Chaser"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -151,7 +226,12 @@
   },
   {
     "id": 588,
-    "nameKey": "throne_lancer",
+    "names": {
+      "en": "Throne Lancer",
+      "kr": "Throne Lancer",
+      "br": "Throne Lancer",
+      "tw": "Throne Lancer"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -161,7 +241,12 @@
   },
   {
     "id": 589,
-    "nameKey": "throne_control_system",
+    "names": {
+      "en": "Throne Control System",
+      "kr": "Throne Control System",
+      "br": "Throne Control System",
+      "tw": "Throne Control System"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -171,7 +256,12 @@
   },
   {
     "id": 594,
-    "nameKey": "void_chaser",
+    "names": {
+      "en": "Void Chaser",
+      "kr": "Void Chaser",
+      "br": "Void Chaser",
+      "tw": "Void Chaser"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -181,7 +271,12 @@
   },
   {
     "id": 595,
-    "nameKey": "void_challenger",
+    "names": {
+      "en": "Void Challenger",
+      "kr": "Void Challenger",
+      "br": "Void Challenger",
+      "tw": "Void Challenger"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -191,7 +286,12 @@
   },
   {
     "id": 601,
-    "nameKey": "raging_soul_dullahan",
+    "names": {
+      "en": "Raging Soul Dullahan",
+      "kr": "Raging Soul Dullahan",
+      "br": "Raging Soul Dullahan",
+      "tw": "Raging Soul Dullahan"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -201,7 +301,12 @@
   },
   {
     "id": 602,
-    "nameKey": "storm_resolver",
+    "names": {
+      "en": "Storm Resolver",
+      "kr": "Storm Resolver",
+      "br": "Storm Resolver",
+      "tw": "Storm Resolver"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -211,7 +316,12 @@
   },
   {
     "id": 603,
-    "nameKey": "solar_chaser",
+    "names": {
+      "en": "Solar Chaser",
+      "kr": "Solar Chaser",
+      "br": "Solar Chaser",
+      "tw": "Solar Chaser"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -221,7 +331,12 @@
   },
   {
     "id": 604,
-    "nameKey": "lunar_chaser",
+    "names": {
+      "en": "Lunar Chaser",
+      "kr": "Lunar Chaser",
+      "br": "Lunar Chaser",
+      "tw": "Lunar Chaser"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,
@@ -231,7 +346,12 @@
   },
   {
     "id": 605,
-    "nameKey": "enraged_gorgos_queen",
+    "names": {
+      "en": "Enraged Gorgos Queen",
+      "kr": "Enraged Gorgos Queen",
+      "br": "Enraged Gorgos Queen",
+      "tw": "Enraged Gorgos Queen"
+    },
     "point": "-",
     "group": "-",
     "rate": 0.041666666666666664,

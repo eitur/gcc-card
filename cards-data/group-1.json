@@ -1,7 +1,12 @@
 [
   {
     "id": 1,
-    "nameKey": "mushmon_card",
+    "names": {
+      "en": "Mushmon Card",
+      "kr": "머쉬룸 카드",
+      "br": "Carta Cogumelo",
+      "tw": "蘑菇"
+    },
     "point": 1,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -11,7 +16,12 @@
   },
   {
     "id": 2,
-    "nameKey": "treant_card",
+    "names": {
+      "en": "Treant Card",
+      "kr": "엔트 카드",
+      "br": "Carta Ente",
+      "tw": "恩特"
+    },
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -21,7 +31,12 @@
   },
   {
     "id": 3,
-    "nameKey": "slime_card",
+    "names": {
+      "en": "Slime Card",
+      "kr": "슬라임 카드",
+      "br": "Carta Gosma",
+      "tw": "史萊姆"
+    },
     "point": 7,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -31,7 +46,12 @@
   },
   {
     "id": 4,
-    "nameKey": "goblin_card",
+    "names": {
+      "en": "Goblin Card",
+      "kr": "고블린 카드",
+      "br": "Carta Goblin",
+      "tw": "哥布林"
+    },
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -41,7 +61,12 @@
   },
   {
     "id": 5,
-    "nameKey": "wendy_card",
+    "names": {
+      "en": "Wendy Card",
+      "kr": "사나운 웬디 카드",
+      "br": "Carta Wendy",
+      "tw": "恐怖溫蒂"
+    },
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -51,7 +76,12 @@
   },
   {
     "id": 6,
-    "nameKey": "stone_goblin_card",
+    "names": {
+      "en": "Stone Goblin Card",
+      "kr": "고블린투척병 카드",
+      "br": "Carta Goblin de Pedra",
+      "tw": "擲彈哥布林"
+    },
     "point": 2,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -61,7 +91,12 @@
   },
   {
     "id": 8,
-    "nameKey": "harpy_card",
+    "names": {
+      "en": "Harpy Card",
+      "kr": "하피 카드",
+      "br": "Carta Harpia",
+      "tw": "鷹身女妖"
+    },
     "point": 2,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -71,7 +106,12 @@
   },
   {
     "id": 10,
-    "nameKey": "orc_card",
+    "names": {
+      "en": "Orc Card",
+      "kr": "오크 카드",
+      "br": "Carta Oak",
+      "tw": "半獸人"
+    },
     "point": 1,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -81,7 +121,12 @@
   },
   {
     "id": 11,
-    "nameKey": "orc_lord_card",
+    "names": {
+      "en": "Orc Lord Card",
+      "kr": "오크로드 카드",
+      "br": "Carta Lorde Oak",
+      "tw": "半獸人族長"
+    },
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -91,7 +136,12 @@
   },
   {
     "id": 12,
-    "nameKey": "gon_card",
+    "names": {
+      "en": "Gon Card",
+      "kr": "곤 카드",
+      "br": "Carta Gon",
+      "tw": "鯀"
+    },
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -101,7 +151,12 @@
   },
   {
     "id": 13,
-    "nameKey": "gorgon_card",
+    "names": {
+      "en": "Gorgon Card",
+      "kr": "고르곤 카드",
+      "br": "Carta Gorgon",
+      "tw": "戈爾貢"
+    },
     "point": 3,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -111,7 +166,12 @@
   },
   {
     "id": 15,
-    "nameKey": "orc_warrior_card",
+    "names": {
+      "en": "Orc Warrior Card",
+      "kr": "오크전사 카드",
+      "br": "Carta Guerreiro Oak",
+      "tw": "半獸人戰士"
+    },
     "point": 2,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -121,7 +181,12 @@
   },
   {
     "id": 16,
-    "nameKey": "stone_orc_card",
+    "names": {
+      "en": "Stone Orc Card",
+      "kr": "오크투척병 카드",
+      "br": "Carta Oak de Pedra",
+      "tw": "擲彈半獸人"
+    },
     "point": 2,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -131,7 +196,12 @@
   },
   {
     "id": 18,
-    "nameKey": "drillmon_card",
+    "names": {
+      "en": "Drillmon Card",
+      "kr": "드릴몬 카드",
+      "br": "Carta Drillmon",
+      "tw": "鑽孔獸"
+    },
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -141,7 +211,12 @@
   },
   {
     "id": 20,
-    "nameKey": "swamp_slime_card",
+    "names": {
+      "en": "Swamp Slime Card",
+      "kr": "그린 슬라임 카드",
+      "br": "Carta Gosma Verde",
+      "tw": "綠史萊姆"
+    },
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -151,7 +226,12 @@
   },
   {
     "id": 22,
-    "nameKey": "skeleton_card",
+    "names": {
+      "en": "Skeleton Card",
+      "kr": "해골 카드",
+      "br": "Carta Esqueleto",
+      "tw": "骷髏"
+    },
     "point": 6,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -161,7 +241,12 @@
   },
   {
     "id": 23,
-    "nameKey": "zombie_orc_warrior_card",
+    "names": {
+      "en": "Zombie Orc Warrior Card",
+      "kr": "좀비오크전사 카드",
+      "br": "Carta Guerreiro Oak Zumbi",
+      "tw": "喪屍半獸人戰士"
+    },
     "point": 6,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -171,7 +256,12 @@
   },
   {
     "id": 25,
-    "nameKey": "paraminimy_card",
+    "names": {
+      "en": "Paraminimy Card",
+      "kr": "파라미니미 카드",
+      "br": "Carta Paraminimi",
+      "tw": "帕拉米尼米"
+    },
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -181,7 +271,12 @@
   },
   {
     "id": 26,
-    "nameKey": "stone_troll_card",
+    "names": {
+      "en": "Stone Troll Card",
+      "kr": "스톤트롤 카드",
+      "br": "Carta Troll de Pedra",
+      "tw": "巨石怪"
+    },
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -191,7 +286,12 @@
   },
   {
     "id": 31,
-    "nameKey": "blood_locust_card",
+    "names": {
+      "en": "Blood Locust Card",
+      "kr": "비스트모스키토 카드",
+      "br": "Carta Mosquito Vermelho",
+      "tw": "野獸蚊"
+    },
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -201,7 +301,12 @@
   },
   {
     "id": 32,
-    "nameKey": "dessicated_ent_card",
+    "names": {
+      "en": "Dessicated Ent Card",
+      "kr": "엔트미니미 카드",
+      "br": "Carta Guardião Ente",
+      "tw": "恩特米尼米"
+    },
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -211,7 +316,12 @@
   },
   {
     "id": 35,
-    "nameKey": "fire_crawler_card",
+    "names": {
+      "en": "Fire Crawler Card",
+      "kr": "불거미 카드",
+      "br": "Carta Tarântula de fogo",
+      "tw": "火蜘蛛"
+    },
     "point": 7,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -221,7 +331,12 @@
   },
   {
     "id": 36,
-    "nameKey": "tree_crawler_card",
+    "names": {
+      "en": "Tree Crawler Card",
+      "kr": "독거미 카드",
+      "br": "Carta Tarântula",
+      "tw": "毒蜘蛛"
+    },
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -231,7 +346,12 @@
   },
   {
     "id": 37,
-    "nameKey": "undead_fighter",
+    "names": {
+      "en": "Undead Fighter",
+      "kr": "해골격투가 카드",
+      "br": "Carta Guerreiro Esqueleto",
+      "tw": "骷髏鬥士"
+    },
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -241,7 +361,12 @@
   },
   {
     "id": 39,
-    "nameKey": "claw_shrimp_card",
+    "names": {
+      "en": "Claw Shrimp Card",
+      "kr": "캐스터 랍스터 카드",
+      "br": "Carta Lagosta Conjuradora",
+      "tw": "主播龍蝦"
+    },
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -251,7 +376,12 @@
   },
   {
     "id": 44,
-    "nameKey": "swamp_goblin_card",
+    "names": {
+      "en": "Swamp Goblin Card",
+      "kr": "습지대 고블린 카드",
+      "br": "Carta Goblin do Pântano",
+      "tw": "沼澤哥布林"
+    },
     "point": 7,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -261,7 +391,12 @@
   },
   {
     "id": 51,
-    "nameKey": "audrey_seedling_card",
+    "names": {
+      "en": "Audrey Seedling Card",
+      "kr": "미니 식충 식물 카드",
+      "br": "Carta Bebê Aranha",
+      "tw": "小食蟲植物"
+    },
     "point": 7,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -271,7 +406,12 @@
   },
   {
     "id": 105,
-    "nameKey": "mini_stone_golem_card",
+    "names": {
+      "en": "Mini Stone Golem Card",
+      "kr": "고대의 미니 스톤골렘 카드",
+      "br": "Carta Mini Golem de Pedra",
+      "tw": "古代迷你石魔像"
+    },
     "point": 6,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -281,7 +421,12 @@
   },
   {
     "id": 179,
-    "nameKey": "crooked_crab_card",
+    "names": {
+      "en": "Crooked Crab Card",
+      "kr": "무법자 꽃게 카드",
+      "br": "Carta Caranguejo Monstruoso",
+      "tw": "無法者花蟹"
+    },
     "point": 2,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -291,7 +436,12 @@
   },
   {
     "id": 180,
-    "nameKey": "blue_slime_card",
+    "names": {
+      "en": "Blue Slime Card",
+      "kr": "블루 슬라임 카드",
+      "br": "Carta Gosma Azul",
+      "tw": "藍史萊姆"
+    },
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -301,7 +451,12 @@
   },
   {
     "id": 181,
-    "nameKey": "red_slime_card",
+    "names": {
+      "en": "Red Slime Card",
+      "kr": "레드 슬라임 카드",
+      "br": "Carta Gorma Vermelha",
+      "tw": "紅色史萊姆"
+    },
     "point": 2,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -311,7 +466,12 @@
   },
   {
     "id": 182,
-    "nameKey": "toxic_toad_card",
+    "names": {
+      "en": "Toxic Toad Card",
+      "kr": "꿀꺼비 카드",
+      "br": "Carta Sapo Venenoso",
+      "tw": "毒蟾蜍"
+    },
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -321,7 +481,12 @@
   },
   {
     "id": 183,
-    "nameKey": "poisonous_mushroom_card",
+    "names": {
+      "en": "Poisonous Mushroom Card",
+      "kr": "포이즌 머쉬룸 카드",
+      "br": "Carta Gogumelo Toxico",
+      "tw": "毒蘑菇"
+    },
     "point": 6,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -331,7 +496,12 @@
   },
   {
     "id": 184,
-    "nameKey": "ghost_blader_card",
+    "names": {
+      "en": "Ghost Blader Card",
+      "kr": "원령 무사 카드",
+      "br": "Carta Guerreiro Esqueleto",
+      "tw": "幽靈武士"
+    },
     "point": 6,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -341,7 +511,12 @@
   },
   {
     "id": 185,
-    "nameKey": "ghost_shooter_card",
+    "names": {
+      "en": "Ghost Shooter Card",
+      "kr": "원령 총사 카드",
+      "br": "Carta Arqueiro Esqueleto",
+      "tw": "元靈槍手"
+    },
     "point": 6,
     "group": 1,
     "rate": 0.027777777777777776,
@@ -351,7 +526,12 @@
   },
   {
     "id": 186,
-    "nameKey": "ghost_priest_card",
+    "names": {
+      "en": "Ghost Priest Card",
+      "kr": "제사장 카드",
+      "br": "Carta Sacerdote Esqueleto",
+      "tw": "季司長"
+    },
     "point": 7,
     "group": 1,
     "rate": 0.027777777777777776,

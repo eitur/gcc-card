@@ -1,7 +1,12 @@
 [
   {
     "id": 7,
-    "nameKey": "orc_warrior_boss_card",
+    "names": {
+      "en": "Orc Warrior Boss Card",
+      "kr": "오크전사대장 카드",
+      "br": "Carta Guerreiro Oak",
+      "tw": "半獸人戰士隊長"
+    },
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -11,7 +16,12 @@
   },
   {
     "id": 9,
-    "nameKey": "harpy_queen_card",
+    "names": {
+      "en": "Harpy Queen Card",
+      "kr": "하피 퀸 카드",
+      "br": "Carta Rainha Harpia",
+      "tw": "鷹身女妖王"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -21,7 +31,12 @@
   },
   {
     "id": 14,
-    "nameKey": "red_gorgos_card",
+    "names": {
+      "en": "Red Gorgos Card",
+      "kr": "레드 고르고스 카드",
+      "br": "Carta Gorgos Vermelho",
+      "tw": "紅戈爾戈斯"
+    },
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -31,7 +46,12 @@
   },
   {
     "id": 17,
-    "nameKey": "troll_card",
+    "names": {
+      "en": "Troll Card",
+      "kr": "트롤 카드",
+      "br": "Carta Troll",
+      "tw": "巨魔"
+    },
     "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -41,7 +61,12 @@
   },
   {
     "id": 19,
-    "nameKey": "giant_drillmon_card",
+    "names": {
+      "en": "Giant Drillmon Card",
+      "kr": "자이언트 드릴몬 카드",
+      "br": "Carta Gigante Drillmon",
+      "tw": "巨型鑽孔獸"
+    },
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -51,7 +76,12 @@
   },
   {
     "id": 21,
-    "nameKey": "elizabeth_card",
+    "names": {
+      "en": "Elizabeth Card",
+      "kr": "엘리자베스 카드",
+      "br": "Carta Elizabeth",
+      "tw": "伊莉莎白"
+    },
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -61,7 +91,12 @@
   },
   {
     "id": 24,
-    "nameKey": "lich_card",
+    "names": {
+      "en": "Lich Card",
+      "kr": "리치 카드",
+      "br": "Carta Lich",
+      "tw": "巫妖"
+    },
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -71,7 +106,12 @@
   },
   {
     "id": 27,
-    "nameKey": "paradom_card",
+    "names": {
+      "en": "Paradom Card",
+      "kr": "파라돔 카드",
+      "br": "Carta Paradom",
+      "tw": "發射器"
+    },
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -81,7 +121,12 @@
   },
   {
     "id": 28,
-    "nameKey": "elite_anmon_scout_card",
+    "names": {
+      "en": "Elite Anmon Scout Card",
+      "kr": "강화된 앤몬정찰병 카드",
+      "br": "Carta Patrulha de Elite",
+      "tw": "被強化的螞蟻獸偵查兵"
+    },
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -91,7 +136,12 @@
   },
   {
     "id": 30,
-    "nameKey": "gaicoz_card",
+    "names": {
+      "en": "Gaicoz Card",
+      "kr": "가이코즈 카드",
+      "br": "Carta Gaicoz",
+      "tw": "蓋科斯"
+    },
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -101,7 +151,12 @@
   },
   {
     "id": 33,
-    "nameKey": "monstrous_ent_card",
+    "names": {
+      "en": "Monstrous Ent Card",
+      "kr": "변질된 엔트 카드",
+      "br": "Carta Ente Decomposto",
+      "tw": "變異的恩特"
+    },
     "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -111,7 +166,12 @@
   },
   {
     "id": 34,
-    "nameKey": "guardian_ent_card",
+    "names": {
+      "en": "Guardian Ent Card",
+      "kr": "에이션트 엔트 카드",
+      "br": "Carta Ente Antigo",
+      "tw": "古老的恩特"
+    },
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -121,7 +181,12 @@
   },
   {
     "id": 40,
-    "nameKey": "shock_revenant_card",
+    "names": {
+      "en": "Shock Revenant Card",
+      "kr": "전기 아귀 카드",
+      "br": "Carta Víbora Elétrica",
+      "tw": "發光餓鬼"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -131,7 +196,12 @@
   },
   {
     "id": 41,
-    "nameKey": "emerald_claw_shrimp_card",
+    "names": {
+      "en": "Emerald Claw Shrimp Card",
+      "kr": "에메랄드 랍스터 카드",
+      "br": "Carta Lagosta Esmeralda",
+      "tw": "翡翠龍蝦"
+    },
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -141,7 +211,12 @@
   },
   {
     "id": 42,
-    "nameKey": "coral_fiend_card",
+    "names": {
+      "en": "Coral Fiend Card",
+      "kr": "산호몬 카드",
+      "br": "Carta Coralino",
+      "tw": "珊瑚獸"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -151,7 +226,12 @@
   },
   {
     "id": 43,
-    "nameKey": "krakos_card",
+    "names": {
+      "en": "Krakos Card",
+      "kr": "크라코 카드",
+      "br": "Carta Krako",
+      "tw": "克拉科"
+    },
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -161,7 +241,12 @@
   },
   {
     "id": 45,
-    "nameKey": "swamp_spirit_card",
+    "names": {
+      "en": "Swamp Spirit Card",
+      "kr": "안개 정령 카드",
+      "br": "Carta Espírito da Névoa",
+      "tw": "迷霧精靈"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -171,7 +256,12 @@
   },
   {
     "id": 46,
-    "nameKey": "violet_fairy_card",
+    "names": {
+      "en": "Violet Fairy Card",
+      "kr": "바이올렛 페어리 카드",
+      "br": "Carta Fada Violeta",
+      "tw": "紫羅蘭精靈"
+    },
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -181,7 +271,12 @@
   },
   {
     "id": 47,
-    "nameKey": "violet_pixie_card",
+    "names": {
+      "en": "Violet Pixie Card",
+      "kr": "바이올렛 픽시 카드",
+      "br": "Carta Pixie Violeta",
+      "tw": "紫羅蘭小仙子"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -191,7 +286,12 @@
   },
   {
     "id": 48,
-    "nameKey": "mystic_golem_card",
+    "names": {
+      "en": "Mystic Golem Card",
+      "kr": "미스틱 골렘 카드",
+      "br": "Carta Golem Mistico",
+      "tw": "神秘魔像"
+    },
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -201,7 +301,12 @@
   },
   {
     "id": 49,
-    "nameKey": "king_guang_card",
+    "names": {
+      "en": "King Guang Card",
+      "kr": "하스 카드",
+      "br": "Carta Paprion",
+      "tw": "哈斯"
+    },
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -211,7 +316,12 @@
   },
   {
     "id": 50,
-    "nameKey": "tiny_creeper_card",
+    "names": {
+      "en": "Tiny Creeper Card",
+      "kr": "새끼 독거미 카드",
+      "br": "Tiny Creeper Card",
+      "tw": "小毒蜘蛛"
+    },
     "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -221,7 +331,12 @@
   },
   {
     "id": 52,
-    "nameKey": "venomous_gnat_card",
+    "names": {
+      "en": "Venomous Gnat Card",
+      "kr": "포이즌 모스키토 카드",
+      "br": "Carta Mosquito Venenoso",
+      "tw": "毒蚊子"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -231,7 +346,12 @@
   },
   {
     "id": 53,
-    "nameKey": "onyx_wendy_card",
+    "names": {
+      "en": "Onyx Wendy Card",
+      "kr": "블랙 웬디 카드",
+      "br": "Carta Wendy Kong",
+      "tw": "黑溫蒂"
+    },
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -241,7 +361,12 @@
   },
   {
     "id": 55,
-    "nameKey": "queen_creeper_card",
+    "names": {
+      "en": "Queen Creeper Card",
+      "kr": "독거미 여왕 카드",
+      "br": "Carta Planta Venenosa Rainha",
+      "tw": "毒蜘蛛女王"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -251,7 +376,12 @@
   },
   {
     "id": 56,
-    "nameKey": "bloodwind_orc_card",
+    "names": {
+      "en": "Bloodwind Orc Card",
+      "kr": "성난 피바람 오크 카드",
+      "br": "Carta Oak De Pedra Enfurecido",
+      "tw": "血風半獸人"
+    },
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -261,7 +391,12 @@
   },
   {
     "id": 57,
-    "nameKey": "bloodwind_orc_warrior_card",
+    "names": {
+      "en": "Bloodwind Orc Warrior Card",
+      "kr": "성난 피바람 오크 전사 카드",
+      "br": "Carta Guerreiro Oak Enfurecido ( Martelo )",
+      "tw": "血風半獸人戰士"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -271,7 +406,12 @@
   },
   {
     "id": 59,
-    "nameKey": "tartarus_card",
+    "names": {
+      "en": "Tartarus Card",
+      "kr": "타르타로스 카드",
+      "br": "Carta Carta Taitaros",
+      "tw": "泰塔羅斯"
+    },
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -281,7 +421,12 @@
   },
   {
     "id": 60,
-    "nameKey": "king_fang_card",
+    "names": {
+      "en": "King Fang Card",
+      "kr": "드레이크 웜 카드",
+      "br": "Carta Verme Dragão",
+      "tw": "德雷克異蟲"
+    },
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -291,7 +436,12 @@
   },
   {
     "id": 61,
-    "nameKey": "black_knights_spearman_card",
+    "names": {
+      "en": "Black Knights Spearman Card",
+      "kr": "블랙나이츠 창병 카드",
+      "br": "Carta Lanceiro Negro",
+      "tw": "黑騎士槍兵"
+    },
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -301,7 +451,12 @@
   },
   {
     "id": 63,
-    "nameKey": "dark_acolyte_card",
+    "names": {
+      "en": "Dark Acolyte Card",
+      "kr": "하급 암흑사제 카드",
+      "br": "Carta Sacerdote Negro",
+      "tw": "下級暗黑祭司"
+    },
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -311,7 +466,12 @@
   },
   {
     "id": 83,
-    "nameKey": "armor_lobster_card",
+    "names": {
+      "en": "Armor Lobster Card",
+      "kr": "아머랍스터 카드",
+      "br": "Carta Lagosta",
+      "tw": "鎧甲龍蝦"
+    },
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -321,7 +481,12 @@
   },
   {
     "id": 84,
-    "nameKey": "hungry_ghost_card",
+    "names": {
+      "en": "Hungry Ghost Card",
+      "kr": "귀신아귀 카드",
+      "br": "Carta Fantasma Agui",
+      "tw": "餓鬼"
+    },
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -331,7 +496,12 @@
   },
   {
     "id": 85,
-    "nameKey": "mini_ice_golem_card",
+    "names": {
+      "en": "Mini ice Golem Card",
+      "kr": "미니 아이스골렘 카드",
+      "br": "Carta Mini Golem de Gelo",
+      "tw": "迷你冰魔像"
+    },
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -341,7 +511,12 @@
   },
   {
     "id": 87,
-    "nameKey": "dark_anmon_scout_card",
+    "names": {
+      "en": "Dark Anmon Scout Card",
+      "kr": "어둠의 앤몬정찰병 카드",
+      "br": "Carta Patrulha da Escuridão",
+      "tw": "黑暗螞蟻獸偵查兵"
+    },
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -351,7 +526,12 @@
   },
   {
     "id": 91,
-    "nameKey": "mini_fire_golem_card",
+    "names": {
+      "en": "Mini Fire Golem Card",
+      "kr": "미니 파이어골렘 카드",
+      "br": "Carta Mini Golem de Fogo",
+      "tw": "迷你火魔像"
+    },
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -361,7 +541,12 @@
   },
   {
     "id": 97,
-    "nameKey": "dark_mage_card",
+    "names": {
+      "en": "Dark Mage Card",
+      "kr": "어둠의 다크메이지 카드",
+      "br": "Carta Mago Negro",
+      "tw": "黑暗法師"
+    },
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -371,7 +556,12 @@
   },
   {
     "id": 101,
-    "nameKey": "skeleton_archer_card",
+    "names": {
+      "en": "Skeleton Archer Card",
+      "kr": "해골궁수 카드",
+      "br": "Carta Arqueiro Esqueleto",
+      "tw": "骷髏弓箭手"
+    },
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -381,7 +571,12 @@
   },
   {
     "id": 187,
-    "nameKey": "ghost_samurai_card",
+    "names": {
+      "en": "Ghost Samurai Card",
+      "kr": "수신장 카드",
+      "br": "Carta Samurai Esqueleto",
+      "tw": "獸神將"
+    },
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -391,7 +586,12 @@
   },
   {
     "id": 188,
-    "nameKey": "shadow_emissary_card",
+    "names": {
+      "en": "Shadow Emissary Card",
+      "kr": "암흑 밀사 카드",
+      "br": "Carta Sacerdote Negro",
+      "tw": "暗黑密使"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -401,7 +601,12 @@
   },
   {
     "id": 303,
-    "nameKey": "sidt",
+    "names": {
+      "en": "Sidt",
+      "kr": "시트",
+      "br": "Sid",
+      "tw": "希特"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -411,7 +616,12 @@
   },
   {
     "id": 304,
-    "nameKey": "pepe",
+    "names": {
+      "en": "Pepe",
+      "kr": "페페",
+      "br": "PePe",
+      "tw": "佩佩"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -421,7 +631,12 @@
   },
   {
     "id": 305,
-    "nameKey": "gon",
+    "names": {
+      "en": "Gon",
+      "kr": "곤",
+      "br": "Gon",
+      "tw": "鯀"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -431,7 +646,12 @@
   },
   {
     "id": 306,
-    "nameKey": "slime",
+    "names": {
+      "en": "Slime",
+      "kr": "슬라임",
+      "br": "Gosma",
+      "tw": "史萊姆"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -441,7 +661,12 @@
   },
   {
     "id": 307,
-    "nameKey": "ninko",
+    "names": {
+      "en": "Ninko",
+      "kr": "닌코",
+      "br": "Ninko",
+      "tw": "忍者"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -451,7 +676,12 @@
   },
   {
     "id": 308,
-    "nameKey": "myurin",
+    "names": {
+      "en": "Myurin",
+      "kr": "뮤링",
+      "br": "Murin",
+      "tw": "繆玲"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -461,7 +691,12 @@
   },
   {
     "id": 309,
-    "nameKey": "luna",
+    "names": {
+      "en": "Luna",
+      "kr": "루나",
+      "br": "Luna",
+      "tw": "露娜"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -471,7 +706,12 @@
   },
   {
     "id": 310,
-    "nameKey": "arkham",
+    "names": {
+      "en": "Arkham",
+      "kr": "데빌",
+      "br": "Diabinho",
+      "tw": "惡魔"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -481,7 +721,12 @@
   },
   {
     "id": 311,
-    "nameKey": "cuddles",
+    "names": {
+      "en": "Cuddles",
+      "kr": "흑곰",
+      "br": "Urno Preto",
+      "tw": "黑熊"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -491,7 +736,12 @@
   },
   {
     "id": 312,
-    "nameKey": "fluffy_buffy",
+    "names": {
+      "en": "Fluffy & Buffy",
+      "kr": "핑키&핑코",
+      "br": "Pinky & Pinko",
+      "tw": "Pinky&pinko"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -501,7 +751,12 @@
   },
   {
     "id": 313,
-    "nameKey": "sarimanok",
+    "names": {
+      "en": "Sarimanok",
+      "kr": "사리마녹",
+      "br": "Sarimanok",
+      "tw": "薩里馬諾克"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -511,7 +766,12 @@
   },
   {
     "id": 314,
-    "nameKey": "cupid",
+    "names": {
+      "en": "Cupid",
+      "kr": "큐피트",
+      "br": "Cupido",
+      "tw": "邱比特"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -521,7 +781,12 @@
   },
   {
     "id": 315,
-    "nameKey": "casanova",
+    "names": {
+      "en": "Casanova",
+      "kr": "카사노바",
+      "br": "Casanova",
+      "tw": "卡薩諾瓦"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -531,7 +796,12 @@
   },
   {
     "id": 316,
-    "nameKey": "kungji",
+    "names": {
+      "en": "Kungji",
+      "kr": "뷰티쿵",
+      "br": "Kungji",
+      "tw": "美麗噗嘰"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -541,7 +811,12 @@
   },
   {
     "id": 317,
-    "nameKey": "blue_fairy",
+    "names": {
+      "en": "Blue Fairy",
+      "kr": "블루페어리",
+      "br": "Pixie",
+      "tw": "藍精靈"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -551,7 +826,12 @@
   },
   {
     "id": 318,
-    "nameKey": "bastet",
+    "names": {
+      "en": "Bastet",
+      "kr": "루나파이터",
+      "br": "Lunatic",
+      "tw": "露娜戰士"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -561,7 +841,12 @@
   },
   {
     "id": 319,
-    "nameKey": "chaos_pepe",
+    "names": {
+      "en": "Chaos Pepe",
+      "kr": "카오스 페페",
+      "br": "CaoCao",
+      "tw": "混沌佩佩"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -571,7 +856,12 @@
   },
   {
     "id": 320,
-    "nameKey": "goldy",
+    "names": {
+      "en": "Goldy",
+      "kr": "골드슬라임",
+      "br": "Goldie",
+      "tw": "黃金史萊姆"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -581,7 +871,12 @@
   },
   {
     "id": 321,
-    "nameKey": "saku",
+    "names": {
+      "en": "Saku",
+      "kr": "사쿠",
+      "br": "Sakura",
+      "tw": "咲良"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -591,7 +886,12 @@
   },
   {
     "id": 322,
-    "nameKey": "dokaebi",
+    "names": {
+      "en": "Dokaebi",
+      "kr": "도깨비",
+      "br": "Dokebi",
+      "tw": "鬼怪"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -601,7 +901,12 @@
   },
   {
     "id": 323,
-    "nameKey": "rocco",
+    "names": {
+      "en": "Rocco",
+      "kr": "릭쿤",
+      "br": "Texugo",
+      "tw": "尼坤"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -611,7 +916,12 @@
   },
   {
     "id": 324,
-    "nameKey": "aero_kitty",
+    "names": {
+      "en": "Aero Kitty",
+      "kr": "로보냥",
+      "br": "Nekobot",
+      "tw": "機器貓"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -621,7 +931,12 @@
   },
   {
     "id": 325,
-    "nameKey": "ming_ming",
+    "names": {
+      "en": "Ming Ming",
+      "kr": "밍밍",
+      "br": "MingMing",
+      "tw": "嗚嗚"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -631,7 +946,12 @@
   },
   {
     "id": 326,
-    "nameKey": "ice_pixie",
+    "names": {
+      "en": "Ice Pixie",
+      "kr": "아이스픽시",
+      "br": "Icy",
+      "tw": "冰仙子"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -641,7 +961,12 @@
   },
   {
     "id": 327,
-    "nameKey": "ninkoro",
+    "names": {
+      "en": "Ninkoro",
+      "kr": "닌코로",
+      "br": "Ninkoro",
+      "tw": "忍柯洛"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -651,7 +976,12 @@
   },
   {
     "id": 328,
-    "nameKey": "koo_ka",
+    "names": {
+      "en": "Koo'ka",
+      "kr": "쿠카",
+      "br": "Cuca",
+      "tw": "庫卡"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -661,7 +991,12 @@
   },
   {
     "id": 329,
-    "nameKey": "mittens",
+    "names": {
+      "en": "Mittens",
+      "kr": "큐밍",
+      "br": "Nyami",
+      "tw": "球球"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -671,7 +1006,12 @@
   },
   {
     "id": 330,
-    "nameKey": "tian_long",
+    "names": {
+      "en": "Tian Long",
+      "kr": "해태",
+      "br": "Haetae",
+      "tw": "懈怠"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -681,7 +1021,12 @@
   },
   {
     "id": 331,
-    "nameKey": "sidtri",
+    "names": {
+      "en": "Sidtri",
+      "kr": "시트리",
+      "br": "Sidtri",
+      "tw": "希特利"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -691,7 +1036,12 @@
   },
   {
     "id": 332,
-    "nameKey": "gorgon",
+    "names": {
+      "en": "Gorgon",
+      "kr": "고르곤",
+      "br": "Gorgon",
+      "tw": "戈爾貢"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -701,7 +1051,12 @@
   },
   {
     "id": 333,
-    "nameKey": "peng_peng",
+    "names": {
+      "en": "Peng Peng",
+      "kr": "펭펭",
+      "br": "Lino",
+      "tw": "鵬鵬"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -711,7 +1066,12 @@
   },
   {
     "id": 334,
-    "nameKey": "feste",
+    "names": {
+      "en": "Feste",
+      "kr": "체로키",
+      "br": "Chaserrot",
+      "tw": "切羅基"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -721,7 +1081,12 @@
   },
   {
     "id": 335,
-    "nameKey": "lucretia",
+    "names": {
+      "en": "Lucretia",
+      "kr": "닉스",
+      "br": "Nix",
+      "tw": "尼克斯"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -731,7 +1096,12 @@
   },
   {
     "id": 336,
-    "nameKey": "helper_bot",
+    "names": {
+      "en": "Helper Bot",
+      "kr": "삐로",
+      "br": "Ppiro",
+      "tw": "比羅"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -741,7 +1111,12 @@
   },
   {
     "id": 337,
-    "nameKey": "emily",
+    "names": {
+      "en": "Emily",
+      "kr": "에밀리",
+      "br": "Emily",
+      "tw": "艾米莉"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -751,7 +1126,12 @@
   },
   {
     "id": 338,
-    "nameKey": "elena",
+    "names": {
+      "en": "Elena",
+      "kr": "엘레나",
+      "br": "Elena",
+      "tw": "愛琳娜"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -761,7 +1141,12 @@
   },
   {
     "id": 339,
-    "nameKey": "thommo",
+    "names": {
+      "en": "Thommo",
+      "kr": "토모",
+      "br": "Tomo",
+      "tw": "托莫"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -771,7 +1156,12 @@
   },
   {
     "id": 340,
-    "nameKey": "monkeybeard",
+    "names": {
+      "en": "Monkeybeard",
+      "kr": "몽키",
+      "br": "Monkey P.Ruivo",
+      "tw": "獼猴"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -781,7 +1171,12 @@
   },
   {
     "id": 341,
-    "nameKey": "hanana",
+    "names": {
+      "en": "Hanana",
+      "kr": "하나나",
+      "br": "Hanana",
+      "tw": "哈娜娜"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -791,7 +1186,12 @@
   },
   {
     "id": 342,
-    "nameKey": "moon_child",
+    "names": {
+      "en": "Moon Child",
+      "kr": "월아",
+      "br": "Coelho Lunar",
+      "tw": "月兒"
+    },
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
@@ -801,7 +1201,12 @@
   },
   {
     "id": 409,
-    "nameKey": "mutated_rat",
+    "names": {
+      "en": "Mutated Rat",
+      "kr": "돌연변이 쥐",
+      "br": "Rato Mutante",
+      "tw": "突變的老鼠"
+    },
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,

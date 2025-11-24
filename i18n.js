@@ -3,12 +3,10 @@ class I18n {
       this.currentLang = window.CURRENT_LANG || 'en';
       this.basePath = window.BASE_PATH || '.';
       this.translations = {};
-      this.cardNames = {};
     }
   
     async init() {
       await this.loadTranslations(this.currentLang);
-      await this.loadCardNames();
     }
   
     async loadTranslations(lang) {
@@ -17,15 +15,6 @@ class I18n {
         this.translations = await response.json();
       } catch (error) {
         console.error('Error loading translations:', error);
-      }
-    }
-  
-    async loadCardNames() {
-      try {
-        const response = await fetch(`${this.basePath}/locales/card-names.json`);
-        this.cardNames = await response.json();
-      } catch (error) {
-        console.error('Error loading card names:', error);
       }
     }
   
@@ -39,10 +28,6 @@ class I18n {
       }
       
       return value;
-    }
-  
-    getCardName(nameKey) {
-      return this.cardNames[this.currentLang]?.[nameKey] || nameKey;
     }
   
     updateUI() {
