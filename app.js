@@ -35,7 +35,8 @@ async function loadCards() {
       `${basePath}/cards-data/group-5.json`,
       `${basePath}/cards-data/group-6.json`,
       `${basePath}/cards-data/group-7.json`,
-      `${basePath}/cards-data/group-none.json`
+      `${basePath}/cards-data/group-none.json`,
+      `${basePath}/cards-data/group-undefined.json`
     ];
     
     const responses = await Promise.all(jsonFiles.map(file => fetch(file)));

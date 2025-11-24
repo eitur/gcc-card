@@ -1,326 +1,362 @@
 [
   {
     "id": 1,
+    "nameKey": "mushmon_card",
     "point": 1,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "1.webp"
+    "image": "sbta22510.webp"
   },
   {
     "id": 2,
+    "nameKey": "treant_card",
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "2.webp"
+    "image": "sbta22512.webp"
   },
   {
     "id": 3,
+    "nameKey": "slime_card",
     "point": 7,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "3.webp"
+    "image": "sbta22513.webp"
   },
   {
     "id": 4,
+    "nameKey": "goblin_card",
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "4.webp"
+    "image": "sbta22514.webp"
   },
   {
     "id": 5,
+    "nameKey": "wendy_card",
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "5.webp"
+    "image": "sbta22515.webp"
   },
   {
     "id": 6,
+    "nameKey": "stone_goblin_card",
     "point": 2,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "6.webp"
+    "image": "sbta22516.webp"
   },
   {
     "id": 8,
+    "nameKey": "harpy_card",
     "point": 2,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "8.webp"
+    "image": "sbta22518.webp"
   },
   {
     "id": 10,
+    "nameKey": "orc_card",
     "point": 1,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "10.webp"
+    "image": "sbta22520.webp"
   },
   {
     "id": 11,
+    "nameKey": "orc_lord_card",
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "11.webp"
+    "image": "sbta22521.webp"
   },
   {
     "id": 12,
+    "nameKey": "gon_card",
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "12.webp"
+    "image": "sbta22522.webp"
   },
   {
     "id": 13,
+    "nameKey": "gorgon_card",
     "point": 3,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "13.webp"
+    "image": "sbta22524.webp"
   },
   {
     "id": 15,
+    "nameKey": "orc_warrior_card",
     "point": 2,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "15.webp"
+    "image": "sbta22526.webp"
   },
   {
     "id": 16,
+    "nameKey": "stone_orc_card",
     "point": 2,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "16.webp"
+    "image": "sbta22527.webp"
   },
   {
     "id": 18,
+    "nameKey": "drillmon_card",
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "18.webp"
+    "image": "sbta22530.webp"
   },
   {
     "id": 20,
+    "nameKey": "swamp_slime_card",
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "20.webp"
+    "image": "sbta22532.webp"
   },
   {
     "id": 22,
+    "nameKey": "skeleton_card",
     "point": 6,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "22.webp"
+    "image": "sbta22535.webp"
   },
   {
     "id": 23,
+    "nameKey": "zombie_orc_warrior_card",
     "point": 6,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "23.webp"
+    "image": "sbta22536.webp"
   },
   {
     "id": 25,
+    "nameKey": "paraminimy_card",
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "25.webp"
+    "image": "sbta22538.webp"
   },
   {
     "id": 26,
+    "nameKey": "stone_troll_card",
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "26.webp"
+    "image": "sbta22539.webp"
   },
   {
     "id": 31,
+    "nameKey": "blood_locust_card",
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "31.webp"
+    "image": "sbta22545.webp"
   },
   {
     "id": 32,
+    "nameKey": "dessicated_ent_card",
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "32.webp"
+    "image": "sbta22546.webp"
   },
   {
     "id": 35,
+    "nameKey": "fire_crawler_card",
     "point": 7,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "35.webp"
+    "image": "sbta22549.webp"
   },
   {
     "id": 36,
+    "nameKey": "tree_crawler_card",
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "36.webp"
+    "image": "sbta22550.webp"
   },
   {
     "id": 37,
+    "nameKey": "undead_fighter",
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "37.webp"
+    "image": "sbta22551.webp"
   },
   {
     "id": 39,
+    "nameKey": "claw_shrimp_card",
     "point": 8,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "39.webp"
+    "image": "sbta22553.webp"
   },
   {
     "id": 44,
+    "nameKey": "swamp_goblin_card",
     "point": 7,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "44.webp"
+    "image": "sbta22558.webp"
   },
   {
     "id": 51,
+    "nameKey": "audrey_seedling_card",
     "point": 7,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "51.webp"
+    "image": "sbta22565.webp"
   },
   {
     "id": 105,
+    "nameKey": "mini_stone_golem_card",
     "point": 6,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "105.webp"
+    "image": "sbta22619.webp"
   },
   {
     "id": 179,
+    "nameKey": "crooked_crab_card",
     "point": 2,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "179.webp"
+    "image": "sbta31980.webp"
   },
   {
     "id": 180,
+    "nameKey": "blue_slime_card",
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "180.webp"
+    "image": "sbta31981.webp"
   },
   {
     "id": 181,
+    "nameKey": "red_slime_card",
     "point": 2,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "181.webp"
+    "image": "sbta31982.webp"
   },
   {
     "id": 182,
+    "nameKey": "toxic_toad_card",
     "point": 4,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "182.webp"
+    "image": "sbta31983.webp"
   },
   {
     "id": 183,
+    "nameKey": "poisonous_mushroom_card",
     "point": 6,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "183.webp"
+    "image": "sbta31984.webp"
   },
   {
     "id": 184,
+    "nameKey": "ghost_blader_card",
     "point": 6,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "184.webp"
+    "image": "sbta31985.webp"
   },
   {
     "id": 185,
+    "nameKey": "ghost_shooter_card",
     "point": 6,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "185.webp"
+    "image": "sbta31986.webp"
   },
   {
     "id": 186,
+    "nameKey": "ghost_priest_card",
     "point": 7,
     "group": 1,
     "rate": 0.027777777777777776,
     "region": "",
     "groupCount": 36,
-    "image": "186.webp"
+    "image": "sbta31987.webp"
   }
 ]

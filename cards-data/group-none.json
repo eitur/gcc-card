@@ -1,893 +1,242 @@
 [
   {
-    "id": 643,
+    "id": 195,
+    "nameKey": "naamah_card",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "643.webp"
+    "groupCount": 24,
+    "image": "sbta36730.webp"
   },
   {
-    "id": 644,
+    "id": 196,
+    "nameKey": "demon_core_card",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "644.webp"
+    "groupCount": 24,
+    "image": "sbta36731.webp"
   },
   {
-    "id": 645,
+    "id": 202,
+    "nameKey": "veron",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "645.webp"
+    "groupCount": 24,
+    "image": "sbta78854.webp"
   },
   {
-    "id": 646,
+    "id": 203,
+    "nameKey": "drawl",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "646.webp"
+    "groupCount": 24,
+    "image": "sbta78855.webp"
   },
   {
-    "id": 647,
+    "id": 350,
+    "nameKey": "gaikoz",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "647.webp"
+    "groupCount": 24,
+    "image": "sbta87521.webp"
   },
   {
-    "id": 648,
+    "id": 351,
+    "nameKey": "victor",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "648.webp"
+    "groupCount": 24,
+    "image": "sbta87522.webp"
   },
   {
-    "id": 649,
+    "id": 352,
+    "nameKey": "dark_anmon",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "649.webp"
+    "groupCount": 24,
+    "image": "sbta87523.webp"
   },
   {
-    "id": 650,
+    "id": 353,
+    "nameKey": "ashtaroth",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "650.webp"
+    "groupCount": 24,
+    "image": "sbta87524.webp"
   },
   {
-    "id": 651,
+    "id": 354,
+    "nameKey": "arawn",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "651.webp"
+    "groupCount": 24,
+    "image": "sbta87525.webp"
   },
   {
-    "id": 652,
+    "id": 355,
+    "nameKey": "elder_kungji",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "652.webp"
+    "groupCount": 24,
+    "image": "sbta87526.webp"
   },
   {
-    "id": 653,
+    "id": 539,
+    "nameKey": "harrier_orc_lord",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "653.webp"
+    "groupCount": 24,
+    "image": "sbta163753.webp"
   },
   {
-    "id": 654,
+    "id": 558,
+    "nameKey": "gorgos_queen",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "654.webp"
+    "groupCount": 24,
+    "image": "sbta164323.webp"
   },
   {
-    "id": 655,
+    "id": 574,
+    "nameKey": "kaze_aze_s_illusion",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "655.webp"
+    "groupCount": 24,
+    "image": "sbta166349.webp"
   },
   {
-    "id": 656,
+    "id": 575,
+    "nameKey": "unknown_demon",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "656.webp"
+    "groupCount": 24,
+    "image": "sbta166350.webp"
   },
   {
-    "id": 657,
+    "id": 587,
+    "nameKey": "star_chaser",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "657.webp"
+    "groupCount": 24,
+    "image": "sbta168741.webp"
   },
   {
-    "id": 658,
+    "id": 588,
+    "nameKey": "throne_lancer",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "658.webp"
+    "groupCount": 24,
+    "image": "sbta169271.webp"
   },
   {
-    "id": 659,
+    "id": 589,
+    "nameKey": "throne_control_system",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "659.webp"
+    "groupCount": 24,
+    "image": "sbta169272.webp"
   },
   {
-    "id": 660,
+    "id": 594,
+    "nameKey": "void_chaser",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "660.webp"
+    "groupCount": 24,
+    "image": "sbta171696.webp"
   },
   {
-    "id": 661,
+    "id": 595,
+    "nameKey": "void_challenger",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "661.webp"
+    "groupCount": 24,
+    "image": "sbta171697.webp"
   },
   {
-    "id": 662,
+    "id": 601,
+    "nameKey": "raging_soul_dullahan",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "662.webp"
+    "groupCount": 24,
+    "image": "sbta175003.webp"
   },
   {
-    "id": 663,
+    "id": 602,
+    "nameKey": "storm_resolver",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "663.webp"
+    "groupCount": 24,
+    "image": "sbta175004.webp"
   },
   {
-    "id": 664,
+    "id": 603,
+    "nameKey": "solar_chaser",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "664.webp"
+    "groupCount": 24,
+    "image": "sbta175710.webp"
   },
   {
-    "id": 665,
+    "id": 604,
+    "nameKey": "lunar_chaser",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "665.webp"
+    "groupCount": 24,
+    "image": "sbta175711.webp"
   },
   {
-    "id": 666,
+    "id": 605,
+    "nameKey": "enraged_gorgos_queen",
     "point": "-",
     "group": "-",
-    "rate": 0.010101010101010102,
+    "rate": 0.041666666666666664,
     "region": "",
-    "groupCount": 99,
-    "image": "666.webp"
-  },
-  {
-    "id": 667,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "667.webp"
-  },
-  {
-    "id": 668,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "668.webp"
-  },
-  {
-    "id": 669,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "669.webp"
-  },
-  {
-    "id": 670,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "670.webp"
-  },
-  {
-    "id": 671,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "671.webp"
-  },
-  {
-    "id": 672,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "672.webp"
-  },
-  {
-    "id": 673,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "673.webp"
-  },
-  {
-    "id": 674,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "674.webp"
-  },
-  {
-    "id": 675,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "675.webp"
-  },
-  {
-    "id": 676,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "676.webp"
-  },
-  {
-    "id": 677,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "677.webp"
-  },
-  {
-    "id": 678,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "678.webp"
-  },
-  {
-    "id": 679,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "679.webp"
-  },
-  {
-    "id": 680,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "680.webp"
-  },
-  {
-    "id": 681,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "681.webp"
-  },
-  {
-    "id": 682,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "682.webp"
-  },
-  {
-    "id": 683,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "683.webp"
-  },
-  {
-    "id": 684,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "684.webp"
-  },
-  {
-    "id": 685,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "685.webp"
-  },
-  {
-    "id": 686,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "686.webp"
-  },
-  {
-    "id": 687,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "687.webp"
-  },
-  {
-    "id": 688,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "688.webp"
-  },
-  {
-    "id": 689,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "689.webp"
-  },
-  {
-    "id": 690,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "690.webp"
-  },
-  {
-    "id": 691,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "691.webp"
-  },
-  {
-    "id": 692,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "692.webp"
-  },
-  {
-    "id": 693,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "693.webp"
-  },
-  {
-    "id": 694,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "694.webp"
-  },
-  {
-    "id": 695,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "695.webp"
-  },
-  {
-    "id": 696,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "696.webp"
-  },
-  {
-    "id": 697,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "697.webp"
-  },
-  {
-    "id": 698,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "698.webp"
-  },
-  {
-    "id": 699,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "699.webp"
-  },
-  {
-    "id": 700,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "700.webp"
-  },
-  {
-    "id": 701,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "701.webp"
-  },
-  {
-    "id": 702,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "702.webp"
-  },
-  {
-    "id": 703,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "703.webp"
-  },
-  {
-    "id": 704,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "704.webp"
-  },
-  {
-    "id": 705,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "705.webp"
-  },
-  {
-    "id": 706,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "706.webp"
-  },
-  {
-    "id": 707,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "707.webp"
-  },
-  {
-    "id": 708,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "708.webp"
-  },
-  {
-    "id": 709,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "709.webp"
-  },
-  {
-    "id": 710,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "710.webp"
-  },
-  {
-    "id": 711,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "711.webp"
-  },
-  {
-    "id": 712,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "712.webp"
-  },
-  {
-    "id": 713,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "713.webp"
-  },
-  {
-    "id": 714,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "714.webp"
-  },
-  {
-    "id": 715,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "715.webp"
-  },
-  {
-    "id": 716,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "716.webp"
-  },
-  {
-    "id": 717,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "717.webp"
-  },
-  {
-    "id": 718,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "718.webp"
-  },
-  {
-    "id": 719,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "719.webp"
-  },
-  {
-    "id": 720,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "720.webp"
-  },
-  {
-    "id": 721,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "721.webp"
-  },
-  {
-    "id": 722,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "722.webp"
-  },
-  {
-    "id": 723,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "723.webp"
-  },
-  {
-    "id": 724,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "724.webp"
-  },
-  {
-    "id": 725,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "725.webp"
-  },
-  {
-    "id": 726,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "726.webp"
-  },
-  {
-    "id": 727,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "727.webp"
-  },
-  {
-    "id": 728,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "728.webp"
-  },
-  {
-    "id": 729,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "729.webp"
-  },
-  {
-    "id": 730,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "730.webp"
-  },
-  {
-    "id": 731,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "731.webp"
-  },
-  {
-    "id": 732,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "732.webp"
-  },
-  {
-    "id": 733,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "733.webp"
-  },
-  {
-    "id": 734,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "734.webp"
-  },
-  {
-    "id": 735,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "735.webp"
-  },
-  {
-    "id": 736,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "736.webp"
-  },
-  {
-    "id": 737,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "737.webp"
-  },
-  {
-    "id": 738,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "738.webp"
-  },
-  {
-    "id": 739,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "739.webp"
-  },
-  {
-    "id": 740,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "740.webp"
-  },
-  {
-    "id": 741,
-    "point": "-",
-    "group": "-",
-    "rate": 0.010101010101010102,
-    "region": "",
-    "groupCount": 99,
-    "image": "741.webp"
+    "groupCount": 24,
+    "image": "sbta177289.webp"
   }
 ]

@@ -3,6 +3,8 @@
       "title": "GCC Carta",
       "webTitle": "Calculadora de Probabilidades de Fusão de Cartas",
       "group": "Grupo",
+      "none": "Nenhum",
+      "undefined": "Indefinido",
       "points": "Pontos",
       "rate": "Taxa",
       "details": "Ver detalhes",
@@ -36,6 +38,6 @@
     },
     "help": {
       "title": "Como Usar",
-      "content": "<p>Esta ferramenta ajuda você a calcular probabilidades de fusão de cartas e gerenciar sua coleção de cartas. Os resultados são calculados com base na <a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">tabela oficial de taxas de itens do GrandChase.</a></p><ul><li><strong>Selecionar cartas:</strong> Clique nas caixas de seleção para selecionar as cartas que você possui</li><li><strong>Ordenar colunas:</strong> Clique nos cabeçalhos de Pontos, Grupo ou Nº para ordenar</li><li><strong>Ver resumo:</strong> O painel superior mostra as faixas de pontos recomendadas para fusão</li><li><strong>Inverter:</strong> Inverta sua seleção atual</li></ul><p>Suas seleções são salvas automaticamente e persistirão na sua próxima visita.</p>"
+      "content": "<p>Esta ferramenta ajuda você a calcular probabilidades de fusão de cartas e gerenciar sua coleção de cartas. Os resultados são calculados com base na <a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">tabela oficial de taxas de itens do GrandChase.</a></p><ul><li><strong>Selecionar cartas:</strong> Clique nas caixas de seleção para selecionar as cartas que você possui</li><li><strong>Ordenar colunas:</strong> Clique nos cabeçalhos de Pontos, Grupo ou Nº para ordenar</li><li><strong>Ver resumo:</strong> O painel superior mostra as faixas de pontos recomendadas para fusão</li><li><strong>Inverter:</strong> Inverta sua seleção atual</li><li><strong>Filtrar grupos:</strong> O rótulo ‘Nenhum’ é para cartas que não pertencem a nenhuma coleção. O rótulo ‘Indefinido’ é para cartas com informações faltando.</li></ul><p>Suas seleções são salvas automaticamente e persistirão na sua próxima visita.</p>"
     }
   }

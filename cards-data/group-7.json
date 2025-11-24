@@ -1,236 +1,262 @@
 [
   {
     "id": 213,
+    "nameKey": "amy_jin",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "213.webp"
+    "image": "sbta79985.webp"
   },
   {
     "id": 214,
+    "nameKey": "school_uniform",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "214.webp"
+    "image": "sbta79991.webp"
   },
   {
     "id": 215,
+    "nameKey": "chaos",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "215.webp"
+    "image": "sbta79994.webp"
   },
   {
     "id": 216,
+    "nameKey": "dio_parasite",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "216.webp"
+    "image": "sbta79996.webp"
   },
   {
     "id": 217,
+    "nameKey": "rufus_lass",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "217.webp"
+    "image": "sbta79998.webp"
   },
   {
     "id": 218,
+    "nameKey": "ronan_e_harpe",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "218.webp"
+    "image": "sbta79999.webp"
   },
   {
     "id": 219,
+    "nameKey": "hero",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "219.webp"
+    "image": "sbta80000.webp"
   },
   {
     "id": 220,
+    "nameKey": "nutcracker_zero",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "220.webp"
+    "image": "sbta80002.webp"
   },
   {
     "id": 221,
+    "nameKey": "dio_duell",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "221.webp"
+    "image": "sbta80004.webp"
   },
   {
     "id": 222,
+    "nameKey": "happy_new_year",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "222.webp"
+    "image": "sbta80007.webp"
   },
   {
     "id": 517,
+    "nameKey": "renak",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "517.webp"
+    "image": "sbta163718.webp"
   },
   {
     "id": 573,
+    "nameKey": "tyrant_belile",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "573.webp"
+    "image": "sbta165164.webp"
   },
   {
     "id": 586,
+    "nameKey": "corrupted_saint_gaian",
     "point": 71,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "586.webp"
+    "image": "sbta168005.webp"
   },
   {
     "id": 592,
+    "nameKey": "voidal_devourer_2",
     "point": 73,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "592.webp"
+    "image": "sbta171324.webp"
   },
   {
     "id": 593,
+    "nameKey": "voidal_devourer_3",
     "point": 75,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "593.webp"
+    "image": "sbta171325.webp"
   },
   {
     "id": 599,
+    "nameKey": "voidal_enforcer",
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "599.webp"
+    "image": "sbta173325.webp"
   },
   {
     "id": 600,
+    "nameKey": "voidal_gazer",
     "point": 71,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "600.webp"
+    "image": "sbta173326.webp"
   },
   {
     "id": 606,
+    "nameKey": "unstable_creation",
     "point": 68,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "606.webp"
+    "image": "sbta177483.webp"
   },
   {
     "id": 607,
+    "nameKey": "ashtaroth_the_creator",
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "607.webp"
+    "image": "sbta177484.webp"
   },
   {
     "id": 608,
+    "nameKey": "chaotic_witch",
     "point": 77,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "608.webp"
+    "image": "sbta177485.webp"
   },
   {
     "id": 618,
+    "nameKey": "swelling_swampland_port",
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "618.webp"
+    "image": "sbta178683.webp"
   },
   {
     "id": 619,
+    "nameKey": "temple_of_time",
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "619.webp"
+    "image": "sbta178684.webp"
   },
   {
     "id": 626,
+    "nameKey": "void",
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "626.webp"
+    "image": "sbta178691.webp"
   },
   {
     "id": 640,
+    "nameKey": "voidal_apostle_nightmare_1",
     "point": 73,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "640.webp"
+    "image": "sbta182597.webp"
   },
   {
     "id": 641,
+    "nameKey": "voidal_apostle_nightmare_2",
     "point": 75,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "641.webp"
+    "image": "sbta182600.webp"
   },
   {
     "id": 642,
+    "nameKey": "abyssal_dominator",
     "point": 74,
     "group": 7,
     "rate": 0.038461538461538464,
     "region": "",
     "groupCount": 26,
-    "image": "642.webp"
+    "image": "sbta183758.webp"
   }
 ]

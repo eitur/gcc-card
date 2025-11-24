@@ -15,7 +15,7 @@ response = requests.get(SHEET_URL)
 df = pd.read_excel(BytesIO(response.content))
 df.columns = df.columns.str.lower()
 
-columns_to_keep = ['id', 'name', 'point', 'group', 'namekr', 'namebr', 'nametw']
+columns_to_keep = ['id', 'name', 'point', 'image', 'group', 'namekr', 'namebr', 'nametw']
 df = df[columns_to_keep]
 
 def generate_name(name, replace_character='-'):
@@ -68,29 +68,31 @@ with open(card_names_file, 'w', encoding='utf-8') as f:
 print(f"Card names translations saved to {card_names_file}")
 
 
-# Process each group from 1 to 7 and non-group
-for group_number in list(range(1, 8)) + ['none']:
-    if group_number != 'none':
+# Process each group from 1 to 7, none (cards not belong to collections), and undefined (info not filled)
+for group_number in list(range(1, 8)) + ['none', 'undefined']:
+    if isinstance(group_number, int):
         group_df = df[df['group'] == group_number].copy()  # filter group
-    else:
+    elif group_number == 'none':
+        group_df = df[df['group'] == 'none'].copy()
+    else:  # undefinend
         group_df = df[df['group'].isna()].copy()
     if group_df.empty:
         print(f"No data for group {group_number}")
         continue
 
-    if group_number != 'none':
+    if isinstance(group_number, int):
         group_df['point'] = group_df['point'].astype(int)
         group_df['group'] = group_df['group'].astype(int)
     else:
         group_df['point'] = '-'
-        group_df['group'] = '-'
+        group_df['group'] = '-' if group_number == 'none' else group_number
     group_df['rate'] = 1/len(group_df)  # probability of getting the card
     group_df['region'] = ''
     group_df['groupCount'] = len(group_df)
-    group_df['image'] = group_df['id'].astype(str) + '.webp'
+    group_df['nameKey'] = group_df['name'].apply(lambda x: generate_name(x, '_'))
 
     # Keep only necessary columns for JSON output
-    output_columns = ['id', 'point', 'group', 'rate', 'region', 'groupCount', 'image']
+    output_columns = ['id', 'nameKey', 'point', 'group', 'rate', 'region', 'groupCount', 'image']
     group_df_output = group_df[output_columns]
 
     # Convert to JSON

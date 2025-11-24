@@ -4,4 +4,4 @@ scripts/card_image.pdf
 scripts/cards_table.xlsx
 scripts/img-process
 node_modules/
-images/cards-raw
+images/cards-webp-raw

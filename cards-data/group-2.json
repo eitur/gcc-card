@@ -1,731 +1,812 @@
 [
   {
     "id": 7,
+    "nameKey": "orc_warrior_boss_card",
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "7.webp"
+    "image": "sbta22517.webp"
   },
   {
     "id": 9,
+    "nameKey": "harpy_queen_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "9.webp"
+    "image": "sbta22519.webp"
   },
   {
     "id": 14,
+    "nameKey": "red_gorgos_card",
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "14.webp"
+    "image": "sbta22525.webp"
   },
   {
     "id": 17,
+    "nameKey": "troll_card",
     "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "17.webp"
+    "image": "sbta22528.webp"
   },
   {
     "id": 19,
+    "nameKey": "giant_drillmon_card",
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "19.webp"
+    "image": "sbta22531.webp"
   },
   {
     "id": 21,
+    "nameKey": "elizabeth_card",
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "21.webp"
+    "image": "sbta22534.webp"
   },
   {
     "id": 24,
+    "nameKey": "lich_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "24.webp"
+    "image": "sbta22537.webp"
   },
   {
     "id": 27,
+    "nameKey": "paradom_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "27.webp"
+    "image": "sbta22540.webp"
   },
   {
     "id": 28,
+    "nameKey": "elite_anmon_scout_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "28.webp"
+    "image": "sbta22541.webp"
   },
   {
     "id": 30,
+    "nameKey": "gaicoz_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "30.webp"
+    "image": "sbta22544.webp"
   },
   {
     "id": 33,
+    "nameKey": "monstrous_ent_card",
     "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "33.webp"
+    "image": "sbta22547.webp"
   },
   {
     "id": 34,
+    "nameKey": "guardian_ent_card",
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "34.webp"
+    "image": "sbta22548.webp"
   },
   {
     "id": 40,
+    "nameKey": "shock_revenant_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "40.webp"
+    "image": "sbta22554.webp"
   },
   {
     "id": 41,
+    "nameKey": "emerald_claw_shrimp_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "41.webp"
+    "image": "sbta22555.webp"
   },
   {
     "id": 42,
+    "nameKey": "coral_fiend_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "42.webp"
+    "image": "sbta22556.webp"
   },
   {
     "id": 43,
+    "nameKey": "krakos_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "43.webp"
+    "image": "sbta22557.webp"
   },
   {
     "id": 45,
+    "nameKey": "swamp_spirit_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "45.webp"
+    "image": "sbta22559.webp"
   },
   {
     "id": 46,
+    "nameKey": "violet_fairy_card",
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "46.webp"
+    "image": "sbta22560.webp"
   },
   {
     "id": 47,
+    "nameKey": "violet_pixie_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "47.webp"
+    "image": "sbta22561.webp"
   },
   {
     "id": 48,
+    "nameKey": "mystic_golem_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "48.webp"
+    "image": "sbta22562.webp"
   },
   {
     "id": 49,
+    "nameKey": "king_guang_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "49.webp"
+    "image": "sbta22563.webp"
   },
   {
     "id": 50,
+    "nameKey": "tiny_creeper_card",
     "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "50.webp"
+    "image": "sbta22564.webp"
   },
   {
     "id": 52,
+    "nameKey": "venomous_gnat_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "52.webp"
+    "image": "sbta22566.webp"
   },
   {
     "id": 53,
+    "nameKey": "onyx_wendy_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "53.webp"
+    "image": "sbta22567.webp"
   },
   {
     "id": 55,
+    "nameKey": "queen_creeper_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "55.webp"
+    "image": "sbta22569.webp"
   },
   {
     "id": 56,
+    "nameKey": "bloodwind_orc_card",
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "56.webp"
+    "image": "sbta22570.webp"
   },
   {
     "id": 57,
+    "nameKey": "bloodwind_orc_warrior_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "57.webp"
+    "image": "sbta22571.webp"
   },
   {
     "id": 59,
+    "nameKey": "tartarus_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "59.webp"
+    "image": "sbta22573.webp"
   },
   {
     "id": 60,
+    "nameKey": "king_fang_card",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "60.webp"
+    "image": "sbta22574.webp"
   },
   {
     "id": 61,
+    "nameKey": "black_knights_spearman_card",
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "61.webp"
+    "image": "sbta22575.webp"
   },
   {
     "id": 63,
+    "nameKey": "dark_acolyte_card",
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "63.webp"
+    "image": "sbta22577.webp"
   },
   {
     "id": 83,
+    "nameKey": "armor_lobster_card",
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "83.webp"
+    "image": "sbta22597.webp"
   },
   {
     "id": 84,
+    "nameKey": "hungry_ghost_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "84.webp"
+    "image": "sbta22598.webp"
   },
   {
     "id": 85,
+    "nameKey": "mini_ice_golem_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "85.webp"
+    "image": "sbta22599.webp"
   },
   {
     "id": 87,
+    "nameKey": "dark_anmon_scout_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "87.webp"
+    "image": "sbta22601.webp"
   },
   {
     "id": 91,
+    "nameKey": "mini_fire_golem_card",
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "91.webp"
+    "image": "sbta22605.webp"
   },
   {
     "id": 97,
+    "nameKey": "dark_mage_card",
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "97.webp"
+    "image": "sbta22611.webp"
   },
   {
     "id": 101,
+    "nameKey": "skeleton_archer_card",
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "101.webp"
+    "image": "sbta22615.webp"
   },
   {
     "id": 187,
+    "nameKey": "ghost_samurai_card",
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "187.webp"
+    "image": "sbta31988.webp"
   },
   {
     "id": 188,
+    "nameKey": "shadow_emissary_card",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "188.webp"
+    "image": "sbta31989.webp"
   },
   {
     "id": 303,
+    "nameKey": "sidt",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "303.webp"
+    "image": "sbta80106.webp"
   },
   {
     "id": 304,
+    "nameKey": "pepe",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "304.webp"
+    "image": "sbta80107.webp"
   },
   {
     "id": 305,
+    "nameKey": "gon",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "305.webp"
+    "image": "sbta80108.webp"
   },
   {
     "id": 306,
+    "nameKey": "slime",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "306.webp"
+    "image": "sbta80109.webp"
   },
   {
     "id": 307,
+    "nameKey": "ninko",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "307.webp"
+    "image": "sbta80110.webp"
   },
   {
     "id": 308,
+    "nameKey": "myurin",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "308.webp"
+    "image": "sbta80111.webp"
   },
   {
     "id": 309,
+    "nameKey": "luna",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "309.webp"
+    "image": "sbta80112.webp"
   },
   {
     "id": 310,
+    "nameKey": "arkham",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "310.webp"
+    "image": "sbta80113.webp"
   },
   {
     "id": 311,
+    "nameKey": "cuddles",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "311.webp"
+    "image": "sbta80114.webp"
   },
   {
     "id": 312,
+    "nameKey": "fluffy_buffy",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "312.webp"
+    "image": "sbta80115.webp"
   },
   {
     "id": 313,
+    "nameKey": "sarimanok",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "313.webp"
+    "image": "sbta80116.webp"
   },
   {
     "id": 314,
+    "nameKey": "cupid",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "314.webp"
+    "image": "sbta80117.webp"
   },
   {
     "id": 315,
+    "nameKey": "casanova",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "315.webp"
+    "image": "sbta80118.webp"
   },
   {
     "id": 316,
+    "nameKey": "kungji",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "316.webp"
+    "image": "sbta80119.webp"
   },
   {
     "id": 317,
+    "nameKey": "blue_fairy",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "317.webp"
+    "image": "sbta80120.webp"
   },
   {
     "id": 318,
+    "nameKey": "bastet",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "318.webp"
+    "image": "sbta80121.webp"
   },
   {
     "id": 319,
+    "nameKey": "chaos_pepe",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "319.webp"
+    "image": "sbta80122.webp"
   },
   {
     "id": 320,
+    "nameKey": "goldy",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "320.webp"
+    "image": "sbta80123.webp"
   },
   {
     "id": 321,
+    "nameKey": "saku",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "321.webp"
+    "image": "sbta80124.webp"
   },
   {
     "id": 322,
+    "nameKey": "dokaebi",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "322.webp"
+    "image": "sbta80125.webp"
   },
   {
     "id": 323,
+    "nameKey": "rocco",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "323.webp"
+    "image": "sbta80126.webp"
   },
   {
     "id": 324,
+    "nameKey": "aero_kitty",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "324.webp"
+    "image": "sbta80127.webp"
   },
   {
     "id": 325,
+    "nameKey": "ming_ming",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "325.webp"
+    "image": "sbta80128.webp"
   },
   {
     "id": 326,
+    "nameKey": "ice_pixie",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "326.webp"
+    "image": "sbta80129.webp"
   },
   {
     "id": 327,
+    "nameKey": "ninkoro",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "327.webp"
+    "image": "sbta80130.webp"
   },
   {
     "id": 328,
+    "nameKey": "koo_ka",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "328.webp"
+    "image": "sbta80131.webp"
   },
   {
     "id": 329,
+    "nameKey": "mittens",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "329.webp"
+    "image": "sbta80132.webp"
   },
   {
     "id": 330,
+    "nameKey": "tian_long",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "330.webp"
+    "image": "sbta80133.webp"
   },
   {
     "id": 331,
+    "nameKey": "sidtri",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "331.webp"
+    "image": "sbta80134.webp"
   },
   {
     "id": 332,
+    "nameKey": "gorgon",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "332.webp"
+    "image": "sbta80135.webp"
   },
   {
     "id": 333,
+    "nameKey": "peng_peng",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "333.webp"
+    "image": "sbta80136.webp"
   },
   {
     "id": 334,
+    "nameKey": "feste",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "334.webp"
+    "image": "sbta80137.webp"
   },
   {
     "id": 335,
+    "nameKey": "lucretia",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "335.webp"
+    "image": "sbta80138.webp"
   },
   {
     "id": 336,
+    "nameKey": "helper_bot",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "336.webp"
+    "image": "sbta80139.webp"
   },
   {
     "id": 337,
+    "nameKey": "emily",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "337.webp"
+    "image": "sbta80140.webp"
   },
   {
     "id": 338,
+    "nameKey": "elena",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "338.webp"
+    "image": "sbta80141.webp"
   },
   {
     "id": 339,
+    "nameKey": "thommo",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "339.webp"
+    "image": "sbta80142.webp"
   },
   {
     "id": 340,
+    "nameKey": "monkeybeard",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "340.webp"
+    "image": "sbta80143.webp"
   },
   {
     "id": 341,
+    "nameKey": "hanana",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "341.webp"
+    "image": "sbta80144.webp"
   },
   {
     "id": 342,
+    "nameKey": "moon_child",
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "342.webp"
+    "image": "sbta80145.webp"
   },
   {
     "id": 409,
+    "nameKey": "mutated_rat",
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
     "region": "",
     "groupCount": 81,
-    "image": "409.webp"
+    "image": "sbta120652.webp"
   }
 ]
