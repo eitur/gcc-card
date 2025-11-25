@@ -55,8 +55,8 @@ async function loadCards() {
       `${basePath}/cards-data/group-5.json`,
       `${basePath}/cards-data/group-6.json`,
       `${basePath}/cards-data/group-7.json`,
-      `${basePath}/cards-data/group-none.json`,
-      `${basePath}/cards-data/group-undefined.json`
+      `${basePath}/cards-data/group-uncollectible.json`,
+      `${basePath}/cards-data/group-exclusive.json`
     ];
     
     const responses = await Promise.all(jsonFiles.map(file => fetch(file)));
@@ -295,7 +295,16 @@ function updateSummary() {
 }
 
 function showHelp() {
+  let content = i18n.t('help.content');
+  
+  // Replace placeholders with actual translations
+  content = content
+    .replace(/\{uncollectible\}/g, i18n.t('ui.uncollectible'))
+    .replace(/\{exclusive\}/g, i18n.t('ui.exclusive'));
+  
+  document.getElementById('helpContent').innerHTML = content;
   document.getElementById("helpModal").style.display = "block";
+  
 }
 
 function showDetails() {

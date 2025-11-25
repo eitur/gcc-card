@@ -29,13 +29,8 @@ def safe_int_convert(value):
         return '-'
     
 # Process each group from 1 to 7, none (cards not belong to collections), and undefined (info not filled)
-for group_number in list(range(1, 8)) + ['none', 'undefined']:
-    if isinstance(group_number, int):
-        group_df = df[df['group'] == group_number].copy()  # filter group
-    elif group_number == 'none':
-        group_df = df[df['group'] == 'none'].copy()
-    else:  # undefinend
-        group_df = df[df['group'].isna()].copy()
+for group_number in list(range(1, 8)) + ['uncollectible', 'exclusive']:
+    group_df = df[df['group'] == group_number].copy()  # filter group
     if group_df.empty:
         print(f"No data for group {group_number}")
         continue
@@ -57,11 +52,11 @@ for group_number in list(range(1, 8)) + ['none', 'undefined']:
             'id': int(row['id']),
             'names': names_obj,
             'point': safe_int_convert(row['point']),
-            'group': int(group_number) if isinstance(group_number, int) else ('-' if group_number == 'none' else group_number),
+            'group': int(group_number) if isinstance(group_number, int) else group_number,
             'rate': 1/len(group_df),
             'region': '',
             'groupCount': len(group_df),
-            'image': row['image']
+            'image': row['image'] if pd.notna(row['image']) else 'default.webp'
         }
         
         data_json.append(card_obj)

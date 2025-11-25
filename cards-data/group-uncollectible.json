@@ -8,7 +8,7 @@
       "tw": "Naamah Card"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -23,7 +23,7 @@
       "tw": "Demon Core Card"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -38,7 +38,7 @@
       "tw": "Veron"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -53,7 +53,7 @@
       "tw": "Drawl"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -68,7 +68,7 @@
       "tw": "Gaikoz"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -83,7 +83,7 @@
       "tw": "Victor"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -98,7 +98,7 @@
       "tw": "Dark Anmon"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -113,7 +113,7 @@
       "tw": "Ashtaroth"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -128,7 +128,7 @@
       "tw": "Arawn"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -143,7 +143,7 @@
       "tw": "Elder Kungji"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -158,7 +158,7 @@
       "tw": "Harrier Orc Lord"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -173,7 +173,7 @@
       "tw": "Gorgos Queen"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -188,7 +188,7 @@
       "tw": "Kaze'aze's Illusion"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -203,7 +203,7 @@
       "tw": "Unknown Demon"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -218,7 +218,7 @@
       "tw": "Star Chaser"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -233,7 +233,7 @@
       "tw": "Throne Lancer"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -248,7 +248,7 @@
       "tw": "Throne Control System"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -263,7 +263,7 @@
       "tw": "Void Chaser"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -278,7 +278,7 @@
       "tw": "Void Challenger"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -293,7 +293,7 @@
       "tw": "Raging Soul Dullahan"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -308,7 +308,7 @@
       "tw": "Storm Resolver"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -323,7 +323,7 @@
       "tw": "Solar Chaser"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -338,7 +338,7 @@
       "tw": "Lunar Chaser"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
@@ -353,7 +353,7 @@
       "tw": "Enraged Gorgos Queen"
     },
     "point": "-",
-    "group": "-",
+    "group": "uncollectible",
     "rate": 0.041666666666666664,
     "region": "",
     "groupCount": 24,
