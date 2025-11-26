@@ -192,7 +192,7 @@
     "rate": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta168005.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 592,
@@ -207,7 +207,7 @@
     "rate": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta171324.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 593,
@@ -222,7 +222,7 @@
     "rate": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta171325.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 599,
@@ -237,7 +237,7 @@
     "rate": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta173325.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 600,
@@ -252,7 +252,7 @@
     "rate": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta173326.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 606,
@@ -267,7 +267,7 @@
     "rate": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta177483.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 607,
@@ -297,7 +297,7 @@
     "rate": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta177485.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 618,
@@ -312,7 +312,7 @@
     "rate": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta178683.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 619,
@@ -327,7 +327,7 @@
     "rate": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta178684.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 626,
@@ -342,7 +342,7 @@
     "rate": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta178691.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 640,
@@ -387,6 +387,6 @@
     "rate": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta183758.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "specialDungeon"
   }
 ]

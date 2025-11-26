@@ -12,7 +12,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta30164.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 177,
@@ -42,7 +42,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta33170.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 200,
@@ -57,7 +57,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta53742.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 201,
@@ -72,7 +72,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta53743.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 204,
@@ -87,7 +87,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta79968.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 205,
@@ -102,7 +102,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta79969.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 206,
@@ -117,7 +117,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta79970.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 207,
@@ -132,7 +132,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta79971.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 208,
@@ -147,7 +147,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta79972.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 209,
@@ -162,7 +162,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta79973.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 210,
@@ -177,7 +177,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta79979.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 211,
@@ -192,7 +192,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta79980.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 212,
@@ -207,7 +207,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta79984.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 360,
@@ -222,7 +222,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta97759.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 365,
@@ -237,7 +237,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta97764.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 369,
@@ -252,7 +252,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta97768.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 381,
@@ -267,7 +267,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta106735.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 386,
@@ -312,7 +312,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta110765.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 402,
@@ -327,7 +327,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta110766.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 403,
@@ -342,7 +342,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta110767.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 478,
@@ -357,7 +357,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163669.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 481,
@@ -372,7 +372,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163675.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 484,
@@ -387,7 +387,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163679.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 485,
@@ -402,7 +402,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163680.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 489,
@@ -417,7 +417,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163684.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 491,
@@ -432,7 +432,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163687.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 493,
@@ -447,7 +447,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163689.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 496,
@@ -462,7 +462,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163692.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 497,
@@ -477,7 +477,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163693.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 499,
@@ -492,7 +492,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163695.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 501,
@@ -507,7 +507,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163698.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 504,
@@ -522,7 +522,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163701.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 506,
@@ -537,7 +537,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163704.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 508,
@@ -552,7 +552,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163707.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 510,
@@ -567,7 +567,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163710.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 511,
@@ -582,7 +582,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163711.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 516,
@@ -657,7 +657,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163731.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 534,
@@ -672,7 +672,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163736.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 536,
@@ -687,7 +687,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163738.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 537,
@@ -702,7 +702,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163739.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 538,
@@ -717,7 +717,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163740.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 541,
@@ -732,7 +732,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta163755.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "harrier"
   },
   {
     "id": 560,
@@ -747,7 +747,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta165151.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 562,
@@ -762,7 +762,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta165153.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 563,
@@ -777,7 +777,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta165154.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 565,
@@ -792,7 +792,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta165156.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 567,
@@ -807,7 +807,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta165158.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 568,
@@ -822,7 +822,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta165159.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 571,
@@ -837,7 +837,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta165162.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 572,
@@ -852,7 +852,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta165163.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 578,
@@ -867,7 +867,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta167997.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 581,
@@ -882,7 +882,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta168000.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 584,
@@ -927,7 +927,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta171012.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 591,
@@ -942,7 +942,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta171013.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 596,
@@ -957,7 +957,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta172124.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 597,
@@ -972,7 +972,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta173323.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 598,
@@ -1002,7 +1002,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta178688.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 624,
@@ -1017,7 +1017,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta178689.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 625,
@@ -1032,7 +1032,7 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta178690.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "fuse"
   },
   {
     "id": 639,
@@ -1047,6 +1047,6 @@
     "rate": 0.014285714285714285,
     "groupCount": 70,
     "image": "sbta180243.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "fuse"
   }
 ]
