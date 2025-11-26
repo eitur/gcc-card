@@ -10,9 +10,9 @@
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22517.webp"
+    "image": "sbta22517.webp",
+    "acquiredFrom": "serdin"
   },
   {
     "id": 9,
@@ -25,9 +25,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22519.webp"
+    "image": "sbta22519.webp",
+    "acquiredFrom": "kanavan"
   },
   {
     "id": 14,
@@ -40,9 +40,9 @@
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22525.webp"
+    "image": "sbta22525.webp",
+    "acquiredFrom": "kanavan"
   },
   {
     "id": 17,
@@ -55,9 +55,9 @@
     "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22528.webp"
+    "image": "sbta22528.webp",
+    "acquiredFrom": "kanavan"
   },
   {
     "id": 19,
@@ -70,9 +70,9 @@
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22531.webp"
+    "image": "sbta22531.webp",
+    "acquiredFrom": "serdin"
   },
   {
     "id": 21,
@@ -85,9 +85,9 @@
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22534.webp"
+    "image": "sbta22534.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 24,
@@ -100,9 +100,9 @@
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22537.webp"
+    "image": "sbta22537.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 27,
@@ -115,9 +115,9 @@
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22540.webp"
+    "image": "sbta22540.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 28,
@@ -130,9 +130,9 @@
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22541.webp"
+    "image": "sbta22541.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 30,
@@ -145,9 +145,9 @@
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22544.webp"
+    "image": "sbta22544.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 33,
@@ -160,9 +160,9 @@
     "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22547.webp"
+    "image": "sbta22547.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 34,
@@ -175,9 +175,9 @@
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22548.webp"
+    "image": "sbta22548.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 40,
@@ -190,9 +190,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22554.webp"
+    "image": "sbta22554.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 41,
@@ -205,9 +205,9 @@
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22555.webp"
+    "image": "sbta22555.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 42,
@@ -220,9 +220,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22556.webp"
+    "image": "sbta22556.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 43,
@@ -235,9 +235,9 @@
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22557.webp"
+    "image": "sbta22557.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 45,
@@ -250,9 +250,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22559.webp"
+    "image": "sbta22559.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 46,
@@ -265,9 +265,9 @@
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22560.webp"
+    "image": "sbta22560.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 47,
@@ -280,9 +280,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22561.webp"
+    "image": "sbta22561.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 48,
@@ -295,9 +295,9 @@
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22562.webp"
+    "image": "sbta22562.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 49,
@@ -310,9 +310,9 @@
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22563.webp"
+    "image": "sbta22563.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 50,
@@ -325,9 +325,9 @@
     "point": 11,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22564.webp"
+    "image": "sbta22564.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 52,
@@ -340,9 +340,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22566.webp"
+    "image": "sbta22566.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 53,
@@ -355,9 +355,9 @@
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22567.webp"
+    "image": "sbta22567.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 55,
@@ -370,9 +370,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22569.webp"
+    "image": "sbta22569.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 56,
@@ -385,9 +385,9 @@
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22570.webp"
+    "image": "sbta22570.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 57,
@@ -400,9 +400,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22571.webp"
+    "image": "sbta22571.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 59,
@@ -415,9 +415,9 @@
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22573.webp"
+    "image": "sbta22573.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 60,
@@ -430,9 +430,9 @@
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22574.webp"
+    "image": "sbta22574.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 61,
@@ -445,9 +445,9 @@
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22575.webp"
+    "image": "sbta22575.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 63,
@@ -460,9 +460,9 @@
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22577.webp"
+    "image": "sbta22577.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 83,
@@ -475,9 +475,9 @@
     "point": 12,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22597.webp"
+    "image": "sbta22597.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 84,
@@ -490,9 +490,9 @@
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22598.webp"
+    "image": "sbta22598.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 85,
@@ -505,9 +505,9 @@
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22599.webp"
+    "image": "sbta22599.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 87,
@@ -520,9 +520,9 @@
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22601.webp"
+    "image": "sbta22601.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 91,
@@ -535,9 +535,9 @@
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22605.webp"
+    "image": "sbta22605.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 97,
@@ -550,9 +550,9 @@
     "point": 14,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22611.webp"
+    "image": "sbta22611.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 101,
@@ -565,9 +565,9 @@
     "point": 13,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta22615.webp"
+    "image": "sbta22615.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 187,
@@ -580,9 +580,9 @@
     "point": 9,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta31988.webp"
+    "image": "sbta31988.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 188,
@@ -595,9 +595,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta31989.webp"
+    "image": "sbta31989.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 303,
@@ -610,9 +610,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80106.webp"
+    "image": "sbta80106.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 304,
@@ -625,9 +625,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80107.webp"
+    "image": "sbta80107.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 305,
@@ -640,9 +640,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80108.webp"
+    "image": "sbta80108.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 306,
@@ -655,9 +655,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80109.webp"
+    "image": "sbta80109.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 307,
@@ -670,9 +670,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80110.webp"
+    "image": "sbta80110.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 308,
@@ -685,9 +685,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80111.webp"
+    "image": "sbta80111.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 309,
@@ -700,9 +700,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80112.webp"
+    "image": "sbta80112.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 310,
@@ -715,9 +715,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80113.webp"
+    "image": "sbta80113.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 311,
@@ -730,9 +730,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80114.webp"
+    "image": "sbta80114.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 312,
@@ -745,9 +745,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80115.webp"
+    "image": "sbta80115.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 313,
@@ -760,9 +760,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80116.webp"
+    "image": "sbta80116.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 314,
@@ -775,9 +775,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80117.webp"
+    "image": "sbta80117.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 315,
@@ -790,9 +790,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80118.webp"
+    "image": "sbta80118.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 316,
@@ -805,9 +805,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80119.webp"
+    "image": "sbta80119.webp",
+    "acquiredFrom": "kanavan"
   },
   {
     "id": 317,
@@ -820,9 +820,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80120.webp"
+    "image": "sbta80120.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 318,
@@ -835,9 +835,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80121.webp"
+    "image": "sbta80121.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 319,
@@ -850,9 +850,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80122.webp"
+    "image": "sbta80122.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 320,
@@ -865,9 +865,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80123.webp"
+    "image": "sbta80123.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 321,
@@ -880,9 +880,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80124.webp"
+    "image": "sbta80124.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 322,
@@ -895,9 +895,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80125.webp"
+    "image": "sbta80125.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 323,
@@ -910,9 +910,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80126.webp"
+    "image": "sbta80126.webp",
+    "acquiredFrom": "serdin"
   },
   {
     "id": 324,
@@ -925,9 +925,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80127.webp"
+    "image": "sbta80127.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 325,
@@ -940,9 +940,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80128.webp"
+    "image": "sbta80128.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 326,
@@ -955,9 +955,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80129.webp"
+    "image": "sbta80129.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 327,
@@ -970,9 +970,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80130.webp"
+    "image": "sbta80130.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 328,
@@ -985,9 +985,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80131.webp"
+    "image": "sbta80131.webp",
+    "acquiredFrom": "kanavan"
   },
   {
     "id": 329,
@@ -1000,9 +1000,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80132.webp"
+    "image": "sbta80132.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 330,
@@ -1015,9 +1015,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80133.webp"
+    "image": "sbta80133.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 331,
@@ -1030,9 +1030,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80134.webp"
+    "image": "sbta80134.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 332,
@@ -1045,9 +1045,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80135.webp"
+    "image": "sbta80135.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 333,
@@ -1060,9 +1060,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80136.webp"
+    "image": "sbta80136.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 334,
@@ -1075,9 +1075,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80137.webp"
+    "image": "sbta80137.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 335,
@@ -1090,9 +1090,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80138.webp"
+    "image": "sbta80138.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 336,
@@ -1105,9 +1105,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80139.webp"
+    "image": "sbta80139.webp",
+    "acquiredFrom": "kanavan"
   },
   {
     "id": 337,
@@ -1120,9 +1120,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80140.webp"
+    "image": "sbta80140.webp",
+    "acquiredFrom": "kanavan"
   },
   {
     "id": 338,
@@ -1135,9 +1135,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80141.webp"
+    "image": "sbta80141.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 339,
@@ -1150,9 +1150,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80142.webp"
+    "image": "sbta80142.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 340,
@@ -1165,9 +1165,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80143.webp"
+    "image": "sbta80143.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 341,
@@ -1180,9 +1180,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80144.webp"
+    "image": "sbta80144.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 342,
@@ -1195,9 +1195,9 @@
     "point": 10,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta80145.webp"
+    "image": "sbta80145.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 409,
@@ -1210,8 +1210,8 @@
     "point": 15,
     "group": 2,
     "rate": 0.012345679012345678,
-    "region": "",
     "groupCount": 81,
-    "image": "sbta120652.webp"
+    "image": "sbta120652.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   }
 ]

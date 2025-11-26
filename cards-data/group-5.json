@@ -10,9 +10,9 @@
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta22585.webp"
+    "image": "sbta22585.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 72,
@@ -25,9 +25,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta22586.webp"
+    "image": "sbta22586.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 77,
@@ -40,9 +40,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta22591.webp"
+    "image": "sbta22591.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 78,
@@ -55,9 +55,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta22592.webp"
+    "image": "sbta22592.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 81,
@@ -70,9 +70,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta22595.webp"
+    "image": "sbta22595.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 82,
@@ -85,9 +85,9 @@
     "point": 51,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta22596.webp"
+    "image": "sbta22596.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 155,
@@ -100,9 +100,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta22669.webp"
+    "image": "sbta22669.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 166,
@@ -115,9 +115,9 @@
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta22680.webp"
+    "image": "sbta22680.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 167,
@@ -130,9 +130,9 @@
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta30159.webp"
+    "image": "sbta30159.webp",
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 170,
@@ -145,9 +145,9 @@
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta30162.webp"
+    "image": "sbta30162.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 171,
@@ -160,9 +160,9 @@
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta30163.webp"
+    "image": "sbta30163.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 175,
@@ -175,9 +175,9 @@
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta30167.webp"
+    "image": "sbta30167.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 176,
@@ -190,9 +190,9 @@
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta30168.webp"
+    "image": "sbta30168.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 178,
@@ -205,9 +205,9 @@
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta30170.webp"
+    "image": "sbta30170.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 192,
@@ -220,9 +220,9 @@
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta33168.webp"
+    "image": "sbta33168.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 193,
@@ -235,9 +235,9 @@
     "point": 51,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta33169.webp"
+    "image": "sbta33169.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 197,
@@ -250,9 +250,9 @@
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta53739.webp"
+    "image": "sbta53739.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 198,
@@ -265,9 +265,9 @@
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta53740.webp"
+    "image": "sbta53740.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 199,
@@ -280,9 +280,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta53741.webp"
+    "image": "sbta53741.webp",
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 245,
@@ -295,9 +295,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80040.webp"
+    "image": "sbta80040.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 246,
@@ -310,9 +310,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80041.webp"
+    "image": "sbta80041.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 247,
@@ -325,9 +325,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80042.webp"
+    "image": "sbta80042.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 248,
@@ -340,9 +340,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80043.webp"
+    "image": "sbta80043.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 249,
@@ -355,9 +355,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80044.webp"
+    "image": "sbta80044.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 250,
@@ -370,9 +370,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80045.webp"
+    "image": "sbta80045.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 251,
@@ -385,9 +385,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80046.webp"
+    "image": "sbta80046.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 252,
@@ -400,9 +400,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80049.webp"
+    "image": "sbta80049.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 253,
@@ -415,9 +415,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80050.webp"
+    "image": "sbta80050.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 254,
@@ -430,9 +430,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80051.webp"
+    "image": "sbta80051.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 255,
@@ -445,9 +445,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80052.webp"
+    "image": "sbta80052.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 256,
@@ -460,9 +460,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80053.webp"
+    "image": "sbta80053.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 257,
@@ -475,9 +475,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80055.webp"
+    "image": "sbta80055.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 258,
@@ -490,9 +490,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80056.webp"
+    "image": "sbta80056.webp",
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 259,
@@ -505,9 +505,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80058.webp"
+    "image": "sbta80058.webp",
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 260,
@@ -520,9 +520,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80059.webp"
+    "image": "sbta80059.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 261,
@@ -535,9 +535,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80061.webp"
+    "image": "sbta80061.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 262,
@@ -550,9 +550,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80062.webp"
+    "image": "sbta80062.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 343,
@@ -565,9 +565,9 @@
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80772.webp"
+    "image": "sbta80772.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 344,
@@ -580,9 +580,9 @@
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80773.webp"
+    "image": "sbta80773.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 345,
@@ -595,9 +595,9 @@
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80774.webp"
+    "image": "sbta80774.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 346,
@@ -610,9 +610,9 @@
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80775.webp"
+    "image": "sbta80775.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 347,
@@ -625,9 +625,9 @@
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80776.webp"
+    "image": "sbta80776.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 348,
@@ -640,9 +640,9 @@
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80777.webp"
+    "image": "sbta80777.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 349,
@@ -655,9 +655,9 @@
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta80778.webp"
+    "image": "sbta80778.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 356,
@@ -670,9 +670,9 @@
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta97755.webp"
+    "image": "sbta97755.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 357,
@@ -685,9 +685,9 @@
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta97756.webp"
+    "image": "sbta97756.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 358,
@@ -700,9 +700,9 @@
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta97757.webp"
+    "image": "sbta97757.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 359,
@@ -715,9 +715,9 @@
     "point": 52,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta97758.webp"
+    "image": "sbta97758.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 361,
@@ -730,9 +730,9 @@
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta97760.webp"
+    "image": "sbta97760.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 362,
@@ -745,9 +745,9 @@
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta97761.webp"
+    "image": "sbta97761.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 363,
@@ -760,9 +760,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta97762.webp"
+    "image": "sbta97762.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 364,
@@ -775,9 +775,9 @@
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta97763.webp"
+    "image": "sbta97763.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 372,
@@ -790,9 +790,9 @@
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta101712.webp"
+    "image": "sbta101712.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 376,
@@ -805,9 +805,9 @@
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta101716.webp"
+    "image": "sbta101716.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 385,
@@ -820,9 +820,9 @@
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta107575.webp"
+    "image": "sbta107575.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 387,
@@ -835,9 +835,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta107749.webp"
+    "image": "sbta107749.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 388,
@@ -850,9 +850,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta107750.webp"
+    "image": "sbta107750.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 389,
@@ -865,9 +865,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta107751.webp"
+    "image": "sbta107751.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 390,
@@ -880,9 +880,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta107752.webp"
+    "image": "sbta107752.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 391,
@@ -895,9 +895,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta107753.webp"
+    "image": "sbta107753.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 395,
@@ -910,9 +910,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta109082.webp"
+    "image": "sbta109082.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 397,
@@ -925,9 +925,9 @@
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta110761.webp"
+    "image": "sbta110761.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 398,
@@ -940,9 +940,9 @@
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta110762.webp"
+    "image": "sbta110762.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 400,
@@ -955,9 +955,9 @@
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta110764.webp"
+    "image": "sbta110764.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 477,
@@ -970,9 +970,9 @@
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163668.webp"
+    "image": "sbta163668.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 479,
@@ -985,9 +985,9 @@
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163672.webp"
+    "image": "sbta163672.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 480,
@@ -1000,9 +1000,9 @@
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163674.webp"
+    "image": "sbta163674.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 482,
@@ -1015,9 +1015,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163676.webp"
+    "image": "sbta163676.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 483,
@@ -1030,9 +1030,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163678.webp"
+    "image": "sbta163678.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 486,
@@ -1045,9 +1045,9 @@
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163681.webp"
+    "image": "sbta163681.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 487,
@@ -1060,9 +1060,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163682.webp"
+    "image": "sbta163682.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 488,
@@ -1075,9 +1075,9 @@
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163683.webp"
+    "image": "sbta163683.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 490,
@@ -1090,9 +1090,9 @@
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163686.webp"
+    "image": "sbta163686.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 492,
@@ -1105,9 +1105,9 @@
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163688.webp"
+    "image": "sbta163688.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 494,
@@ -1120,9 +1120,9 @@
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163690.webp"
+    "image": "sbta163690.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 495,
@@ -1135,9 +1135,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163691.webp"
+    "image": "sbta163691.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 498,
@@ -1150,9 +1150,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163694.webp"
+    "image": "sbta163694.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 500,
@@ -1165,9 +1165,9 @@
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163696.webp"
+    "image": "sbta163696.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 502,
@@ -1180,9 +1180,9 @@
     "point": 51,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163699.webp"
+    "image": "sbta163699.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 503,
@@ -1195,9 +1195,9 @@
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163700.webp"
+    "image": "sbta163700.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 507,
@@ -1210,9 +1210,9 @@
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163706.webp"
+    "image": "sbta163706.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 509,
@@ -1225,9 +1225,9 @@
     "point": 51,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163709.webp"
+    "image": "sbta163709.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 512,
@@ -1240,9 +1240,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163713.webp"
+    "image": "sbta163713.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 513,
@@ -1255,9 +1255,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163714.webp"
+    "image": "sbta163714.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 514,
@@ -1270,9 +1270,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163715.webp"
+    "image": "sbta163715.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 515,
@@ -1285,9 +1285,9 @@
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163716.webp"
+    "image": "sbta163716.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 518,
@@ -1300,9 +1300,9 @@
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163719.webp"
+    "image": "sbta163719.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 519,
@@ -1315,9 +1315,9 @@
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163720.webp"
+    "image": "sbta163720.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 521,
@@ -1330,9 +1330,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163722.webp"
+    "image": "sbta163722.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 522,
@@ -1345,9 +1345,9 @@
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163723.webp"
+    "image": "sbta163723.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 523,
@@ -1360,9 +1360,9 @@
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163724.webp"
+    "image": "sbta163724.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 524,
@@ -1375,9 +1375,9 @@
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163725.webp"
+    "image": "sbta163725.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 525,
@@ -1390,9 +1390,9 @@
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163726.webp"
+    "image": "sbta163726.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 527,
@@ -1405,9 +1405,9 @@
     "point": 47,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163728.webp"
+    "image": "sbta163728.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 530,
@@ -1420,9 +1420,9 @@
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163732.webp"
+    "image": "sbta163732.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 531,
@@ -1435,9 +1435,9 @@
     "point": 52,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163733.webp"
+    "image": "sbta163733.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 532,
@@ -1450,9 +1450,9 @@
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163734.webp"
+    "image": "sbta163734.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 533,
@@ -1465,9 +1465,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163735.webp"
+    "image": "sbta163735.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 535,
@@ -1480,9 +1480,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163737.webp"
+    "image": "sbta163737.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 540,
@@ -1495,9 +1495,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163754.webp"
+    "image": "sbta163754.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 542,
@@ -1510,9 +1510,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163756.webp"
+    "image": "sbta163756.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 543,
@@ -1525,9 +1525,9 @@
     "point": 54,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163757.webp"
+    "image": "sbta163757.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 544,
@@ -1540,9 +1540,9 @@
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163758.webp"
+    "image": "sbta163758.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 545,
@@ -1555,9 +1555,9 @@
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163759.webp"
+    "image": "sbta163759.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 546,
@@ -1570,9 +1570,9 @@
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163760.webp"
+    "image": "sbta163760.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 547,
@@ -1585,9 +1585,9 @@
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163761.webp"
+    "image": "sbta163761.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 548,
@@ -1600,9 +1600,9 @@
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163762.webp"
+    "image": "sbta163762.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 549,
@@ -1615,9 +1615,9 @@
     "point": 52,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163763.webp"
+    "image": "sbta163763.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 550,
@@ -1630,9 +1630,9 @@
     "point": 51,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163764.webp"
+    "image": "sbta163764.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 551,
@@ -1645,9 +1645,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163806.webp"
+    "image": "sbta163806.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 552,
@@ -1660,9 +1660,9 @@
     "point": 45,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163819.webp"
+    "image": "sbta163819.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 553,
@@ -1675,9 +1675,9 @@
     "point": 48,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta163820.webp"
+    "image": "sbta163820.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 554,
@@ -1690,9 +1690,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta164117.webp"
+    "image": "sbta164117.webp",
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 555,
@@ -1705,9 +1705,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta164118.webp"
+    "image": "sbta164118.webp",
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 556,
@@ -1720,9 +1720,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta164119.webp"
+    "image": "sbta164119.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 557,
@@ -1735,9 +1735,9 @@
     "point": 49,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta164120.webp"
+    "image": "sbta164120.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 559,
@@ -1750,9 +1750,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta165150.webp"
+    "image": "sbta165150.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 561,
@@ -1765,9 +1765,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta165152.webp"
+    "image": "sbta165152.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 564,
@@ -1780,9 +1780,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta165155.webp"
+    "image": "sbta165155.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 566,
@@ -1795,9 +1795,9 @@
     "point": 53,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta165157.webp"
+    "image": "sbta165157.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 569,
@@ -1810,9 +1810,9 @@
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta165160.webp"
+    "image": "sbta165160.webp",
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 570,
@@ -1825,9 +1825,9 @@
     "point": 44,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta165161.webp"
+    "image": "sbta165161.webp",
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 576,
@@ -1840,9 +1840,9 @@
     "point": 46,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta167995.webp"
+    "image": "sbta167995.webp",
+    "acquiredFrom": "eventDungeon"
   },
   {
     "id": 577,
@@ -1855,9 +1855,9 @@
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta167996.webp"
+    "image": "sbta167996.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 579,
@@ -1870,9 +1870,9 @@
     "point": 52,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta167998.webp"
+    "image": "sbta167998.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 580,
@@ -1885,9 +1885,9 @@
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta167999.webp"
+    "image": "sbta167999.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 582,
@@ -1900,9 +1900,9 @@
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta168001.webp"
+    "image": "sbta168001.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 583,
@@ -1915,9 +1915,9 @@
     "point": 55,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta168002.webp"
+    "image": "sbta168002.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 620,
@@ -1930,9 +1930,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta178685.webp"
+    "image": "sbta178685.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 621,
@@ -1945,9 +1945,9 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta178686.webp"
+    "image": "sbta178686.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 622,
@@ -1960,8 +1960,8 @@
     "point": 50,
     "group": 5,
     "rate": 0.007633587786259542,
-    "region": "",
     "groupCount": 131,
-    "image": "sbta178687.webp"
+    "image": "sbta178687.webp",
+    "acquiredFrom": "anotherWorld"
   }
 ]

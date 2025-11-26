@@ -13,8 +13,8 @@
       "reset": "重置",
       "selectAll": "全選",
       "invert": "反選",
-      "noCards": "未選擇卡片",
-      "region": "地區",
+      "noCards": "請從下方表格中選擇您擁有的卡片。",
+      "acquiredFrom": "獲得途徑",
       "cardName": "卡片",
       "number": "編號",
       "all": "全部",
@@ -39,5 +39,20 @@
     "help": {
       "title": "使用說明",
       "content": "<p>此工具可協助您計算卡片合成機率並管理您的卡片收藏。計算結果基於<a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">官方 GrandChase 物品機率表</a>。</p><ul><li><strong>選擇卡片：</strong>點擊勾選框以選擇您擁有的卡片</li><li><strong>排序欄位：</strong>點擊點數、群組或編號標題進行排序</li><li><strong>查看摘要：</strong>頂部面板顯示建議的合成點數範圍</li><li><strong>反選：</strong>反轉您目前的選擇</li><li><strong>篩選群組：</strong>'{uncollectible}' 標籤適用於不屬於卡片收藏的卡片。'{exclusive}' 標籤適用於不可通過合成獲得的卡片。</li></ul><p>您的選擇會自動儲存，下次造訪時將會保留。</p>"
+    },
+    "acquiredFrom": {
+      "serdin": "賽爾丁",
+      "kanavan": "卡納班",
+      "silverLand": "銀光樂園",
+      "fuse": "合成",
+      "ellia": "埃利亞",
+      "xenia": "澤尼亞",
+      "characterExclusiveDungeon": "腳色專用副本",
+      "alcubra": "阿圖姆",
+      "archimedia": "阿卡梅迪亞",
+      "harrier": "海利爾",
+      "eventDungeon": "活動副本",
+      "specialDungeon": "特殊副本",
+      "anotherWorld": "異世界"
     }
 }

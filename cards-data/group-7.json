@@ -10,9 +10,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta79985.webp"
+    "image": "sbta79985.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 214,
@@ -25,9 +25,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta79991.webp"
+    "image": "sbta79991.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 215,
@@ -40,9 +40,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta79994.webp"
+    "image": "sbta79994.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 216,
@@ -55,9 +55,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta79996.webp"
+    "image": "sbta79996.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 217,
@@ -70,9 +70,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta79998.webp"
+    "image": "sbta79998.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 218,
@@ -85,9 +85,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta79999.webp"
+    "image": "sbta79999.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 219,
@@ -100,9 +100,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta80000.webp"
+    "image": "sbta80000.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 220,
@@ -115,9 +115,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta80002.webp"
+    "image": "sbta80002.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 221,
@@ -130,9 +130,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta80004.webp"
+    "image": "sbta80004.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 222,
@@ -145,9 +145,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta80007.webp"
+    "image": "sbta80007.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 517,
@@ -160,9 +160,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta163718.webp"
+    "image": "sbta163718.webp",
+    "acquiredFrom": "harrier"
   },
   {
     "id": 573,
@@ -175,9 +175,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta165164.webp"
+    "image": "sbta165164.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 586,
@@ -190,9 +190,9 @@
     "point": 71,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta168005.webp"
+    "image": "sbta168005.webp",
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 592,
@@ -205,9 +205,9 @@
     "point": 73,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta171324.webp"
+    "image": "sbta171324.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 593,
@@ -220,9 +220,9 @@
     "point": 75,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta171325.webp"
+    "image": "sbta171325.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 599,
@@ -235,9 +235,9 @@
     "point": 67,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta173325.webp"
+    "image": "sbta173325.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 600,
@@ -250,9 +250,9 @@
     "point": 71,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta173326.webp"
+    "image": "sbta173326.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 606,
@@ -265,9 +265,9 @@
     "point": 68,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta177483.webp"
+    "image": "sbta177483.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 607,
@@ -280,9 +280,9 @@
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta177484.webp"
+    "image": "sbta177484.webp",
+    "acquiredFrom": "anotherWorld"
   },
   {
     "id": 608,
@@ -295,9 +295,9 @@
     "point": 77,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta177485.webp"
+    "image": "sbta177485.webp",
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 618,
@@ -310,9 +310,9 @@
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta178683.webp"
+    "image": "sbta178683.webp",
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 619,
@@ -325,9 +325,9 @@
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta178684.webp"
+    "image": "sbta178684.webp",
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 626,
@@ -340,9 +340,9 @@
     "point": 70,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta178691.webp"
+    "image": "sbta178691.webp",
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 640,
@@ -355,9 +355,9 @@
     "point": 73,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta182597.webp"
+    "image": "sbta182597.webp",
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 641,
@@ -370,9 +370,9 @@
     "point": 75,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta182600.webp"
+    "image": "sbta182600.webp",
+    "acquiredFrom": "specialDungeon"
   },
   {
     "id": 642,
@@ -385,8 +385,8 @@
     "point": 74,
     "group": 7,
     "rate": 0.038461538461538464,
-    "region": "",
     "groupCount": 26,
-    "image": "sbta183758.webp"
+    "image": "sbta183758.webp",
+    "acquiredFrom": "anotherWorld"
   }
 ]

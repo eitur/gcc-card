@@ -68,9 +68,22 @@
   </div>
 
   <div class="filters">
-    <span data-i18n="ui.region" style="display:none;">Region</span>
-    <select id="filterRegion" onchange="renderTable()" style="display:none;">
+    <span data-i18n="ui.acquiredFrom">AcquiredFrom</span>:
+    <select id="filterAcquiredFrom" onchange="renderTable()">
       <option value="" data-i18n="ui.all">All</option>
+      <option value="serdin" data-i18n="acquiredFrom.serdin"></option>
+      <option value="kanavan" data-i18n="acquiredFrom.kanavan"></option>
+      <option value="silverLand" data-i18n="acquiredFrom.silverLand"></option>
+      <option value="ellia" data-i18n="acquiredFrom.ellia"></option>
+      <option value="xenia" data-i18n="acquiredFrom.xenia"></option>
+      <option value="alcubra" data-i18n="acquiredFrom.alcubra"></option>
+      <option value="archimedia" data-i18n="acquiredFrom.archimedia"></option>
+      <option value="harrier" data-i18n="acquiredFrom.harrier"></option>
+      <option value="anotherWorld" data-i18n="acquiredFrom.anotherWorld"></option>
+      <option value="eventDungeon" data-i18n="acquiredFrom.eventDungeon"></option>
+      <option value="specialDungeon" data-i18n="acquiredFrom.specialDungeon"></option>
+      <option value="characterExclusiveDungeon" data-i18n="acquiredFrom.characterExclusiveDungeon"></option>
+      <option value="fuse" data-i18n="acquiredFrom.fuse"></option>
     </select>
 
     <span data-i18n="ui.group">Group</span>:
@@ -111,7 +124,7 @@
         <span data-i18n="ui.group">Group</span>
         <span class="sort-indicator" id="sort-group"></span>
       </th>
-      <th data-i18n="ui.region" style="display:none;">Region</th>
+      <th data-i18n="ui.acquiredFrom">AcquiredFrom</th>
       <th class="sortable" onclick="sortTable('id')">
         <span data-i18n="ui.number">No.</span>
         <span class="sort-indicator" id="sort-id"></span>

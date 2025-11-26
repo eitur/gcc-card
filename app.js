@@ -45,6 +45,14 @@ function getCardName(cardId) {
   return `Card ${cardId}`;
 }
 
+function getCardAcquiredFrom(acquiredFrom) {
+  // if it's a string and contains only letters and spaces (no numbers or special characters).
+  if (typeof acquiredFrom === "string" && /^[a-zA-Z\s]+$/.test(acquiredFrom)) {
+    return i18n.t(`acquiredFrom.${acquiredFrom}`);
+  }
+  return acquiredFrom;
+}
+
 function getCardGroup(cardGroup) {
   if (typeof cardGroup === "number" && !isNaN(cardGroup)) {
     return cardGroup
@@ -112,13 +120,13 @@ function sortTable(column) {
 // Get currently filtered/visible cards
 function getFilteredCards() {
   const search = document.getElementById("searchBox").value.toLowerCase();
-  const filterRegion = document.getElementById("filterRegion").value;
+  const filterAcquiredFrom = document.getElementById("filterAcquiredFrom").value;
   const filterGroup = document.getElementById("filterGroup").value;
 
   return cards.filter(c => {
     const cardName = getCardName(c.id).toLowerCase(); // Use new function
     return cardName.includes(search) &&
-      (filterRegion ? c.region === filterRegion : true) &&
+      (filterAcquiredFrom ? c.acquiredFrom === filterAcquiredFrom : true) &&
       (filterGroup ? c.group == filterGroup : true);
   });
 }
@@ -162,7 +170,7 @@ function renderTable() {
       <td>${getCardName(c.id)}</td>
       <td>${c.point}</td>
       <td>${getCardGroup(c.group)}</td>
-      <td style="display:none;">${c.region}</td>
+      <td>${getCardAcquiredFrom(c.acquiredFrom)}</td>
       <td>${c.id}</td>
     </tr>
   `).join("");
@@ -205,7 +213,7 @@ function resetCards() {
   selected.clear();
   saveSelections();
   document.getElementById("searchBox").value = "";
-  document.getElementById("filterRegion").value = "";
+  document.getElementById("filterAcquiredFrom").value = "";
   document.getElementById("filterGroup").value = "";
   sortColumn = null;
   sortDirection = 'asc';

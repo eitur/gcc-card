@@ -10,9 +10,9 @@
     "point": 16,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22552.webp"
+    "image": "sbta22552.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 54,
@@ -25,9 +25,9 @@
     "point": 18,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22568.webp"
+    "image": "sbta22568.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 58,
@@ -40,9 +40,9 @@
     "point": 16,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22572.webp"
+    "image": "sbta22572.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 62,
@@ -55,9 +55,9 @@
     "point": 18,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22576.webp"
+    "image": "sbta22576.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 64,
@@ -70,9 +70,9 @@
     "point": 17,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22578.webp"
+    "image": "sbta22578.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 65,
@@ -85,9 +85,9 @@
     "point": 19,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22579.webp"
+    "image": "sbta22579.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 66,
@@ -100,9 +100,9 @@
     "point": 28,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22580.webp"
+    "image": "sbta22580.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 74,
@@ -115,9 +115,9 @@
     "point": 28,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22588.webp"
+    "image": "sbta22588.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 86,
@@ -130,9 +130,9 @@
     "point": 19,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22600.webp"
+    "image": "sbta22600.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 88,
@@ -145,9 +145,9 @@
     "point": 22,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22602.webp"
+    "image": "sbta22602.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 89,
@@ -160,9 +160,9 @@
     "point": 24,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22603.webp"
+    "image": "sbta22603.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 90,
@@ -175,9 +175,9 @@
     "point": 26,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22604.webp"
+    "image": "sbta22604.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 92,
@@ -190,9 +190,9 @@
     "point": 24,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22606.webp"
+    "image": "sbta22606.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 93,
@@ -205,9 +205,9 @@
     "point": 17,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22607.webp"
+    "image": "sbta22607.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 94,
@@ -220,9 +220,9 @@
     "point": 26,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22608.webp"
+    "image": "sbta22608.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 95,
@@ -235,9 +235,9 @@
     "point": 22,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22609.webp"
+    "image": "sbta22609.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 96,
@@ -250,9 +250,9 @@
     "point": 18,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22610.webp"
+    "image": "sbta22610.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 98,
@@ -265,9 +265,9 @@
     "point": 24,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22612.webp"
+    "image": "sbta22612.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 99,
@@ -280,9 +280,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22613.webp"
+    "image": "sbta22613.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 100,
@@ -295,9 +295,9 @@
     "point": 26,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22614.webp"
+    "image": "sbta22614.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 102,
@@ -310,9 +310,9 @@
     "point": 16,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22616.webp"
+    "image": "sbta22616.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 103,
@@ -325,9 +325,9 @@
     "point": 19,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22617.webp"
+    "image": "sbta22617.webp",
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 104,
@@ -340,9 +340,9 @@
     "point": 26,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22618.webp"
+    "image": "sbta22618.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 106,
@@ -355,9 +355,9 @@
     "point": 19,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22620.webp"
+    "image": "sbta22620.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 107,
@@ -370,9 +370,9 @@
     "point": 16,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22621.webp"
+    "image": "sbta22621.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 108,
@@ -385,9 +385,9 @@
     "point": 17,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22622.webp"
+    "image": "sbta22622.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 109,
@@ -400,9 +400,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22623.webp"
+    "image": "sbta22623.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 110,
@@ -415,9 +415,9 @@
     "point": 26,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22624.webp"
+    "image": "sbta22624.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 111,
@@ -430,9 +430,9 @@
     "point": 22,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22625.webp"
+    "image": "sbta22625.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 112,
@@ -445,9 +445,9 @@
     "point": 22,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22626.webp"
+    "image": "sbta22626.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 113,
@@ -460,9 +460,9 @@
     "point": 24,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22627.webp"
+    "image": "sbta22627.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 115,
@@ -475,9 +475,9 @@
     "point": 23,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22629.webp"
+    "image": "sbta22629.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 116,
@@ -490,9 +490,9 @@
     "point": 18,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22630.webp"
+    "image": "sbta22630.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 117,
@@ -505,9 +505,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22631.webp"
+    "image": "sbta22631.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 118,
@@ -520,9 +520,9 @@
     "point": 18,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22632.webp"
+    "image": "sbta22632.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 119,
@@ -535,9 +535,9 @@
     "point": 29,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22633.webp"
+    "image": "sbta22633.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 121,
@@ -550,9 +550,9 @@
     "point": 26,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22635.webp"
+    "image": "sbta22635.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 124,
@@ -565,9 +565,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22638.webp"
+    "image": "sbta22638.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 125,
@@ -580,9 +580,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22639.webp"
+    "image": "sbta22639.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 126,
@@ -595,9 +595,9 @@
     "point": 16,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22640.webp"
+    "image": "sbta22640.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 127,
@@ -610,9 +610,9 @@
     "point": 27,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22641.webp"
+    "image": "sbta22641.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 128,
@@ -625,9 +625,9 @@
     "point": 29,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22642.webp"
+    "image": "sbta22642.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 130,
@@ -640,9 +640,9 @@
     "point": 16,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22644.webp"
+    "image": "sbta22644.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 132,
@@ -655,9 +655,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22646.webp"
+    "image": "sbta22646.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 134,
@@ -670,9 +670,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22648.webp"
+    "image": "sbta22648.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 135,
@@ -685,9 +685,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22649.webp"
+    "image": "sbta22649.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 136,
@@ -700,9 +700,9 @@
     "point": 28,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22650.webp"
+    "image": "sbta22650.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 137,
@@ -715,9 +715,9 @@
     "point": 25,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22651.webp"
+    "image": "sbta22651.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 139,
@@ -730,9 +730,9 @@
     "point": 26,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22653.webp"
+    "image": "sbta22653.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 140,
@@ -745,9 +745,9 @@
     "point": 18,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22654.webp"
+    "image": "sbta22654.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 141,
@@ -760,9 +760,9 @@
     "point": 26,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22655.webp"
+    "image": "sbta22655.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 142,
@@ -775,9 +775,9 @@
     "point": 25,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22656.webp"
+    "image": "sbta22656.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 144,
@@ -790,9 +790,9 @@
     "point": 23,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22658.webp"
+    "image": "sbta22658.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 145,
@@ -805,9 +805,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22659.webp"
+    "image": "sbta22659.webp",
+    "acquiredFrom": "fuse"
   },
   {
     "id": 146,
@@ -820,9 +820,9 @@
     "point": 26,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22660.webp"
+    "image": "sbta22660.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 149,
@@ -835,9 +835,9 @@
     "point": 27,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22663.webp"
+    "image": "sbta22663.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 150,
@@ -850,9 +850,9 @@
     "point": 24,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22664.webp"
+    "image": "sbta22664.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 158,
@@ -865,9 +865,9 @@
     "point": 27,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22672.webp"
+    "image": "sbta22672.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 159,
@@ -880,9 +880,9 @@
     "point": 24,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta22673.webp"
+    "image": "sbta22673.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 173,
@@ -895,9 +895,9 @@
     "point": 28,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta30165.webp"
+    "image": "sbta30165.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 263,
@@ -910,9 +910,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80063.webp"
+    "image": "sbta80063.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 264,
@@ -925,9 +925,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80064.webp"
+    "image": "sbta80064.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 265,
@@ -940,9 +940,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80065.webp"
+    "image": "sbta80065.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 266,
@@ -955,9 +955,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80066.webp"
+    "image": "sbta80066.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 267,
@@ -970,9 +970,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80067.webp"
+    "image": "sbta80067.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 268,
@@ -985,9 +985,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80068.webp"
+    "image": "sbta80068.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 269,
@@ -1000,9 +1000,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80069.webp"
+    "image": "sbta80069.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 270,
@@ -1015,9 +1015,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80070.webp"
+    "image": "sbta80070.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 271,
@@ -1030,9 +1030,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80071.webp"
+    "image": "sbta80071.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 272,
@@ -1045,9 +1045,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80072.webp"
+    "image": "sbta80072.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 273,
@@ -1060,9 +1060,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80073.webp"
+    "image": "sbta80073.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 274,
@@ -1075,9 +1075,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80074.webp"
+    "image": "sbta80074.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 275,
@@ -1090,9 +1090,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80075.webp"
+    "image": "sbta80075.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 276,
@@ -1105,9 +1105,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80076.webp"
+    "image": "sbta80076.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 277,
@@ -1120,9 +1120,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80077.webp"
+    "image": "sbta80077.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 278,
@@ -1135,9 +1135,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80078.webp"
+    "image": "sbta80078.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 279,
@@ -1150,9 +1150,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80079.webp"
+    "image": "sbta80079.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   },
   {
     "id": 280,
@@ -1165,9 +1165,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80080.webp"
+    "image": "sbta80080.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 281,
@@ -1180,9 +1180,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80081.webp"
+    "image": "sbta80081.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 282,
@@ -1195,9 +1195,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta80082.webp"
+    "image": "sbta80082.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 404,
@@ -1210,9 +1210,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta120647.webp"
+    "image": "sbta120647.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 412,
@@ -1225,9 +1225,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta120655.webp"
+    "image": "sbta120655.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 413,
@@ -1240,9 +1240,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta120656.webp"
+    "image": "sbta120656.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 416,
@@ -1255,9 +1255,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta120659.webp"
+    "image": "sbta120659.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 417,
@@ -1270,9 +1270,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta120660.webp"
+    "image": "sbta120660.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 431,
@@ -1285,9 +1285,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta120675.webp"
+    "image": "sbta120675.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 434,
@@ -1300,9 +1300,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta120678.webp"
+    "image": "sbta120678.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 444,
@@ -1315,9 +1315,9 @@
     "point": 23,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta120691.webp"
+    "image": "sbta120691.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 448,
@@ -1330,9 +1330,9 @@
     "point": 16,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128083.webp"
+    "image": "sbta128083.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 449,
@@ -1345,9 +1345,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128084.webp"
+    "image": "sbta128084.webp",
+    "acquiredFrom": "ellia"
   },
   {
     "id": 450,
@@ -1360,9 +1360,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128085.webp"
+    "image": "sbta128085.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 451,
@@ -1375,9 +1375,9 @@
     "point": 23,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128086.webp"
+    "image": "sbta128086.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 453,
@@ -1390,9 +1390,9 @@
     "point": 17,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128088.webp"
+    "image": "sbta128088.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 454,
@@ -1405,9 +1405,9 @@
     "point": 19,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128089.webp"
+    "image": "sbta128089.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 455,
@@ -1420,9 +1420,9 @@
     "point": 18,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128090.webp"
+    "image": "sbta128090.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 457,
@@ -1435,9 +1435,9 @@
     "point": 16,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128092.webp"
+    "image": "sbta128092.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 461,
@@ -1450,9 +1450,9 @@
     "point": 18,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128096.webp"
+    "image": "sbta128096.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 462,
@@ -1465,9 +1465,9 @@
     "point": 16,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128097.webp"
+    "image": "sbta128097.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 463,
@@ -1480,9 +1480,9 @@
     "point": 19,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128098.webp"
+    "image": "sbta128098.webp",
+    "acquiredFrom": "alcubra"
   },
   {
     "id": 464,
@@ -1495,9 +1495,9 @@
     "point": 21,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128099.webp"
+    "image": "sbta128099.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 465,
@@ -1510,9 +1510,9 @@
     "point": 29,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta128100.webp"
+    "image": "sbta128100.webp",
+    "acquiredFrom": "archimedia"
   },
   {
     "id": 609,
@@ -1525,9 +1525,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta178674.webp"
+    "image": "sbta178674.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 616,
@@ -1540,9 +1540,9 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta178681.webp"
+    "image": "sbta178681.webp",
+    "acquiredFrom": "xenia"
   },
   {
     "id": 617,
@@ -1555,8 +1555,8 @@
     "point": 20,
     "group": 3,
     "rate": 0.009615384615384616,
-    "region": "",
     "groupCount": 104,
-    "image": "sbta178682.webp"
+    "image": "sbta178682.webp",
+    "acquiredFrom": "characterExclusiveDungeon"
   }
 ]

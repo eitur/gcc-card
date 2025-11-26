@@ -10,9 +10,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta36730.webp"
+    "image": "sbta36730.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 196,
@@ -25,9 +25,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta36731.webp"
+    "image": "sbta36731.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 202,
@@ -40,9 +40,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta78854.webp"
+    "image": "sbta78854.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 203,
@@ -55,9 +55,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta78855.webp"
+    "image": "sbta78855.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 350,
@@ -70,9 +70,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta87521.webp"
+    "image": "sbta87521.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 351,
@@ -85,9 +85,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta87522.webp"
+    "image": "sbta87522.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 352,
@@ -100,9 +100,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta87523.webp"
+    "image": "sbta87523.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 353,
@@ -115,9 +115,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta87524.webp"
+    "image": "sbta87524.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 354,
@@ -130,9 +130,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta87525.webp"
+    "image": "sbta87525.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 355,
@@ -145,9 +145,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta87526.webp"
+    "image": "sbta87526.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 539,
@@ -160,9 +160,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta163753.webp"
+    "image": "sbta163753.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 558,
@@ -175,9 +175,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta164323.webp"
+    "image": "sbta164323.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 574,
@@ -190,9 +190,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta166349.webp"
+    "image": "sbta166349.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 575,
@@ -205,9 +205,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta166350.webp"
+    "image": "sbta166350.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 587,
@@ -220,9 +220,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta168741.webp"
+    "image": "sbta168741.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 588,
@@ -235,9 +235,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta169271.webp"
+    "image": "sbta169271.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 589,
@@ -250,9 +250,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta169272.webp"
+    "image": "sbta169272.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 594,
@@ -265,9 +265,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta171696.webp"
+    "image": "sbta171696.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 595,
@@ -280,9 +280,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta171697.webp"
+    "image": "sbta171697.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 601,
@@ -295,9 +295,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta175003.webp"
+    "image": "sbta175003.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 602,
@@ -310,9 +310,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta175004.webp"
+    "image": "sbta175004.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 603,
@@ -325,9 +325,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta175710.webp"
+    "image": "sbta175710.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 604,
@@ -340,9 +340,9 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta175711.webp"
+    "image": "sbta175711.webp",
+    "acquiredFrom": "-"
   },
   {
     "id": 605,
@@ -355,8 +355,8 @@
     "point": "-",
     "group": "uncollectible",
     "rate": 0.041666666666666664,
-    "region": "",
     "groupCount": 24,
-    "image": "sbta177289.webp"
+    "image": "sbta177289.webp",
+    "acquiredFrom": "-"
   }
 ]

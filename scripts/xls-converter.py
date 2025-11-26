@@ -15,7 +15,7 @@ response = requests.get(SHEET_URL)
 df = pd.read_excel(BytesIO(response.content))
 df.columns = df.columns.str.lower()
 
-columns_to_keep = ['id', 'name', 'point', 'image', 'group', 'namekr', 'namebr', 'nametw']
+columns_to_keep = ['id', 'name', 'point', 'image', 'group', 'namekr', 'namebr', 'nametw', 'acquiredfrom']
 df = df[columns_to_keep]
 
 def safe_int_convert(value):
@@ -54,9 +54,9 @@ for group_number in list(range(1, 8)) + ['uncollectible', 'exclusive']:
             'point': safe_int_convert(row['point']),
             'group': int(group_number) if isinstance(group_number, int) else group_number,
             'rate': 1/len(group_df),
-            'region': '',
             'groupCount': len(group_df),
-            'image': row['image'] if pd.notna(row['image']) else 'default.webp'
+            'image': row['image'] if pd.notna(row['image']) else 'default.webp',
+            'acquiredFrom': row['acquiredfrom'] if pd.notna(row['acquiredfrom']) else '-'
         }
         
         data_json.append(card_obj)
