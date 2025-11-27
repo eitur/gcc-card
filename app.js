@@ -246,13 +246,14 @@ function invertSelect() {
 
 function calculateStats() {
   const groupStats = {};
-  for (let i = 1; i <= 7; i++) {
-    const groupCards = cards.filter(c => c.group === i);
+  const groups = [1, 2, 3, 4, 5, 6, 7, 'exclusive'];
+  for (const group of groups) {
+    const groupCards = cards.filter(c => c.group === group);
     const selectedInGroup = groupCards.filter(c => selected.has(c.id));
     const missingCount = groupCards.length - selectedInGroup.length;
     const groupRate = groupCards[0]?.rate || 0;
     
-    groupStats[i] = {
+    groupStats[group] = {
       total: groupCards.length,
       selected: selectedInGroup.length,
       missing: missingCount,
@@ -346,10 +347,32 @@ function showDetails() {
     }
 
     content += `</div><div class="missing-summary"><strong>${i18n.t('ui.missingCardsByGroup') || 'Missing Cards by Group'}</strong><br>`;
-    for (let i = 1; i <= 7; i++) {
-      const groupStat = stats.groupStats[i];
-      content += `${i18n.t('ui.group')} ${i}: ${groupStat.missing} ${i18n.t('ui.missing') || 'missing'} (${groupStat.selected}/${groupStat.total}) - ${i18n.t('ui.progress')} ${(100 - groupStat.missingRate).toFixed(2)}%<br>`;
+    const groups = [1, 2, 3, 4, 5, 6, 7, 'exclusive'];
+
+    // Track totals
+    let totalCards = 0;
+    let totalSelected = 0;
+    let totalMissing = 0;
+
+    for (const group of groups) {
+      const groupStat = stats.groupStats[group];
+      if (groupStat) {
+        // Display translated "exclusive" or numeric group
+        const groupLabel = group === 'exclusive' 
+          ? i18n.t('ui.exclusive') 
+          : `${group}`;
+        content += `${i18n.t('ui.group')} ${groupLabel}: ${groupStat.missing} ${i18n.t('ui.missing') || 'missing'} (${groupStat.selected}/${groupStat.total}) - ${i18n.t('ui.progress')} ${(100 - groupStat.missingRate).toFixed(2)}%<br>`;
+
+        // Accumulate totals
+        totalCards += groupStat.total;
+        totalSelected += groupStat.selected;
+        totalMissing += groupStat.missing;
+      }
     }
+
+    // Add total summary
+    const totalProgress = totalCards > 0 ? ((totalSelected / totalCards) * 100).toFixed(2) : 0;
+    content += `-<br>${i18n.t('ui.total') || 'Total'}: ${totalMissing} ${i18n.t('ui.missing') || 'missing'} (${totalSelected}/${totalCards}) - ${i18n.t('ui.progress')} ${totalProgress}%`;
     content += '</div>';
   }
   

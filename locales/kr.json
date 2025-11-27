@@ -24,6 +24,7 @@
       "pointRange": "카드 점수 합계",
       "missing": "장 부족",
       "progress": "완성도",
+      "total": "합계",
 
       "feedbackTitle": "의견이나 질문이 있으신가요?",
       "feedbackEmail": "이메일 (선택사항):",

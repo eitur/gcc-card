@@ -24,8 +24,9 @@
       "pointRange": "Point Range",
       "missing": "missing",
       "progress": "Progress",
+      "total": "Total",
 
-    "feedbackTitle": "Any thoughts?",
+      "feedbackTitle": "Any thoughts?",
       "feedbackEmail": "Email (optional):",
       "feedbackEmailPlaceholder": "your@email.com",
       "feedbackMessage": "Message: *",
