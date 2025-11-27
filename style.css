@@ -1232,3 +1232,53 @@ body.dark-mode .hint-content {
   background: #2d2d2d;
   color: #e0e0e0;
 }
+
+/* Icon Button Styles */
+.icon-btn {
+  padding: 8px 12px !important;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 40px;
+}
+
+.control-icon {
+  width: 18px;
+  height: 18px;
+  display: block;
+  transition: transform 0.2s, opacity 0.2s;
+}
+
+.controls button:disabled {
+  cursor: default;
+}
+
+.controls button:disabled .control-icon {
+  opacity: 0.3;
+}
+
+.controls button:not(:disabled):hover .control-icon {
+  transform: scale(1.1);
+}
+
+/* Specific icon adjustments if needed */
+.undo-icon,
+.redo-icon {
+  width: 18px;
+  height: 18px;
+}
+
+/* Dark mode disabled buttons */
+body.dark-mode .controls button:disabled {
+  background: #2a2a2a;
+  opacity: 1; /* Keep button visible */
+}
+
+body.dark-mode .controls button:disabled .control-icon {
+  opacity: 0.3; /* Only dim the icon */
+}
+
+body.dark-mode .controls button:disabled:hover {
+  background: #2a2a2a;
+  border-color: #404040;
+}

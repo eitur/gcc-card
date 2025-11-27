@@ -31,6 +31,70 @@ let sortColumn = null;
 let sortDirection = 'asc';
 const selected = new Set();
 
+// Undo/Redo functionality
+const undoStack = [];
+const redoStack = [];
+const MAX_HISTORY = 30; // Limit history size
+
+function saveState() {
+  // Save current state to undo stack
+  undoStack.push(new Set(selected));
+  
+  // Limit stack size
+  if (undoStack.length > MAX_HISTORY) {
+    undoStack.shift();
+  }
+  
+  // Clear redo stack when new action is made
+  redoStack.length = 0;
+  
+  updateUndoRedoButtons();
+}
+
+function undo() {
+  if (undoStack.length === 0) return;
+  
+  // Save current state to redo stack
+  redoStack.push(new Set(selected));
+  
+  // Restore previous state
+  const previousState = undoStack.pop();
+  selected.clear();
+  previousState.forEach(id => selected.add(id));
+  
+  saveSelections();
+  renderTable();
+  updateUndoRedoButtons();
+}
+
+function redo() {
+  if (redoStack.length === 0) return;
+  
+  // Save current state to undo stack
+  undoStack.push(new Set(selected));
+  
+  // Restore next state
+  const nextState = redoStack.pop();
+  selected.clear();
+  nextState.forEach(id => selected.add(id));
+  
+  saveSelections();
+  renderTable();
+  updateUndoRedoButtons();
+}
+
+function updateUndoRedoButtons() {
+  const undoBtn = document.getElementById('undoBtn');
+  const redoBtn = document.getElementById('redoBtn');
+  
+  if (undoBtn) {
+    undoBtn.disabled = undoStack.length === 0;
+  }
+  if (redoBtn) {
+    redoBtn.disabled = redoStack.length === 0;
+  }
+}
+
 // Get base path for asset loading
 const basePath = window.BASE_PATH || '.';
 const imageBasePath = `${basePath}/images/cards-webp`; // Image folder path
@@ -93,6 +157,7 @@ async function loadCards() {
     
     loadSelections();
     renderTable();
+    updateUndoRedoButtons();
   } catch (error) {
     console.error('Error loading cards:', error);
   }
@@ -201,6 +266,7 @@ function initLazyLoading() {
 }
 
 function toggle(id) {
+  saveState();
   selected.has(id) ? selected.delete(id) : selected.add(id);
   saveSelections();
   updateSummary();
@@ -223,6 +289,7 @@ function toggleRow(id, event) {
 }
 
 function resetCards() {
+  saveState();
   selected.clear();
   saveSelections();
   document.getElementById("searchBox").value = "";
@@ -237,6 +304,7 @@ function resetCards() {
 }
 
 function selectAll() {
+  saveState();
   // Only select currently visible/filtered cards
   const filteredCards = getFilteredCards();
   filteredCards.forEach(c => selected.add(c.id));
@@ -245,6 +313,7 @@ function selectAll() {
 }
 
 function invertSelect() {
+  saveState();
   // Only invert selection for currently visible/filtered cards
   const filteredCards = getFilteredCards();
   filteredCards.forEach(c => {
@@ -524,6 +593,8 @@ window.onclick = function(event) {
 // Dark mode toggle functionality
 function toggleTheme() {
   const body = document.body;
+  const undoIcon = document.querySelector('.undo-icon');
+  const redoIcon = document.querySelector('.redo-icon');
   const searchIcon = document.querySelector('.search-icon');
   const feedbackIcon = document.querySelector('.feedback-icon');
   const themeIcon = document.querySelector('.theme-icon');
@@ -532,12 +603,16 @@ function toggleTheme() {
   
   // Update icon
   if (body.classList.contains('dark-mode')) {
+    undoIcon.src = `${window.BASE_PATH}/images/theme/undo-light.png`;
+    redoIcon.src = `${window.BASE_PATH}/images/theme/redo-light.png`;
     searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-light.png`;
     feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-light.png`;
     themeIcon.src = `${window.BASE_PATH}/images/theme/light-mode.png`;
     themeIcon.alt = 'Light Mode';
     localStorage.setItem('theme', 'dark');
   } else {
+    undoIcon.src = `${window.BASE_PATH}/images/theme/undo-dark.png`;
+    redoIcon.src = `${window.BASE_PATH}/images/theme/redo-dark.png`;
     searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-dark.png`;
     feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-dark.png`;
     themeIcon.src = `${window.BASE_PATH}/images/theme/dark-mode.png`;
@@ -548,6 +623,8 @@ function toggleTheme() {
 
 // Load saved theme on page load
 function loadTheme() {
+  const undoIcon = document.querySelector('.undo-icon');
+  const redoIcon = document.querySelector('.redo-icon');
   const searchIcon = document.querySelector('.search-icon');
   const savedTheme = localStorage.getItem('theme');
   const feedbackIcon = document.querySelector('.feedback-icon');
@@ -556,6 +633,8 @@ function loadTheme() {
   if (savedTheme === 'dark') {
     document.body.classList.add('dark-mode');
     if (themeIcon) {
+      undoIcon.src = `${window.BASE_PATH}/images/theme/undo-light.png`;
+      redoIcon.src = `${window.BASE_PATH}/images/theme/redo-light.png`;
       searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-light.png`;
       feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-light.png`;
       themeIcon.src = `${window.BASE_PATH}/images/theme/light-mode.png`;
@@ -563,6 +642,8 @@ function loadTheme() {
     }
   } else {
     if (themeIcon) {
+      undoIcon.src = `${window.BASE_PATH}/images/theme/undo-dark.png`;
+      redoIcon.src = `${window.BASE_PATH}/images/theme/redo-dark.png`;
       searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-dark.png`;
       feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-dark.png`;
       themeIcon.src = `${window.BASE_PATH}/images/theme/dark-mode.png`;

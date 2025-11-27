@@ -62,6 +62,12 @@
 
 <div class="toolbar">
   <div class="controls">
+    <button onclick="undo()" id="undoBtn" class="icon-btn" title="Undo" disabled>
+      <img src="../images/theme/undo-dark.png" alt="Undo" class="control-icon undo-icon">
+    </button>
+    <button onclick="redo()" id="redoBtn" class="icon-btn" title="Redo" disabled>
+      <img src="../images/theme/redo-dark.png" alt="Undo" class="control-icon redo-icon">
+    </button>
     <button onclick="resetCards()" data-i18n="ui.reset">Reset</button>
     <button onclick="selectAll()" data-i18n="ui.selectAll">Select All</button>
     <button onclick="invertSelect()" data-i18n="ui.invert">Invert</button>
