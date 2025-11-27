@@ -63,15 +63,7 @@ function getCardGroup(cardGroup) {
 async function loadCards() {
   try {
     const jsonFiles = [
-      `${basePath}/cards-data/group-1.json`,
-      `${basePath}/cards-data/group-2.json`,
-      `${basePath}/cards-data/group-3.json`,
-      `${basePath}/cards-data/group-4.json`,
-      `${basePath}/cards-data/group-5.json`,
-      `${basePath}/cards-data/group-6.json`,
-      `${basePath}/cards-data/group-7.json`,
-      `${basePath}/cards-data/group-uncollectible.json`,
-      `${basePath}/cards-data/group-exclusive.json`
+      `${basePath}/cards-data/all-cards.json`,
     ];
     
     const responses = await Promise.all(jsonFiles.map(file => fetch(file)));

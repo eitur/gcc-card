@@ -33,6 +33,7 @@ Fetch latest card information from online spreadsheet and generate JSON files:
 python scripts/xls-converter.py
 ```
 **Generates:**
+- `cards-data/all-cards.json`
 - `cards-data/group-1.json`
 - `cards-data/group-2.json`
 - ...
