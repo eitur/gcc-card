@@ -177,7 +177,7 @@
     "rate": 0.027777777777777776,
     "groupCount": 36,
     "image": "sbta22526.webp",
-    "acquiredFrom": "serdin"
+    "acquiredFrom": "kanavan"
   },
   {
     "id": 16,
@@ -192,7 +192,7 @@
     "rate": 0.027777777777777776,
     "groupCount": 36,
     "image": "sbta22527.webp",
-    "acquiredFrom": "serdin"
+    "acquiredFrom": "kanavan"
   },
   {
     "id": 18,
@@ -327,7 +327,7 @@
     "rate": 0.027777777777777776,
     "groupCount": 36,
     "image": "sbta22549.webp",
-    "acquiredFrom": "kanavan"
+    "acquiredFrom": "silverLand"
   },
   {
     "id": 36,
@@ -417,7 +417,7 @@
     "rate": 0.027777777777777776,
     "groupCount": 36,
     "image": "sbta22619.webp",
-    "acquiredFrom": "kanavan"
+    "acquiredFrom": "ellia"
   },
   {
     "id": 179,
@@ -537,6 +537,6 @@
     "rate": 0.027777777777777776,
     "groupCount": 36,
     "image": "sbta31987.webp",
-    "acquiredFrom": "silverLand"
+    "acquiredFrom": "kanavan"
   }
 ]
