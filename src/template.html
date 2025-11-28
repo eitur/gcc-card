@@ -68,9 +68,6 @@
     <button onclick="redo()" id="redoBtn" class="icon-btn" title="Redo" disabled>
       <img src="{{BASE_PATH}}/images/theme/redo-dark.png" alt="Undo" class="control-icon redo-icon">
     </button>
-    <button onclick="resetCards()" data-i18n="ui.reset">Reset</button>
-    <button onclick="selectAll()" data-i18n="ui.selectAll">Select All</button>
-    <button onclick="invertSelect()" data-i18n="ui.invert">Invert</button>
   </div>
 
   <div class="filters">
@@ -124,11 +121,48 @@
         <span data-i18n="ui.number">No.</span>
         <span class="sort-indicator" id="sort-id"></span>
       </th>
-      <th class="sortable" onclick="sortTable('selected')">
-        <span class="sort-indicator" id="sort-selected"></span>
-      </th>
       <th></th>
       <th data-i18n="ui.cardName">Card</th>
+      <th class="level-header">
+      <div class="level-header-content">
+        <span>Lv0</span>
+        <input type="radio" 
+               name="select-all" 
+               class="level-radio select-all-radio" 
+               onclick="selectAllLevel(0)"
+               title="Select/Deselect all Lv0">
+      </div>
+      </th>
+      <th class="level-header">
+      <div class="level-header-content">
+        <span>Lv1</span>
+        <input type="radio" 
+               name="select-all" 
+               class="level-radio select-all-radio" 
+               onclick="selectAllLevel(1)"
+               title="Select/Deselect all Lv1">
+      </div>
+      </th>
+      <th class="level-header">
+        <div class="level-header-content">
+          <span>Lv2</span>
+          <input type="radio" 
+                name="select-all" 
+                class="level-radio select-all-radio" 
+                onclick="selectAllLevel(2)"
+                title="Select/Deselect all Lv2">
+        </div>
+      </th>
+      <th class="level-header">
+        <div class="level-header-content">
+          <span>Lv3</span>
+          <input type="radio" 
+                name="select-all" 
+                class="level-radio select-all-radio" 
+                onclick="selectAllLevel(3)"
+                title="Select/Deselect all Lv3">
+        </div>
+      </th>
       <th class="sortable" onclick="sortTable('point')">
         <span data-i18n="ui.points">Point</span>
         <span class="sort-indicator" id="sort-point"></span>

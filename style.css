@@ -354,7 +354,7 @@ td {
 
 /* Narrow number, checkbox, and image columns */
 th:nth-child(1), td:nth-child(1) {
-  width: 100px;
+  width: 70px;
   text-align: center;
   padding: 12px 5px;
 }
@@ -366,9 +366,7 @@ th:nth-child(2), td:nth-child(2) {
 }
 
 th:nth-child(3), td:nth-child(3) {
-  width: 70px;
-  padding: 8px 5px;
-  text-align: center;
+  padding-left: 20px;
 }
 
 tbody tr {
@@ -640,6 +638,7 @@ input[type="checkbox"]:checked::after {
   }
 
   table {
+    table-layout: auto;
     font-size: 12px;
   }
 
@@ -1281,4 +1280,115 @@ body.dark-mode .controls button:disabled .control-icon {
 body.dark-mode .controls button:disabled:hover {
   background: #2a2a2a;
   border-color: #404040;
+}
+
+/* Level Radio Button Styling */
+.level-radio {
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  border: 2px solid #ddd;
+  border-radius: 50%; /* Make it round */
+  background: white;
+  position: relative;
+  transition: all 0.2s ease;
+  outline: none;
+  margin: 0 auto;
+  display: block;
+}
+
+.level-radio:hover {
+  border-color: #4CAF50;
+  transform: scale(1.1);
+}
+
+.level-radio:checked {
+  background: #4CAF50;
+  border-color: #4CAF50;
+}
+
+.level-radio:checked::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 10px;
+  height: 10px;
+  background: white;
+  border-radius: 50%;
+}
+
+/* Level header styling */
+.level-header {
+  text-align: center;
+  font-weight: 600;
+  color: #555;
+  padding: 8px 5px !important;
+}
+
+.level-header-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+
+.level-header-content span {
+  font-size: 13px;
+}
+
+/* Select all radio button in header */
+.select-all-radio {
+  width: 20px;
+  height: 20px;
+}
+
+.select-all-radio:hover {
+  transform: scale(1.15);
+}
+
+/* Adjust column widths */
+th:nth-child(4), td:nth-child(4),
+th:nth-child(5), td:nth-child(5),
+th:nth-child(6), td:nth-child(6),
+th:nth-child(7), td:nth-child(7) {
+  width: 60px;
+  text-align: center;
+  padding: 12px 5px;
+}
+
+th:nth-child(8), td:nth-child(8) {
+  padding-left: 30px;
+}
+
+/* Dark mode for radio buttons */
+body.dark-mode .level-radio {
+  background: #383838;
+  border-color: #555;
+}
+
+body.dark-mode .level-radio:hover {
+  border-color: #4CAF50;
+}
+
+body.dark-mode .level-radio:checked {
+  background: #4CAF50;
+  border-color: #4CAF50;
+}
+
+body.dark-mode .level-header {
+  color: #e0e0e0;
+}
+
+/* Remove hover effect on level header rows */
+body.dark-mode .level-header:hover {
+  background: #383838;
+}
+
+.level-header:hover {
+  background: #f8f9fa;
 }

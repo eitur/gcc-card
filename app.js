@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
 let cards = [];
 let sortColumn = null;
 let sortDirection = 'asc';
-const selected = new Set();
+const selected = new Map(); // stores cardId -> level (0, 1, 2, or 3)
 
 // Undo/Redo functionality
 const undoStack = [];
@@ -38,8 +38,8 @@ const MAX_HISTORY = 30; // Limit history size
 
 function saveState() {
   // Save current state to undo stack
-  undoStack.push(new Set(selected));
-  
+  undoStack.push(new Map(selected));
+
   // Limit stack size
   if (undoStack.length > MAX_HISTORY) {
     undoStack.shift();
@@ -55,12 +55,12 @@ function undo() {
   if (undoStack.length === 0) return;
   
   // Save current state to redo stack
-  redoStack.push(new Set(selected));
+  redoStack.push(new Map(selected));
   
   // Restore previous state
   const previousState = undoStack.pop();
   selected.clear();
-  previousState.forEach(id => selected.add(id));
+  previousState.forEach((level, id) => selected.set(id, level));
   
   saveSelections();
   renderTable();
@@ -71,12 +71,12 @@ function redo() {
   if (redoStack.length === 0) return;
   
   // Save current state to undo stack
-  undoStack.push(new Set(selected));
+  undoStack.push(new Map(selected));
   
   // Restore next state
   const nextState = redoStack.pop();
   selected.clear();
-  nextState.forEach(id => selected.add(id));
+  nextState.forEach((level, id) => selected.set(id, level));
   
   saveSelections();
   renderTable();
@@ -167,7 +167,7 @@ function loadSelections() {
   const saved = localStorage.getItem('cardSelections');
   if (saved) {
     const selections = JSON.parse(saved);
-    selections.forEach(id => selected.add(id));
+    selections.forEach(([id, level]) => selected.set(id, level));
   }
 }
 
@@ -235,11 +235,11 @@ function renderTable() {
     });
   }
 
-  document.getElementById("cardTable").innerHTML = list.map(c => `
-    <tr class="card-row" onclick="toggleRow(${c.id}, event)">
+  document.getElementById("cardTable").innerHTML = list.map(c => {
+    const currentLevel = selected.get(c.id);
+    return `
+    <tr class="card-row">
       <td>${c.id}</td>
-      <td><input type="checkbox" ${selected.has(c.id) ? "checked" : ""} 
-          onclick="event.stopPropagation(); toggle(${c.id})"></td>
       <td>
         <div class='card-pic' 
              data-src='${imageBasePath}/${c.image}'
@@ -247,15 +247,101 @@ function renderTable() {
         </div>
       </td>
       <td>${getCardName(c.id)}</td>
+      <td>
+        <input type="radio" 
+               name="level-${c.id}" 
+               value="0" 
+               ${currentLevel === 0 ? "checked" : ""} 
+               onclick="toggleLevel(${c.id}, 0)"
+               class="level-radio">
+      </td>
+      <td>
+        <input type="radio" 
+               name="level-${c.id}" 
+               value="1" 
+               ${currentLevel === 1 ? "checked" : ""} 
+               onclick="toggleLevel(${c.id}, 1)"
+               class="level-radio">
+      </td>
+      <td>
+        <input type="radio" 
+               name="level-${c.id}" 
+               value="2" 
+               ${currentLevel === 2 ? "checked" : ""} 
+               onclick="toggleLevel(${c.id}, 2)"
+               class="level-radio">
+      </td>
+      <td>
+        <input type="radio" 
+               name="level-${c.id}" 
+               value="3" 
+               ${currentLevel === 3 ? "checked" : ""} 
+               onclick="toggleLevel(${c.id}, 3)"
+               class="level-radio">
+      </td>
       <td>${c.point}</td>
       <td>${getCardGroup(c.group)}</td>
       <td>${getCardAcquiredFrom(c.acquiredFrom)}</td>
     </tr>
-  `).join("");
+  `;
+  }).join("");
 
-  // Initialize lazy loading for newly rendered images
   initLazyLoading();
   updateSummary();
+  updateSelectAllButtons();
+}
+
+function toggleLevel(id, level) {
+  saveState();
+  
+  // If clicking the same level, deselect it
+  if (selected.get(id) === level) {
+    selected.delete(id);
+  } else {
+    selected.set(id, level);
+  }
+  
+  saveSelections();
+  renderTable();
+}
+
+function selectAllLevel(level) {
+  saveState();
+  
+  const filteredCards = getFilteredCards();
+  
+  // Check if all filtered cards are already at this level
+  const allAtLevel = filteredCards.every(c => selected.get(c.id) === level);
+  
+  if (allAtLevel) {
+    // Deselect all at this level
+    filteredCards.forEach(c => {
+      if (selected.get(c.id) === level) {
+        selected.delete(c.id);
+      }
+    });
+  } else {
+    // Select all to this level
+    filteredCards.forEach(c => selected.set(c.id, level));
+  }
+  
+  saveSelections();
+  renderTable();
+}
+
+function updateSelectAllButtons() {
+  const filteredCards = getFilteredCards();
+  
+  // Check each level
+  for (let level = 0; level <= 3; level++) {
+    const allAtLevel = filteredCards.length > 0 && 
+                       filteredCards.every(c => selected.get(c.id) === level);
+    
+    const radioButton = document.querySelector(`th input[onclick="selectAllLevel(${level})"]`);
+    if (radioButton) {
+      radioButton.checked = allAtLevel;
+    }
+  }
 }
 
 function initLazyLoading() {
@@ -263,64 +349,6 @@ function initLazyLoading() {
   document.querySelectorAll('.card-pic[data-src]').forEach(img => {
     lazyLoader.observe(img);
   });
-}
-
-function toggle(id) {
-  saveState();
-  selected.has(id) ? selected.delete(id) : selected.add(id);
-  saveSelections();
-  updateSummary();
-}
-
-// New function to handle row clicks
-function toggleRow(id, event) {
-  // Don't toggle if clicking on the checkbox itself (handled by its own onclick)
-  if (event.target.type === 'checkbox') {
-    return;
-  }
-  
-  toggle(id);
-  
-  // Update the checkbox state
-  const checkbox = event.currentTarget.querySelector('input[type="checkbox"]');
-  if (checkbox) {
-    checkbox.checked = selected.has(id);
-  }
-}
-
-function resetCards() {
-  saveState();
-  selected.clear();
-  saveSelections();
-  document.getElementById("searchBox").value = "";
-  document.getElementById("filterAcquiredFrom").value = "";
-  document.getElementById("filterGroup").value = "";
-  sortColumn = null;
-  sortDirection = 'asc';
-  document.querySelectorAll('.sort-indicator').forEach(el => {
-    el.className = 'sort-indicator';
-  });
-  renderTable();
-}
-
-function selectAll() {
-  saveState();
-  // Only select currently visible/filtered cards
-  const filteredCards = getFilteredCards();
-  filteredCards.forEach(c => selected.add(c.id));
-  saveSelections();
-  renderTable();
-}
-
-function invertSelect() {
-  saveState();
-  // Only invert selection for currently visible/filtered cards
-  const filteredCards = getFilteredCards();
-  filteredCards.forEach(c => {
-    selected.has(c.id) ? selected.delete(c.id) : selected.add(c.id);
-  });
-  saveSelections();
-  renderTable();
 }
 
 // Toggle hint box expansion (auto-collapse others with smooth animation)
