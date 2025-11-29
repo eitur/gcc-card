@@ -163,11 +163,33 @@ async function loadCards() {
   }
 }
 
+// handle backward compatibility with the old localStorage format
 function loadSelections() {
   const saved = localStorage.getItem('cardSelections');
   if (saved) {
-    const selections = JSON.parse(saved);
-    selections.forEach(([id, level]) => selected.set(id, level));
+    try {
+      const selections = JSON.parse(saved);
+      
+      // Check if it's the old format (array of numbers) or new format (array of [id, level] pairs)
+      if (selections.length > 0) {
+        // Old format: array of card IDs (numbers)
+        if (typeof selections[0] === 'number') {
+          // Convert old format to new format - assign all to Lv3
+          selections.forEach(id => selected.set(id, 3));
+          
+          // Save in new format
+          saveSelections();
+        } 
+        // New format: array of [id, level] pairs
+        else if (Array.isArray(selections[0])) {
+          selections.forEach(([id, level]) => selected.set(id, level));
+        }
+      }
+    } catch (error) {
+      console.error('Error loading selections:', error);
+      // If there's an error, clear the corrupted data
+      localStorage.removeItem('cardSelections');
+    }
   }
 }
 
