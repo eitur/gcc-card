@@ -492,18 +492,7 @@ function calculateStats() {
     };
   }
 
-  let sortedPointStats = Object.values(pointStats)
-    .sort((a, b) => {
-      const probDiff = parseFloat(b.probabilityPoints) - parseFloat(a.probabilityPoints);
-      if (probDiff !== 0) return probDiff;
-      
-      const [aMin] = a.point.split('-').map(Number);
-      const [bMin] = b.point.split('-').map(Number);
-      return aMin - bMin;
-    })
-    .slice(0, 3);
-
-  return { groupStats, pointStats, sortedPointStats };
+  return { groupStats, pointStats};
 }
 
 function updateSummary() {
@@ -512,11 +501,14 @@ function updateSummary() {
   if (selected.size === 0) {
     summaryEl.innerHTML = i18n.t('ui.noCards');
   } else {
-    const sortedStats = calculateStats().sortedPointStats;
-    const lines = sortedStats.map(stat => 
-      `<strong>${stat.point}</strong>: ${stat.probabilityPoints}%`
-    );
-    summaryEl.innerHTML = lines.join('<br>');
+    let collectionLevel = 0
+    selected.forEach((level, id) => {
+      const card = cards.find(c => c.id === id);
+      if (card.group !== 'uncollectible') {
+        collectionLevel += level
+      }
+    })
+    summaryEl.innerHTML = i18n.t('ui.yourCardCollectionLevel') + `: ${collectionLevel}`;
   }
 }
 

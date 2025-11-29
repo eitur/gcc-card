@@ -26,6 +26,7 @@
       "progress": "Progress",
       "total": "Total",
       "recommendedCombinations": "Recommended Combinations",
+      "yourCardCollectionLevel": "Your Card Collection Level",
 
       "feedbackTitle": "Any thoughts?",
       "feedbackEmail": "Email (optional):",
@@ -40,7 +41,7 @@
     },
     "help": {
       "title": "How to Use",
-      "content": "<p>This tool helps you calculate card fusion probabilities and manage your card collection. The results are calculated based on the <a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">official GrandChase item rate table.</a></p><ul><li><strong>Select cards:</strong> Click the checkboxes to select cards you have</li><li><strong>Sort columns:</strong> Click on Point, Group, or No. headers to sort</li><li><strong>View summary:</strong> The top panel shows recommended point ranges for fusion</li><li><strong>Invert:</strong> Invert your current selection</li><li><strong>Filter Groups:</strong> '{uncollectible}' label is for cards that don't belong to card collections. '{exclusive}' label is for cards that cannot be obtained through fusion.</li></ul><p>Your selections are automatically saved and will persist on your next visit.</p>"
+      "content": "<p>This tool helps you calculate card fusion probabilities and manage your card collection. The results are calculated based on the <a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">official GrandChase item rate table.</a></p><ul><li><strong>Select cards:</strong> Click the checkboxes to select cards you have</li><li><strong>Sort columns:</strong> Click on Point, Group, or No. headers to sort</li><li><strong>View summary:</strong> The top panel shows recommended point ranges for fusion</li><li><strong>Invert:</strong> Invert your current selection</li><li><strong>Filter Groups:</strong> '{uncollectible}' label is for cards that are not counted toward the card collection level. '{exclusive}' label is for cards that cannot be obtained through fusion.</li></ul><p>Your selections are automatically saved and will persist on your next visit.</p>"
     },
     "acquiredFrom": {
       "serdin": "Serdin",
