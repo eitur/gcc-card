@@ -26,7 +26,7 @@ $P(\text{missing card}) = Σ [P(\text{missing cards rate in that group}) \times 
 
 Each level up adds 1 to collection level: $\text{level gain} = 1$
 
-$\text{expected card value} = (\text{level gain} / \text{copies needed to next level} \times P(\text{individual card})$
+$\text{expected card value} = (\text{level gain} / \text{copies needed to next level}) \times P(\text{individual card})$
 
 $\text{group expected card value} = Σ(\text{expected card value in that group})$
 
