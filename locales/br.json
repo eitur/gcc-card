@@ -1,7 +1,7 @@
 {
     "ui": {
       "title": "GCC Carta",
-      "webTitle": "Calculadora de Probabilidades de Fusão de Cartas",
+      "webTitle": "GCC Calculadora de Probabilidades de Fusão de Cartas",
       "group": "Grupo",
       "exclusive": "Exclusivo",
       "uncollectible": "Não Colecionável",
@@ -29,6 +29,8 @@
       "yourCardCollectionLevel": "Nível da Sua Coleção de Cartas",
       "expectedGainPerFusion": "Ganho Esperado de Nível de Coleção por Síntese",
       "perFusion": "por síntese",
+      "copies": "Cópias",
+      "needed": "necessário",
 
       "feedbackTitle": "Algum comentário?",
       "feedbackEmail": "Email (opcional):",
@@ -43,7 +45,7 @@
     },
     "help": {
       "title": "Como Usar",
-      "content": "<p>Esta ferramenta ajuda você a calcular probabilidades de fusão de cartas e gerenciar sua coleção de cartas. Os resultados são calculados com base na <a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">tabela oficial de taxas de itens do GrandChase.</a></p><ul><li><strong>Selecionar cartas:</strong> Clique nas caixas de seleção para selecionar as cartas que você possui</li><li><strong>Ordenar colunas:</strong> Clique nos cabeçalhos de Pontos, Grupo ou Nº para ordenar</li><li><strong>Ver resumo:</strong> O painel superior mostra as faixas de pontos recomendadas para fusão</li><li><strong>Inverter:</strong> Inverta sua seleção atual</li><li><strong>Filtrar Grupos:</strong> O rótulo '{uncollectible}' é usado para cartas que não são contabilizadas no nível da coleção de cartas. O rótulo '{exclusive}' é para cartas que não podem ser obtidas por fusão.</li></ul><p>Suas seleções são salvas automaticamente e persistirão na sua próxima visita.</p>"
+      "content": "<p>Esta ferramenta ajuda você a rastrear sua coleção de cartas e calcular estratégias ideais de síntese. Os cálculos de probabilidade são baseados na <a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">tabela oficial de taxas de itens do GrandChase</a>.</p><ul><li><strong>Selecionar Nível da Carta:</strong> Clique nos botões de opção (Lv0-Lv3) para definir o nível atual de cada carta</li><li><strong>Definir Cópias Possuídas:</strong> Use os botões +/− ou digite diretamente para indicar quantas cópias você tem em direção ao próximo nível</li><li><strong>Ordenar e Filtrar:</strong> Clique nos cabeçalhos das colunas para ordenar ou use os filtros para restringir as cartas</li><li><strong>Desfazer/Refazer:</strong> Cometeu um erro? Use os botões desfazer/refazer para reverter alterações</li><li><strong>Grupos</strong><ul><li><strong>1-7:</strong> Grupos de cartas padrão obtíveis por síntese, cada um com taxas diferentes</li><li><strong>{exclusive}:</strong> Cartas especiais que não podem ser obtidas por síntese</li><li><strong>{uncollectible}:</strong> Cartas que não contam para o nível de coleção de cartas</li></ul></ul><p>Suas seleções são salvas automaticamente localmente e serão restauradas na próxima visita.</p>"
     },
     "acquiredFrom": {
       "serdin": "Serdin",

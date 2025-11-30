@@ -1,7 +1,7 @@
 {
     "ui": {
       "title": "GCC 卡片",
-      "webTitle": "卡片合成機率計算器",
+      "webTitle": "GCC 卡片合成機率計算機",
       "group": "群組",
       "exclusive": "獨家",
       "uncollectible": "不可收集",
@@ -29,6 +29,8 @@
       "yourCardCollectionLevel": "您的卡片收藏等級",
       "expectedGainPerFusion": "每次合成的預期收藏等級增益",
       "perFusion": "每次合成",
+      "copies": "持有數量",
+      "needed": "需要",
 
       "feedbackTitle": "有任何想法嗎？",
       "feedbackEmail": "電子郵件（選填）：",
@@ -43,7 +45,7 @@
     },
     "help": {
       "title": "使用說明",
-      "content": "<p>此工具可協助您計算卡片合成機率並管理您的卡片收藏。計算結果基於<a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">官方 GrandChase 物品機率表</a>。</p><ul><li><strong>選擇卡片：</strong>點擊勾選框以選擇您擁有的卡片</li><li><strong>排序欄位：</strong>點擊點數、群組或編號標題進行排序</li><li><strong>查看摘要：</strong>頂部面板顯示建議的合成點數範圍</li><li><strong>反選：</strong>反轉您目前的選擇</li><li><strong>篩選群組：</strong>'{uncollectible}' 標籤用於不計入卡片收藏等級的卡片。'{exclusive}' 標籤適用於不可通過合成獲得的卡片。</li></ul><p>您的選擇會自動儲存，下次造訪時將會保留。</p>"
+      "content": "<p>此工具幫助您追蹤卡片收藏並計算最佳合成策略。機率計算基於<a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=tw\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">官方永恆冒險物品機率表</a>。</p><ul><li><strong>選擇卡片等級：</strong>點擊單選按鈕（Lv0-Lv3）設定每張卡片的當前等級</li><li><strong>設定持有數量：</strong>使用 +/− 按鈕或直接輸入，以指示您朝下一等級擁有的卡片數量</li><li><strong>排序與篩選：</strong>點擊欄位標題進行排序，或使用篩選條件縮小卡片範圍</li><li><strong>復原/重做：</strong>操作失誤了嗎？使用復原/重做按鈕還原變更</li><li><strong>群組</strong><ul><li><strong>1-7：</strong>可透過合成獲得的標準卡片群組，每組具有不同機率</li><li><strong>{exclusive}：</strong>無法透過合成獲得的特殊卡片</li><li><strong>{uncollectible}：</strong>不計入卡片收藏等級的卡片</li></ul></ul><p>您的選擇會自動儲存在本地，並在下次訪問時恢復。</p>"
     },
     "acquiredFrom": {
       "serdin": "賽爾丁",

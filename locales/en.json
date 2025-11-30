@@ -1,7 +1,7 @@
 {
     "ui": {
       "title": "GCC Card",
-      "webTitle": "Card Fusion Probabilities Calculator",      
+      "webTitle": "GCC Card Fusion Probabilities Calculator",      
       "group": "Group",
       "exclusive": "Exclusive",
       "uncollectible": "Uncollectible",
@@ -29,7 +29,9 @@
       "yourCardCollectionLevel": "Your Card Collection Level",
       "expectedGainPerFusion": "Expected Collection Level Gain per Fusion",
       "perFusion": "per fusion",
-
+      "copies": "Copies",
+      "needed": "needed",
+      
       "feedbackTitle": "Any thoughts?",
       "feedbackEmail": "Email (optional):",
       "feedbackEmailPlaceholder": "your@email.com",
@@ -43,7 +45,7 @@
     },
     "help": {
       "title": "How to Use",
-      "content": "<p>This tool helps you calculate card fusion probabilities and manage your card collection. The results are calculated based on the <a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">official GrandChase item rate table.</a></p><ul><li><strong>Select cards:</strong> Click the checkboxes to select cards you have</li><li><strong>Sort columns:</strong> Click on Point, Group, or No. headers to sort</li><li><strong>View summary:</strong> The top panel shows recommended point ranges for fusion</li><li><strong>Invert:</strong> Invert your current selection</li><li><strong>Filter Groups:</strong> '{uncollectible}' label is for cards that are not counted toward the card collection level. '{exclusive}' label is for cards that cannot be obtained through fusion.</li></ul><p>Your selections are automatically saved and will persist on your next visit.</p>"
+      "content": "<p>This tool helps you track your card collection and calculate optimal fusion strategies. Probability calculations are based on the <a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">official GrandChase item rate table</a>.</p><ul><li><strong>Select Card Level:</strong> Click the radio buttons (Lv0-Lv3) to set each card's current level</li><li><strong>Set Copies Owned:</strong> Use the +/− buttons or type directly to indicate how many copies you have toward the next level</li><li><strong>Sort & Filter:</strong> Click column headers to sort, or use the filters to narrow down cards</li><li><strong>Undo/Redo:</strong> Made a mistake? Use the undo/redo buttons to revert changes</li><li><strong>Groups</strong><ul><li><strong>1-7:</strong> Standard card groups obtainable through fusion, each with different rates</li><li><strong>{exclusive}:</strong> Special cards that cannot be obtained through fusion</li><li><strong>{uncollectible}:</strong> Cards that do not count toward your card collection level</li></ul></ul><p>Your selections are automatically saved locally and will be restored on your next visit.</p>"
     },
     "acquiredFrom": {
       "serdin": "Serdin",

@@ -15,9 +15,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -43,9 +43,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -71,9 +71,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -99,9 +99,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -127,9 +127,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -155,9 +155,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -183,9 +183,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -211,9 +211,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -239,9 +239,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -267,9 +267,9 @@
     "acquiredFrom": "ellia",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -295,9 +295,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -323,9 +323,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -351,9 +351,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -379,9 +379,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -407,9 +407,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -435,9 +435,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -463,9 +463,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -491,9 +491,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -519,9 +519,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -547,9 +547,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -575,9 +575,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -603,9 +603,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -631,9 +631,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -659,9 +659,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -687,9 +687,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -715,9 +715,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -743,9 +743,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -771,9 +771,9 @@
     "acquiredFrom": "xenia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -799,9 +799,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -827,9 +827,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -855,9 +855,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -883,9 +883,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -911,9 +911,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -939,9 +939,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -967,9 +967,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -995,9 +995,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1023,9 +1023,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1051,9 +1051,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1079,9 +1079,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1107,9 +1107,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1135,9 +1135,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1163,9 +1163,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1191,9 +1191,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1219,9 +1219,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1247,9 +1247,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1275,9 +1275,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1303,9 +1303,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1331,9 +1331,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1359,9 +1359,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1387,9 +1387,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1415,9 +1415,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1443,9 +1443,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1471,9 +1471,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1499,9 +1499,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1527,9 +1527,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1555,9 +1555,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1583,9 +1583,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1611,9 +1611,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1639,9 +1639,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1667,9 +1667,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -1695,9 +1695,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -1723,9 +1723,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -1751,9 +1751,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -1779,9 +1779,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -1807,9 +1807,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -1835,9 +1835,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -1863,9 +1863,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -1891,9 +1891,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -1919,9 +1919,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -1947,9 +1947,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -1975,9 +1975,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2003,9 +2003,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2031,9 +2031,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2059,9 +2059,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2087,9 +2087,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2115,9 +2115,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2143,9 +2143,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2171,9 +2171,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2199,9 +2199,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2227,9 +2227,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2255,9 +2255,9 @@
     "acquiredFrom": "specialDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2283,9 +2283,9 @@
     "acquiredFrom": "specialDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2311,9 +2311,9 @@
     "acquiredFrom": "specialDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2339,9 +2339,9 @@
     "acquiredFrom": "eventDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2367,9 +2367,9 @@
     "acquiredFrom": "eventDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2395,9 +2395,9 @@
     "acquiredFrom": "eventDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2423,9 +2423,9 @@
     "acquiredFrom": "eventDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2451,9 +2451,9 @@
     "acquiredFrom": "eventDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2479,9 +2479,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2507,9 +2507,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2535,9 +2535,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2563,9 +2563,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2591,9 +2591,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2619,9 +2619,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2647,9 +2647,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2675,9 +2675,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2703,9 +2703,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2731,9 +2731,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2759,9 +2759,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2787,9 +2787,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2815,9 +2815,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2843,9 +2843,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2871,9 +2871,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2899,9 +2899,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2927,9 +2927,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -2955,9 +2955,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -2983,9 +2983,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3011,9 +3011,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3039,9 +3039,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3067,9 +3067,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3095,9 +3095,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3123,9 +3123,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3151,9 +3151,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3179,9 +3179,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3207,9 +3207,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3235,9 +3235,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3263,9 +3263,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3291,9 +3291,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3319,9 +3319,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3347,9 +3347,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3375,9 +3375,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3403,9 +3403,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3431,9 +3431,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3459,9 +3459,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3487,9 +3487,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3515,9 +3515,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3543,9 +3543,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3571,9 +3571,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3599,9 +3599,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3627,9 +3627,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3655,9 +3655,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3683,9 +3683,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3711,9 +3711,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3739,9 +3739,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3767,9 +3767,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3795,9 +3795,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3823,9 +3823,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -3851,9 +3851,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3879,9 +3879,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3907,9 +3907,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3935,9 +3935,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3963,9 +3963,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -3991,9 +3991,9 @@
     "acquiredFrom": "characterExclusiveDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -4019,9 +4019,9 @@
     "acquiredFrom": "eventDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -4047,9 +4047,9 @@
     "acquiredFrom": "eventDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -4075,9 +4075,9 @@
     "acquiredFrom": "eventDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -4103,9 +4103,9 @@
     "acquiredFrom": "eventDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -4131,9 +4131,9 @@
     "acquiredFrom": "eventDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -4159,9 +4159,9 @@
     "acquiredFrom": "eventDungeon",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -4187,9 +4187,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -4215,9 +4215,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -4243,9 +4243,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -4271,9 +4271,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -4299,9 +4299,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 4,
-        "1": 6,
-        "2": 11
+        "1": 4,
+        "2": 6,
+        "3": 11
       },
       "cumulated": {
         "0": 0,
@@ -4327,9 +4327,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -4355,9 +4355,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,
@@ -4383,9 +4383,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 3,
-        "1": 5,
-        "2": 9
+        "1": 3,
+        "2": 5,
+        "3": 9
       },
       "cumulated": {
         "0": 0,

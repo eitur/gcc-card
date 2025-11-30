@@ -68,6 +68,9 @@
     <button onclick="redo()" id="redoBtn" class="icon-btn" title="Redo" disabled>
       <img src="{{BASE_PATH}}/images/theme/redo-dark.png" alt="Undo" class="control-icon redo-icon">
     </button>
+    <button onclick="resetAll()" id="resetBtn" class="reset-btn" data-i18n="ui.reset" title="Reset All">
+      <span class="reset-text" data-i18n="ui.reset">Reset</span>
+    </button>
   </div>
 
   <div class="filters">
@@ -123,25 +126,34 @@
       </th>
       <th></th>
       <th data-i18n="ui.cardName">Card</th>
+      <!-- <th class="sortable" onclick="sortTable('point')">
+        <span data-i18n="ui.points">Point</span>
+        <span class="sort-indicator" id="sort-point"></span>
+      </th> -->
+      <th class="sortable" onclick="sortTable('group')">
+        <span data-i18n="ui.group">Group</span>
+        <span class="sort-indicator" id="sort-group"></span>
+      </th>
+      <th data-i18n="ui.acquiredFrom">AcquiredFrom</th>
       <th class="level-header">
-      <div class="level-header-content">
-        <span>Lv0</span>
-        <input type="radio" 
-               name="select-all" 
-               class="level-radio select-all-radio" 
-               onclick="selectAllLevel(0)"
-               title="Select/Deselect all Lv0">
-      </div>
+        <div class="level-header-content">
+          <span>Lv0</span>
+          <input type="radio" 
+                name="select-all" 
+                class="level-radio select-all-radio" 
+                onclick="selectAllLevel(0)"
+                title="Select/Deselect all Lv0">
+        </div>
       </th>
       <th class="level-header">
-      <div class="level-header-content">
-        <span>Lv1</span>
-        <input type="radio" 
-               name="select-all" 
-               class="level-radio select-all-radio" 
-               onclick="selectAllLevel(1)"
-               title="Select/Deselect all Lv1">
-      </div>
+        <div class="level-header-content">
+          <span>Lv1</span>
+          <input type="radio" 
+                name="select-all" 
+                class="level-radio select-all-radio" 
+                onclick="selectAllLevel(1)"
+                title="Select/Deselect all Lv1">
+        </div>
       </th>
       <th class="level-header">
         <div class="level-header-content">
@@ -163,15 +175,11 @@
                 title="Select/Deselect all Lv3">
         </div>
       </th>
-      <th class="sortable" onclick="sortTable('point')">
-        <span data-i18n="ui.points">Point</span>
-        <span class="sort-indicator" id="sort-point"></span>
+      <th class="copies-header">
+        <div class="copies-header-content">
+          <span data-i18n="ui.copies">Copies</span>
+        </div>
       </th>
-      <th class="sortable" onclick="sortTable('group')">
-        <span data-i18n="ui.group">Group</span>
-        <span class="sort-indicator" id="sort-group"></span>
-      </th>
-      <th data-i18n="ui.acquiredFrom">AcquiredFrom</th>
     </tr>
   </thead>
   <tbody id="cardTable"></tbody>

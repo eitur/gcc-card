@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', () => {
 let cards = [];
 let sortColumn = null;
 let sortDirection = 'asc';
-const selected = new Map(); // stores cardId -> level (0, 1, 2, or 3)
+const selected = new Map(); // Map<cardId, { level: number, copies: number }>
 
 // Undo/Redo functionality
 const undoStack = [];
@@ -60,7 +60,7 @@ function undo() {
   // Restore previous state
   const previousState = undoStack.pop();
   selected.clear();
-  previousState.forEach((level, id) => selected.set(id, level));
+  previousState.forEach((data, id) => selected.set(id, data));
   
   saveSelections();
   renderTable();
@@ -76,7 +76,7 @@ function redo() {
   // Restore next state
   const nextState = redoStack.pop();
   selected.clear();
-  nextState.forEach((level, id) => selected.set(id, level));
+  nextState.forEach((data, id) => selected.set(id, data));
   
   saveSelections();
   renderTable();
@@ -93,6 +93,30 @@ function updateUndoRedoButtons() {
   if (redoBtn) {
     redoBtn.disabled = redoStack.length === 0;
   }
+}
+
+function resetAll() {
+  // Save state for undo
+  saveState();
+  
+  // Clear all selections and copies
+  selected.clear();
+  
+  // Clear all filters
+  document.getElementById("searchBox").value = '';
+  document.getElementById("filterAcquiredFrom").value = '';
+  document.getElementById("filterGroup").value = '';
+  
+  // Clear sort
+  sortColumn = null;
+  sortDirection = 'asc';
+  document.querySelectorAll('.sort-indicator').forEach(el => {
+    el.className = 'sort-indicator';
+  });
+  
+  // Save and render
+  saveSelections();
+  renderTable();
 }
 
 // Get base path for asset loading
@@ -175,14 +199,14 @@ function loadSelections() {
         // Old format: array of card IDs (numbers), e.g. [1, 2, 3, 4]
         if (typeof selections[0] === 'number') {
           // Convert old format to new format - assign all to Lv3
-          selections.forEach(id => selected.set(id, 3));
+          selections.forEach(id => selected.set(id, {level: 3, copies: 0}));
           
           // Save in new format
           saveSelections();
         } 
-        // New format: array of [id, level] pairs, e.g. [[1, 2], [3, 1], [5, 3]]
-        else if (Array.isArray(selections[0])) {
-          selections.forEach(([id, level]) => selected.set(id, level));
+        // New format: array of [id, {level, copies}] pairs
+        else if (Array.isArray(selections[0]) && selections[0].length === 2 && typeof selections[0][1] === 'object') {
+          selections.forEach(([id, data]) => selected.set(id, data));
         }
       }
     } catch (error) {
@@ -258,7 +282,18 @@ function renderTable() {
   }
 
   document.getElementById("cardTable").innerHTML = list.map(c => {
-    const currentLevel = selected.get(c.id);
+    const currentData = selected.get(c.id) || { level: null, copies: 0 };
+    const currentLevel = currentData.level;
+    const currentCopies = currentData.copies;
+
+    // Calculate max copies for current level
+    const nextLevel = currentLevel !== null ? Math.min(currentLevel + 1, 3) : 1;
+    const maxCopies = currentLevel !== null && currentLevel < 3 
+      ? c.copy.interval[nextLevel] 
+      : 0;
+    
+    const isMaxLevel = currentLevel === 3;
+    
     return `
     <tr class="card-row">
       <td>${c.id}</td>
@@ -269,6 +304,9 @@ function renderTable() {
         </div>
       </td>
       <td>${getCardName(c.id)}</td>
+      <!-- <td>${c.point}</td> -->
+      <td>${getCardGroup(c.group)}</td>
+      <td>${getCardAcquiredFrom(c.acquiredFrom)}</td>
       <td>
         <input type="radio" 
                name="level-${c.id}" 
@@ -301,9 +339,24 @@ function renderTable() {
                onclick="toggleLevel(${c.id}, 3)"
                class="level-radio">
       </td>
-      <td>${c.point}</td>
-      <td>${getCardGroup(c.group)}</td>
-      <td>${getCardAcquiredFrom(c.acquiredFrom)}</td>
+      <td>
+        <div class="copies-control">
+          <button class="copy-btn minus-btn" 
+                  onclick="updateCopies(${c.id}, -1)"
+                  ${isMaxLevel || currentLevel === null ? 'disabled' : ''}>−</button>
+          <input type="number" 
+                 class="copies-input" 
+                 value="${currentCopies}"
+                 min="0"
+                 max="${maxCopies}"
+                 ${isMaxLevel || currentLevel === null ? 'disabled' : ''}
+                 onchange="setCopies(${c.id}, this.value)">
+          <button class="copy-btn plus-btn" 
+                  onclick="updateCopies(${c.id}, 1)"
+                  ${isMaxLevel || currentLevel === null || currentCopies >= maxCopies ? 'disabled' : ''}>+</button>
+        </div>
+        ${!isMaxLevel && currentLevel !== null ? `<div class="copies-hint">${maxCopies - currentCopies} ${i18n.t('ui.needed') || 'needed'}</div>` : ''}
+      </td>
     </tr>
   `;
   }).join("");
@@ -316,12 +369,78 @@ function renderTable() {
 function toggleLevel(id, level) {
   saveState();
   
+  const current = selected.get(id);
+  
   // If clicking the same level, deselect it
-  if (selected.get(id) === level) {
+  if (current && current.level === level) {
     selected.delete(id);
   } else {
-    selected.set(id, level);
+    selected.set(id, { 
+      level: level, 
+      copies: 0  // Reset copies when user changes level
+    });
   }
+  
+  saveSelections();
+  renderTable();
+}
+
+function updateCopies(cardId, change) {
+  saveState();
+  
+  const card = cards.find(c => c.id === cardId);
+  if (!card) return;
+  
+  const current = selected.get(cardId) || { level: 0, copies: 0 };
+  const newCopies = Math.max(0, current.copies + change);
+  
+  // Don't allow more copies than needed if at Lv3
+  if (current.level === 3) {
+    return;
+  }
+
+  // Get max copies needed for next level
+  const nextLevel = Math.min(current.level + 1, 3);
+  const maxCopies = card.copy.interval[nextLevel];
+  
+  // Cap at max needed for next level
+  const cappedCopies = Math.min(newCopies, maxCopies);
+  
+  selected.set(cardId, { 
+    level: current.level, 
+    copies: cappedCopies 
+  });
+  
+  saveSelections();
+  renderTable();
+}
+
+function setCopies(cardId, value) {
+  saveState();
+  
+  const card = cards.find(c => c.id === cardId);
+  if (!card) return;
+  
+  const current = selected.get(cardId) || { level: 0, copies: 0 };
+  const newCopies = Math.max(0, parseInt(value) || 0);
+  
+  // Get max copies needed for next level
+  const nextLevel = Math.min(current.level + 1, 3);
+  const maxCopies = card.copy.interval[nextLevel];
+  
+  // Don't allow changes if at Lv3
+  if (current.level === 3) {
+    renderTable();
+    return;
+  }
+  
+  // Cap at max needed for next level
+  const cappedCopies = Math.min(newCopies, maxCopies);
+  
+  selected.set(cardId, { 
+    level: current.level, 
+    copies: cappedCopies 
+  });
   
   saveSelections();
   renderTable();
@@ -333,18 +452,26 @@ function selectAllLevel(level) {
   const filteredCards = getFilteredCards();
   
   // Check if all filtered cards are already at this level
-  const allAtLevel = filteredCards.every(c => selected.get(c.id) === level);
-  
+  const allAtLevel = filteredCards.every(c => {
+    const data = selected.get(c.id);
+    return data && data.level === level;
+  });
+    
   if (allAtLevel) {
-    // Deselect all at this level
     filteredCards.forEach(c => {
-      if (selected.get(c.id) === level) {
+      const data = selected.get(c.id);
+      if (data && data.level === level) {
         selected.delete(c.id);
       }
     });
   } else {
-    // Select all to this level
-    filteredCards.forEach(c => selected.set(c.id, level));
+    filteredCards.forEach(c => {
+      const current = selected.get(c.id);
+      selected.set(c.id, { 
+        level: level, 
+        copies: 0 
+      });
+    });
   }
   
   saveSelections();
@@ -357,7 +484,10 @@ function updateSelectAllButtons() {
   // Check each level
   for (let level = 0; level <= 3; level++) {
     const allAtLevel = filteredCards.length > 0 && 
-                       filteredCards.every(c => selected.get(c.id) === level);
+                       filteredCards.every(c => {
+                         const data = selected.get(c.id);
+                         return data && data.level === level;
+                       });
     
     const radioButton = document.querySelector(`th input[onclick="selectAllLevel(${level})"]`);
     if (radioButton) {
@@ -467,25 +597,47 @@ function getRecommendedCombinations(pointRange) {
 }
 
 // Calculate expected collection level gain per card obtained
-function calculateCardValue(card, currentLevel) {
+function calculateCardValue(card, currentData) {
+  const currentLevel = currentData.level;
+  const currentCopies = currentData.copies;
   const nextLevel = Math.min(currentLevel + 1, 3);
   
   // Copies needed to reach next level
-  const copiesNeeded = currentLevel === 3 ? 0 : card.copy.cumulated[nextLevel]
-  if (copiesNeeded === 0) return 0; // Already maxed
+  const copiesNeeded = currentLevel === 3 ? 0 : card.copy.interval[nextLevel];
+  if (copiesNeeded === 0) return {expectedValue: 0}; // Already maxed
   
+  // Remaining copies needed (accounting for what user already has)
+  const remainingCopies = Math.max(0, copiesNeeded - currentCopies);
+
+  if (remainingCopies === 0) {
+    // User has enough to level up but hasn't done so yet
+    return {
+      cardId: card.id,
+      currentLevel: currentLevel,
+      nextLevel: nextLevel,
+      copiesNeeded: 0,
+      remainingCopies: 0,
+      levelGain: 1,
+      cardRate: card.rate,
+      expectedValue: 0, // Already ready to level up
+      group: card.group
+    };
+  }
+
   // Collection level gain per level up
   const levelGain = 1; // Each level up adds 1 to collection level
   
   // Expected value = gain / copies needed, weighted by card rate
   // Higher rate = easier to get this specific card
-  const expectedValue = (levelGain / copiesNeeded) * card.individualProbability;
+  const expectedValue = (levelGain / remainingCopies) * card.individualProbability;
   
   return {
     cardId: card.id,
     currentLevel: currentLevel,
     nextLevel: nextLevel,
     copiesNeeded: copiesNeeded,
+    currentCopies: currentCopies,
+    remainingCopies: remainingCopies,
     levelGain: levelGain,
     cardRate: card.individualProbability,
     expectedValue: expectedValue,
@@ -499,7 +651,7 @@ function calculateStats() {
   const groups = [1, 2, 3, 4, 5, 6, 7, 'exclusive'];
   for (const group of groups) {
     const groupCards = cards.filter(c => c.group === group);
-    const selectedInGroup = groupCards.filter(c => selected.has(c.id));
+    const selectedInGroup = groupCards.filter(c => selected.has(c.id) && selected.get(c.id).level === 3);
     const missingCount = groupCards.length - selectedInGroup.length;
     const groupRate = groupCards[0]?.individualProbability || 0;
     
@@ -511,14 +663,15 @@ function calculateStats() {
     };
     
     for (const card of groupCards) {
-      const currentLevel = selected.get(card.id) || 0;
-      const cardValue = calculateCardValue(card, currentLevel);
+      const currentData = selected.get(card.id) || { level: 0, copies: 0 };
+      const cardValue = calculateCardValue(card, currentData);
+      const currentLevel = currentData.level;
       
-      if (currentLevel === 0 && cardValue.copiesNeeded > 0) {
+      if (currentLevel === 0 && cardValue.remainingCopies > 0) {
         expectedValueByLevel.level0to1 += cardValue.expectedValue;
-      } else if (currentLevel === 1 && cardValue.copiesNeeded > 0) {
+      } else if (currentLevel === 1 && cardValue.remainingCopies > 0) {
         expectedValueByLevel.level1to2 += cardValue.expectedValue;
-      } else if (currentLevel === 2 && cardValue.copiesNeeded > 0) {
+      } else if (currentLevel === 2 && cardValue.remainingCopies > 0) {
         expectedValueByLevel.level2to3 += cardValue.expectedValue;
       } else if (currentLevel === 3) {
         expectedValueByLevel.maxed += 1;
@@ -605,10 +758,10 @@ function updateSummary() {
     summaryEl.innerHTML = i18n.t('ui.noCards');
   } else {
     let collectionLevel = 0
-    selected.forEach((level, id) => {
+    selected.forEach((data, id) => {
       const card = cards.find(c => c.id === id);
-      if (card.group !== 'uncollectible') {
-        collectionLevel += level
+      if (card.group !== 'uncollectible' && typeof data.level === "number" && !isNaN(data.level)) {
+        collectionLevel += data.level
       }
     })
     summaryEl.innerHTML = i18n.t('ui.yourCardCollectionLevel') + `: ${collectionLevel}`;

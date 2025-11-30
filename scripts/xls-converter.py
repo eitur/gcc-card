@@ -23,13 +23,13 @@ def safe_int_convert(value):
 
 def card_copies_convert(card_point):
     card_copies = {
-        range(1, 12): {0: 5, 1: 8, 2: 15},
-        range(12, 23): {0: 5, 1: 7, 2: 13},
-        range(23, 34): {0: 4, 1: 6, 2: 11},
-        range(34, 45): {0: 3, 1: 5, 2: 9},
-        range(45, 56): {0: 2, 1: 4, 2: 7},
-        range(56, 67): {0: 1, 1: 3, 2: 5},
-        range(67, 100): {0: 1, 1: 2, 2: 3},
+        range(1, 12): {1: 5, 2: 8, 3: 15},
+        range(12, 23): {1: 5, 2: 7, 3: 13},
+        range(23, 34): {1: 4, 2: 6, 3: 11},
+        range(34, 45): {1: 3, 2: 5, 3: 9},
+        range(45, 56): {1: 2, 2: 4, 3: 7},
+        range(56, 67): {1: 1, 2: 3, 3: 5},
+        range(67, 100): {1: 1, 2: 2, 3: 3},
     }
     for rank_key in card_copies:
         if card_point in rank_key:
@@ -63,9 +63,9 @@ def create_group_jsons(df):
                     'interval': card_copies,
                     'cumulated': {
                         0: 0,
-                        1: card_copies.get(0),
-                        2: card_copies.get(0) + card_copies.get(1),
-                        3: card_copies.get(0) + card_copies.get(1) + card_copies.get(2),
+                        1: card_copies.get(1),
+                        2: card_copies.get(1) + card_copies.get(2),
+                        3: card_copies.get(1) + card_copies.get(2) + card_copies.get(3),
                     }
                 }
             else:

@@ -15,9 +15,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -43,9 +43,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -71,9 +71,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -99,9 +99,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -127,9 +127,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -155,9 +155,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -183,9 +183,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -211,9 +211,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -239,9 +239,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -267,9 +267,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -295,9 +295,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -323,9 +323,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -351,9 +351,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -379,9 +379,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -407,9 +407,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -435,9 +435,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -463,9 +463,9 @@
     "acquiredFrom": "specialDungeon",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -491,9 +491,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -519,9 +519,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -547,9 +547,9 @@
     "acquiredFrom": "alcubra",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -575,9 +575,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -603,9 +603,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -631,9 +631,9 @@
     "acquiredFrom": "archimedia",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -659,9 +659,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -687,9 +687,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -715,9 +715,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -743,9 +743,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -771,9 +771,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -799,9 +799,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -827,9 +827,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -855,9 +855,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -883,9 +883,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -911,9 +911,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -939,9 +939,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -967,9 +967,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -995,9 +995,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1023,9 +1023,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1051,9 +1051,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1079,9 +1079,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1107,9 +1107,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1135,9 +1135,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1163,9 +1163,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1191,9 +1191,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1219,9 +1219,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1247,9 +1247,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1275,9 +1275,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1303,9 +1303,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1331,9 +1331,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1359,9 +1359,9 @@
     "acquiredFrom": "harrier",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1387,9 +1387,9 @@
     "acquiredFrom": "anotherWorld",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1415,9 +1415,9 @@
     "acquiredFrom": "anotherWorld",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1443,9 +1443,9 @@
     "acquiredFrom": "anotherWorld",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1471,9 +1471,9 @@
     "acquiredFrom": "anotherWorld",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1499,9 +1499,9 @@
     "acquiredFrom": "anotherWorld",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1527,9 +1527,9 @@
     "acquiredFrom": "anotherWorld",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1555,9 +1555,9 @@
     "acquiredFrom": "anotherWorld",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1583,9 +1583,9 @@
     "acquiredFrom": "anotherWorld",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1611,9 +1611,9 @@
     "acquiredFrom": "anotherWorld",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1639,9 +1639,9 @@
     "acquiredFrom": "anotherWorld",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1667,9 +1667,9 @@
     "acquiredFrom": "anotherWorld",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1695,9 +1695,9 @@
     "acquiredFrom": "anotherWorld",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1723,9 +1723,9 @@
     "acquiredFrom": "specialDungeon",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1751,9 +1751,9 @@
     "acquiredFrom": "specialDungeon",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1779,9 +1779,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1807,9 +1807,9 @@
     "acquiredFrom": "specialDungeon",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1835,9 +1835,9 @@
     "acquiredFrom": "specialDungeon",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1863,9 +1863,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1891,9 +1891,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1919,9 +1919,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
@@ -1947,9 +1947,9 @@
     "acquiredFrom": "fuse",
     "copy": {
       "interval": {
-        "0": 1,
-        "1": 3,
-        "2": 5
+        "1": 1,
+        "2": 3,
+        "3": 5
       },
       "cumulated": {
         "0": 0,
