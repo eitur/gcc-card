@@ -13,7 +13,7 @@
       "reset": "Redefinir",
       "selectAll": "Selecionar Tudo",
       "invert": "Inverter",
-      "noCards": "Selecione as cartas que você possui na tabela abaixo.",
+      "noCards": "Por favor, selecione os níveis de suas cartas na tabela abaixo",
       "acquiredFrom": "Adquirido de",
       "cardName": "Carta",
       "number": "Nº",
@@ -27,6 +27,8 @@
       "total": "Total",
       "recommendedCombinations": "Combinações Recomendadas",
       "yourCardCollectionLevel": "Nível da Sua Coleção de Cartas",
+      "expectedGainPerFusion": "Ganho Esperado de Nível de Coleção por Síntese",
+      "perFusion": "por síntese",
 
       "feedbackTitle": "Algum comentário?",
       "feedbackEmail": "Email (opcional):",

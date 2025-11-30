@@ -9,10 +9,23 @@
     },
     "point": 47,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta22585.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "alcubra",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 72,
@@ -24,10 +37,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta22586.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "alcubra",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 77,
@@ -39,10 +65,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta22591.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "alcubra",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 78,
@@ -54,10 +93,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta22592.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "alcubra",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 81,
@@ -69,10 +121,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta22595.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "alcubra",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 82,
@@ -84,10 +149,23 @@
     },
     "point": 51,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta22596.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "alcubra",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 155,
@@ -99,10 +177,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta22669.webp",
-    "acquiredFrom": "xenia"
+    "acquiredFrom": "xenia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 166,
@@ -114,10 +205,23 @@
     },
     "point": 53,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta22680.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 167,
@@ -129,10 +233,23 @@
     },
     "point": 44,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta30159.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "alcubra",
+    "copy": {
+      "interval": {
+        "0": 3,
+        "1": 5,
+        "2": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
+    }
   },
   {
     "id": 170,
@@ -144,10 +261,23 @@
     },
     "point": 44,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta30162.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "alcubra",
+    "copy": {
+      "interval": {
+        "0": 3,
+        "1": 5,
+        "2": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
+    }
   },
   {
     "id": 171,
@@ -159,10 +289,23 @@
     },
     "point": 46,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta30163.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "alcubra",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 175,
@@ -174,10 +317,23 @@
     },
     "point": 46,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta30167.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 176,
@@ -189,10 +345,23 @@
     },
     "point": 45,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta30168.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 178,
@@ -204,10 +373,23 @@
     },
     "point": 53,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta30170.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 192,
@@ -219,10 +401,23 @@
     },
     "point": 46,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta33168.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 193,
@@ -234,10 +429,23 @@
     },
     "point": 51,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta33169.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 197,
@@ -249,10 +457,23 @@
     },
     "point": 47,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta53739.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 198,
@@ -264,10 +485,23 @@
     },
     "point": 44,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta53740.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 3,
+        "1": 5,
+        "2": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
+    }
   },
   {
     "id": 199,
@@ -279,10 +513,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta53741.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 245,
@@ -294,10 +541,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80040.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 246,
@@ -309,10 +569,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80041.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 247,
@@ -324,10 +597,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80042.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 248,
@@ -339,10 +625,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80043.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 249,
@@ -354,10 +653,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80044.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 250,
@@ -369,10 +681,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80045.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 251,
@@ -384,10 +709,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80046.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 252,
@@ -399,10 +737,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80049.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 253,
@@ -414,10 +765,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80050.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 254,
@@ -429,10 +793,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80051.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 255,
@@ -444,10 +821,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80052.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 256,
@@ -459,10 +849,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80053.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 257,
@@ -474,10 +877,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80055.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 258,
@@ -489,10 +905,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80056.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 259,
@@ -504,10 +933,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80058.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 260,
@@ -519,10 +961,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80059.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 261,
@@ -534,10 +989,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80061.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 262,
@@ -549,10 +1017,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80062.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 343,
@@ -564,10 +1045,23 @@
     },
     "point": 55,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80772.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 344,
@@ -579,10 +1073,23 @@
     },
     "point": 55,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80773.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 345,
@@ -594,10 +1101,23 @@
     },
     "point": 55,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80774.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 346,
@@ -609,10 +1129,23 @@
     },
     "point": 45,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80775.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 347,
@@ -624,10 +1157,23 @@
     },
     "point": 48,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80776.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 348,
@@ -639,10 +1185,23 @@
     },
     "point": 54,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80777.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 349,
@@ -654,10 +1213,23 @@
     },
     "point": 54,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta80778.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 356,
@@ -669,10 +1241,23 @@
     },
     "point": 47,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta97755.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 357,
@@ -684,10 +1269,23 @@
     },
     "point": 47,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta97756.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 358,
@@ -699,10 +1297,23 @@
     },
     "point": 53,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta97757.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 359,
@@ -714,10 +1325,23 @@
     },
     "point": 52,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta97758.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 361,
@@ -729,10 +1353,23 @@
     },
     "point": 44,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta97760.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 3,
+        "1": 5,
+        "2": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
+    }
   },
   {
     "id": 362,
@@ -744,10 +1381,23 @@
     },
     "point": 47,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta97761.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 363,
@@ -759,10 +1409,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta97762.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 364,
@@ -774,10 +1437,23 @@
     },
     "point": 53,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta97763.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 372,
@@ -789,10 +1465,23 @@
     },
     "point": 46,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta101712.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 376,
@@ -804,10 +1493,23 @@
     },
     "point": 48,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta101716.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 385,
@@ -819,10 +1521,23 @@
     },
     "point": 48,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta107575.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "alcubra",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 387,
@@ -834,10 +1549,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta107749.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 388,
@@ -849,10 +1577,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta107750.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 389,
@@ -864,10 +1605,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta107751.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 390,
@@ -879,10 +1633,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta107752.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 391,
@@ -894,10 +1661,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta107753.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 395,
@@ -909,10 +1689,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta109082.webp",
-    "acquiredFrom": "alcubra"
+    "acquiredFrom": "alcubra",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 397,
@@ -924,10 +1717,23 @@
     },
     "point": 54,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta110761.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 398,
@@ -939,10 +1745,23 @@
     },
     "point": 54,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta110762.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 400,
@@ -954,10 +1773,23 @@
     },
     "point": 54,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta110764.webp",
-    "acquiredFrom": "archimedia"
+    "acquiredFrom": "archimedia",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 477,
@@ -969,10 +1801,23 @@
     },
     "point": 45,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163668.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 479,
@@ -984,10 +1829,23 @@
     },
     "point": 44,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163672.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 3,
+        "1": 5,
+        "2": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
+    }
   },
   {
     "id": 480,
@@ -999,10 +1857,23 @@
     },
     "point": 48,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163674.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 482,
@@ -1014,10 +1885,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163676.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 483,
@@ -1029,10 +1913,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163678.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 486,
@@ -1044,10 +1941,23 @@
     },
     "point": 45,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163681.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 487,
@@ -1059,10 +1969,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163682.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 488,
@@ -1074,10 +1997,23 @@
     },
     "point": 46,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163683.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 490,
@@ -1089,10 +2025,23 @@
     },
     "point": 55,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163686.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 492,
@@ -1104,10 +2053,23 @@
     },
     "point": 47,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163688.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 494,
@@ -1119,10 +2081,23 @@
     },
     "point": 48,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163690.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 495,
@@ -1134,10 +2109,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163691.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 498,
@@ -1149,10 +2137,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163694.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 500,
@@ -1164,10 +2165,23 @@
     },
     "point": 54,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163696.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 502,
@@ -1179,10 +2193,23 @@
     },
     "point": 51,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163699.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 503,
@@ -1194,10 +2221,23 @@
     },
     "point": 45,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163700.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 507,
@@ -1209,10 +2249,23 @@
     },
     "point": 53,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163706.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 509,
@@ -1224,10 +2277,23 @@
     },
     "point": 51,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163709.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 512,
@@ -1239,10 +2305,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163713.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 513,
@@ -1254,10 +2333,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163714.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 514,
@@ -1269,10 +2361,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163715.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 515,
@@ -1284,10 +2389,23 @@
     },
     "point": 48,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163716.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 518,
@@ -1299,10 +2417,23 @@
     },
     "point": 45,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163719.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 519,
@@ -1314,10 +2445,23 @@
     },
     "point": 45,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163720.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 521,
@@ -1329,10 +2473,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163722.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 522,
@@ -1344,10 +2501,23 @@
     },
     "point": 46,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163723.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 523,
@@ -1359,10 +2529,23 @@
     },
     "point": 55,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163724.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 524,
@@ -1374,10 +2557,23 @@
     },
     "point": 46,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163725.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 525,
@@ -1389,10 +2585,23 @@
     },
     "point": 46,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163726.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 527,
@@ -1404,10 +2613,23 @@
     },
     "point": 47,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163728.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 530,
@@ -1419,10 +2641,23 @@
     },
     "point": 54,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163732.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 531,
@@ -1434,10 +2669,23 @@
     },
     "point": 52,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163733.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 532,
@@ -1449,10 +2697,23 @@
     },
     "point": 46,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163734.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 533,
@@ -1464,10 +2725,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163735.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 535,
@@ -1479,10 +2753,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163737.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 540,
@@ -1494,10 +2781,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163754.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 542,
@@ -1509,10 +2809,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163756.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 543,
@@ -1524,10 +2837,23 @@
     },
     "point": 54,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163757.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 544,
@@ -1539,10 +2865,23 @@
     },
     "point": 55,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163758.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 545,
@@ -1554,10 +2893,23 @@
     },
     "point": 53,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163759.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 546,
@@ -1569,10 +2921,23 @@
     },
     "point": 55,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163760.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 547,
@@ -1584,10 +2949,23 @@
     },
     "point": 53,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163761.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 548,
@@ -1599,10 +2977,23 @@
     },
     "point": 48,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163762.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 549,
@@ -1614,10 +3005,23 @@
     },
     "point": 52,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163763.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 550,
@@ -1629,10 +3033,23 @@
     },
     "point": 51,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163764.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 551,
@@ -1644,10 +3061,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163806.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 552,
@@ -1659,10 +3089,23 @@
     },
     "point": 45,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163819.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 553,
@@ -1674,10 +3117,23 @@
     },
     "point": 48,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta163820.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 554,
@@ -1689,10 +3145,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta164117.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 555,
@@ -1704,10 +3173,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta164118.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 556,
@@ -1719,10 +3201,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta164119.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 557,
@@ -1734,10 +3229,23 @@
     },
     "point": 49,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta164120.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 559,
@@ -1749,10 +3257,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta165150.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 561,
@@ -1764,10 +3285,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta165152.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 564,
@@ -1779,10 +3313,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta165155.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 566,
@@ -1794,10 +3341,23 @@
     },
     "point": 53,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta165157.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 569,
@@ -1809,10 +3369,23 @@
     },
     "point": 44,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta165160.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 3,
+        "1": 5,
+        "2": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
+    }
   },
   {
     "id": 570,
@@ -1824,10 +3397,23 @@
     },
     "point": 44,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta165161.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 3,
+        "1": 5,
+        "2": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
+    }
   },
   {
     "id": 576,
@@ -1839,10 +3425,23 @@
     },
     "point": 46,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta167995.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 577,
@@ -1854,10 +3453,23 @@
     },
     "point": 55,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta167996.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 579,
@@ -1869,10 +3481,23 @@
     },
     "point": 52,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta167998.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 580,
@@ -1884,10 +3509,23 @@
     },
     "point": 55,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta167999.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 582,
@@ -1899,10 +3537,23 @@
     },
     "point": 55,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta168001.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 583,
@@ -1914,10 +3565,23 @@
     },
     "point": 55,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta168002.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 620,
@@ -1929,10 +3593,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta178685.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 621,
@@ -1944,10 +3621,23 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta178686.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   },
   {
     "id": 622,
@@ -1959,9 +3649,22 @@
     },
     "point": 50,
     "group": 5,
-    "rate": 0.007633587786259542,
+    "individualProbability": 0.007633587786259542,
     "groupCount": 131,
     "image": "sbta178687.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 2,
+        "1": 4,
+        "2": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
+    }
   }
 ]

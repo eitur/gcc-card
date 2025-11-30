@@ -9,10 +9,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta79985.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 214,
@@ -24,10 +37,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta79991.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 215,
@@ -39,10 +65,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta79994.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 216,
@@ -54,10 +93,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta79996.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 217,
@@ -69,10 +121,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta79998.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 218,
@@ -84,10 +149,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta79999.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 219,
@@ -99,10 +177,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta80000.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 220,
@@ -114,10 +205,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta80002.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 221,
@@ -129,10 +233,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta80004.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 222,
@@ -144,10 +261,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta80007.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 517,
@@ -159,10 +289,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta163718.webp",
-    "acquiredFrom": "harrier"
+    "acquiredFrom": "harrier",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 573,
@@ -174,10 +317,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta165164.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 586,
@@ -189,10 +345,23 @@
     },
     "point": 71,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta168005.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 592,
@@ -204,10 +373,23 @@
     },
     "point": 73,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta171324.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "specialDungeon",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 593,
@@ -219,10 +401,23 @@
     },
     "point": 75,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta171325.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "specialDungeon",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 599,
@@ -234,10 +429,23 @@
     },
     "point": 67,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta173325.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "specialDungeon",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 600,
@@ -249,10 +457,23 @@
     },
     "point": 71,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta173326.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "specialDungeon",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 606,
@@ -264,10 +485,23 @@
     },
     "point": 68,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta177483.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 607,
@@ -279,10 +513,23 @@
     },
     "point": 70,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta177484.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 608,
@@ -294,10 +541,23 @@
     },
     "point": 77,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta177485.webp",
-    "acquiredFrom": "anotherWorld"
+    "acquiredFrom": "anotherWorld",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 618,
@@ -309,10 +569,23 @@
     },
     "point": 70,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta178683.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 619,
@@ -324,10 +597,23 @@
     },
     "point": 70,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta178684.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 626,
@@ -339,10 +625,23 @@
     },
     "point": 70,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta178691.webp",
-    "acquiredFrom": "fuse"
+    "acquiredFrom": "fuse",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 640,
@@ -354,10 +653,23 @@
     },
     "point": 73,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta182597.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "specialDungeon",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 641,
@@ -369,10 +681,23 @@
     },
     "point": 75,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta182600.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "specialDungeon",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   },
   {
     "id": 642,
@@ -384,9 +709,22 @@
     },
     "point": 74,
     "group": 7,
-    "rate": 0.038461538461538464,
+    "individualProbability": 0.038461538461538464,
     "groupCount": 26,
     "image": "sbta183758.webp",
-    "acquiredFrom": "specialDungeon"
+    "acquiredFrom": "specialDungeon",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 2,
+        "2": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
   }
 ]

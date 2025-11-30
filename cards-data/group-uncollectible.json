@@ -9,10 +9,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta164323.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 574,
@@ -24,10 +28,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta166349.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 575,
@@ -39,10 +47,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta166350.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 587,
@@ -54,10 +66,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta168741.webp",
-    "acquiredFrom": "chaserPass"
+    "acquiredFrom": "chaserPass",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 588,
@@ -69,10 +85,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta169271.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 589,
@@ -84,10 +104,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta169272.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 594,
@@ -99,10 +123,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta171696.webp",
-    "acquiredFrom": "chaserPass"
+    "acquiredFrom": "chaserPass",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 595,
@@ -114,10 +142,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta171697.webp",
-    "acquiredFrom": "chaserPass"
+    "acquiredFrom": "chaserPass",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 601,
@@ -129,10 +161,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta175003.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 602,
@@ -144,10 +180,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta175004.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 603,
@@ -159,10 +199,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta175710.webp",
-    "acquiredFrom": "chaserPass"
+    "acquiredFrom": "chaserPass",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 604,
@@ -174,10 +218,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta175711.webp",
-    "acquiredFrom": "chaserPass"
+    "acquiredFrom": "chaserPass",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 605,
@@ -189,10 +237,14 @@
     },
     "point": "-",
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta177289.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": "-",
+      "cumulated": "-"
+    }
   },
   {
     "id": 644,
@@ -204,10 +256,23 @@
     },
     "point": 1,
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta184747.webp",
-    "acquiredFrom": "item"
+    "acquiredFrom": "item",
+    "copy": {
+      "interval": {
+        "0": 5,
+        "1": 8,
+        "2": 15
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 5,
+        "2": 13,
+        "3": 28
+      }
+    }
   },
   {
     "id": 645,
@@ -219,9 +284,22 @@
     },
     "point": 60,
     "group": "uncollectible",
-    "rate": 0.06666666666666667,
+    "individualProbability": 0.06666666666666667,
     "groupCount": 15,
     "image": "sbta185677.webp",
-    "acquiredFrom": "eventDungeon"
+    "acquiredFrom": "eventDungeon",
+    "copy": {
+      "interval": {
+        "0": 1,
+        "1": 3,
+        "2": 5
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 4,
+        "3": 9
+      }
+    }
   }
 ]

@@ -13,7 +13,7 @@
       "reset": "Reset",
       "selectAll": "Select All",
       "invert": "Invert",
-      "noCards": "Please select the cards you own from the table below.",
+      "noCards": "Please select your card levels from the table below",
       "acquiredFrom": "Acquired from",
       "cardName": "Card",
       "number": "No.",
@@ -27,6 +27,8 @@
       "total": "Total",
       "recommendedCombinations": "Recommended Combinations",
       "yourCardCollectionLevel": "Your Card Collection Level",
+      "expectedGainPerFusion": "Expected Collection Level Gain per Fusion",
+      "perFusion": "per fusion",
 
       "feedbackTitle": "Any thoughts?",
       "feedbackEmail": "Email (optional):",

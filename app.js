@@ -172,7 +172,7 @@ function loadSelections() {
       
       // Check if it's the old format (array of numbers) or new format (array of [id, level] pairs)
       if (selections.length > 0) {
-        // Old format: array of card IDs (numbers)
+        // Old format: array of card IDs (numbers), e.g. [1, 2, 3, 4]
         if (typeof selections[0] === 'number') {
           // Convert old format to new format - assign all to Lv3
           selections.forEach(id => selected.set(id, 3));
@@ -180,7 +180,7 @@ function loadSelections() {
           // Save in new format
           saveSelections();
         } 
-        // New format: array of [id, level] pairs
+        // New format: array of [id, level] pairs, e.g. [[1, 2], [3, 1], [5, 3]]
         else if (Array.isArray(selections[0])) {
           selections.forEach(([id, level]) => selected.set(id, level));
         }
@@ -466,6 +466,34 @@ function getRecommendedCombinations(pointRange) {
   ];
 }
 
+// Calculate expected collection level gain per card obtained
+function calculateCardValue(card, currentLevel) {
+  const nextLevel = Math.min(currentLevel + 1, 3);
+  
+  // Copies needed to reach next level
+  const copiesNeeded = currentLevel === 3 ? 0 : card.copy.cumulated[nextLevel]
+  if (copiesNeeded === 0) return 0; // Already maxed
+  
+  // Collection level gain per level up
+  const levelGain = 1; // Each level up adds 1 to collection level
+  
+  // Expected value = gain / copies needed, weighted by card rate
+  // Higher rate = easier to get this specific card
+  const expectedValue = (levelGain / copiesNeeded) * card.individualProbability;
+  
+  return {
+    cardId: card.id,
+    currentLevel: currentLevel,
+    nextLevel: nextLevel,
+    copiesNeeded: copiesNeeded,
+    levelGain: levelGain,
+    cardRate: card.individualProbability,
+    expectedValue: expectedValue,
+    group: card.group
+  };
+}
+
+
 function calculateStats() {
   const groupStats = {};
   const groups = [1, 2, 3, 4, 5, 6, 7, 'exclusive'];
@@ -473,14 +501,46 @@ function calculateStats() {
     const groupCards = cards.filter(c => c.group === group);
     const selectedInGroup = groupCards.filter(c => selected.has(c.id));
     const missingCount = groupCards.length - selectedInGroup.length;
-    const groupRate = groupCards[0]?.rate || 0;
+    const groupRate = groupCards[0]?.individualProbability || 0;
+    
+    let expectedValueByLevel = {
+      level0to1: 0,  // Cards at Lv0 trying to reach Lv1
+      level1to2: 0,  // Cards at Lv1 trying to reach Lv2
+      level2to3: 0,  // Cards at Lv2 trying to reach Lv3
+      maxed: 0       // Cards already at Lv3
+    };
+    
+    for (const card of groupCards) {
+      const currentLevel = selected.get(card.id) || 0;
+      const cardValue = calculateCardValue(card, currentLevel);
+      
+      if (currentLevel === 0 && cardValue.copiesNeeded > 0) {
+        expectedValueByLevel.level0to1 += cardValue.expectedValue;
+      } else if (currentLevel === 1 && cardValue.copiesNeeded > 0) {
+        expectedValueByLevel.level1to2 += cardValue.expectedValue;
+      } else if (currentLevel === 2 && cardValue.copiesNeeded > 0) {
+        expectedValueByLevel.level2to3 += cardValue.expectedValue;
+      } else if (currentLevel === 3) {
+        expectedValueByLevel.maxed += 1;
+      }
+    }
+    
+    // Total expected value for this group (sum across all level transitions)
+    const totalExpectedValue = 
+      expectedValueByLevel.level0to1 + 
+      expectedValueByLevel.level1to2 + 
+      expectedValueByLevel.level2to3;
+
     
     groupStats[group] = {
       total: groupCards.length,
       selected: selectedInGroup.length,
       missing: missingCount,
       rate: groupRate,
-      missingRate: ((missingCount * groupRate) * 100).toFixed(2)
+      missingRate: ((missingCount * groupRate) * 100).toFixed(2),
+
+      expectedValue: totalExpectedValue,
+      byLevel: expectedValueByLevel,
     };
   }
 
@@ -514,7 +574,28 @@ function calculateStats() {
     };
   }
 
-  return { groupStats, pointStats};
+  // Calculate expected collection level gain per fusion for each point range
+  const rangeAnalysis = fusionRates.map(fusionData => {
+    let expectedGainPerFusion = 0;
+    
+    for (let group = 1; group <= 7; group++) {
+      const fusionProbability = fusionData.rates[group] / 100;
+      
+      if (fusionProbability > 0 && groupStats[group]) {
+        // Expected gain from this group = P(getting this group) × Expected value of cards in this group
+        expectedGainPerFusion += fusionProbability * groupStats[group].expectedValue;
+      }
+    }
+    
+    return {
+      range: fusionData.range,
+      expectedGain: expectedGainPerFusion,
+      expectedGainPercent: (expectedGainPerFusion * 100).toFixed(2),
+      groupDistribution: fusionData.rates
+    };
+  });
+    
+  return {groupStats, pointStats, rangeAnalysis};
 }
 
 function updateSummary() {
@@ -556,7 +637,7 @@ function showDetails() {
     const stats = calculateStats();
     content += `<div class="missing-summary"><strong>${i18n.t('ui.probabilitiesByRange') || 'Probabilities by Point Ranges'}</strong><br>`;
 
-  // Create expandable point range items
+    // Create expandable point range items
     for (const pointStatsData of Object.values(stats.pointStats)) {
       if (pointStatsData.point === POINT_RANGE_0) {
         content += `${i18n.t('ui.pointRange') || 'Point Range'} ${pointStatsData.point}: ${pointStatsData.probabilityPoints}%<br>`;
@@ -615,6 +696,17 @@ function showDetails() {
     // Add total summary
     const totalProgress = totalCards > 0 ? ((totalSelected / totalCards) * 100).toFixed(2) : 0;
     content += `-<br>${i18n.t('ui.total') || 'Total'}: ${totalMissing} ${i18n.t('ui.missing') || 'missing'} (${totalSelected}/${totalCards}) - ${i18n.t('ui.progress')} ${totalProgress}%`;
+    content += '</div>';
+
+
+    // Add expected collection level gain per fusion by point ranges
+    content += `<div class="missing-summary"><strong>${i18n.t('ui.expectedGainPerFusion') || 'Expected Collection Level Gain per Fusion'}</strong></br>`;
+    
+    stats.rangeAnalysis.forEach((range, index) => {    
+      content += `${i18n.t('ui.pointRange') || 'Point Range'} ${range.range}: +${range.expectedGainPercent}% ${i18n.t('ui.perFusion') || 'per fusion'}</br>
+      `;
+    });
+    
     content += '</div>';
   }
   
