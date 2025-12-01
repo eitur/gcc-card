@@ -1,7 +1,7 @@
 {
     "ui": {
       "title": "GCC 카드",
-      "webTitle": "GCC 카드 합성 확률 계산기",
+      "webTitle": "GCC 카드 합성 확률 분석기",
       "group": "그룹",
       "exclusive": "독점",
       "uncollectible": "수집 불가",
@@ -30,7 +30,7 @@
       "expectedGainPerFusion": "합성당 예상 컬렉션 레벨 증가량",
       "perFusion": "합성당",
       "copies": "보유 수량",
-      "needed": "필요",
+      "needed": "장 필요",
 
       "feedbackTitle": "의견이나 질문이 있으신가요?",
       "feedbackEmail": "이메일 (선택사항):",

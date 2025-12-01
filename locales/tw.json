@@ -1,7 +1,7 @@
 {
     "ui": {
       "title": "GCC 卡片",
-      "webTitle": "GCC 卡片合成機率計算機",
+      "webTitle": "GCC 卡片合成機率分析",
       "group": "群組",
       "exclusive": "獨家",
       "uncollectible": "不可收集",
@@ -30,7 +30,7 @@
       "expectedGainPerFusion": "每次合成的預期收藏等級增益",
       "perFusion": "每次合成",
       "copies": "持有數量",
-      "needed": "需要",
+      "needed": "張需要",
 
       "feedbackTitle": "有任何想法嗎？",
       "feedbackEmail": "電子郵件（選填）：",

@@ -1,7 +1,7 @@
 {
     "ui": {
       "title": "GCC Carta",
-      "webTitle": "GCC Calculadora de Probabilidades de Fusão de Cartas",
+      "webTitle": "Analisador de Probabilidade de Síntese de Cartas GCC",
       "group": "Grupo",
       "exclusive": "Exclusivo",
       "uncollectible": "Não Colecionável",
