@@ -41,7 +41,7 @@ npm run build
 **Generates:**
 - `index.html` (English)
 - `kr/index.html` (Korean)
-- `br/index.html` (Portuguese)
+- `br/index.html` (Brazilian Portuguese)
 - `tw/index.html` (Traditional Chinese)
 
 

@@ -1,3 +1,8 @@
+// Register datalabels plugin if available
+if (typeof ChartDataLabels !== 'undefined') {
+  Chart.register(ChartDataLabels);
+}
+
 const isGitHubPages = window.location.hostname.includes('github.io');
 const BASE_PATH = isGitHubPages ? '/gcc-card' : '';
 const POINT_RANGE_0 = '1-50';
@@ -788,19 +793,47 @@ function showDetails() {
     content = `<div class="no-cards">${i18n.t('ui.noCards')}</div>`;
   } else {
     const stats = calculateStats();
-    content += `<div class="missing-summary"><strong>${i18n.t('ui.probabilitiesByRange') || 'Probabilities by Point Ranges'}</strong><br>`;
+    
+    // Create chart wrapper
+    content += `
+      <div class="chart-wrapper">
+        <div class="chart-title">${i18n.t('ui.chartTitle') || 'Card Fusion Analysis by Point Range'}</div>
+        <div class="chart-container">
+          <canvas id="fusionChart"></canvas>
+        </div>
+        <div class="chart-legend">
+          <div class="legend-content">
+            <div class="legend-item">
+              <div class="legend-color" style="background: rgba(164, 216, 166, 0.8);"></div>
+              <span>${i18n.t('ui.missingProbability') || 'Missing Card Probability (%)'}: ${i18n.t('ui.probabilitiesByRange')}</span>
+            </div>
+            <div class="legend-item">
+              <div class="legend-color" style="background: rgba(68, 158, 72, 0.8);"></div>
+              <span>${i18n.t('ui.expectedGain') || 'Expected Collection Gain (%)'}: ${i18n.t('ui.expectedGainPerFusion')}</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    `;
 
-    // Create expandable point range items
+    // Add expandable point range items with combinations
+    content += `<div class="missing-summary"><div class="chart-title">${i18n.t('ui.missingProbability')} | ${i18n.t('ui.expectedGain')}</div>`;
     for (const pointStatsData of Object.values(stats.pointStats)) {
+      const combinations = getRecommendedCombinations(pointStatsData.point);
+      const rangeData = stats.rangeAnalysis.find(r => r.range === pointStatsData.point);
       if (pointStatsData.point === POINT_RANGE_0) {
-        content += `${i18n.t('ui.pointRange') || 'Point Range'} ${pointStatsData.point}: ${pointStatsData.probabilityPoints}%<br>`;
-      }
-      else {
-        const combinations = getRecommendedCombinations(pointStatsData.point);
         content += `
           <div class="point-range-item" onclick="toggleHint(this)">
             <div class="point-range-header">
-              <span>${i18n.t('ui.pointRange') || 'Point Range'} ${pointStatsData.point}: ${pointStatsData.probabilityPoints}%</span>
+              <span>${i18n.t('ui.pointRange') || 'Point Range'} ${pointStatsData.point}: ${pointStatsData.probabilityPoints}% | +${rangeData?.expectedGainPercent || '0.00'}%</span>
+            </div>
+          </div>
+        `;
+      } else {
+        content += `
+          <div class="point-range-item" onclick="toggleHint(this)">
+            <div class="point-range-header">
+              <span>${i18n.t('ui.pointRange') || 'Point Range'} ${pointStatsData.point}: ${pointStatsData.probabilityPoints}% | +${rangeData?.expectedGainPercent || '0.00'}%</span>
               <span class="expand-icon">▼</span>
             </div>
             <div class="hint-box">
@@ -821,11 +854,12 @@ function showDetails() {
         `;
       }
     }
+    content += `</div>`;
 
-    content += `</div><div class="missing-summary"><strong>${i18n.t('ui.missingCardsByGroup') || 'Missing Cards by Group'}</strong><br>`;
+    // Add missing cards summary
+    content += `<div class="missing-summary"><div class="chart-title">${i18n.t('ui.missingCardsByGroup') || 'Missing Cards by Group'}</div>`;
     const groups = [1, 2, 3, 4, 5, 6, 7, 'exclusive'];
 
-    // Track totals
     let totalCards = 0;
     let totalSelected = 0;
     let totalMissing = 0;
@@ -833,38 +867,149 @@ function showDetails() {
     for (const group of groups) {
       const groupStat = stats.groupStats[group];
       if (groupStat) {
-        // Display translated "exclusive" or numeric group
         const groupLabel = group === 'exclusive' 
           ? i18n.t('ui.exclusive') 
           : `${group}`;
         content += `${i18n.t('ui.group')} ${groupLabel}: ${groupStat.missing} ${i18n.t('ui.missing') || 'missing'} (${groupStat.selected}/${groupStat.total}) - ${i18n.t('ui.progress')} ${(100 - groupStat.missingRate).toFixed(2)}%<br>`;
 
-        // Accumulate totals
         totalCards += groupStat.total;
         totalSelected += groupStat.selected;
         totalMissing += groupStat.missing;
       }
     }
 
-    // Add total summary
     const totalProgress = totalCards > 0 ? ((totalSelected / totalCards) * 100).toFixed(2) : 0;
     content += `-<br>${i18n.t('ui.total') || 'Total'}: ${totalMissing} ${i18n.t('ui.missing') || 'missing'} (${totalSelected}/${totalCards}) - ${i18n.t('ui.progress')} ${totalProgress}%`;
-    content += '</div>';
-
-
-    // Add expected collection level gain per fusion by point ranges
-    content += `<div class="missing-summary"><strong>${i18n.t('ui.expectedGainPerFusion') || 'Expected Collection Level Gain per Fusion'}</strong></br>`;
-    
-    stats.rangeAnalysis.forEach((range, index) => {    
-      content += `${i18n.t('ui.pointRange') || 'Point Range'} ${range.range}: +${range.expectedGainPercent}% ${i18n.t('ui.perFusion') || 'per fusion'}</br>
-      `;
-    });
-    
     content += '</div>';
   }
   
   document.getElementById("detailsContent").innerHTML = content;
   document.getElementById("detailsModal").style.display = "block";
+  
+  // Create chart after modal is visible
+  if (selected.size > 0) {
+    createFusionChart(calculateStats());
+  }
+}
+
+// New function to create the chart
+function createFusionChart(stats) {
+  const ctx = document.getElementById('fusionChart');
+  if (!ctx) return;
+
+  // Prepare data
+  const pointRanges = Object.values(stats.pointStats)
+    .map(p => p.point);
+  
+  const missingProbabilities = Object.values(stats.pointStats)
+    .map(p => parseFloat(p.probabilityPoints));
+  
+  const expectedGains = stats.rangeAnalysis
+    .map(r => parseFloat(r.expectedGainPercent));
+
+  // Destroy existing chart if it exists
+  if (window.fusionChartInstance) {
+    window.fusionChartInstance.destroy();
+  }
+
+  // Get current theme
+  const isDarkMode = document.body.classList.contains('dark-mode');
+  const textColor = isDarkMode ? '#e0e0e0' : '#666';
+  const gridColor = isDarkMode ? '#404040' : '#e0e0e0';
+
+  // Create new chart (horizontal bar)
+  window.fusionChartInstance = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: pointRanges,
+      datasets: [
+        {
+          label: i18n.t('ui.missingProbability') || 'Missing Card Probability (%)',
+          data: missingProbabilities,
+          backgroundColor: 'rgba(164, 216, 166, 0.8)', // Light green
+          hoverBackgroundColor: 'rgba(164, 216, 166, 0.8)',
+          borderRadius: 4,
+        },
+        {
+          label: i18n.t('ui.expectedGain') || 'Expected Collection Gain (%)',
+          data: expectedGains,
+          backgroundColor: 'rgba(68, 158, 72, 0.8)', // Dark green
+          hoverBackgroundColor: 'rgba(68, 158, 72, 0.8)',
+          borderRadius: 4,
+        }
+      ]
+    },
+    options: {
+      indexAxis: 'y', // This makes it horizontal
+      responsive: true,
+      maintainAspectRatio: false,
+      layout: {
+        padding: {
+          right: 70 // Increased padding for larger font labels
+        }
+      },
+      interaction: {
+        mode: 'index',
+        intersect: false,
+      },
+      plugins: {
+        legend: {
+          display: false // We have custom legend
+        },
+        tooltip: {
+          enabled: false // Disable tooltips
+        },
+        datalabels: {
+          display: true,
+          color: textColor,
+          anchor: 'end',
+          align: 'end',
+          offset: 4,
+          formatter: (value) => value.toFixed(2) + '%',
+          font: {
+            size: 13,
+            style: 'italic'
+          }
+        }
+      },
+      scales: {
+        x: {
+          beginAtZero: true,
+          max: 100, // Fixed max at 100%
+          grid: {
+            color: gridColor,
+            display: false
+          },
+          ticks: {
+            display: false,
+            color: textColor,
+            font: {
+              size: 13
+            },
+            callback: function(value) {
+              return value + '%';
+            },
+            stepSize: 20 // Show ticks at 0, 20, 40, 60, 80, 100
+          },
+          title: {
+            display: false
+          }
+        },
+        y: {
+          grid: {
+            color: gridColor,
+            display: false
+          },
+          ticks: {
+            color: textColor,
+            font: {
+              size: 13
+            }
+          }
+        }
+      }
+    }
+  });
 }
 
 function closeModal(modalId) {

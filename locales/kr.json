@@ -19,7 +19,7 @@
       "number": "번호",
       "all": "전체",
       "howToUse": "사용 방법",
-      "probabilitiesByRange": "포인트 범위별 부족한 카드 획득 확률",
+      "probabilitiesByRange": "부족한 카드 획득 확률",
       "missingCardsByGroup": "그룹별 부족한 카드",
       "pointRange": "카드 점수 합계",
       "missing": "종 부족",
@@ -31,6 +31,9 @@
       "perFusion": "합성당",
       "copies": "보유 수량",
       "needed": "장 필요",
+      "missingProbability": "누락 획득 확률",
+      "expectedGain": "예상 레벨 획득",
+      "chartTitle": "점수 범위별 누락 획득 확률 및 예상 레벨 획득",
 
       "feedbackTitle": "의견이나 질문이 있으신가요?",
       "feedbackEmail": "이메일 (선택사항):",
