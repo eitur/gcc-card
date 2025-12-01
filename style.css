@@ -1595,6 +1595,128 @@ body.dark-mode .legend-item {
   }
 }
 
+/* Card Details Modal */
+.card-details-modal {
+  max-width: 600px;
+  padding: 20px;
+}
+
+.card-details-modal h2 {
+  margin-top: 10px;
+  color: #333;
+  font-size: 20px;
+  margin-bottom: 20px;
+  padding-bottom: 10px;
+}
+
+.card-details-container {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.card-details-image-section {
+  flex-shrink: 0;
+}
+
+.card-details-image {
+  width: 140px;
+  height: 196px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.card-details-info {
+  flex: 1;
+  min-width: 0;
+  min-height: 176px;
+  background: #f8f9fa;
+  border-radius: 6px;
+  border-left: 4px solid #4CAF50;
+  padding: 15px;
+  line-height: 1.8;
+  justify-content: center;  /* Centers content vertically */
+}
+
+.card-info-line {
+  display: flex;
+  margin-bottom: 8px;
+  font-size: 13px;
+}
+
+.card-info-line:last-child {
+  margin-bottom: 0;
+}
+
+.card-info-label {
+  font-weight: 600;
+  color: #555;
+  min-width: 180px;
+  flex-shrink: 0;
+}
+
+.card-info-value {
+  color: #333;
+  word-break: break-word;
+}
+
+/* Dark mode for card details modal */
+body.dark-mode .card-details-modal h2 {
+  color: #e0e0e0;
+  border-bottom-color: #4CAF50;
+}
+
+body.dark-mode .card-details-image {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+body.dark-mode .card-details-info {
+  background: #383838;
+  border-left-color: #4CAF50;
+}
+
+body.dark-mode .card-info-label {
+  color: #e0e0e0;
+}
+
+body.dark-mode .card-info-value {
+  color: #e0e0e0;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .card-details-modal {
+    max-width: 95%;
+    padding: 15px;
+  }
+  
+  .card-details-container {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .card-details-image {
+    width: 132px;
+    height: 185px;
+  }
+  
+  .card-details-info {
+    width: 100%;
+  }
+  
+  .card-info-line {
+    flex-direction: column;
+    gap: 2px;
+  }
+  
+  .card-info-label {
+    min-width: unset;
+  }
+}
+
 /* Adjust for new column order */
 th:nth-child(1), td:nth-child(1) { /* ID */
   width: 70px;

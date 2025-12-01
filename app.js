@@ -305,7 +305,8 @@ function renderTable() {
       <td>
         <div class='card-pic' 
              data-src='${imageBasePath}/${c.image}'
-             title='${getCardName(c.id)}'>
+             title='${getCardName(c.id)}'
+            onclick='showCardDetails(${c.id})'>
         </div>
       </td>
       <td>${getCardName(c.id)}</td>
@@ -933,6 +934,55 @@ function showDetails() {
   if (selected.size > 0) {
     createFusionChart(calculateStats());
   }
+}
+
+// Show card details modal
+function showCardDetails(cardId) {
+  const card = cards.find(c => c.id === cardId);
+  if (!card) return;
+  
+  const currentData = selected.get(cardId) || { level: null, copies: 0 };
+  const requiredCopies = card.copy.interval[1];
+  const showPoint = typeof card.point === 'number' && !isNaN(card.point);
+  const showCopies = typeof requiredCopies === 'number' && !isNaN(requiredCopies);
+  const content = `
+    <h2>${getCardName(cardId)}</h2>
+    <div class="card-details-container">
+      <div class="card-details-image-section">
+        <div class="card-details-image" 
+             style="background-image: url('${imageBasePath}/${card.image}')">
+        </div>
+      </div>
+      
+      <div class="card-details-info">
+        ${showPoint ?
+          `<div class="card-info-line">
+            <span class="card-info-label">${i18n.t('ui.point') || 'Point'}:</span>
+            <span class="card-info-value">${card.point}</span>
+          </div>`
+        : ''}
+        
+        <div class="card-info-line">
+          <span class="card-info-label">${i18n.t('ui.probability') || 'Probability'}:</span>
+          <span class="card-info-value">${(card.individualProbability * 100).toFixed(4)}%</span>
+        </div>
+
+        ${showCopies ? 
+          `<div class="card-info-line">
+          <span class="card-info-label">${i18n.t('ui.copiesNeeded') || 'Copies Needed'}:</span>
+          <span class="card-info-value">
+            Lv0→1: ${card.copy.interval[1]} ${i18n.t('ui.cardCounter')}<br>
+            Lv1→2: ${card.copy.interval[2]} ${i18n.t('ui.cardCounter')}<br>
+            Lv2→3: ${card.copy.interval[3]} ${i18n.t('ui.cardCounter')}
+          </span>
+        </div>`
+        : ''}
+      </div>
+    </div>
+  `;
+  
+  document.getElementById('cardDetailsContent').innerHTML = content;
+  document.getElementById('cardDetailsModal').style.display = 'block';
 }
 
 // New function to create the chart
