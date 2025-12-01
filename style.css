@@ -366,8 +366,8 @@ tbody tr:last-child td {
 
 /* Card image styling with lazy loading - NO FLASHING */
 .card-pic { 
-  width: 50px; 
-  height: 65px; 
+  width: 55px; 
+  height: 77px; 
   background: linear-gradient(135deg, #ddd 0%, white 100%);
   border-radius: 6px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -535,11 +535,6 @@ input[type="checkbox"]:checked::after {
   border-radius: 8px;
   border-left: 4px solid #4CAF50;
   line-height: 1.8;
-}
-
-.missing-summary strong {
-  display: block;
-  font-size: 16px;
 }
 
 /* Details modal specific styles */
@@ -1172,12 +1167,12 @@ body.dark-mode .cancel-btn:hover {
 .hint-box {
   max-height: 0;
   overflow: hidden;
-  transition: max-height 0.3s ease-out, margin-top 0.3s ease-out;
+  transition: max-height 0.2s ease-in-out, margin-top 0.2s ease-in-out, opacity 0.2s ease-in-out;
   margin-top: 0;
 }
 
 .point-range-item.expanded .hint-box {
-  max-height: 500px;
+  max-height: 10000px;
 }
 
 .hint-content {
@@ -1185,7 +1180,7 @@ body.dark-mode .cancel-btn:hover {
   background: #f0f0f0;
   border-radius: 4px;
   font-size: 13px;
-  line-height: 1.0;
+  line-height: 1.2;
   margin: 10px;
 }
 

@@ -535,7 +535,7 @@ function toggleHint(element) {
           block: 'nearest',
           inline: 'nearest'
         });
-      }, 100);
+      }, 200);
     }, 50);
   }
 }
@@ -657,6 +657,7 @@ function calculateStats() {
   for (const group of groups) {
     const groupCards = cards.filter(c => c.group === group);
     const selectedInGroup = groupCards.filter(c => selected.has(c.id) && selected.get(c.id).level === 3);
+    const missingCardsInGroup = groupCards.filter(c => !selected.has(c.id) || selected.get(c.id).level < 3)
     const missingCount = groupCards.length - selectedInGroup.length;
     const groupRate = groupCards[0]?.individualProbability || 0;
     
@@ -693,6 +694,7 @@ function calculateStats() {
     groupStats[group] = {
       total: groupCards.length,
       selected: selectedInGroup.length,
+      missingCardsInGroup: missingCardsInGroup,
       missing: missingCount,
       rate: groupRate,
       missingRate: ((missingCount * groupRate) * 100).toFixed(2),
@@ -830,10 +832,8 @@ function showDetails() {
       const rangeData = stats.rangeAnalysis.find(r => r.range === pointStatsData.point);
       if (pointStatsData.point === POINT_RANGE_0) {
         content += `
-          <div class="point-range-item" onclick="toggleHint(this)">
-            <div class="point-range-header">
-              <span>${i18n.t('ui.pointRange') || 'Point Range'} ${pointStatsData.point}: ${pointStatsData.probabilityPoints}% | +${rangeData?.expectedGainPercent || '0.00'}%</span>
-            </div>
+          <div class="point-range-header">
+            <span>${i18n.t('ui.pointRange') || 'Point Range'} ${pointStatsData.point}: ${pointStatsData.probabilityPoints}% | +${rangeData?.expectedGainPercent || '0.00'}%</span>
           </div>
         `;
       } else {
@@ -846,12 +846,12 @@ function showDetails() {
             <div class="hint-box">
               <div class="hint-content">
                 <div class="hint-content-header">
-                  <em>${i18n.t('ui.recommendedCombinations') || 'Recommended Combinations'}:</em>
+                  ${i18n.t('ui.recommendedCombinations') || 'Recommended Combinations'}:
                 </div>
                 <ul class="combination-list">
                   ${combinations.map(combo => `
                     <li>
-                      <em>${combo}</em>
+                      ${combo}
                     </li>
                   `).join('')}
                 </ul>
@@ -877,8 +877,42 @@ function showDetails() {
         const groupLabel = group === 'exclusive' 
           ? i18n.t('ui.exclusive') 
           : `${group}`;
-        content += `${i18n.t('ui.group')} ${groupLabel}: ${groupStat.missing} ${i18n.t('ui.missing') || 'missing'} (${groupStat.selected}/${groupStat.total}) - ${i18n.t('ui.progress')} ${(100 - groupStat.missingRate).toFixed(2)}%<br>`;
-
+        if (groupStat.missing === 0) {
+          content += `
+            <div class="point-range-header">
+              <span>${i18n.t('ui.group')} ${groupLabel}: ${groupStat.missing} ${i18n.t('ui.missing') || 'missing'} (${groupStat.selected}/${groupStat.total}) - ${i18n.t('ui.progress')} ${(100 - groupStat.missingRate).toFixed(2)}%</span>
+            </div>
+          `;
+          } else {
+          content += `
+            <div class="point-range-item" onclick="toggleHint(this)">
+              <div class="point-range-header">
+                <span>${i18n.t('ui.group')} ${groupLabel}: ${groupStat.missing} ${i18n.t('ui.missing') || 'missing'} (${groupStat.selected}/${groupStat.total}) - ${i18n.t('ui.progress')} ${(100 - groupStat.missingRate).toFixed(2)}%</span>
+                <span class="expand-icon">▼</span>
+              </div>
+              <div class="hint-box">
+                <div class="hint-content">
+                  <ul class="combination-list">
+                    ${groupStat.missingCardsInGroup.map((c, i) => {
+                      const currentLevel = selected.get(c.id)?.level || 0;
+                      const currentCopies = selected.get(c.id)?.copies || 0;
+                      const nextLevel = Math.min(currentLevel + 1, 3);
+                      const requiredCopies = c.copy.interval[nextLevel];
+                      const showCopies = typeof requiredCopies === 'number' && !isNaN(requiredCopies);
+                      
+                      return `<li>
+                        ${i+1}. 
+                        ${getCardName(c.id)}: 
+                        Lv${currentLevel} → Lv${nextLevel} 
+                        ${showCopies ? ` (${currentCopies}/${requiredCopies})` : ''}
+                      </li>`;
+                    }).join('')}
+                  </ul>
+                </div>
+              </div>
+            </div>
+          `;
+        }
         totalCards += groupStat.total;
         totalSelected += groupStat.selected;
         totalMissing += groupStat.missing;
