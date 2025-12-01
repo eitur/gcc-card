@@ -1,6 +1,7 @@
 .idea
 codeswing.json
 scripts/card_image.pdf
+scripts/img_extracter.py
 scripts/cards_table.xlsx
 scripts/img-process
 node_modules/
