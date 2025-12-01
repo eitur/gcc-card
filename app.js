@@ -756,20 +756,27 @@ function calculateStats() {
   return {groupStats, pointStats, rangeAnalysis};
 }
 
-function updateSummary() {
-  const summaryEl = document.getElementById("summaryText");
-  
-  if (selected.size === 0) {
-    summaryEl.innerHTML = i18n.t('ui.noCards');
-  } else {
-    let collectionLevel = 0
+function getCardCollectionLevel() {
+  let collectionLevel = 0
+  if (selected.size !== 0) {
     selected.forEach((data, id) => {
       const card = cards.find(c => c.id === id);
       if (card.group !== 'uncollectible' && typeof data.level === "number" && !isNaN(data.level)) {
         collectionLevel += data.level
       }
     })
-    summaryEl.innerHTML = i18n.t('ui.yourCardCollectionLevel') + `: ${collectionLevel}`;
+    return collectionLevel;
+  }
+  return;
+}
+
+function updateSummary() {
+  const summaryEl = document.getElementById("summaryText");
+  
+  if (selected.size === 0) {
+    summaryEl.innerHTML = i18n.t('ui.noCards');
+  } else {
+    summaryEl.innerHTML = i18n.t('ui.yourCardCollectionLevel') + `: ${getCardCollectionLevel()}`;
   }
 }
 
@@ -878,8 +885,10 @@ function showDetails() {
       }
     }
 
+    content += `<hr class="summary-divider">`;
     const totalProgress = totalCards > 0 ? ((totalSelected / totalCards) * 100).toFixed(2) : 0;
-    content += `-<br>${i18n.t('ui.total') || 'Total'}: ${totalMissing} ${i18n.t('ui.missing') || 'missing'} (${totalSelected}/${totalCards}) - ${i18n.t('ui.progress')} ${totalProgress}%`;
+    content += `${i18n.t('ui.total') || 'Total'}: ${totalMissing} ${i18n.t('ui.missing') || 'missing'} (${totalSelected}/${totalCards}) - ${i18n.t('ui.progress')} ${totalProgress}%`;
+    content += `<br>${i18n.t('ui.collectionLevel') || 'Collection Level'}: ${(totalCards*3) - getCardCollectionLevel()} ${i18n.t('ui.missing') || 'missing'} (${getCardCollectionLevel()}/${totalCards*3}) - ${i18n.t('ui.progress')} ${((getCardCollectionLevel()/(totalCards*3))*100).toFixed(2)}%`;
     content += '</div>';
   }
   

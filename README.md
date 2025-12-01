@@ -1,4 +1,4 @@
-# GCC Card Fusion Calculator
+# GCC Card Fusion Probability Analyzer
 
 A web-based tool to calculate card fusion probabilities and manage your card collection with multi-language support.
 

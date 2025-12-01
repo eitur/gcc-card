@@ -542,6 +542,17 @@ input[type="checkbox"]:checked::after {
   font-size: 16px;
 }
 
+/* Details modal specific styles */
+.summary-divider {
+  border: none;
+  border-top: 1px solid #ddd;
+  margin: 10px 0;
+}
+
+body.dark-mode .summary-divider {
+  border-top-color: #555;
+}
+
 .no-cards {
   text-align: center;
   padding: 40px 20px;
