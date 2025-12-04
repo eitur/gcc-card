@@ -1,0 +1,105 @@
+name: Auto Update Info Modal
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - 'dist/**'
+
+jobs:
+  update-info:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Update template with commit info
+        run: |
+          python3 << 'EOF'
+          import re
+          from datetime import datetime
+          import subprocess
+
+          # Get current commit info
+          date = datetime.now().strftime("%B %d, %Y")
+          commit_msg = subprocess.check_output(['git', 'log', '-1', '--pretty=%B']).decode().strip().split('\n')[0]
+          
+          # Get version
+          try:
+              version = subprocess.check_output(['git', 'describe', '--tags', '--abbrev=0'], stderr=subprocess.DEVNULL).decode().strip()
+          except:
+              version = "v1.0.0"
+          
+          # Read template
+          with open('src/template.html', 'r', encoding='utf-8') as f:
+              content = f.read()
+          
+          # Update version number
+          content = re.sub(
+              r'<p class="update-date" data-i18n="info\.version">Version \[.*?\]</p>',
+              f'<p class="update-date" data-i18n="info.version">Version [{version}]</p>',
+              content
+          )
+          
+          # Extract existing updates (keep only 2 oldest)
+          ul_match = re.search(r'<ul class="update-list">(.*?)</ul>', content, re.DOTALL)
+          if ul_match:
+              existing_items = re.findall(r'<li>(.*?)</li>', ul_match.group(1))
+              existing_items = existing_items[:2]  # Keep only 2 latest
+          else:
+              existing_items = []
+          
+          # Build new update list (3 items total: new one + 2 existing)
+          new_item = f'{date}: {commit_msg}'
+          all_items = [new_item] + existing_items
+          
+          # Create new list HTML
+          new_ul = '<ul class="update-list">\n'
+          for item in all_items:
+              new_ul += f'          <li>{item}</li>\n'
+          new_ul += '        </ul>'
+          
+          # Replace update list
+          content = re.sub(
+              r'<ul class="update-list">.*?</ul>',
+              new_ul,
+              content,
+              flags=re.DOTALL
+          )
+          
+          # Write back
+          with open('src/template.html', 'w', encoding='utf-8') as f:
+              f.write(content)
+          
+          print(f"Updated to {version}")
+          print(f"Added: {new_item}")
+          EOF
+
+      - name: Build project
+        run: npm run build
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add src/template.html
+          git add dist/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update: info modal"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}

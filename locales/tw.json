@@ -54,6 +54,17 @@
       "title": "使用說明",
       "content": "<p>此工具可協助您追蹤卡片收藏並計算最佳融合策略。機率計算基於<a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">官方 GrandChase 物品機率表</a>。</p><ul><li><strong>選擇卡片等級:</strong> 點擊單選按鈕(Lv0-Lv3)來設定每張卡片的目前等級</li><li><strong>設定持有數量:</strong> 使用 +/− 按鈕或直接輸入以標示持有數量，可獲得更準確的結果</li><li><strong>排序與篩選:</strong> 點擊欄位標題進行排序，或使用篩選器縮小卡片範圍</li><li><strong>點擊卡片圖片:</strong> 點擊任何卡片圖片以查看詳細卡片資訊</li><li><strong>復原/重做:</strong> 操作錯誤了嗎？使用復原/重做按鈕來還原變更</li><li><strong>群組</strong><ul><li><strong>1-7:</strong> 可透過融合取得的標準卡片群組，各有不同機率</li><li><strong>{exclusive}:</strong> 無法透過融合取得的特殊卡片</li><li><strong>{uncollectible}:</strong> 不計入卡片收藏等級的卡片</li></ul></ul><p>您的選擇會自動儲存在本機，下次造訪時將會還原。</p>"
     },
+    "info": {
+      "title": "資訊",
+      "lastUpdate": "最後更新",
+      "credits": "製作名單與貢獻者",
+      "updateDate": "2025",
+      "version": "版本",
+      "cardImages": "卡片圖片",
+      "dataContributors": "卡片資料貢獻者",
+      "enBrTranslations": "英文與葡萄牙文卡片翻譯",
+      "twTranslations": "繁體中文卡片翻譯"
+    },
     "acquiredFrom": {
       "serdin": "賽爾丁",
       "kanavan": "卡納班",

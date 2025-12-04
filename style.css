@@ -1717,6 +1717,145 @@ body.dark-mode .card-info-value {
   }
 }
 
+/* Info Button */
+.info-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+  background: white;
+  transition: all 0.3s;
+}
+
+.info-btn:hover {
+  background: #f0f0f0;
+  transform: scale(1.05);
+}
+
+.info-icon {
+  width: 18px;
+  height: 18px;
+  display: block;
+}
+
+/* Info Modal Content */
+.info-section {
+  margin-bottom: 25px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.info-section:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.info-section h3 {
+  color: #4CAF50;
+  font-size: 16px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+
+.update-date {
+  font-size: 14px;
+  color: #666;
+  font-weight: 500;
+}
+
+.update-list,
+.credits-list {
+  padding-left: 20;
+  margin: 10px 0;
+}
+
+.update-list li,
+.credits-list li {
+  padding: 6px 0;
+  position: relative;
+  font-size: 14px;
+  color: #555;
+  line-height: 1.3;
+}
+
+.credits-list li {
+  padding-left: 0;
+}
+
+.credits-list li::before {
+  content: none;
+}
+
+.info-section p {
+  font-size: 14px;
+  color: #555;
+  line-height: 1.6;
+  margin: 10px 0;
+}
+
+/* Dark mode for info button and modal */
+body.dark-mode .info-btn {
+  background: #2d2d2d;
+  border-color: #404040;
+}
+
+body.dark-mode .info-btn:hover {
+  background: #383838;
+}
+
+body.dark-mode .info-section {
+  border-bottom-color: #404040;
+}
+
+body.dark-mode .info-section h3 {
+  color: #4CAF50;
+}
+
+body.dark-mode .update-date,
+body.dark-mode .update-list li,
+body.dark-mode .credits-list li,
+body.dark-mode .info-section p {
+  color: #e0e0e0;
+}
+
+/* Instant theme switching - no transitions */
+body * {
+  transition-property: transform, box-shadow, opacity !important;
+  transition-duration: 0.2s !important;
+}
+
+/* Remove color/background transitions that cause delay */
+body,
+body *,
+h1, h2, h3, h4, h5, h6, p, span, div,
+.top-panel,
+.toolbar,
+table, th, td,
+.modal-content,
+.info-section,
+.missing-summary,
+.hint-content,
+.card-details-info {
+  transition: none !important;
+}
+
+/* Keep only hover/interaction transitions */
+.card-pic:hover,
+button:hover,
+.lang-btn:hover,
+.help-btn:hover,
+.feedback-btn:hover,
+.info-btn:hover,
+.theme-toggle:hover,
+input:hover,
+select:hover {
+  transition: transform 0.2s, box-shadow 0.2s, background 0.2s, border-color 0.2s, opacity 0.2s !important;
+}
+
 /* Adjust for new column order */
 th:nth-child(1), td:nth-child(1) { /* ID */
   width: 70px;

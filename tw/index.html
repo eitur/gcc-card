@@ -50,6 +50,9 @@
     </div>
   </div>
   <div class="help-btn" data-i18n="ui.howToUse" onclick="showHelp()">How to use</div>
+  <div class="info-btn" onclick="showInfo()" title="About & Credits">
+    <img src="../images/theme/info-dark.png" alt="Info" class="info-icon">
+  </div>
   <div class="feedback-btn" onclick="showFeedback()" title="Send Feedback">
     <img src="../images/theme/mail-dark.png" alt="Feedback" class="feedback-icon">
   </div>
@@ -202,6 +205,35 @@
     <span class="close" onclick="closeModal('detailsModal')">&times;</span>
     <h2 data-i18n="ui.detailsTitle">Selected Cards Details</h2>
     <div id="detailsContent"></div>
+  </div>
+</div>
+
+<div id="infoModal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal('infoModal')">&times;</span>
+    <h2 data-i18n="info.title">About & Updates</h2>
+    <div id="infoContent">
+      <div class="info-section">
+        <h3 data-i18n="info.lastUpdate">Last Update</h3>
+        <p class="update-date" data-i18n="info.version">Version [v1.0.0]</p>
+        <ul class="update-list">
+          <li>Date0: Content0</li>
+          <li>Date1: Content1</li>
+          <li>Date2: Content2</li>
+        </ul>
+      </div>
+      
+      <div class="info-section">
+        <h3 data-i18n="info.credits">Credits & Contributors</h3>
+        <ul class="credits-list">
+          <li><span data-i18n="info.cardImages">Card Images</span>: Aresius</li>
+          <li><span data-i18n="info.dataContributors">Data Contributors</span>: i, Aresius, Yanyu</li>
+          <li><span data-i18n="info.enBrTranslations">Translations</span>: Mika끝</li>
+          <li><span data-i18n="info.twTranslations">Translations</span>: Ralas, BladeMeteor</li>
+        </ul>
+      </div>
+
+    </div>
   </div>
 </div>
 

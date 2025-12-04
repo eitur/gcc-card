@@ -796,6 +796,10 @@ function showHelp() {
   
 }
 
+function showInfo() {
+  document.getElementById("infoModal").style.display = "block";
+}
+
 function showDetails() {
   let content = '';
   
@@ -1122,6 +1126,7 @@ function toggleTheme() {
   const redoIcon = document.querySelector('.redo-icon');
   const searchIcon = document.querySelector('.search-icon');
   const feedbackIcon = document.querySelector('.feedback-icon');
+  const infoIcon = document.querySelector('.info-icon');
   const themeIcon = document.querySelector('.theme-icon');
   
   body.classList.toggle('dark-mode');
@@ -1132,6 +1137,7 @@ function toggleTheme() {
     redoIcon.src = `${window.BASE_PATH}/images/theme/redo-light.png`;
     searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-light.png`;
     feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-light.png`;
+    infoIcon.src = `${window.BASE_PATH}/images/theme/info-light.png`;
     themeIcon.src = `${window.BASE_PATH}/images/theme/light-mode.png`;
     themeIcon.alt = 'Light Mode';
     localStorage.setItem('theme', 'dark');
@@ -1140,6 +1146,7 @@ function toggleTheme() {
     redoIcon.src = `${window.BASE_PATH}/images/theme/redo-dark.png`;
     searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-dark.png`;
     feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-dark.png`;
+    infoIcon.src = `${window.BASE_PATH}/images/theme/info-dark.png`;
     themeIcon.src = `${window.BASE_PATH}/images/theme/dark-mode.png`;
     themeIcon.alt = 'Dark Mode';
     localStorage.setItem('theme', 'light');
@@ -1153,6 +1160,7 @@ function loadTheme() {
   const searchIcon = document.querySelector('.search-icon');
   const savedTheme = localStorage.getItem('theme');
   const feedbackIcon = document.querySelector('.feedback-icon');
+  const infoIcon = document.querySelector('.info-icon');
   const themeIcon = document.querySelector('.theme-icon');
   
   if (savedTheme === 'dark') {
@@ -1162,6 +1170,7 @@ function loadTheme() {
       redoIcon.src = `${window.BASE_PATH}/images/theme/redo-light.png`;
       searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-light.png`;
       feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-light.png`;
+      infoIcon.src = `${window.BASE_PATH}/images/theme/info-light.png`;
       themeIcon.src = `${window.BASE_PATH}/images/theme/light-mode.png`;
       themeIcon.alt = 'Light Mode';
     }
@@ -1171,6 +1180,7 @@ function loadTheme() {
       redoIcon.src = `${window.BASE_PATH}/images/theme/redo-dark.png`;
       searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-dark.png`;
       feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-dark.png`;
+      infoIcon.src = `${window.BASE_PATH}/images/theme/info-dark.png`;
       themeIcon.src = `${window.BASE_PATH}/images/theme/dark-mode.png`;
       themeIcon.alt = 'Dark Mode';
     }
