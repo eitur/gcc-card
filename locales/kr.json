@@ -63,7 +63,7 @@
       "cardImages": "카드 이미지",
       "dataContributors": "카드 데이터 기여자",
       "enBrTranslations": "영어 및 포르투갈어 카드 번역",
-      "twTranslations": "번체 중국어 카드 번역"
+      "twTranslations": "중국어 번체 카드 번역"
     },
     "acquiredFrom": {
       "serdin": "세르딘",
@@ -78,8 +78,8 @@
       "harrier": "해리어",
       "eventDungeon": "이벤트 던전",
       "specialDungeon": "스페셜 던전",
-      "kricktria": "Kricktria",
-      "solene": "Solene",
+      "kricktria": "크릭트리아",
+      "solene": "솔레네",
       "herosBullionShop": "영웅 상점",
       "chaserPass": "체이스 패스",
       "item": "아이템"

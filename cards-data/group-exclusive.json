@@ -3365,7 +3365,7 @@
       "en": "Iris",
       "kr": "이리스",
       "br": "Iris",
-      "tw": "Iris"
+      "tw": "伊莉絲"
     },
     "point": 2,
     "group": "exclusive",
@@ -3391,15 +3391,15 @@
     "id": 742,
     "names": {
       "en": "Chapel of Eternity",
-      "kr": "Chapel of Eternity",
-      "br": "Chapel of Eternity",
-      "tw": "Chapel of Eternity"
+      "kr": "영원의 예배당",
+      "br": "Capela da Eternidade",
+      "tw": "永恆的禮拜堂"
     },
     "point": 1,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
-    "image": "default.webp",
+    "image": "t0.webp",
     "acquiredFrom": "item",
     "copy": {
       "interval": {
