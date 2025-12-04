@@ -927,7 +927,7 @@ function showDetails() {
     content += `<hr class="summary-divider">`;
     const totalProgress = totalCards > 0 ? ((totalSelected / totalCards) * 100).toFixed(2) : 0;
     content += `${i18n.t('ui.total') || 'Total'}: ${totalMissing} ${i18n.t('ui.missing') || 'missing'} (${totalSelected}/${totalCards}) - ${i18n.t('ui.progress')} ${totalProgress}%`;
-    content += `<br>${i18n.t('ui.collectionLevel') || 'Collection Level'}: ${(totalCards*3) - getCardCollectionLevel()} ${i18n.t('ui.missing') || 'missing'} (${getCardCollectionLevel()}/${totalCards*3}) - ${i18n.t('ui.progress')} ${((getCardCollectionLevel()/(totalCards*3))*100).toFixed(2)}%`;
+    content += `<br>${i18n.t('ui.collectionLevel') || 'Collection Level'}: ${(totalCards*3) - getCardCollectionLevel()} ${i18n.t('ui.levelMissing') || 'level missing'} (${getCardCollectionLevel()}/${totalCards*3}) - ${i18n.t('ui.progress')} ${((getCardCollectionLevel()/(totalCards*3))*100).toFixed(2)}%`;
     content += '</div>';
   }
   

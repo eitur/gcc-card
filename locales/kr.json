@@ -24,6 +24,7 @@
       "missingCardsByGroup": "그룹별 부족한 카드",
       "pointRange": "카드 점수 합계",
       "missing": "종 부족",
+      "levelMissing": "레벨 누락",
       "progress": "완성도",
       "total": "합계",
       "recommendedCombinations": "추천 조합",
