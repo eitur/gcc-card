@@ -35,15 +35,24 @@
       "br": "Naamah Card",
       "tw": "Naamah Card"
     },
-    "point": "-",
+    "point": 30,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta36730.webp",
     "acquiredFrom": "herosBullionShop",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -54,15 +63,24 @@
       "br": "Demon Core Card",
       "tw": "Demon Core Card"
     },
-    "point": "-",
+    "point": 30,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta36731.webp",
     "acquiredFrom": "herosBullionShop",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -73,15 +91,24 @@
       "br": "Veron",
       "tw": "Veron"
     },
-    "point": "-",
+    "point": 57,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta78854.webp",
     "acquiredFrom": "item",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 1,
+        "2": 3,
+        "3": 5
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 4,
+        "3": 9
+      }
     }
   },
   {
@@ -92,15 +119,24 @@
       "br": "Drawl",
       "tw": "Drawl"
     },
-    "point": "-",
+    "point": 60,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta78855.webp",
     "acquiredFrom": "item",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 1,
+        "2": 3,
+        "3": 5
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 4,
+        "3": 9
+      }
     }
   },
   {
@@ -111,15 +147,24 @@
       "br": "Gaikoz",
       "tw": "Gaikoz"
     },
-    "point": "-",
+    "point": 50,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta87521.webp",
     "acquiredFrom": "item",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 2,
+        "2": 4,
+        "3": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
     }
   },
   {
@@ -130,15 +175,24 @@
       "br": "Victor",
       "tw": "Victor"
     },
-    "point": "-",
+    "point": 55,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta87522.webp",
     "acquiredFrom": "item",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 2,
+        "2": 4,
+        "3": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
     }
   },
   {
@@ -149,15 +203,24 @@
       "br": "Dark Anmon",
       "tw": "Dark Anmon"
     },
-    "point": "-",
+    "point": 60,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta87523.webp",
     "acquiredFrom": "item",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 1,
+        "2": 3,
+        "3": 5
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 4,
+        "3": 9
+      }
     }
   },
   {
@@ -168,15 +231,24 @@
       "br": "Ashtaroth",
       "tw": "Ashtaroth"
     },
-    "point": "-",
+    "point": 66,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta87524.webp",
     "acquiredFrom": "item",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 1,
+        "2": 3,
+        "3": 5
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 4,
+        "3": 9
+      }
     }
   },
   {
@@ -187,15 +259,24 @@
       "br": "Arawn",
       "tw": "Arawn"
     },
-    "point": "-",
+    "point": 70,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta87525.webp",
     "acquiredFrom": "item",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 1,
+        "2": 2,
+        "3": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
     }
   },
   {
@@ -206,15 +287,24 @@
       "br": "Elder Kungji",
       "tw": "Elder Kungji"
     },
-    "point": "-",
+    "point": 68,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta87526.webp",
     "acquiredFrom": "item",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 1,
+        "2": 2,
+        "3": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
     }
   },
   {
@@ -225,15 +315,24 @@
       "br": "Harrier Orc Lord",
       "tw": "Harrier Orc Lord"
     },
-    "point": "-",
+    "point": 50,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta163753.webp",
     "acquiredFrom": "item",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 2,
+        "2": 4,
+        "3": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
     }
   },
   {
@@ -748,15 +847,24 @@
       "br": "[Abismo] Ente Antigo",
       "tw": "[Abyss] Guardian Ent"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186954.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -767,15 +875,24 @@
       "br": "[Abismo] Antoinette",
       "tw": "[Abyss] Audrey"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186955.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -786,15 +903,24 @@
       "br": "[Abismo] Gadosen",
       "tw": "[Abyss] Gardosen"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186956.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -805,15 +931,24 @@
       "br": "[Abismo] Bultaros",
       "tw": "[Abyss] Mynos"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186957.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -824,15 +959,24 @@
       "br": "[Abismo] ZIG",
       "tw": "[Abyss] Starkiln"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186958.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -843,15 +987,24 @@
       "br": "[Abismo] Periett",
       "tw": "[Abyss] Lord Perseo"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186959.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -862,15 +1015,24 @@
       "br": "[Abismo] Setesh",
       "tw": "[Abyss] Sethek"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186960.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -881,15 +1043,24 @@
       "br": "[Abismo] Escaravelho do Deserto",
       "tw": "[Abyss] Sand Ruler"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186961.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -900,15 +1071,24 @@
       "br": "[Abismo] Chromos",
       "tw": "[Abyss] Quoronnos"
     },
-    "point": "-",
+    "point": 41,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186962.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -919,15 +1099,24 @@
       "br": "[Abismo] Aldeon",
       "tw": "[Abyss] Aldeon"
     },
-    "point": "-",
+    "point": 43,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186963.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -938,15 +1127,24 @@
       "br": "[Abismo] Crookan",
       "tw": "[Abyss] Crookan"
     },
-    "point": "-",
+    "point": 39,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186964.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -957,15 +1155,24 @@
       "br": "[Abismo] Skeram",
       "tw": "[Abyss] Skeram"
     },
-    "point": "-",
+    "point": 39,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186965.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -976,15 +1183,24 @@
       "br": "[Abismo] Scorpra",
       "tw": "[Abyss] Scorpra"
     },
-    "point": "-",
+    "point": 39,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186966.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -995,15 +1211,24 @@
       "br": "[Abismo] Zekars Harrier",
       "tw": "[Abyss] Zekars"
     },
-    "point": "-",
+    "point": 43,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186967.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1014,15 +1239,24 @@
       "br": "[Abismo] Zalos",
       "tw": "[Abyss] Zalos"
     },
-    "point": "-",
+    "point": 41,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186968.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1033,15 +1267,24 @@
       "br": "[Abismo] Rofnos",
       "tw": "[Abyss] Rofnus"
     },
-    "point": "-",
+    "point": 39,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186969.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1052,15 +1295,24 @@
       "br": "[Abismo] Crevma",
       "tw": "[Abyss] Crevma"
     },
-    "point": "-",
+    "point": 41,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186970.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1071,15 +1323,24 @@
       "br": "[Abismo] Seareton",
       "tw": "[Abyss] Searetone"
     },
-    "point": "-",
+    "point": 43,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186971.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1090,15 +1351,24 @@
       "br": "[Abismo] Guardião do Templo",
       "tw": "[Abyss] Temple Guardian"
     },
-    "point": "-",
+    "point": 47,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186972.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 2,
+        "2": 4,
+        "3": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
     }
   },
   {
@@ -1109,15 +1379,24 @@
       "br": "[Abismo] Tirano Belile",
       "tw": "[Abyss] Tyrant Belile"
     },
-    "point": "-",
+    "point": 47,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186973.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 2,
+        "2": 4,
+        "3": 7
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 2,
+        "2": 6,
+        "3": 13
+      }
     }
   },
   {
@@ -1128,15 +1407,24 @@
       "br": "[Abismo] Rocher",
       "tw": "[Abyss] Fytros"
     },
-    "point": "-",
+    "point": 32,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186974.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -1147,15 +1435,24 @@
       "br": "[Abismo] Magma Mon",
       "tw": "[Abyss] Magmok"
     },
-    "point": "-",
+    "point": 32,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186975.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -1166,15 +1463,24 @@
       "br": "[Abismo] Esqueleto Mutante",
       "tw": "[Abyss] Mutated Skeleton"
     },
-    "point": "-",
+    "point": 32,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186976.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -1185,15 +1491,24 @@
       "br": "[Abismo] Observador",
       "tw": "[Abyss] Beholder"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186977.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1204,15 +1519,24 @@
       "br": "[Abismo] Escorpius",
       "tw": "[Abyss] Scorpis"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186978.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1223,15 +1547,24 @@
       "br": "[Abismo] Venese",
       "tw": "[Abyss] Vanessa"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186979.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1242,15 +1575,24 @@
       "br": "[Abismo] Sharkaron",
       "tw": "[Abyss] Aron"
     },
-    "point": "-",
+    "point": 42,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186980.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1261,15 +1603,24 @@
       "br": "[Abismo] Taitaros",
       "tw": "[Abyss] Tartarus"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186981.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1280,15 +1631,24 @@
       "br": "[Abismo] Escudeiro Negro",
       "tw": "[Abyss] Black Knight Shield Bearer"
     },
-    "point": "-",
+    "point": 32,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186982.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -1299,15 +1659,24 @@
       "br": "[Abismo] Lanceiro Negro",
       "tw": "[Abyss] Black Knight Spearman"
     },
-    "point": "-",
+    "point": 32,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186983.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -1318,15 +1687,24 @@
       "br": "[Abismo] Tormenta Negra",
       "tw": "[Abyss] Black Tempest"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186984.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1337,15 +1715,24 @@
       "br": "[Abismo] Mognum",
       "tw": "[Abyss] Wooden"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186985.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1356,15 +1743,24 @@
       "br": "[Abismo] Blutus",
       "tw": "[Abyss] Brutus"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186986.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1375,15 +1771,24 @@
       "br": "[Abismo] Kungji",
       "tw": "[Abyss] Kungji"
     },
-    "point": "-",
+    "point": 32,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186987.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -1394,15 +1799,24 @@
       "br": "[Abismo] Grande Kungji",
       "tw": "[Abyss] Big Kungji"
     },
-    "point": "-",
+    "point": 32,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186988.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -1413,15 +1827,24 @@
       "br": "[Abismo] Guardião Kungji",
       "tw": "[Abyss] Guardian Kungji"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186989.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1432,15 +1855,24 @@
       "br": "[Abismo] Assassino Sombrio",
       "tw": "[Abyss] Black Wood Assassin"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186990.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1451,15 +1883,24 @@
       "br": "[Abismo] Ferreiro Goblin",
       "tw": "[Abyss] Fire Hammer Smith"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186991.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1470,15 +1911,24 @@
       "br": "[Abismo] Goblin Berserker",
       "tw": "[Abyss] Fire Hammer Berserker"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186992.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1489,15 +1939,24 @@
       "br": "[Abismo] Largato Gigante",
       "tw": "[Abyss] Frillzard"
     },
-    "point": "-",
+    "point": 32,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186993.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -1508,15 +1967,24 @@
       "br": "[Abismo]  Dragão do Deserto",
       "tw": "[Abyss] Giant Frillzard"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186994.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1527,15 +1995,24 @@
       "br": "[Abismo] Escavador Goblin",
       "tw": "[Abyss] Fire Hammer Driller"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186995.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1546,15 +2023,24 @@
       "br": "[Abismo] Lobisomem",
       "tw": "[Abyss] Garou"
     },
-    "point": "-",
+    "point": 32,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186996.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -1565,15 +2051,24 @@
       "br": "[Abismo] Daliah",
       "tw": "[Abyss] Dahlia"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186997.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1584,15 +2079,24 @@
       "br": "[Abismo] Golem",
       "tw": "[Abyss] Golem"
     },
-    "point": "-",
+    "point": 38,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186998.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1603,15 +2107,24 @@
       "br": "[Abismo] Assassino Encapuzado",
       "tw": "[Abyss] Hooded Scorpion"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta186999.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1622,15 +2135,24 @@
       "br": "[Abismo] Mestre Feiticeiro Demoníaco",
       "tw": "[Abyss] Commander 'The Dark Staff'"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187000.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1641,15 +2163,24 @@
       "br": "[Abismo] Lagarto Berserker",
       "tw": "[Abyss] Lacerta Berserker"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187001.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1660,15 +2191,24 @@
       "br": "[Abismo] Rei Xamã Lok-Lok",
       "tw": "[Abyss] Arch-Mage RokLok"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187002.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1679,15 +2219,24 @@
       "br": "[Abismo] Troll",
       "tw": "[Abyss] Troll"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187003.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1698,15 +2247,24 @@
       "br": "[Abismo] Lobisomem Guerreiro",
       "tw": "[Abyss] Garou Berserker"
     },
-    "point": "-",
+    "point": 32,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187004.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -1717,15 +2275,24 @@
       "br": "[Abismo] Vingador Encapuzado",
       "tw": "[Abyss] Hooded Jackal"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187005.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1736,15 +2303,24 @@
       "br": "[Abismo] Espadachim Encapuzado",
       "tw": "[Abyss] Hooded Hound"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187006.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1755,15 +2331,24 @@
       "br": "[Abismo] Escrpião-Rei",
       "tw": "[Abyss] Scorping"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187007.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1774,15 +2359,24 @@
       "br": "[Abismo] Lich",
       "tw": "[Abyss] Lich"
     },
-    "point": "-",
+    "point": 38,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187008.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1793,15 +2387,24 @@
       "br": "[Abismo] Tempestade Furiosa Harrier",
       "tw": "[Abyss] Raid Storm"
     },
-    "point": "-",
+    "point": 42,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187009.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1812,15 +2415,24 @@
       "br": "[Abismo] Tempestade Arenosa Harrier",
       "tw": "[Abyss] SandStorm"
     },
-    "point": "-",
+    "point": 42,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187010.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1831,15 +2443,24 @@
       "br": "[Abismo] Anão Guardião Harrier",
       "tw": "[Abyss] Harrier Dwarf Overserr"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187011.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1850,15 +2471,24 @@
       "br": "[Abismo] Anão Engenheiro Harrier",
       "tw": "[Abyss] Harrier Dwarf Engineer"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187012.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1869,15 +2499,24 @@
       "br": "[Abismo] Anão Atirador Harrier",
       "tw": "[Abyss] Harrier Dwarf Rifleman"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187013.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1888,15 +2527,24 @@
       "br": "[Abismo] Anão Guarda Real Harrier",
       "tw": "[Abyss] Harrier Dwarf Royal Guard"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187014.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1907,15 +2555,24 @@
       "br": "[Abismo] Dente de Sabre Harrier",
       "tw": "[Abyss] Harrier Icefang"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187015.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1926,15 +2583,24 @@
       "br": "[Abismo] Guarda Real Élfica Harrier",
       "tw": "[Abyss] Harrier Royal Elven Guard"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187016.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1945,15 +2611,24 @@
       "br": "[Abismo] Maga de Elite Élfica Harrier",
       "tw": "[Abyss] Harrier Elite Elven Mage"
     },
-    "point": "-",
+    "point": 38,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187017.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1964,15 +2639,24 @@
       "br": "[Abismo] Hammer Mon",
       "tw": "[Abyss] Iron Guard"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187018.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -1983,15 +2667,24 @@
       "br": "[Abismo] Ciclope Harrier",
       "tw": "[Abyss] Harrier Cyclops"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187019.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2002,15 +2695,24 @@
       "br": "[Abismo] Elfa Negra Arqueira Harrier",
       "tw": "[Abyss] Harrier Dark Elven Magic Archer"
     },
-    "point": "-",
+    "point": 38,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187020.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2021,15 +2723,24 @@
       "br": "[Abismo] Elfa Negra Cavaleira Harrier",
       "tw": "[Abyss] Harrier Dark Elven Horseman"
     },
-    "point": "-",
+    "point": 42,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187021.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2040,15 +2751,24 @@
       "br": "[Abismo] Meowpedra",
       "tw": "[Abyss] Miston"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187022.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2059,15 +2779,24 @@
       "br": "[Abismo] Mestre Assassino Harrier",
       "tw": "[Abyss] Harrier Assassin Master"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187023.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2078,15 +2807,24 @@
       "br": "[Abismo] Mestre Espadachim Demoniáco",
       "tw": "[Abyss] Commander 'The Dark Sword'"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187024.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2097,15 +2835,24 @@
       "br": "[Abismo] Gagoil",
       "tw": "[Abyss] Gargoyle"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187025.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2116,15 +2863,24 @@
       "br": "[Abismo] Hera",
       "tw": "[Abyss] Hera"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187026.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2135,15 +2891,24 @@
       "br": "[Abismo] Guardião de Elite Harrier",
       "tw": "[Abyss] Harrier Elite Gatekeeper"
     },
-    "point": "-",
+    "point": 42,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187027.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2154,15 +2919,24 @@
       "br": "[Abismo] Escudeiro Nevado Harrier",
       "tw": "[Abyss] Harrier Black Knight Shield Bearer"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187028.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2173,15 +2947,24 @@
       "br": "[Abismo] Lanceiro Nevado Harrier",
       "tw": "[Abyss] Harrier Black Knight Spearman"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187029.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2192,15 +2975,24 @@
       "br": "[Abismo] Tempestade Nevada Harrier",
       "tw": "[Abyss] Harrier Black Tempest"
     },
-    "point": "-",
+    "point": 34,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187030.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2211,15 +3003,24 @@
       "br": "[Abismo] Elfa Assassina Harrier",
       "tw": "[Abyss] Harrier Elven Assassin"
     },
-    "point": "-",
+    "point": 38,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187031.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2230,15 +3031,24 @@
       "br": "[Abismo] Sentinela Ciclope Harrier",
       "tw": "[Abyss] Harrier Cyclops Sentry"
     },
-    "point": "-",
+    "point": 38,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187032.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2249,15 +3059,24 @@
       "br": "[Abismo] Espírito do Cavaleiro Highlander Harrier",
       "tw": "[Abyss] Harrier Highlander's Illusion"
     },
-    "point": "-",
+    "point": 42,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187033.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2268,15 +3087,24 @@
       "br": "[Abismo] Apóstulo da Revelação Harrier",
       "tw": "[Abyss] Harrier Apostle of Revelation"
     },
-    "point": "-",
+    "point": 42,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187034.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2287,15 +3115,24 @@
       "br": "[Abismo] Infantaria de Aço",
       "tw": "[Abyss] Harrier Iron Infantry"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187035.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2306,15 +3143,24 @@
       "br": "[Abismo]  Goblin Operário",
       "tw": "[Abyss] Goblin Worker"
     },
-    "point": "-",
+    "point": 32,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187036.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 4,
+        "2": 6,
+        "3": 11
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 4,
+        "2": 10,
+        "3": 21
+      }
     }
   },
   {
@@ -2325,15 +3171,24 @@
       "br": "[Abismo] Goblin Talentoso",
       "tw": "[Abyss] Goblin Jester"
     },
-    "point": "-",
+    "point": 36,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187037.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2344,15 +3199,24 @@
       "br": "[Abismo] Ganancioso Stavrogin",
       "tw": "[Abyss] Greedy Stavrogin"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187038.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2363,15 +3227,24 @@
       "br": "[Abismo] Apóstulo do Templo",
       "tw": "[Abyss] Temple Apostle"
     },
-    "point": "-",
+    "point": 38,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187039.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2382,15 +3255,24 @@
       "br": "[Abismo] Apóstulo Sombrio",
       "tw": "[Abyss] Shadow Apostle"
     },
-    "point": "-",
+    "point": 38,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187040.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
@@ -2401,15 +3283,24 @@
       "br": "[Abismo] Robô Sentinela de Elite",
       "tw": "[Abyss] Eliste Sentry Robot"
     },
-    "point": "-",
+    "point": 40,
     "group": "exclusive",
     "individualProbability": 0.00819672131147541,
     "groupCount": 122,
     "image": "sbta187041.webp",
     "acquiredFrom": "specialDungeon",
     "copy": {
-      "interval": "-",
-      "cumulated": "-"
+      "interval": {
+        "1": 3,
+        "2": 5,
+        "3": 9
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 3,
+        "2": 8,
+        "3": 17
+      }
     }
   },
   {
