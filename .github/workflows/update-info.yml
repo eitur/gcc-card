@@ -47,7 +47,7 @@ jobs:
           # Update version number
           content = re.sub(
               r'<span class="update-date">\[.*?\]</span>',
-              f'<span class="update-date">\[{version}]</span>',
+              f'<span class="update-date">[{version}]</span>',
               content
           )
           
