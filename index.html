@@ -3,7 +3,17 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title data-i18n="ui.title">GCC card</title>
+
+  <!-- SEO Meta Tags -->
+  <title data-i18n="ui.title">GrandChase Classic Card Fusion Calculator</title>
+  <meta name="description" content="Calculate optimal card fusion strategies for GrandChase Classic. Track your card collection, analyze probabilities, and plan your upgrades with official rate tables.">
+  <meta name="keywords" content="GrandChase Classic, card fusion, card fuse, card system, calculator, card collection, fusion probability, GCC cards, Grand Chase">
+  <meta name="author" content="GCC Card Calculator">
+  <meta name="robots" content="index, follow">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://eitur.github.io/gcc-card/">
+
   <!-- Favicon for browsers -->
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="./images/favicon/favicon-16x16.png">
@@ -31,183 +41,220 @@
   <!-- Chart.js -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.2.0/dist/chartjs-plugin-datalabels.min.js"></script>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "GrandChase Classic Card Fusion Calculator",
+    "description": "Calculate optimal card fusion strategies for GrandChase Classic",
+    "applicationCategory": "GameApplication",
+    "operatingSystem": "Any",
+  }
+  </script>
 </head>
 <body>
+<header>
+  <h1 data-i18n="ui.webTitle" onclick="window.location.reload()" style="cursor: pointer;">GrandChase Classic Card Fusion Probabilities Calculator</h1>
 
-<h1 data-i18n="ui.webTitle" onclick="window.location.reload()" style="cursor: pointer;">Card Fusion Probabilities Calculator</h1>
-
-<div class="top-right">
-  <div class="lang-dropdown">
-    <button class="lang-dropdown-btn" onclick="toggleLangDropdown()">
-      <span id="currentLang">{{LANG_DISPLAY}}</span>
-      <span class="dropdown-arrow">▼</span>
-    </button>
-    <div class="lang-dropdown-menu" id="langDropdownMenu">
-      <a href="/" class="lang-option active">English (EN)</a>
-      <a href="/kr/" class="lang-option ">한국어 (KR)</a>
-      <a href="/br/" class="lang-option ">Português (BR)</a>
-      <a href="/tw/" class="lang-option ">繁體中文 (TW)</a>
+  <div class="top-right">
+    <div class="lang-dropdown">
+      <button class="lang-dropdown-btn" onclick="toggleLangDropdown()">
+        <span id="currentLang">{{LANG_DISPLAY}}</span>
+        <span class="dropdown-arrow">▼</span>
+      </button>
+      <div class="lang-dropdown-menu" id="langDropdownMenu">
+        <a href="/" class="lang-option active">English (EN)</a>
+        <a href="/kr/" class="lang-option ">한국어 (KR)</a>
+        <a href="/br/" class="lang-option ">Português (BR)</a>
+        <a href="/tw/" class="lang-option ">繁體中文 (TW)</a>
+      </div>
+    </div>
+    <div class="help-btn" data-i18n="ui.howToUse" onclick="showHelp()">How to use</div>
+    <div class="info-btn" onclick="showInfo()" title="About & Credits">
+      <img src="./images/theme/info-dark.png" alt="Info" class="info-icon">
+    </div>
+    <div class="feedback-btn" onclick="showFeedback()" title="Send Feedback">
+      <img src="./images/theme/mail-dark.png" alt="Feedback" class="feedback-icon">
+    </div>
+    <div class="theme-toggle" onclick="toggleTheme()" title="Toggle Dark Mode">
+      <img src="./images/theme/dark-mode.png" alt="Theme" class="theme-icon" id="themeIcon">
     </div>
   </div>
-  <div class="help-btn" data-i18n="ui.howToUse" onclick="showHelp()">How to use</div>
-  <div class="info-btn" onclick="showInfo()" title="About & Credits">
-    <img src="./images/theme/info-dark.png" alt="Info" class="info-icon">
-  </div>
-  <div class="feedback-btn" onclick="showFeedback()" title="Send Feedback">
-    <img src="./images/theme/mail-dark.png" alt="Feedback" class="feedback-icon">
-  </div>
-  <div class="theme-toggle" onclick="toggleTheme()" title="Toggle Dark Mode">
-    <img src="./images/theme/dark-mode.png" alt="Theme" class="theme-icon" id="themeIcon">
-  </div>
-</div>
+</header>
 
-<div class="top-panel">
-  <div id="summaryText" data-i18n="ui.noCards">No cards selected</div>
-  <button onclick="showDetails()" class="details-btn" data-i18n="ui.details">See details</button>
-</div>
-
-<div class="toolbar">
-  <div class="controls">
-    <button onclick="undo()" id="undoBtn" class="icon-btn" title="Undo" disabled>
-      <img src="./images/theme/undo-dark.png" alt="Undo" class="control-icon undo-icon">
-    </button>
-    <button onclick="redo()" id="redoBtn" class="icon-btn" title="Redo" disabled>
-      <img src="./images/theme/redo-dark.png" alt="Undo" class="control-icon redo-icon">
-    </button>
-    <button onclick="resetAll()" id="resetBtn" class="reset-btn" data-i18n="ui.reset" title="Reset All">
-      <span class="reset-text" data-i18n="ui.reset">Reset</span>
-    </button>
+<main>
+  <div class="top-panel">
+    <div id="summaryText" data-i18n="ui.noCards">No cards selected</div>
+    <button onclick="showDetails()" class="details-btn" data-i18n="ui.details">See details</button>
   </div>
 
-  <div class="filters">
-    <span data-i18n="ui.acquiredFrom">AcquiredFrom</span>:
-    <select id="filterAcquiredFrom" onchange="renderTable()">
-      <option value="" data-i18n="ui.all">All</option>
-      <option value="serdin" data-i18n="acquiredFrom.serdin"></option>
-      <option value="kanavan" data-i18n="acquiredFrom.kanavan"></option>
-      <option value="silverLand" data-i18n="acquiredFrom.silverLand"></option>
-      <option value="ellia" data-i18n="acquiredFrom.ellia"></option>
-      <option value="xenia" data-i18n="acquiredFrom.xenia"></option>
-      <option value="alcubra" data-i18n="acquiredFrom.alcubra"></option>
-      <option value="archimedia" data-i18n="acquiredFrom.archimedia"></option>
-      <option value="harrier" data-i18n="acquiredFrom.harrier"></option>
-      <option value="anotherWorld" data-i18n="acquiredFrom.anotherWorld"></option>
-      <option value="eventDungeon" data-i18n="acquiredFrom.eventDungeon"></option>
-      <option value="specialDungeon" data-i18n="acquiredFrom.specialDungeon"></option>
-      <option value="characterExclusiveDungeon" data-i18n="acquiredFrom.characterExclusiveDungeon"></option>
-      <option value="fuse" data-i18n="acquiredFrom.fuse"></option>
-      <option value="herosBullionShop" data-i18n="acquiredFrom.herosBullionShop"></option>
-      <option value="chaserPass" data-i18n="acquiredFrom.chaserPass"></option>
-      <option value="item" data-i18n="acquiredFrom.item"></option>
-    </select>
+  <div class="toolbar">
+    <div class="controls">
+      <button onclick="undo()" id="undoBtn" class="icon-btn" title="Undo" disabled>
+        <img src="./images/theme/undo-dark.png" alt="Undo" class="control-icon undo-icon">
+      </button>
+      <button onclick="redo()" id="redoBtn" class="icon-btn" title="Redo" disabled>
+        <img src="./images/theme/redo-dark.png" alt="Undo" class="control-icon redo-icon">
+      </button>
+      <button onclick="resetAll()" id="resetBtn" class="reset-btn" data-i18n="ui.reset" title="Reset All">
+        <span class="reset-text" data-i18n="ui.reset">Reset</span>
+      </button>
+    </div>
 
-    <span data-i18n="ui.group">Group</span>:
-    <select id="filterGroup" onchange="renderTable()">
-      <option value="" data-i18n="ui.all">All</option>
-      <option value="1">1</option>
-      <option value="2">2</option>
-      <option value="3">3</option>
-      <option value="4">4</option>
-      <option value="5">5</option>
-      <option value="6">6</option>
-      <option value="7">7</option>
-      <option value="exclusive" data-i18n="ui.exclusive">exclusive</option>
-      <option value="uncollectible" data-i18n="ui.uncollectible">uncollectible</option>
-    </select>
+    <div class="filters">
+      <span data-i18n="ui.acquiredFrom">AcquiredFrom</span>:
+      <select id="filterAcquiredFrom" onchange="renderTable()">
+        <option value="" data-i18n="ui.all">All</option>
+        <option value="serdin" data-i18n="acquiredFrom.serdin"></option>
+        <option value="kanavan" data-i18n="acquiredFrom.kanavan"></option>
+        <option value="silverLand" data-i18n="acquiredFrom.silverLand"></option>
+        <option value="ellia" data-i18n="acquiredFrom.ellia"></option>
+        <option value="xenia" data-i18n="acquiredFrom.xenia"></option>
+        <option value="alcubra" data-i18n="acquiredFrom.alcubra"></option>
+        <option value="archimedia" data-i18n="acquiredFrom.archimedia"></option>
+        <option value="harrier" data-i18n="acquiredFrom.harrier"></option>
+        <option value="anotherWorld" data-i18n="acquiredFrom.anotherWorld"></option>
+        <option value="eventDungeon" data-i18n="acquiredFrom.eventDungeon"></option>
+        <option value="specialDungeon" data-i18n="acquiredFrom.specialDungeon"></option>
+        <option value="characterExclusiveDungeon" data-i18n="acquiredFrom.characterExclusiveDungeon"></option>
+        <option value="fuse" data-i18n="acquiredFrom.fuse"></option>
+        <option value="herosBullionShop" data-i18n="acquiredFrom.herosBullionShop"></option>
+        <option value="chaserPass" data-i18n="acquiredFrom.chaserPass"></option>
+        <option value="item" data-i18n="acquiredFrom.item"></option>
+      </select>
+
+      <span data-i18n="ui.group">Group</span>:
+      <select id="filterGroup" onchange="renderTable()">
+        <option value="" data-i18n="ui.all">All</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="exclusive" data-i18n="ui.exclusive">exclusive</option>
+        <option value="uncollectible" data-i18n="ui.uncollectible">uncollectible</option>
+      </select>
+    </div>
+
+    <div class="search-box">
+      <img src="./images/theme/magnifier-light.png" class="search-icon">
+      <input id="searchBox" type="text" oninput="renderTable()" 
+            data-i18n="ui.search" placeholder="Search cards..." />
+    </div>
   </div>
 
-  <div class="search-box">
-    <img src="./images/theme/magnifier-light.png" class="search-icon">
-    <input id="searchBox" type="text" oninput="renderTable()" 
-           data-i18n="ui.search" placeholder="Search cards..." />
-  </div>
-</div>
+  <table>
+    <thead>
+      <tr>
+        <th class="sortable" onclick="sortTable('id')">
+          <span data-i18n="ui.number">No.</span>
+          <span class="sort-indicator" id="sort-id"></span>
+        </th>
+        <th></th>
+        <th data-i18n="ui.cardName">Card</th>
+        <!-- <th class="sortable" onclick="sortTable('point')">
+          <span data-i18n="ui.point">Point</span>
+          <span class="sort-indicator" id="sort-point"></span>
+        </th> -->
+        <th class="sortable" onclick="sortTable('group')">
+          <span data-i18n="ui.group">Group</span>
+          <span class="sort-indicator" id="sort-group"></span>
+        </th>
+        <th data-i18n="ui.acquiredFrom">AcquiredFrom</th>
+        <th class="level-header">
+          <div class="level-header-content">
+            <span>Lv0</span>
+            <input type="radio" 
+                  name="select-all" 
+                  class="level-radio select-all-radio" 
+                  onclick="selectAllLevel(0)"
+                  title="Select/Deselect all Lv0">
+          </div>
+        </th>
+        <th class="level-header">
+          <div class="level-header-content">
+            <span>Lv1</span>
+            <input type="radio" 
+                  name="select-all" 
+                  class="level-radio select-all-radio" 
+                  onclick="selectAllLevel(1)"
+                  title="Select/Deselect all Lv1">
+          </div>
+        </th>
+        <th class="level-header">
+          <div class="level-header-content">
+            <span>Lv2</span>
+            <input type="radio" 
+                  name="select-all" 
+                  class="level-radio select-all-radio" 
+                  onclick="selectAllLevel(2)"
+                  title="Select/Deselect all Lv2">
+          </div>
+        </th>
+        <th class="level-header">
+          <div class="level-header-content">
+            <span>Lv3</span>
+            <input type="radio" 
+                  name="select-all" 
+                  class="level-radio select-all-radio" 
+                  onclick="selectAllLevel(3)"
+                  title="Select/Deselect all Lv3">
+          </div>
+        </th>
+        <th class="copies-header">
+          <div class="copies-header-content">
+            <span data-i18n="ui.copies">Copies</span>
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody id="cardTable"></tbody>
+  </table>
 
-<table>
-  <thead>
-    <tr>
-      <th class="sortable" onclick="sortTable('id')">
-        <span data-i18n="ui.number">No.</span>
-        <span class="sort-indicator" id="sort-id"></span>
-      </th>
-      <th></th>
-      <th data-i18n="ui.cardName">Card</th>
-      <!-- <th class="sortable" onclick="sortTable('point')">
-        <span data-i18n="ui.point">Point</span>
-        <span class="sort-indicator" id="sort-point"></span>
-      </th> -->
-      <th class="sortable" onclick="sortTable('group')">
-        <span data-i18n="ui.group">Group</span>
-        <span class="sort-indicator" id="sort-group"></span>
-      </th>
-      <th data-i18n="ui.acquiredFrom">AcquiredFrom</th>
-      <th class="level-header">
-        <div class="level-header-content">
-          <span>Lv0</span>
-          <input type="radio" 
-                name="select-all" 
-                class="level-radio select-all-radio" 
-                onclick="selectAllLevel(0)"
-                title="Select/Deselect all Lv0">
+  <!-- Modals -->
+  <div id="helpModal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('helpModal')">&times;</span>
+      <h2 data-i18n="help.title">How to Use</h2>
+      <div id="helpContent" data-i18n-html="help.content"></div>
+    </div>
+  </div>
+
+  <div id="detailsModal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('detailsModal')">&times;</span>
+      <h2 data-i18n="ui.detailsTitle">Selected Cards Details</h2>
+      <div id="detailsContent"></div>
+    </div>
+  </div>
+
+  <div id="infoModal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('infoModal')">&times;</span>
+      <h2 data-i18n="info.title">About & Updates</h2>
+      <div id="infoContent">
+        <div class="info-section">
+          <h3 data-i18n="info.lastUpdate">Last Update</h3>
+          <p class="update-date" data-i18n="info.version">Version [v1.0.0]</p>
+          <ul class="update-list">
+            <li>Date0: Content0</li>
+            <li>Date1: Content1</li>
+            <li>Date2: Content2</li>
+          </ul>
         </div>
-      </th>
-      <th class="level-header">
-        <div class="level-header-content">
-          <span>Lv1</span>
-          <input type="radio" 
-                name="select-all" 
-                class="level-radio select-all-radio" 
-                onclick="selectAllLevel(1)"
-                title="Select/Deselect all Lv1">
+        
+        <div class="info-section">
+          <h3 data-i18n="info.credits">Credits & Contributors</h3>
+          <ul class="credits-list">
+            <li><span data-i18n="info.cardImages">Card Images</span>: Aresius</li>
+            <li><span data-i18n="info.dataContributors">Data Contributors</span>: i, Aresius, Yanyu</li>
+            <li><span data-i18n="info.enBrTranslations">Translations</span>: Mika끝</li>
+            <li><span data-i18n="info.twTranslations">Translations</span>: Ralas, BladeMeteor</li>
+          </ul>
         </div>
-      </th>
-      <th class="level-header">
-        <div class="level-header-content">
-          <span>Lv2</span>
-          <input type="radio" 
-                name="select-all" 
-                class="level-radio select-all-radio" 
-                onclick="selectAllLevel(2)"
-                title="Select/Deselect all Lv2">
-        </div>
-      </th>
-      <th class="level-header">
-        <div class="level-header-content">
-          <span>Lv3</span>
-          <input type="radio" 
-                name="select-all" 
-                class="level-radio select-all-radio" 
-                onclick="selectAllLevel(3)"
-                title="Select/Deselect all Lv3">
-        </div>
-      </th>
-      <th class="copies-header">
-        <div class="copies-header-content">
-          <span data-i18n="ui.copies">Copies</span>
-        </div>
-      </th>
-    </tr>
-  </thead>
-  <tbody id="cardTable"></tbody>
-</table>
-
-<!-- Modals -->
-<div id="helpModal" class="modal">
-  <div class="modal-content">
-    <span class="close" onclick="closeModal('helpModal')">&times;</span>
-    <h2 data-i18n="help.title">How to Use</h2>
-    <div id="helpContent" data-i18n-html="help.content"></div>
-  </div>
-</div>
-
-<div id="detailsModal" class="modal">
-  <div class="modal-content">
-    <span class="close" onclick="closeModal('detailsModal')">&times;</span>
-    <h2 data-i18n="ui.detailsTitle">Selected Cards Details</h2>
-    <div id="detailsContent"></div>
-  </div>
-</div>
-
 <div id="infoModal" class="modal">
   <div class="modal-content">
     <span class="close" onclick="closeModal('infoModal')">&times;</span>
@@ -233,49 +280,50 @@
         </ul>
       </div>
 
+      </div>
     </div>
   </div>
-</div>
 
-<div id="feedbackModal" class="modal">
-  <div class="modal-content">
-    <span class="close" onclick="closeModal('feedbackModal')">&times;</span>
-    <h2 data-i18n="ui.feedbackTitle">Send Feedback</h2>
-    <form id="feedbackForm" onsubmit="sendFeedback(event)">
-      <div class="form-group">
-        <label for="feedbackEmail" data-i18n="ui.feedbackEmail">Email (optional):</label>
-        <input type="email" id="feedbackEmail" data-i18n="ui.feedbackEmailPlaceholder" placeholder="your@email.com">
-      </div>
-      <div class="form-group">
-        <label for="feedbackMessage" data-i18n="ui.feedbackMessage">Message: *</label>
-        <textarea id="feedbackMessage" rows="6" required data-i18n="ui.feedbackMessagePlaceholder" placeholder="Share your thoughts, report issues, or suggest improvements..."></textarea>
-      </div>
-      <div class="form-actions">
-        <button type="button" onclick="closeModal('feedbackModal')" class="cancel-btn" data-i18n="ui.cancel">Cancel</button>
-        <button type="submit" class="submit-btn" data-i18n="ui.sendFeedback">Send Feedback</button>
-      </div>
-      <div id="feedbackStatus" class="feedback-status"></div>
-    </form>
+  <div id="feedbackModal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('feedbackModal')">&times;</span>
+      <h2 data-i18n="ui.feedbackTitle">Send Feedback</h2>
+      <form id="feedbackForm" onsubmit="sendFeedback(event)">
+        <div class="form-group">
+          <label for="feedbackEmail" data-i18n="ui.feedbackEmail">Email (optional):</label>
+          <input type="email" id="feedbackEmail" data-i18n="ui.feedbackEmailPlaceholder" placeholder="your@email.com">
+        </div>
+        <div class="form-group">
+          <label for="feedbackMessage" data-i18n="ui.feedbackMessage">Message: *</label>
+          <textarea id="feedbackMessage" rows="6" required data-i18n="ui.feedbackMessagePlaceholder" placeholder="Share your thoughts, report issues, or suggest improvements..."></textarea>
+        </div>
+        <div class="form-actions">
+          <button type="button" onclick="closeModal('feedbackModal')" class="cancel-btn" data-i18n="ui.cancel">Cancel</button>
+          <button type="submit" class="submit-btn" data-i18n="ui.sendFeedback">Send Feedback</button>
+        </div>
+        <div id="feedbackStatus" class="feedback-status"></div>
+      </form>
+    </div>
   </div>
-</div>
 
-<div id="cardDetailsModal" class="modal">
-  <div class="modal-content card-details-modal">
-    <span class="close" onclick="closeModal('cardDetailsModal')">&times;</span>
-    <div id="cardDetailsContent"></div>
+  <div id="cardDetailsModal" class="modal">
+    <div class="modal-content card-details-modal">
+      <span class="close" onclick="closeModal('cardDetailsModal')">&times;</span>
+      <div id="cardDetailsContent"></div>
+    </div>
   </div>
-</div>
 
-<button id="scrollToTop" class="scroll-to-top" onclick="scrollToTop()" title="Back to top">
-  <img src="./images/theme/up-arrow-light.png" class="up-arrow-icon">
-</button>
+  <button id="scrollToTop" class="scroll-to-top" onclick="scrollToTop()" title="Back to top">
+    <img src="./images/theme/up-arrow-light.png" class="up-arrow-icon">
+  </button>
 
-<script>
-  window.CURRENT_LANG = 'en';
-  window.BASE_PATH = '.';
-</script>
-<script src="./lazy-load.js"></script>
-<script src="./i18n.js"></script>
-<script src="./app.js"></script>
+  <script>
+    window.CURRENT_LANG = 'en';
+    window.BASE_PATH = '.';
+  </script>
+  <script src="./lazy-load.js"></script>
+  <script src="./i18n.js"></script>
+  <script src="./app.js"></script>
+</main>
 </body>
 </html>

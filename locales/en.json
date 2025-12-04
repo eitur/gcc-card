@@ -1,7 +1,7 @@
 {
     "ui": {
-      "title": "GCC Card",
-      "webTitle": "GCC Card Fusion Probability Analyzer",      
+      "title": "GrandChase Classic Card Fusion Calculator",
+      "webTitle": "GrandChase Classic Card Fusion Probabilities Calculator",      
       "group": "Group",
       "exclusive": "Exclusive",
       "uncollectible": "Uncollectible",

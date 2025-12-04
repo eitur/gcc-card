@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eitur.github.io/gcc-card/sitemap.xml
