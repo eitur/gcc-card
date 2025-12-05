@@ -39,6 +39,7 @@
       "missingProbability": "누락 획득 확률",
       "expectedGain": "예상 레벨 획득",
       "chartTitle": "점수 범위별 누락 획득 확률 및 예상 레벨 획득",
+      "notApplicable": "해당없음",
 
       "feedbackTitle": "의견이나 질문이 있으신가요?",
       "feedbackEmail": "이메일 (선택사항):",

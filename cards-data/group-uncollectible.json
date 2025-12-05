@@ -9,8 +9,8 @@
     },
     "point": 40,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta164323.webp",
     "acquiredFrom": "eventDungeon",
     "copy": {
@@ -37,8 +37,8 @@
     },
     "point": 40,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta166349.webp",
     "acquiredFrom": "eventDungeon",
     "copy": {
@@ -65,8 +65,8 @@
     },
     "point": 60,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta166350.webp",
     "acquiredFrom": "eventDungeon",
     "copy": {
@@ -93,8 +93,8 @@
     },
     "point": 60,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta168741.webp",
     "acquiredFrom": "chaserPass",
     "copy": {
@@ -121,8 +121,8 @@
     },
     "point": 40,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta169271.webp",
     "acquiredFrom": "eventDungeon",
     "copy": {
@@ -149,8 +149,8 @@
     },
     "point": 60,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta169272.webp",
     "acquiredFrom": "eventDungeon",
     "copy": {
@@ -177,8 +177,8 @@
     },
     "point": 70,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta171696.webp",
     "acquiredFrom": "chaserPass",
     "copy": {
@@ -205,8 +205,8 @@
     },
     "point": 70,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta171697.webp",
     "acquiredFrom": "chaserPass",
     "copy": {
@@ -233,8 +233,8 @@
     },
     "point": 40,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta175003.webp",
     "acquiredFrom": "eventDungeon",
     "copy": {
@@ -261,8 +261,8 @@
     },
     "point": 60,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta175004.webp",
     "acquiredFrom": "eventDungeon",
     "copy": {
@@ -289,8 +289,8 @@
     },
     "point": 65,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta175710.webp",
     "acquiredFrom": "chaserPass",
     "copy": {
@@ -317,8 +317,8 @@
     },
     "point": 60,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta175711.webp",
     "acquiredFrom": "chaserPass",
     "copy": {
@@ -345,8 +345,8 @@
     },
     "point": 60,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta177289.webp",
     "acquiredFrom": "eventDungeon",
     "copy": {
@@ -364,6 +364,34 @@
     }
   },
   {
+    "id": 643,
+    "names": {
+      "en": "Void Avenger",
+      "kr": "보이드 어벤져",
+      "br": "Vingador do Vazio",
+      "tw": "Void Avenger"
+    },
+    "point": 70,
+    "group": "uncollectible",
+    "individualProbability": 0.0625,
+    "groupCount": 16,
+    "image": "sbta183877.webp",
+    "acquiredFrom": "chaserPass",
+    "copy": {
+      "interval": {
+        "1": 1,
+        "2": 2,
+        "3": 3
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 3,
+        "3": 6
+      }
+    }
+  },
+  {
     "id": 644,
     "names": {
       "en": "Fallen (Fake) Saint Gaian",
@@ -373,8 +401,8 @@
     },
     "point": 1,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta184747.webp",
     "acquiredFrom": "item",
     "copy": {
@@ -401,8 +429,8 @@
     },
     "point": 60,
     "group": "uncollectible",
-    "individualProbability": 0.06666666666666667,
-    "groupCount": 15,
+    "individualProbability": 0.0625,
+    "groupCount": 16,
     "image": "sbta185677.webp",
     "acquiredFrom": "eventDungeon",
     "copy": {

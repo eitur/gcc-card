@@ -39,6 +39,7 @@
       "missingProbability": "Missing Gain Probability",
       "expectedGain": "Expected Level Gain",
       "chartTitle": "Missing Gain Probability and Expected Level Gain by Point Range",
+      "notApplicable": "N/A",
       
       "feedbackTitle": "Any thoughts?",
       "feedbackEmail": "Email (optional):",

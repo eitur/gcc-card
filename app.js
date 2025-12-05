@@ -299,6 +299,9 @@ function renderTable() {
     
     const isMaxLevel = currentLevel === 3;
     
+    // Check if card is uncollectible
+    const isUncollectible = c.group === 'uncollectible';
+    
     return `
     <tr class="card-row">
       <td>${c.id}</td>
@@ -318,6 +321,7 @@ function renderTable() {
                name="level-${c.id}" 
                value="0" 
                ${currentLevel === 0 ? "checked" : ""} 
+               ${isUncollectible ? "disabled" : ""}
                onclick="toggleLevel(${c.id}, 0)"
                class="level-radio">
       </td>
@@ -326,6 +330,7 @@ function renderTable() {
                name="level-${c.id}" 
                value="1" 
                ${currentLevel === 1 ? "checked" : ""} 
+               ${isUncollectible ? "disabled" : ""}
                onclick="toggleLevel(${c.id}, 1)"
                class="level-radio">
       </td>
@@ -334,6 +339,7 @@ function renderTable() {
                name="level-${c.id}" 
                value="2" 
                ${currentLevel === 2 ? "checked" : ""} 
+               ${isUncollectible ? "disabled" : ""}
                onclick="toggleLevel(${c.id}, 2)"
                class="level-radio">
       </td>
@@ -342,6 +348,7 @@ function renderTable() {
                name="level-${c.id}" 
                value="3" 
                ${currentLevel === 3 ? "checked" : ""} 
+               ${isUncollectible ? "disabled" : ""}
                onclick="toggleLevel(${c.id}, 3)"
                class="level-radio">
       </td>
@@ -349,20 +356,25 @@ function renderTable() {
         <div class="copies-control">
           <button class="copy-btn minus-btn" 
                   onclick="updateCopies(${c.id}, -1)"
-                  ${isMaxLevel || currentLevel === null ? 'disabled' : ''}>−</button>
+                  ${isMaxLevel || currentLevel === null || isUncollectible ? 'disabled' : ''}>−</button>
           <input type="number" 
                  class="copies-input" 
                  value="${currentCopies}"
                  min="0"
                  max="${maxCopies}"
-                 ${isMaxLevel || currentLevel === null ? 'disabled' : ''}
+                 ${isMaxLevel || currentLevel === null || isUncollectible ? 'disabled' : ''}
                  onchange="setCopies(${c.id}, this.value)">
           <button class="copy-btn plus-btn" 
                   onclick="updateCopies(${c.id}, 1)"
-                  ${isMaxLevel || currentLevel === null || currentCopies >= maxCopies ? 'disabled' : ''}>+</button>
+                  ${isMaxLevel || currentLevel === null || currentCopies >= maxCopies || isUncollectible ? 'disabled' : ''}>+</button>
         </div>
-        ${!isMaxLevel && currentLevel !== null ? `<div class="copies-hint">${maxCopies - currentCopies} ${i18n.t('ui.needed') || 'needed'}</div>` : ''}
-      </td>
+        ${isUncollectible 
+          ? `<div class="copies-hint">${i18n.t('ui.notApplicable') || 'N/A'}</div>` 
+          : (!isMaxLevel && currentLevel !== null 
+            ? `<div class="copies-hint">${maxCopies - currentCopies} ${i18n.t('ui.needed') || 'needed'}</div>` 
+            : '')
+        }
+        </td>
     </tr>
   `;
   }).join("");

@@ -39,6 +39,7 @@
       "missingProbability": "Probabilidade de Ganho Faltante",
       "expectedGain": "Ganho de Nível Esperado",
       "chartTitle": "Probabilidade de Ganho Faltante e Ganho de Nível Esperado por Faixa de Pontos",
+      "notApplicable": "N/A",
 
       "feedbackTitle": "Algum comentário?",
       "feedbackEmail": "Email (opcional):",
