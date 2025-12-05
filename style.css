@@ -1580,6 +1580,29 @@ body.dark-mode .copies-input:disabled {
   color: #666;
 }
 
+/* Select All Radio Button - Disabled State */
+.select-all-radio:disabled {
+  opacity: 0.3;
+  cursor: not-allowed !important;
+  border-color: #ccc;
+}
+
+.select-all-radio:disabled:hover {
+  border-color: #ccc;
+  transform: none;
+}
+
+/* Dark mode for disabled select all radio buttons */
+body.dark-mode .select-all-radio:disabled {
+  opacity: 0.2;
+  border-color: #555;
+}
+
+body.dark-mode .select-all-radio:disabled:hover {
+  border-color: #555;
+  transform: none;
+}
+
 /* Chart Container */
 .chart-container {
   position: relative;

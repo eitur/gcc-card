@@ -467,7 +467,9 @@ function setCopies(cardId, value) {
 function selectAllLevel(level) {
   saveState();
   
-  const filteredCards = getFilteredCards();
+  // Get filtered cards excluding uncollectible
+  const filteredCards = getFilteredCards().filter(c => c.group !== 'uncollectible');
+  if (filteredCards.length === 0) return;
   
   // Check if all filtered cards are already at this level
   const allAtLevel = filteredCards.every(c => {
@@ -484,7 +486,6 @@ function selectAllLevel(level) {
     });
   } else {
     filteredCards.forEach(c => {
-      const current = selected.get(c.id);
       selected.set(c.id, { 
         level: level, 
         copies: 0 
@@ -499,10 +500,14 @@ function selectAllLevel(level) {
 function updateSelectAllButtons() {
   const filteredCards = getFilteredCards();
   
+  // Filter out uncollectible cards for checking
+  const collectibleCards = filteredCards.filter(c => c.group !== 'uncollectible');
+  const hasCollectibleCards = collectibleCards.length > 0;
+
   // Check each level
   for (let level = 0; level <= 3; level++) {
-    const allAtLevel = filteredCards.length > 0 && 
-                       filteredCards.every(c => {
+    const allAtLevel = collectibleCards.length > 0 && 
+                       collectibleCards.every(c => {
                          const data = selected.get(c.id);
                          return data && data.level === level;
                        });
@@ -510,6 +515,16 @@ function updateSelectAllButtons() {
     const radioButton = document.querySelector(`th input[onclick="selectAllLevel(${level})"]`);
     if (radioButton) {
       radioButton.checked = allAtLevel;
+
+      // Disable the button if no collectible cards are visible
+      radioButton.disabled = !hasCollectibleCards;
+
+      // Update cursor style based on disabled state
+      if (!hasCollectibleCards) {
+        radioButton.style.cursor = 'not-allowed';
+      } else {
+        radioButton.style.cursor = 'pointer';
+      }
     }
   }
 }
