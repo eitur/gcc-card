@@ -960,7 +960,8 @@ function showCardDetails(cardId) {
   const currentData = selected.get(cardId) || { level: null, copies: 0 };
   const requiredCopies = card.copy.interval[1];
   const showPoint = typeof card.point === 'number' && !isNaN(card.point);
-  const showCopies = typeof requiredCopies === 'number' && !isNaN(requiredCopies);
+  const showProbablity = typeof card.group === 'number' && !isNaN(card.group);
+  const showCopies = typeof requiredCopies === 'number' && !isNaN(requiredCopies) && card.group !== 'uncollectible';
   const content = `
     <h2>${getCardName(cardId)}</h2>
     <div class="card-details-container">
@@ -979,9 +980,11 @@ function showCardDetails(cardId) {
         : ''}
         
         <div class="card-info-line">
-          <span class="card-info-label">${i18n.t('ui.probability') || 'Probability'}:</span>
+          ${showProbablity ?
+          `<span class="card-info-label">${i18n.t('ui.probability') || 'Probability'}:</span>
           <span class="card-info-value">${(card.individualProbability * 100).toFixed(4)}%</span>
-        </div>
+          </div>`
+        : ''}
 
         ${showCopies ? 
           `<div class="card-info-line">
