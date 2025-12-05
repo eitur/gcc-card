@@ -1,4 +1,4 @@
-# GCC Card Fusion Probability Analyzer
+# GrandChase Classic Card Fusion Probabilities Calculator
 
 A web-based tool to calculate card fusion probabilities and manage your card collection with multi-language support.
 
