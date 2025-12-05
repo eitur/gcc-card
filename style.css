@@ -1516,6 +1516,70 @@ body.dark-mode .copies-hint {
     height: 24px;
   }
 }
+
+/* Disabled/Uncollectible radio button styling */
+.level-radio:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+  border-color: #ccc;
+}
+
+.level-radio:disabled:hover {
+  border-color: #ccc;
+  transform: none;
+}
+
+/* Dark mode for disabled radio buttons */
+body.dark-mode .level-radio:disabled {
+  opacity: 0.2;
+  border-color: #555;
+}
+
+body.dark-mode .level-radio:disabled:hover {
+  border-color: #555;
+  transform: none;
+}
+
+/* Disabled copies controls for uncollectible */
+.copy-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+  border-color: #ddd;
+}
+
+.copy-btn:disabled:hover {
+  background: white;
+  color: #333;
+  border-color: #ddd;
+  transform: none;
+}
+
+.copies-input:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* Dark mode for disabled copies controls */
+body.dark-mode .copy-btn:disabled {
+  opacity: 0.2;
+  background: #383838;
+  color: #666;
+  border-color: #555;
+}
+
+body.dark-mode .copy-btn:disabled:hover {
+  background: #383838;
+  color: #666;
+  border-color: #555;
+  transform: none;
+}
+
+body.dark-mode .copies-input:disabled {
+  opacity: 0.3;
+  background: #2a2a2a;
+  color: #666;
+}
+
 /* Chart Container */
 .chart-container {
   position: relative;
