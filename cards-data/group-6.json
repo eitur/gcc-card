@@ -2046,10 +2046,10 @@
   {
     "id": 746,
     "names": {
-      "en": "Child Consumed by Darkness (Creation)",
-      "kr": "어둠에 물든 아이(창조)",
-      "br": "Criança Consumida pelas Trevas (Criação)",
-      "tw": "被黑暗感染的孩子（創造）"
+      "en": "Mutated by Darkness (Creation)",
+      "kr": "변화한 어둠(창조)",
+      "br": "Trevas Alteradas (Criação)",
+      "tw": "Mutated by Darkness (Creation)"
     },
     "point": 58,
     "group": 6,
@@ -2074,10 +2074,10 @@
   {
     "id": 747,
     "names": {
-      "en": "Child Consumed by Darkness (Destruction)",
-      "kr": "어둠에 물든 아이(파괴)",
-      "br": "Criança Consumida pelas Trevas (Destruição)",
-      "tw": "被黑暗支配的孩子（破壞）"
+      "en": "Mutated Darkness (Destruction)",
+      "kr": "변화한 어둠(파괴)",
+      "br": "Trevas Alteradas (Destruição)",
+      "tw": "Mutated Darkness (Destruction)"
     },
     "point": 58,
     "group": 6,
@@ -2102,10 +2102,10 @@
   {
     "id": 748,
     "names": {
-      "en": "Child Dominated by Darkness",
-      "kr": "어둠에 지배된 아이",
-      "br": "Criança Dominada pelas Trevas",
-      "tw": "被黑暗支配的孩子"
+      "en": "Evolved Darkness",
+      "kr": "진화한 어둠",
+      "br": "Trevas Evoluídas",
+      "tw": "Evolved Darkness"
     },
     "point": 58,
     "group": 6,
@@ -2158,10 +2158,10 @@
   {
     "id": 750,
     "names": {
-      "en": "Girl Consumed by Darkness",
-      "kr": "어둠에 물든 소녀",
-      "br": "Garota Consumida pelas Trevas",
-      "tw": "被黑暗感染的少女"
+      "en": "Unknown Darkness",
+      "kr": "의문의 어둠",
+      "br": "Trevas Desconhecidas",
+      "tw": "Unknown Darkness"
     },
     "point": 60,
     "group": 6,
