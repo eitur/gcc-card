@@ -1977,6 +1977,16 @@ body.dark-mode thead::after {
   box-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
 
+/* Darker separation line every 5 rows */
+
+tbody tr:nth-child(5n) td {
+  border-bottom: 1px solid #ccc;
+}
+
+body.dark-mode tbody tr:nth-child(5n) td {
+  border-bottom: 1px solid #555;
+}
+
 /* Adjust for new column order */
 th:nth-child(1), td:nth-child(1) { /* ID */
   width: 70px;
