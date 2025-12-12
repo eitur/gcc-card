@@ -111,6 +111,20 @@
     </div>
 
     <div class="filters">
+      <span data-i18n="ui.group">Group</span>:
+      <select id="filterGroup" onchange="renderTable()">
+        <option value="" data-i18n="ui.all">All</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="exclusive" data-i18n="ui.exclusive">exclusive</option>
+        <option value="uncollectible" data-i18n="ui.uncollectible">uncollectible</option>
+      </select>
+
       <span data-i18n="ui.acquiredFrom">AcquiredFrom</span>:
       <select id="filterAcquiredFrom" onchange="renderTable()">
         <option value="" data-i18n="ui.all">All</option>
@@ -131,20 +145,6 @@
         <option value="herosBullionShop" data-i18n="acquiredFrom.herosBullionShop"></option>
         <option value="chaserPass" data-i18n="acquiredFrom.chaserPass"></option>
         <option value="item" data-i18n="acquiredFrom.item"></option>
-      </select>
-
-      <span data-i18n="ui.group">Group</span>:
-      <select id="filterGroup" onchange="renderTable()">
-        <option value="" data-i18n="ui.all">All</option>
-        <option value="1">1</option>
-        <option value="2">2</option>
-        <option value="3">3</option>
-        <option value="4">4</option>
-        <option value="5">5</option>
-        <option value="6">6</option>
-        <option value="7">7</option>
-        <option value="exclusive" data-i18n="ui.exclusive">exclusive</option>
-        <option value="uncollectible" data-i18n="ui.uncollectible">uncollectible</option>
       </select>
     </div>
 
