@@ -1273,8 +1273,8 @@ body.dark-mode .controls button:disabled:hover {
 
 /* Level Radio Button Styling */
 .level-radio {
-  width: 20px;
-  height: 20px;
+  width: 24px;
+  height: 24px;
   cursor: pointer;
   appearance: none;
   -webkit-appearance: none;
@@ -1289,9 +1289,25 @@ body.dark-mode .controls button:disabled:hover {
   display: block;
 }
 
+/* Show number on all radio buttons */
+.level-radio::before {
+  content: attr(data-level);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #999;
+  font-size: 10px;
+}
+
 .level-radio:hover {
   border-color: #4CAF50;
   transform: scale(1.1);
+}
+
+/* Change number color to white when checked */
+.level-radio:checked::before {
+  color: white;
 }
 
 .level-radio:checked {
@@ -1300,15 +1316,13 @@ body.dark-mode .controls button:disabled:hover {
 }
 
 .level-radio:checked::after {
-  content: '';
+  content: attr(data-level);
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 10px;
-  height: 10px;
-  background: white;
-  border-radius: 50%;
+  color: white;
+  font-size: 11px;
 }
 
 /* Level header styling */
@@ -1332,8 +1346,8 @@ body.dark-mode .controls button:disabled:hover {
 
 /* Select all radio button in header */
 .select-all-radio {
-  width: 20px;
-  height: 20px;
+  width: 24px;
+  height: 24px;
 }
 
 .select-all-radio:hover {
@@ -1344,6 +1358,10 @@ body.dark-mode .controls button:disabled:hover {
 body.dark-mode .level-radio {
   background: #383838;
   border-color: #555;
+}
+
+body.dark-mode .level-radio::before {
+  color: #999;
 }
 
 body.dark-mode .level-radio:hover {
@@ -1357,6 +1375,10 @@ body.dark-mode .level-radio:checked {
 
 body.dark-mode .level-header {
   color: #e0e0e0;
+}
+
+body.dark-mode .level-radio:checked::before {
+  color: white;
 }
 
 /* Remove hover effect on level header rows */
@@ -1941,6 +1963,16 @@ button:hover,
 input:hover,
 select:hover {
   transition: transform 0.2s, box-shadow 0.2s, background 0.2s, border-color 0.2s, opacity 0.2s !important;
+}
+
+/* Darker separation line every 5 rows */
+
+tbody tr:nth-child(5n) td {
+  border-bottom: 1px solid #ccc;
+}
+
+body.dark-mode tbody tr:nth-child(5n) td {
+  border-bottom: 1px solid #555;
 }
 
 /* Adjust for new column order */

@@ -320,6 +320,7 @@ function renderTable() {
         <input type="radio" 
                name="level-${c.id}" 
                value="0" 
+               data-level="0"
                ${currentLevel === 0 ? "checked" : ""} 
                ${isUncollectible ? "disabled" : ""}
                onclick="toggleLevel(${c.id}, 0)"
@@ -329,6 +330,7 @@ function renderTable() {
         <input type="radio" 
                name="level-${c.id}" 
                value="1" 
+               data-level="1"
                ${currentLevel === 1 ? "checked" : ""} 
                ${isUncollectible ? "disabled" : ""}
                onclick="toggleLevel(${c.id}, 1)"
@@ -338,6 +340,7 @@ function renderTable() {
         <input type="radio" 
                name="level-${c.id}" 
                value="2" 
+               data-level="2"
                ${currentLevel === 2 ? "checked" : ""} 
                ${isUncollectible ? "disabled" : ""}
                onclick="toggleLevel(${c.id}, 2)"
@@ -347,6 +350,7 @@ function renderTable() {
         <input type="radio" 
                name="level-${c.id}" 
                value="3" 
+               data-level="3"
                ${currentLevel === 3 ? "checked" : ""} 
                ${isUncollectible ? "disabled" : ""}
                onclick="toggleLevel(${c.id}, 3)"
