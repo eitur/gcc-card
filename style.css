@@ -1296,7 +1296,7 @@ body.dark-mode .controls button:disabled:hover {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  color: #999;
+  color: #ddd;
   font-size: 10px;
 }
 
@@ -1361,7 +1361,7 @@ body.dark-mode .level-radio {
 }
 
 body.dark-mode .level-radio::before {
-  color: #999;
+  color: #555;
 }
 
 body.dark-mode .level-radio:hover {
