@@ -41,6 +41,26 @@
       "chartTitle": "Probabilidade de Ganho Faltante e Ganho de Nível Esperado por Faixa de Pontos",
       "notApplicable": "N/A",
 
+      "exportData": "Exportar",
+      "importData": "Importar",
+      "exportSuccess": "Dados exportados com sucesso.",
+      "importError": "Erro: Arquivo JSON inválido. Selecione um arquivo de exportação válido.",
+      "importReadError": "Erro: Não foi possível ler o arquivo. Tente novamente.",
+      "importInvalidFormat": "Erro: Formato de dados inválido. Selecione um arquivo de exportação válido.",
+      "importSuccess": "Importação bem-sucedida.",
+      "cardsImported": "cartas importadas",
+      "cardsSkipped": "ignoradas",
+      "exportedOn": "Exportado em",
+      "importWrongType": "Erro: Por favor, solte um arquivo JSON",
+      "importTitle": "Importar Dados de Cartas",
+      "importInstructions": "Selecione o arquivo JSON que você exportou anteriormente:",
+      "importTip1": "O arquivo deve estar no formato JSON",
+      "importTip2": "Isso substituirá suas seleções atuais",
+      "importTip3": "Você pode desfazer após importar",
+      "clickToSelect": "Clique para selecionar arquivo JSON",
+      "orDragDrop": "ou arraste e solte",
+      "information": "Informações",
+      "feedback": "Feedback",
       "feedbackTitle": "Algum comentário?",
       "feedbackEmail": "Email (opcional):",
       "feedbackEmailPlaceholder": "seu@email.com",
@@ -54,7 +74,7 @@
     },
     "help": {
       "title": "Como Usar",
-      "content": "<p>Esta ferramenta ajuda você a rastrear sua coleção de cartas e calcular estratégias de fusão ideais. Os cálculos de probabilidade são baseados na <a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">tabela oficial de taxas de itens do GrandChase</a>.</p><ul><li><strong>Selecione o Nível da Carta:</strong> Clique nos botões de opção (Lv0-Lv3) para definir o nível atual de cada carta</li><li><strong>Defina Cópias Possuídas:</strong> Use os botões +/− ou digite diretamente para indicar cópias possuídas e obter resultados mais precisos</li><li><strong>Ordenar e Filtrar:</strong> Clique nos cabeçalhos das colunas para ordenar ou use os filtros para refinar as cartas</li><li><strong>Clique na Imagem da Carta:</strong> Clique em qualquer imagem de carta para ver informações detalhadas</li><li><strong>Desfazer/Refazer:</strong> Cometeu um erro? Use os botões desfazer/refazer para reverter alterações</li><li><strong>Grupos</strong><ul><li><strong>1-7:</strong> Grupos de cartas padrão obtíveis através de fusão, cada um com taxas diferentes</li><li><strong>{exclusive}:</strong> Cartas especiais que não podem ser obtidas através de fusão</li><li><strong>{uncollectible}:</strong> Cartas que não contam para o nível da sua coleção</li></ul></ul><p>Suas seleções são salvas automaticamente localmente e serão restauradas na próxima visita.</p>"
+      "content": "<p>Esta ferramenta ajuda você a rastrear sua coleção de cartas e calcular estratégias de fusão ideais. Os cálculos de probabilidade são baseados na <a href=\"https://koggames.com/game/grandchaseclassic/ItemRateTable?tableUID=34&lang=en\" target=\"_blank\" style=\"color: #4CAF50; text-decoration: underline;\">tabela oficial de taxas de itens do GrandChase</a>.</p><h3 style=\"margin-top: 20px; margin-bottom: 10px; color: #4CAF50;\">Uso Básico</h3><ul><li><strong>Selecionar Nível da Carta:</strong> Clique nos botões de opção (Lv0-Lv3) para definir o nível atual de cada carta</li><li><strong>Definir Cópias Possuídas:</strong> Use os botões +/− ou digite diretamente para indicar as cópias possuídas e obter resultados mais precisos</li><li><strong>Ordenar e Filtrar:</strong> Clique nos cabeçalhos das colunas para ordenar ou use os filtros para refinar as cartas</li><li><strong>Clicar na Imagem da Carta:</strong> Clique em qualquer imagem de carta para ver informações detalhadas</li><li><strong>Desfazer/Refazer:</strong> Cometeu um erro? Use os botões desfazer/refazer para reverter alterações</li></ul><h3 style=\"margin-top: 20px; margin-bottom: 10px; color: #4CAF50;\">Grupos de Cartas</h3><ul><li><strong>1-7:</strong> Grupos de cartas padrão obteníveis por fusão, cada um com taxas diferentes</li><li><strong>{exclusive}:</strong> Cartas especiais que não podem ser obtidas por fusão</li><li><strong>{uncollectible}:</strong> Cartas que não contam para o nível da sua coleção</li></ul><p style=\"margin-top: 15px;\">Suas seleções são salvas automaticamente localmente no seu navegador e serão restauradas na próxima visita. Para backup de longo prazo ou compartilhamento, use a função <strong>Exportar e Importar</strong> nas configurações.</p>"
     },
     "info": {
       "title": "Informações",

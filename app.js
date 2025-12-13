@@ -829,6 +829,8 @@ function showHelp() {
 
 function showInfo() {
   document.getElementById("infoModal").style.display = "block";
+
+  closeSettingsDropdown();
 }
 
 function showDetails() {
@@ -1158,6 +1160,10 @@ function toggleTheme() {
   const body = document.body;
   const undoIcon = document.querySelector('.undo-icon');
   const redoIcon = document.querySelector('.redo-icon');
+  const settingsIcon = document.querySelector('.settings-icon');
+  const exportIcon = document.querySelector('.export-icon');
+  const importIcon = document.querySelector('.import-icon');
+  const fileIcon = document.querySelector('.file-icon');
   const searchIcon = document.querySelector('.search-icon');
   const feedbackIcon = document.querySelector('.feedback-icon');
   const infoIcon = document.querySelector('.info-icon');
@@ -1169,6 +1175,10 @@ function toggleTheme() {
   if (body.classList.contains('dark-mode')) {
     undoIcon.src = `${window.BASE_PATH}/images/theme/undo-light.png`;
     redoIcon.src = `${window.BASE_PATH}/images/theme/redo-light.png`;
+    settingsIcon.src = `${window.BASE_PATH}/images/theme/settings-light.png`;
+    exportIcon.src = `${window.BASE_PATH}/images/theme/export-light.png`;
+    importIcon.src = `${window.BASE_PATH}/images/theme/import-light.png`;
+    fileIcon.src = `${window.BASE_PATH}/images/theme/file-light.png`;
     searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-light.png`;
     feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-light.png`;
     infoIcon.src = `${window.BASE_PATH}/images/theme/info-light.png`;
@@ -1178,6 +1188,10 @@ function toggleTheme() {
   } else {
     undoIcon.src = `${window.BASE_PATH}/images/theme/undo-dark.png`;
     redoIcon.src = `${window.BASE_PATH}/images/theme/redo-dark.png`;
+    settingsIcon.src = `${window.BASE_PATH}/images/theme/settings-dark.png`;
+    exportIcon.src = `${window.BASE_PATH}/images/theme/export-dark.png`;
+    importIcon.src = `${window.BASE_PATH}/images/theme/import-dark.png`;
+    fileIcon.src = `${window.BASE_PATH}/images/theme/file-dark.png`;
     searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-dark.png`;
     feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-dark.png`;
     infoIcon.src = `${window.BASE_PATH}/images/theme/info-dark.png`;
@@ -1191,6 +1205,10 @@ function toggleTheme() {
 function loadTheme() {
   const undoIcon = document.querySelector('.undo-icon');
   const redoIcon = document.querySelector('.redo-icon');
+  const settingsIcon = document.querySelector('.settings-icon');
+  const exportIcon = document.querySelector('.export-icon');
+  const importIcon = document.querySelector('.import-icon');
+  const fileIcon = document.querySelector('.file-icon');
   const searchIcon = document.querySelector('.search-icon');
   const savedTheme = localStorage.getItem('theme');
   const feedbackIcon = document.querySelector('.feedback-icon');
@@ -1202,6 +1220,10 @@ function loadTheme() {
     if (themeIcon) {
       undoIcon.src = `${window.BASE_PATH}/images/theme/undo-light.png`;
       redoIcon.src = `${window.BASE_PATH}/images/theme/redo-light.png`;
+      settingsIcon.src = `${window.BASE_PATH}/images/theme/settings-light.png`;
+      exportIcon.src = `${window.BASE_PATH}/images/theme/export-light.png`;
+      importIcon.src = `${window.BASE_PATH}/images/theme/import-light.png`;
+      fileIcon.src = `${window.BASE_PATH}/images/theme/file-light.png`;
       searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-light.png`;
       feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-light.png`;
       infoIcon.src = `${window.BASE_PATH}/images/theme/info-light.png`;
@@ -1212,6 +1234,10 @@ function loadTheme() {
     if (themeIcon) {
       undoIcon.src = `${window.BASE_PATH}/images/theme/undo-dark.png`;
       redoIcon.src = `${window.BASE_PATH}/images/theme/redo-dark.png`;
+      settingsIcon.src = `${window.BASE_PATH}/images/theme/settings-dark.png`;
+      exportIcon.src = `${window.BASE_PATH}/images/theme/export-dark.png`;
+      importIcon.src = `${window.BASE_PATH}/images/theme/import-dark.png`;
+      fileIcon.src = `${window.BASE_PATH}/images/theme/file-dark.png`;
       searchIcon.src = `${window.BASE_PATH}/images/theme/magnifier-dark.png`;
       feedbackIcon.src = `${window.BASE_PATH}/images/theme/mail-dark.png`;
       infoIcon.src = `${window.BASE_PATH}/images/theme/info-dark.png`;
@@ -1224,6 +1250,8 @@ function loadTheme() {
 function showFeedback() {
   document.getElementById("feedbackModal").style.display = "block";
   document.getElementById("feedbackStatus").style.display = "none";
+
+  closeSettingsDropdown();
 }
 
 async function sendFeedback(event) {
@@ -1351,6 +1379,276 @@ function handleScrollButton() {
 
 // Add scroll event listener
 window.addEventListener('scroll', handleScrollButton);
+
+function closeSettingsDropdown() {
+  // Close settings dropdown
+  const dropdown = document.querySelector('.settings-dropdown');
+  const menu = document.getElementById('settingsDropdownMenu');
+  dropdown.classList.remove('active');
+  menu.classList.remove('show');
+}
+
+// Export card selections to JSON file
+function exportData() {
+  const exportData = {
+    exportDate: new Date().toISOString(),
+    exportDateReadable: new Date().toLocaleString(),
+    language: window.CURRENT_LANG || 'en',
+    collectionLevel: getCardCollectionLevel(),
+    totalCards: selected.size,
+    cards: Array.from(selected.entries()).map(([id, data]) => ({
+      id: id,
+      name: getCardName(id),
+      level: data.level,
+      copies: data.copies
+    }))
+  };
+
+  const dataStr = JSON.stringify(exportData, null, 2); // Pretty print with 2 spaces
+  const dataBlob = new Blob([dataStr], { type: 'application/json' });
+  
+  const url = URL.createObjectURL(dataBlob);
+  const link = document.createElement('a');
+  link.href = url;
+  
+  // Generate filename: gcc-cards-YYYY-MM-DD-HHMMSS.json
+  const now = new Date();
+  const dateStr = now.toISOString().split('T')[0]; // YYYY-MM-DD
+  const timeStr = now.toTimeString().split(' ')[0].replace(/:/g, ''); // HHMMSS
+  link.download = `gcc-cards-${dateStr}-${timeStr}.json`;
+  
+  document.body.appendChild(link);
+  link.click();
+  document.body.removeChild(link);
+  URL.revokeObjectURL(url);
+  
+  // Show success message
+  showTemporaryMessage(
+    i18n.t('ui.exportSuccess') || 'Data exported successfully!', 
+    'success'
+  );
+}
+
+// Open import modal
+function importData() {
+  document.getElementById('selectedFileName').textContent = '';
+  document.getElementById('importStatus').style.display = 'none';
+  document.getElementById('importModal').style.display = 'block';
+  
+  closeSettingsDropdown();
+}
+
+// Trigger file input click
+function triggerFileImport() {
+  document.getElementById('importFileInput').click();
+}
+
+// Handle file import
+function handleImportFile(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+  
+  // Show selected file name
+  document.getElementById('selectedFileName').textContent = `Selected: ${file.name}`;
+  
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    try {
+      const importedData = JSON.parse(e.target.result);
+      processImport(importedData, file.name);
+    } catch (error) {
+      showImportStatus(
+        i18n.t('ui.importError') || 'Error: Invalid JSON file. Please select a valid export file.', 
+        'error'
+      );
+    }
+  };
+  
+  reader.onerror = function() {
+    showImportStatus(
+      i18n.t('ui.importReadError') || 'Error: Could not read file. Please try again.', 
+      'error'
+    );
+  };
+  
+  reader.readAsText(file);
+  
+  // Reset file input
+  event.target.value = '';
+}
+
+// Process imported data
+function processImport(importedData, fileName) {
+  // Validate data structure
+  if (!importedData.cards || !Array.isArray(importedData.cards)) {
+    showImportStatus(
+      i18n.t('ui.importInvalidFormat') || 'Error: Invalid data format. Please select a valid export file.', 
+      'error'
+    );
+    return;
+  }
+  
+  // Save current state for undo
+  saveState();
+  
+  // Clear current selections
+  selected.clear();
+  
+  // Import cards
+  let importedCount = 0;
+  let skippedCount = 0;
+  
+  importedData.cards.forEach(cardData => {
+    const card = cards.find(c => c.id === cardData.id);
+    if (card && card.group !== 'uncollectible') {
+      // Validate level and copies
+      const level = Math.max(0, Math.min(3, cardData.level || 0));
+      const copies = Math.max(0, cardData.copies || 0);
+      
+      selected.set(cardData.id, { level, copies });
+      importedCount++;
+    } else {
+      skippedCount++;
+    }
+  });
+  
+  // Save and render
+  saveSelections();
+  renderTable();
+  
+  // Show success message
+  let message = `${i18n.t('ui.importSuccess') || 'Import successful!'} ${importedCount} ${i18n.t('ui.cardsImported') || 'cards imported'}`;
+  if (skippedCount > 0) {
+    message += `, ${skippedCount} ${i18n.t('ui.cardsSkipped') || 'skipped'}`;
+  }
+  if (importedData.exportDateReadable) {
+    message += `\n${i18n.t('ui.exportedOn') || 'Exported on'}: ${importedData.exportDateReadable}`;
+  }
+  
+  showImportStatus(message, 'success');
+  
+  // Close modal after 3 seconds
+  setTimeout(() => {
+    closeModal('importModal');
+  }, 3000);
+}
+
+// Show import status message
+function showImportStatus(message, type) {
+  const statusDiv = document.getElementById('importStatus');
+  statusDiv.className = `import-status ${type}`;
+  statusDiv.textContent = message;
+  statusDiv.style.display = 'block';
+}
+
+// Show temporary message (for export)
+function showTemporaryMessage(message, type) {
+  const messageDiv = document.createElement('div');
+  messageDiv.className = `temporary-message ${type}`;
+  messageDiv.textContent = message;
+  document.body.appendChild(messageDiv);
+  
+  // Fade in
+  setTimeout(() => messageDiv.classList.add('show'), 10);
+  
+  // Remove after 3 seconds
+  setTimeout(() => {
+    messageDiv.classList.remove('show');
+    setTimeout(() => document.body.removeChild(messageDiv), 300);
+  }, 3000);
+}
+
+// Settings dropdown toggle
+function toggleSettingsDropdown() {
+  const dropdown = document.querySelector('.settings-dropdown');
+  const menu = document.getElementById('settingsDropdownMenu');
+  
+  dropdown.classList.toggle('active');
+  menu.classList.toggle('show');
+}
+
+// Update the existing click outside handler
+document.addEventListener('click', function(event) {
+  const langDropdown = document.querySelector('.lang-dropdown');
+  const langMenu = document.getElementById('langDropdownMenu');
+  const settingsDropdown = document.querySelector('.settings-dropdown');
+  const settingsMenu = document.getElementById('settingsDropdownMenu');
+  
+  if (langDropdown && !langDropdown.contains(event.target)) {
+    langDropdown.classList.remove('active');
+    if (langMenu) langMenu.classList.remove('show');
+  }
+  
+  if (settingsDropdown && !settingsDropdown.contains(event.target)) {
+    settingsDropdown.classList.remove('active');
+    if (settingsMenu) settingsMenu.classList.remove('show');
+  }
+});
+
+// Add drag and drop support for import
+document.addEventListener('DOMContentLoaded', () => {
+  const fileInputArea = document.querySelector('.file-input-area');
+  
+  if (fileInputArea) {
+    fileInputArea.addEventListener('dragover', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      fileInputArea.classList.add('drag-over');
+    });
+    
+    fileInputArea.addEventListener('dragleave', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      fileInputArea.classList.remove('drag-over');
+    });
+    
+    fileInputArea.addEventListener('drop', (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      fileInputArea.classList.remove('drag-over');
+      
+      const files = e.dataTransfer.files;
+      if (files.length > 0) {
+        const file = files[0];
+        if (file.type === 'application/json' || file.name.endsWith('.json')) {
+          handleDroppedFile(file);
+        } else {
+          showImportStatus(
+            i18n.t('ui.importWrongType') || 'Error: Please drop a JSON file', 
+            'error'
+          );
+        }
+      }
+    });
+  }
+});
+
+// Handle dropped file
+function handleDroppedFile(file) {
+  document.getElementById('selectedFileName').textContent = `Selected: ${file.name}`;
+  
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    try {
+      const importedData = JSON.parse(e.target.result);
+      processImport(importedData, file.name);
+    } catch (error) {
+      showImportStatus(
+        i18n.t('ui.importError') || 'Error: Invalid JSON file', 
+        'error'
+      );
+    }
+  };
+  
+  reader.onerror = function() {
+    showImportStatus(
+      i18n.t('ui.importReadError') || 'Error: Could not read file', 
+      'error'
+    );
+  };
+  
+  reader.readAsText(file);
+}
 
 // Call loadTheme immediately when script loads
 document.addEventListener('DOMContentLoaded', () => {

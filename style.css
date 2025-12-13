@@ -1583,7 +1583,7 @@ body.dark-mode .level-radio:disabled:hover {
 
 /* Dark mode for disabled copies controls */
 body.dark-mode .copy-btn:disabled {
-  opacity: 0.2;
+  opacity: 0.3;
   background: #383838;
   color: #666;
   border-color: #555;
@@ -1597,7 +1597,7 @@ body.dark-mode .copy-btn:disabled:hover {
 }
 
 body.dark-mode .copies-input:disabled {
-  opacity: 0.3;
+  opacity: 0.;
   background: #2a2a2a;
   color: #666;
 }
@@ -1973,6 +1973,298 @@ tbody tr:nth-child(5n) td {
 
 body.dark-mode tbody tr:nth-child(5n) td {
   border-bottom: 1px solid #555;
+}
+
+/* Settings Dropdown */
+.settings-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.settings-dropdown-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 12px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  cursor: pointer;
+  background: white;
+  transition: all 0.3s;
+}
+
+.settings-dropdown-btn:hover {
+  background: #f0f0f0;
+}
+
+.settings-icon {
+  width: 18px;
+  height: 18px;
+  display: block;
+}
+
+.settings-dropdown-menu {
+  display: none;
+  position: absolute;
+  top: 100%;
+  right: 0;
+  margin-top: 5px;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  min-width: 180px;
+  z-index: 1000;
+  overflow: hidden;
+}
+
+.settings-dropdown-menu.show {
+  display: block;
+  animation: slideDown 0.2s ease-out;
+}
+
+.settings-option {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 15px;
+  color: #333;
+  text-decoration: none;
+  font-size: 14px;
+  transition: background 0.2s;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.settings-option:last-child {
+  border-bottom: none;
+}
+
+.settings-option:hover {
+  background: #f8f9fa;
+}
+
+.option-icon {
+  font-size: 16px;
+  width: 20px;
+  text-align: center;
+}
+
+.settings-divider {
+  height: 1px;
+  background: #e0e0e0;
+  margin: 5px 0;
+}
+
+/* Import Modal */
+.import-content {
+  margin: 20px 0;
+}
+
+.import-instructions p {
+  margin-bottom: 10px;
+  color: #666;
+  font-size: 14px;
+}
+
+.import-tips {
+  list-style: none;
+  padding: 0;
+  margin: 15px 0;
+  font-size: 13px;
+  color: #666;
+}
+
+.import-tips li {
+  padding: 5px 0;
+  padding-left: 20px;
+  position: relative;
+}
+
+.import-tips li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  color: #4CAF50;
+  font-weight: bold;
+}
+
+.file-input-area {
+  border: 2px dashed #ddd;
+  border-radius: 8px;
+  padding: 40px 20px;
+  text-align: center;
+  cursor: pointer;
+  transition: all 0.3s;
+  background: #fafafa;
+  margin: 20px 0;
+}
+
+.file-input-area:hover {
+  border-color: #4CAF50;
+  background: #f0f8f0;
+}
+
+.file-input-area.drag-over {
+  border-color: #4CAF50;
+  background: #e8f5e9;
+  transform: scale(1.02);
+}
+
+.file-icon {
+  width: 44px;
+  height: 44px;
+}
+
+.file-text {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.file-prompt {
+  font-size: 16px;
+  font-weight: 500;
+  color: #333;
+}
+
+.file-hint {
+  font-size: 13px;
+  color: #999;
+}
+
+.selected-file-name {
+  text-align: center;
+  color: #4CAF50;
+  font-size: 13px;
+  font-weight: 500;
+  margin-top: 10px;
+  min-height: 20px;
+}
+
+.import-status {
+  margin-top: 20px;
+  padding: 12px;
+  border-radius: 6px;
+  font-size: 14px;
+  text-align: center;
+  display: none;
+  white-space: pre-line;
+}
+
+.import-status.success {
+  background: #d4edda;
+  color: #155724;
+  border: 1px solid #c3e6cb;
+}
+
+.import-status.error {
+  background: #f8d7da;
+  color: #721c24;
+  border: 1px solid #f5c6cb;
+}
+
+/* Temporary Message */
+.temporary-message {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 15px 20px;
+  border-radius: 6px;
+  font-size: 14px;
+  font-weight: 500;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  z-index: 10000;
+  opacity: 0;
+  transform: translateY(-20px);
+  transition: all 0.3s ease;
+  max-width: 300px;
+}
+
+.temporary-message.show {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.temporary-message.success {
+  background: #4CAF50;
+  color: white;
+}
+
+.temporary-message.error {
+  background: #f44336;
+  color: white;
+}
+
+/* Dark mode for settings */
+body.dark-mode .settings-dropdown-btn {
+  background: #2d2d2d;
+  border-color: #404040;
+}
+
+body.dark-mode .settings-dropdown-btn:hover {
+  background: #383838;
+}
+
+body.dark-mode .settings-dropdown-menu {
+  background: #2d2d2d;
+  border-color: #404040;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+body.dark-mode .settings-option {
+  color: #e0e0e0;
+  border-bottom-color: #404040;
+}
+
+body.dark-mode .settings-option:hover {
+  background: #383838;
+}
+
+body.dark-mode .settings-divider {
+  background: #404040;
+}
+
+body.dark-mode .import-instructions p,
+body.dark-mode .import-tips {
+  color: #e0e0e0;
+}
+
+body.dark-mode .import-tips li::before {
+  color: #4CAF50;
+}
+
+body.dark-mode .file-input-area {
+  background: #383838;
+  border-color: #555;
+}
+
+body.dark-mode .file-input-area:hover {
+  border-color: #4CAF50;
+  background: #2d4a2d;
+}
+
+body.dark-mode .file-input-area.drag-over {
+  border-color: #4CAF50;
+  background: #1e3a1e;
+}
+
+body.dark-mode .file-prompt {
+  color: #e0e0e0;
+}
+
+body.dark-mode .file-hint {
+  color: #999;
+}
+
+body.dark-mode .selected-file-name {
+  color: #4CAF50;
+}
+
+.export-icon,
+.import-icon {
+  width: 18px;
+  height: 18px;
+  display: block;
 }
 
 /* Adjust for new column order */

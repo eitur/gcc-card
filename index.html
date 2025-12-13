@@ -79,11 +79,30 @@
       </div>
     </div>
     <div class="help-btn" data-i18n="ui.howToUse" onclick="showHelp()">How to use</div>
-    <div class="info-btn" onclick="showInfo()" title="About & Credits">
-      <img src="./images/theme/info-dark.png" alt="Info" class="info-icon">
-    </div>
-    <div class="feedback-btn" onclick="showFeedback()" title="Send Feedback">
-      <img src="./images/theme/mail-dark.png" alt="Feedback" class="feedback-icon">
+
+    <!-- Settings Dropdown Menu -->
+    <div class="settings-dropdown">
+      <button class="settings-dropdown-btn" onclick="toggleSettingsDropdown()" title="Settings">
+        <img src="./images/theme/settings-dark.png" alt="Settings" class="settings-icon">
+      </button>
+      <div class="settings-dropdown-menu" id="settingsDropdownMenu">
+        <a href="#" class="settings-option" onclick="exportData(); return false;">
+          <img src="./images/theme/export-dark.png" alt="Export" class="export-icon">
+          <span data-i18n="ui.exportData">Export</span>
+        </a>
+        <a href="#" class="settings-option" onclick="importData(); return false;">
+          <img src="./images/theme/import-dark.png" alt="Import" class="import-icon">
+          <span data-i18n="ui.importData">Import</span>
+        </a>
+        <a href="#" class="settings-option" onclick="showFeedback(); return false;">
+          <img src="./images/theme/mail-dark.png" alt="Feedback" class="feedback-icon">
+          <span data-i18n="ui.feedback">Feedback</span>
+        </a>
+        <a href="#" class="settings-option" onclick="showInfo(); return false;">
+          <img src="./images/theme/info-dark.png" alt="Info" class="info-icon">
+          <span data-i18n="ui.information">Information</span>
+        </a>
+      </div>
     </div>
     <div class="theme-toggle" onclick="toggleTheme()" title="Toggle Dark Mode">
       <img src="./images/theme/dark-mode.png" alt="Theme" class="theme-icon" id="themeIcon">
@@ -304,6 +323,36 @@
   <button id="scrollToTop" class="scroll-to-top" onclick="scrollToTop()" title="Back to top">
     <img src="./images/theme/up-arrow-light.png" class="up-arrow-icon">
   </button>
+
+  <div id="importModal" class="modal">
+    <div class="modal-content">
+      <span class="close" onclick="closeModal('importModal')">&times;</span>
+      <h2 data-i18n="ui.importTitle">Import Card Data</h2>
+      <div class="import-content">
+        <div class="import-instructions">
+          <p data-i18n="ui.importInstructions">Select the JSON file you previously exported:</p>
+          <ul class="import-tips">
+            <li data-i18n="ui.importTip1">File must be in JSON format</li>
+            <li data-i18n="ui.importTip2">This will replace your current selections</li>
+            <li data-i18n="ui.importTip3">You can undo after importing</li>
+          </ul>
+        </div>
+        <div class="file-input-area" onclick="triggerFileImport()">
+          <img src="./images/theme/file-dark.png" class="file-icon">
+          <div class="file-text">
+            <span class="file-prompt" data-i18n="ui.clickToSelect">Click to select file</span>
+            <span class="file-hint" data-i18n="ui.orDragDrop">or drag and drop JSON file here</span>
+          </div>
+        </div>
+        <div id="selectedFileName" class="selected-file-name"></div>
+      </div>
+      <div id="importStatus" class="import-status"></div>
+    </div>
+  </div>
+
+
+  <!-- Hidden file input for import -->
+  <input type="file" id="importFileInput" accept=".json" style="display: none;" onchange="handleImportFile(event)">
 
   <script>
     window.CURRENT_LANG = 'en';
