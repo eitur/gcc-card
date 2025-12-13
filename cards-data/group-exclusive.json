@@ -5,7 +5,7 @@
       "en": "Mongban Card",
       "kr": "몽반 카드",
       "br": "Carta Monban",
-      "tw": "Mongban Card"
+      "tw": "蒙班卡牌"
     },
     "point": 30,
     "group": "exclusive",
@@ -33,7 +33,7 @@
       "en": "Naamah Card",
       "kr": "Naamah Card",
       "br": "Naamah Card",
-      "tw": "Naamah Card"
+      "tw": "喜林草卡牌"
     },
     "point": 30,
     "group": "exclusive",
@@ -61,7 +61,7 @@
       "en": "Demon Core Card",
       "kr": "Demon Core Card",
       "br": "Demon Core Card",
-      "tw": "Demon Core Card"
+      "tw": "邪魔之核卡牌"
     },
     "point": 30,
     "group": "exclusive",
@@ -89,7 +89,7 @@
       "en": "Veron",
       "kr": "Veron",
       "br": "Veron",
-      "tw": "Veron"
+      "tw": "貝倫"
     },
     "point": 57,
     "group": "exclusive",
@@ -117,7 +117,7 @@
       "en": "Drawl",
       "kr": "Drawl",
       "br": "Drawl",
-      "tw": "Drawl"
+      "tw": "德拉爾"
     },
     "point": 60,
     "group": "exclusive",
@@ -145,7 +145,7 @@
       "en": "Gaikoz",
       "kr": "Gaikoz",
       "br": "Gaikoz",
-      "tw": "Gaikoz"
+      "tw": "蓋科斯"
     },
     "point": 50,
     "group": "exclusive",
@@ -173,7 +173,7 @@
       "en": "Victor",
       "kr": "Victor",
       "br": "Victor",
-      "tw": "Victor"
+      "tw": "維克多"
     },
     "point": 55,
     "group": "exclusive",
@@ -201,7 +201,7 @@
       "en": "Dark Anmon",
       "kr": "Dark Anmon",
       "br": "Dark Anmon",
-      "tw": "Dark Anmon"
+      "tw": "暗黑阿蒙"
     },
     "point": 60,
     "group": "exclusive",
@@ -229,7 +229,7 @@
       "en": "Ashtaroth",
       "kr": "Ashtaroth",
       "br": "Ashtaroth",
-      "tw": "Ashtaroth"
+      "tw": "阿斯塔羅斯"
     },
     "point": 66,
     "group": "exclusive",
@@ -257,7 +257,7 @@
       "en": "Arawn",
       "kr": "Arawn",
       "br": "Arawn",
-      "tw": "Arawn"
+      "tw": "亞倫"
     },
     "point": 70,
     "group": "exclusive",
@@ -285,7 +285,7 @@
       "en": "Elder Kungji",
       "kr": "Elder Kungji",
       "br": "Elder Kungji",
-      "tw": "Elder Kungji"
+      "tw": "上古*噗"
     },
     "point": 68,
     "group": "exclusive",
@@ -313,7 +313,7 @@
       "en": "Harrier Orc Lord",
       "kr": "Harrier Orc Lord",
       "br": "Harrier Orc Lord",
-      "tw": "Harrier Orc Lord"
+      "tw": "海利爾半獸人族長"
     },
     "point": 50,
     "group": "exclusive",
@@ -341,7 +341,7 @@
       "en": "Infinite Cloister - Golem of Time",
       "kr": "무한회랑-시간의 골렘",
       "br": "Claustro Infinito - Golem do Tempo",
-      "tw": "Infinite Cloister - Golem of Time"
+      "tw": "無限迴廊-時之魁儡"
     },
     "point": 39,
     "group": "exclusive",
@@ -369,7 +369,7 @@
       "en": "Infinite Cloister - Morid",
       "kr": "무한회랑-모리드",
       "br": "Claustro Infinito - Morid",
-      "tw": "Infinite Cloister - Morid"
+      "tw": "無限迴廊-莫里德"
     },
     "point": 41,
     "group": "exclusive",
@@ -397,7 +397,7 @@
       "en": "Infinite Cloister - Urkah",
       "kr": "무한회랑-우르카",
       "br": "Claustro Infinito - Urca",
-      "tw": "Infinite Cloister - Urkah"
+      "tw": "無限迴廊-烏爾卡"
     },
     "point": 43,
     "group": "exclusive",
@@ -425,7 +425,7 @@
       "en": "Infinite Cloister - Duel (I)",
       "kr": "무한회랑-듀엘(I)",
       "br": "Claustro Infinito - Duel(I)",
-      "tw": "Infinite Cloister - Duel (I)"
+      "tw": "無限迴廊-杜爾(I)"
     },
     "point": 45,
     "group": "exclusive",
@@ -453,7 +453,7 @@
       "en": "Infinite Cloister - Duel (II)",
       "kr": "무한회랑-듀엘(II)",
       "br": "Claustro Infinito - Duel(II)",
-      "tw": "Infinite Cloister - Duel (II)"
+      "tw": "無限迴廊-杜爾(II)"
     },
     "point": 54,
     "group": "exclusive",
@@ -481,7 +481,7 @@
       "en": "Infinite Cloister - Duel (III)",
       "kr": "무한회랑-듀엘(III)",
       "br": "Claustro Infinito - Duel(III)",
-      "tw": "Infinite Cloister - Duel (III)"
+      "tw": "無限迴廊-杜爾(III)"
     },
     "point": 60,
     "group": "exclusive",
@@ -509,7 +509,7 @@
       "en": "Infinite Cloister - Tarik",
       "kr": "무한회랑-타리크",
       "br": "Claustro Infinito - Tarik",
-      "tw": "Infinite Cloister - Tarik"
+      "tw": "無限迴廊-塔里克"
     },
     "point": 45,
     "group": "exclusive",
@@ -537,7 +537,7 @@
       "en": "Infinite Cloister - Unstable Creation",
       "kr": "무한회랑-불안정한 창조물",
       "br": "Claustro Infinito - Criação Instável",
-      "tw": "Infinite Cloister - Unstable Creation"
+      "tw": "無限迴廊-不穩定創造物"
     },
     "point": 47,
     "group": "exclusive",
@@ -565,7 +565,7 @@
       "en": "Infinite Cloister - Throne Control System",
       "kr": "무한회랑-옥좌 관제 시스템",
       "br": "Claustro Infinito - Sistema de Controle do Trono",
-      "tw": "Infinite Cloister - Throne Control System"
+      "tw": "無限迴廊-王座管理系統"
     },
     "point": 49,
     "group": "exclusive",
@@ -593,7 +593,7 @@
       "en": "Infinite Cloister - Rofnus",
       "kr": "무한회랑-로프누스",
       "br": "Claustro Infinito - Rofnus",
-      "tw": "Infinite Cloister - Rofnus"
+      "tw": "無限迴廊-洛普努斯"
     },
     "point": 54,
     "group": "exclusive",
@@ -621,7 +621,7 @@
       "en": "Infinite Cloister -  Skeram",
       "kr": "무한회랑-스케람",
       "br": "Claustro Infinito - Skeram",
-      "tw": "Infinite Cloister -  Skeram"
+      "tw": "無限迴廊-斯凱拉姆"
     },
     "point": 56,
     "group": "exclusive",
@@ -649,7 +649,7 @@
       "en": "Infinite Cloister - Chaotic Witch",
       "kr": "무한회랑-혼돈의 마녀",
       "br": "Claustro Infinito - Bruxa do Caos",
-      "tw": "Infinite Cloister - Chaotic Witch"
+      "tw": "無限迴廊-渾沌魔女"
     },
     "point": 58,
     "group": "exclusive",
@@ -677,7 +677,7 @@
       "en": "Infinite Cloister - Ashtaroth the Creator",
       "kr": "무한회랑-창조주 아스타롯",
       "br": "Claustro Infinito - Astaroth, O Criador",
-      "tw": "Infinite Cloister - Ashtaroth the Creator"
+      "tw": "無限迴廊-創造神阿斯塔羅斯"
     },
     "point": 60,
     "group": "exclusive",
@@ -705,7 +705,7 @@
       "en": "Infinite Cloister - Dragon Knight",
       "kr": "무한회랑-용기병",
       "br": "Claustro Infinito - Dragão Guerreiro",
-      "tw": "Infinite Cloister - Dragon Knight"
+      "tw": "無限迴廊-勇氣兵"
     },
     "point": 62,
     "group": "exclusive",
@@ -733,7 +733,7 @@
       "en": "Infinite Cloister - Harbinger",
       "kr": "무한회랑-다크브링어",
       "br": "Claustro Infinito - Encantrix",
-      "tw": "Infinite Cloister - Harbinger"
+      "tw": "無限迴廊-暗之使者"
     },
     "point": 64,
     "group": "exclusive",
@@ -761,7 +761,7 @@
       "en": "Infinite Cloister -  Duel (IV)",
       "kr": "무한회랑-듀엘(VI)",
       "br": "Claustro Infinito - Duel (IV)",
-      "tw": "Infinite Cloister -  Duel (IV)"
+      "tw": "無限迴廊-決鬥V"
     },
     "point": 68,
     "group": "exclusive",
@@ -789,7 +789,7 @@
       "en": "[Abyss] Grim Reaper",
       "kr": "[심연] 죽음 수확자",
       "br": "[Abismo] Coletor de Morte",
-      "tw": "[Abyss] Grim Reaper"
+      "tw": "【深淵】死神收割者"
     },
     "point": 81,
     "group": "exclusive",
@@ -817,7 +817,7 @@
       "en": "[Abyss] Guardian Ent",
       "kr": "[심연] 에이션트 엔트",
       "br": "[Abismo] Ente Antigo",
-      "tw": "[Abyss] Guardian Ent"
+      "tw": "【深淵】古老的恩特"
     },
     "point": 36,
     "group": "exclusive",
@@ -845,7 +845,7 @@
       "en": "[Abyss] Audrey",
       "kr": "[심연] 앙뜨와네트",
       "br": "[Abismo] Antoinette",
-      "tw": "[Abyss] Audrey"
+      "tw": "【深淵】安托瓦內特"
     },
     "point": 36,
     "group": "exclusive",
@@ -873,7 +873,7 @@
       "en": "[Abyss] Gardosen",
       "kr": "[심연] 가도센",
       "br": "[Abismo] Gadosen",
-      "tw": "[Abyss] Gardosen"
+      "tw": "【深淵】加多森"
     },
     "point": 36,
     "group": "exclusive",
@@ -901,7 +901,7 @@
       "en": "[Abyss] Mynos",
       "kr": "[심연] 불타로스",
       "br": "[Abismo] Bultaros",
-      "tw": "[Abyss] Mynos"
+      "tw": "【深淵】布塔洛斯"
     },
     "point": 34,
     "group": "exclusive",
@@ -929,7 +929,7 @@
       "en": "[Abyss] Starkiln",
       "kr": "[심연] 지그",
       "br": "[Abismo] ZIG",
-      "tw": "[Abyss] Starkiln"
+      "tw": "【深淵】古戈"
     },
     "point": 34,
     "group": "exclusive",
@@ -957,7 +957,7 @@
       "en": "[Abyss] Lord Perseo",
       "kr": "[심연] 페리어트",
       "br": "[Abismo] Periett",
-      "tw": "[Abyss] Lord Perseo"
+      "tw": "【深淵】派里亞特"
     },
     "point": 34,
     "group": "exclusive",
@@ -985,7 +985,7 @@
       "en": "[Abyss] Sethek",
       "kr": "[심연] 세태쉬",
       "br": "[Abismo] Setesh",
-      "tw": "[Abyss] Sethek"
+      "tw": "【深淵】斯塔斯"
     },
     "point": 34,
     "group": "exclusive",
@@ -1013,7 +1013,7 @@
       "en": "[Abyss] Sand Ruler",
       "kr": "[심연] 샌드룰러",
       "br": "[Abismo] Escaravelho do Deserto",
-      "tw": "[Abyss] Sand Ruler"
+      "tw": "【深淵】砂之尺"
     },
     "point": 40,
     "group": "exclusive",
@@ -1041,7 +1041,7 @@
       "en": "[Abyss] Quoronnos",
       "kr": "[심연] 크로모스",
       "br": "[Abismo] Chromos",
-      "tw": "[Abyss] Quoronnos"
+      "tw": "【深淵】克羅默斯"
     },
     "point": 41,
     "group": "exclusive",
@@ -1069,7 +1069,7 @@
       "en": "[Abyss] Aldeon",
       "kr": "[심연] 알데온",
       "br": "[Abismo] Aldeon",
-      "tw": "[Abyss] Aldeon"
+      "tw": "【深淵】埃爾登"
     },
     "point": 43,
     "group": "exclusive",
@@ -1097,7 +1097,7 @@
       "en": "[Abyss] Crookan",
       "kr": "[심연] 클루칸",
       "br": "[Abismo] Crookan",
-      "tw": "[Abyss] Crookan"
+      "tw": "【深淵】格魯坎"
     },
     "point": 39,
     "group": "exclusive",
@@ -1125,7 +1125,7 @@
       "en": "[Abyss] Skeram",
       "kr": "[심연] 스케람",
       "br": "[Abismo] Skeram",
-      "tw": "[Abyss] Skeram"
+      "tw": "【深淵】斯凱拉姆"
     },
     "point": 39,
     "group": "exclusive",
@@ -1153,7 +1153,7 @@
       "en": "[Abyss] Scorpra",
       "kr": "[심연] 스콜프라",
       "br": "[Abismo] Scorpra",
-      "tw": "[Abyss] Scorpra"
+      "tw": "【深淵】蠍子"
     },
     "point": 39,
     "group": "exclusive",
@@ -1181,7 +1181,7 @@
       "en": "[Abyss] Zekars",
       "kr": "[심연] 제카스",
       "br": "[Abismo] Zekars Harrier",
-      "tw": "[Abyss] Zekars"
+      "tw": "【深淵】傑卡斯"
     },
     "point": 43,
     "group": "exclusive",
@@ -1209,7 +1209,7 @@
       "en": "[Abyss] Zalos",
       "kr": "[심연] 잘로스",
       "br": "[Abismo] Zalos",
-      "tw": "[Abyss] Zalos"
+      "tw": "【深淵】查洛斯"
     },
     "point": 41,
     "group": "exclusive",
@@ -1237,7 +1237,7 @@
       "en": "[Abyss] Rofnus",
       "kr": "[심연] 로프누스",
       "br": "[Abismo] Rofnos",
-      "tw": "[Abyss] Rofnus"
+      "tw": "【深淵】洛普努斯"
     },
     "point": 39,
     "group": "exclusive",
@@ -1265,7 +1265,7 @@
       "en": "[Abyss] Crevma",
       "kr": "[심연] 크레브마",
       "br": "[Abismo] Crevma",
-      "tw": "[Abyss] Crevma"
+      "tw": "【深淵】克萊芙瑪"
     },
     "point": 41,
     "group": "exclusive",
@@ -1293,7 +1293,7 @@
       "en": "[Abyss] Searetone",
       "kr": "[심연] 세아레톤",
       "br": "[Abismo] Seareton",
-      "tw": "[Abyss] Searetone"
+      "tw": "【深淵】賽萊頓"
     },
     "point": 43,
     "group": "exclusive",
@@ -1321,7 +1321,7 @@
       "en": "[Abyss] Temple Guardian",
       "kr": "[심연] 사원의 수호자",
       "br": "[Abismo] Guardião do Templo",
-      "tw": "[Abyss] Temple Guardian"
+      "tw": "【深淵】寺院守護者"
     },
     "point": 47,
     "group": "exclusive",
@@ -1349,7 +1349,7 @@
       "en": "[Abyss] Tyrant Belile",
       "kr": "[심연] 폭군 베라일",
       "br": "[Abismo] Tirano Belile",
-      "tw": "[Abyss] Tyrant Belile"
+      "tw": "【深淵】暴君威瑞爾"
     },
     "point": 47,
     "group": "exclusive",
@@ -1377,7 +1377,7 @@
       "en": "[Abyss] Fytros",
       "kr": "[심연] 로쉐",
       "br": "[Abismo] Rocher",
-      "tw": "[Abyss] Fytros"
+      "tw": "【深淵】羅徹"
     },
     "point": 32,
     "group": "exclusive",
@@ -1405,7 +1405,7 @@
       "en": "[Abyss] Magmok",
       "kr": "[심연] 마그몬",
       "br": "[Abismo] Magma Mon",
-      "tw": "[Abyss] Magmok"
+      "tw": "【深淵】火焰獸"
     },
     "point": 32,
     "group": "exclusive",
@@ -1433,7 +1433,7 @@
       "en": "[Abyss] Mutated Skeleton",
       "kr": "[심연] 변이스켈레톤",
       "br": "[Abismo] Esqueleto Mutante",
-      "tw": "[Abyss] Mutated Skeleton"
+      "tw": "【深淵】變異骷髏"
     },
     "point": 32,
     "group": "exclusive",
@@ -1461,7 +1461,7 @@
       "en": "[Abyss] Beholder",
       "kr": "[심연] 비홀더",
       "br": "[Abismo] Observador",
-      "tw": "[Abyss] Beholder"
+      "tw": "【深淵】旁觀者"
     },
     "point": 36,
     "group": "exclusive",
@@ -1489,7 +1489,7 @@
       "en": "[Abyss] Scorpis",
       "kr": "[심연] 스콜피스",
       "br": "[Abismo] Escorpius",
-      "tw": "[Abyss] Scorpis"
+      "tw": "【深淵】斯克菲斯"
     },
     "point": 36,
     "group": "exclusive",
@@ -1517,7 +1517,7 @@
       "en": "[Abyss] Vanessa",
       "kr": "[심연] 바네사",
       "br": "[Abismo] Venese",
-      "tw": "[Abyss] Vanessa"
+      "tw": "【深淵】凡妮莎"
     },
     "point": 34,
     "group": "exclusive",
@@ -1545,7 +1545,7 @@
       "en": "[Abyss] Aron",
       "kr": "[심연] 샤크아론",
       "br": "[Abismo] Sharkaron",
-      "tw": "[Abyss] Aron"
+      "tw": "【深淵】鯊克阿隆"
     },
     "point": 42,
     "group": "exclusive",
@@ -1573,7 +1573,7 @@
       "en": "[Abyss] Tartarus",
       "kr": "[심연] 타이타로스",
       "br": "[Abismo] Taitaros",
-      "tw": "[Abyss] Tartarus"
+      "tw": "【深淵】泰塔羅斯"
     },
     "point": 34,
     "group": "exclusive",
@@ -1601,7 +1601,7 @@
       "en": "[Abyss] Black Knight Shield Bearer",
       "kr": "[심연] 블랙나이츠 방패병",
       "br": "[Abismo] Escudeiro Negro",
-      "tw": "[Abyss] Black Knight Shield Bearer"
+      "tw": "【深淵】黑騎士盾兵"
     },
     "point": 32,
     "group": "exclusive",
@@ -1629,7 +1629,7 @@
       "en": "[Abyss] Black Knight Spearman",
       "kr": "[심연] 블랙나이츠 창병",
       "br": "[Abismo] Lanceiro Negro",
-      "tw": "[Abyss] Black Knight Spearman"
+      "tw": "【深淵】黑騎士槍兵"
     },
     "point": 32,
     "group": "exclusive",
@@ -1657,7 +1657,7 @@
       "en": "[Abyss] Black Tempest",
       "kr": "[심연] 블랙 템페스트",
       "br": "[Abismo] Tormenta Negra",
-      "tw": "[Abyss] Black Tempest"
+      "tw": "【深淵】黑色風暴"
     },
     "point": 34,
     "group": "exclusive",
@@ -1685,7 +1685,7 @@
       "en": "[Abyss] Wooden",
       "kr": "[심연] 우덴",
       "br": "[Abismo] Mognum",
-      "tw": "[Abyss] Wooden"
+      "tw": "【深淵】烏登"
     },
     "point": 34,
     "group": "exclusive",
@@ -1713,7 +1713,7 @@
       "en": "[Abyss] Brutus",
       "kr": "[심연] 브루터스",
       "br": "[Abismo] Blutus",
-      "tw": "[Abyss] Brutus"
+      "tw": "【深淵】布魯特斯"
     },
     "point": 34,
     "group": "exclusive",
@@ -1741,7 +1741,7 @@
       "en": "[Abyss] Kungji",
       "kr": "[심연] 쿵지",
       "br": "[Abismo] Kungji",
-      "tw": "[Abyss] Kungji"
+      "tw": "【深淵】噗嘰"
     },
     "point": 32,
     "group": "exclusive",
@@ -1769,7 +1769,7 @@
       "en": "[Abyss] Big Kungji",
       "kr": "[심연] 빅 쿵",
       "br": "[Abismo] Grande Kungji",
-      "tw": "[Abyss] Big Kungji"
+      "tw": "【深淵】大噗嘰"
     },
     "point": 32,
     "group": "exclusive",
@@ -1797,7 +1797,7 @@
       "en": "[Abyss] Guardian Kungji",
       "kr": "[심연] 가디언 쿵",
       "br": "[Abismo] Guardião Kungji",
-      "tw": "[Abyss] Guardian Kungji"
+      "tw": "【深淵】守護者*噗"
     },
     "point": 36,
     "group": "exclusive",
@@ -1825,7 +1825,7 @@
       "en": "[Abyss] Black Wood Assassin",
       "kr": "[심연] 암흑숲 정찰자",
       "br": "[Abismo] Assassino Sombrio",
-      "tw": "[Abyss] Black Wood Assassin"
+      "tw": "【深淵】黑暗森林暗殺者"
     },
     "point": 34,
     "group": "exclusive",
@@ -1853,7 +1853,7 @@
       "en": "[Abyss] Fire Hammer Smith",
       "kr": "[심연] 불망치 대장장이",
       "br": "[Abismo] Ferreiro Goblin",
-      "tw": "[Abyss] Fire Hammer Smith"
+      "tw": "【深淵】烈焰之槌鐵匠"
     },
     "point": 34,
     "group": "exclusive",
@@ -1881,7 +1881,7 @@
       "en": "[Abyss] Fire Hammer Berserker",
       "kr": "[심연] 불망치 버서커",
       "br": "[Abismo] Goblin Berserker",
-      "tw": "[Abyss] Fire Hammer Berserker"
+      "tw": "【深淵】烈焰之槌狂戰士"
     },
     "point": 40,
     "group": "exclusive",
@@ -1909,7 +1909,7 @@
       "en": "[Abyss] Frillzard",
       "kr": "[심연] 프릴자드",
       "br": "[Abismo] Largato Gigante",
-      "tw": "[Abyss] Frillzard"
+      "tw": "【深淵】普利紮特"
     },
     "point": 32,
     "group": "exclusive",
@@ -1937,7 +1937,7 @@
       "en": "[Abyss] Giant Frillzard",
       "kr": "[심연] 자이언트 프릴자드",
       "br": "[Abismo]  Dragão do Deserto",
-      "tw": "[Abyss] Giant Frillzard"
+      "tw": "【深淵】巨型普利紮特"
     },
     "point": 40,
     "group": "exclusive",
@@ -1965,7 +1965,7 @@
       "en": "[Abyss] Fire Hammer Driller",
       "kr": "[심연] 불망치 드릴러",
       "br": "[Abismo] Escavador Goblin",
-      "tw": "[Abyss] Fire Hammer Driller"
+      "tw": "【深淵】烈焰之槌殺手"
     },
     "point": 40,
     "group": "exclusive",
@@ -1993,7 +1993,7 @@
       "en": "[Abyss] Garou",
       "kr": "[심연] 웨어울프",
       "br": "[Abismo] Lobisomem",
-      "tw": "[Abyss] Garou"
+      "tw": "【深淵】狼人"
     },
     "point": 32,
     "group": "exclusive",
@@ -2021,7 +2021,7 @@
       "en": "[Abyss] Dahlia",
       "kr": "[심연] 정예군 단장 달리아",
       "br": "[Abismo] Daliah",
-      "tw": "[Abyss] Dahlia"
+      "tw": "【深淵】精銳軍團長戴利婭"
     },
     "point": 34,
     "group": "exclusive",
@@ -2049,7 +2049,7 @@
       "en": "[Abyss] Golem",
       "kr": "[심연] 골렘",
       "br": "[Abismo] Golem",
-      "tw": "[Abyss] Golem"
+      "tw": "【深淵】魔像"
     },
     "point": 38,
     "group": "exclusive",
@@ -2077,7 +2077,7 @@
       "en": "[Abyss] Hooded Scorpion",
       "kr": "[심연] 후드스콜피온",
       "br": "[Abismo] Assassino Encapuzado",
-      "tw": "[Abyss] Hooded Scorpion"
+      "tw": "【深淵】兜帽毒蠍"
     },
     "point": 34,
     "group": "exclusive",
@@ -2105,7 +2105,7 @@
       "en": "[Abyss] Commander 'The Dark Staff'",
       "kr": "[심연] 마군단 흑마대장",
       "br": "[Abismo] Mestre Feiticeiro Demoníaco",
-      "tw": "[Abyss] Commander 'The Dark Staff'"
+      "tw": "【深淵】魔界軍團黑魔隊長"
     },
     "point": 40,
     "group": "exclusive",
@@ -2133,7 +2133,7 @@
       "en": "[Abyss] Lacerta Berserker",
       "kr": "[심연] 라세르타 광전사",
       "br": "[Abismo] Lagarto Berserker",
-      "tw": "[Abyss] Lacerta Berserker"
+      "tw": "【深淵】歇虎座狂戰士"
     },
     "point": 40,
     "group": "exclusive",
@@ -2161,7 +2161,7 @@
       "en": "[Abyss] Arch-Mage RokLok",
       "kr": "[심연] 대마도사 로크로크",
       "br": "[Abismo] Rei Xamã Lok-Lok",
-      "tw": "[Abyss] Arch-Mage RokLok"
+      "tw": "【深淵】大魔導師洛克洛克"
     },
     "point": 36,
     "group": "exclusive",
@@ -2189,7 +2189,7 @@
       "en": "[Abyss] Troll",
       "kr": "[심연] 트롤",
       "br": "[Abismo] Troll",
-      "tw": "[Abyss] Troll"
+      "tw": "【深淵】巨魔"
     },
     "point": 40,
     "group": "exclusive",
@@ -2217,7 +2217,7 @@
       "en": "[Abyss] Garou Berserker",
       "kr": "[심연] 웨어울프 버서커",
       "br": "[Abismo] Lobisomem Guerreiro",
-      "tw": "[Abyss] Garou Berserker"
+      "tw": "【深淵】狼人狂戰士"
     },
     "point": 32,
     "group": "exclusive",
@@ -2245,7 +2245,7 @@
       "en": "[Abyss] Hooded Jackal",
       "kr": "[심연] 후드자칼",
       "br": "[Abismo] Vingador Encapuzado",
-      "tw": "[Abyss] Hooded Jackal"
+      "tw": "【深淵】兜帽胡狼"
     },
     "point": 34,
     "group": "exclusive",
@@ -2273,7 +2273,7 @@
       "en": "[Abyss] Hooded Hound",
       "kr": "[심연] 후드하운드",
       "br": "[Abismo] Espadachim Encapuzado",
-      "tw": "[Abyss] Hooded Hound"
+      "tw": "【深淵】兜帽獵犬"
     },
     "point": 40,
     "group": "exclusive",
@@ -2301,7 +2301,7 @@
       "en": "[Abyss] Scorping",
       "kr": "[심연] 스콜핑",
       "br": "[Abismo] Escrpião-Rei",
-      "tw": "[Abyss] Scorping"
+      "tw": "【深淵】毒蠍"
     },
     "point": 36,
     "group": "exclusive",
@@ -2329,7 +2329,7 @@
       "en": "[Abyss] Lich",
       "kr": "[심연] 리치",
       "br": "[Abismo] Lich",
-      "tw": "[Abyss] Lich"
+      "tw": "【深淵】巫妖"
     },
     "point": 38,
     "group": "exclusive",
@@ -2357,7 +2357,7 @@
       "en": "[Abyss] Raid Storm",
       "kr": "[심연] 레이드 스톰",
       "br": "[Abismo] Tempestade Furiosa Harrier",
-      "tw": "[Abyss] Raid Storm"
+      "tw": "【深淵】急速風暴"
     },
     "point": 42,
     "group": "exclusive",
@@ -2385,7 +2385,7 @@
       "en": "[Abyss] SandStorm",
       "kr": "[심연] 샌드 스톰",
       "br": "[Abismo] Tempestade Arenosa Harrier",
-      "tw": "[Abyss] SandStorm"
+      "tw": "【深淵】沙塵暴"
     },
     "point": 42,
     "group": "exclusive",
@@ -2413,7 +2413,7 @@
       "en": "[Abyss] Harrier Dwarf Overserr",
       "kr": "[심연] 해리어 드워프 감독관",
       "br": "[Abismo] Anão Guardião Harrier",
-      "tw": "[Abyss] Harrier Dwarf Overserr"
+      "tw": "【深淵】海利爾矮人監察官"
     },
     "point": 36,
     "group": "exclusive",
@@ -2441,7 +2441,7 @@
       "en": "[Abyss] Harrier Dwarf Engineer",
       "kr": "[심연] 해리어 드워프 공병",
       "br": "[Abismo] Anão Engenheiro Harrier",
-      "tw": "[Abyss] Harrier Dwarf Engineer"
+      "tw": "【深淵】海利爾矮人工兵"
     },
     "point": 34,
     "group": "exclusive",
@@ -2469,7 +2469,7 @@
       "en": "[Abyss] Harrier Dwarf Rifleman",
       "kr": "[심연] 해리어 드워프 소총병",
       "br": "[Abismo] Anão Atirador Harrier",
-      "tw": "[Abyss] Harrier Dwarf Rifleman"
+      "tw": "【深淵】海利爾矮人火槍兵"
     },
     "point": 36,
     "group": "exclusive",
@@ -2497,7 +2497,7 @@
       "en": "[Abyss] Harrier Dwarf Royal Guard",
       "kr": "[심연] 해리어 드워프 로얄가드",
       "br": "[Abismo] Anão Guarda Real Harrier",
-      "tw": "[Abyss] Harrier Dwarf Royal Guard"
+      "tw": "【深淵】海利爾矮人皇家守衛"
     },
     "point": 36,
     "group": "exclusive",
@@ -2525,7 +2525,7 @@
       "en": "[Abyss] Harrier Icefang",
       "kr": "[심연] 해리어 세이버투스",
       "br": "[Abismo] Dente de Sabre Harrier",
-      "tw": "[Abyss] Harrier Icefang"
+      "tw": "【深淵】海利爾劍齒虎"
     },
     "point": 34,
     "group": "exclusive",
@@ -2553,7 +2553,7 @@
       "en": "[Abyss] Harrier Royal Elven Guard",
       "kr": "[심연] 해리어 엘프 근위병",
       "br": "[Abismo] Guarda Real Élfica Harrier",
-      "tw": "[Abyss] Harrier Royal Elven Guard"
+      "tw": "【深淵】海利爾精靈近衛兵"
     },
     "point": 36,
     "group": "exclusive",
@@ -2581,7 +2581,7 @@
       "en": "[Abyss] Harrier Elite Elven Mage",
       "kr": "[심연] 엘프 정예 마법사",
       "br": "[Abismo] Maga de Elite Élfica Harrier",
-      "tw": "[Abyss] Harrier Elite Elven Mage"
+      "tw": "【深淵】海利爾精靈菁英法師"
     },
     "point": 38,
     "group": "exclusive",
@@ -2609,7 +2609,7 @@
       "en": "[Abyss] Iron Guard",
       "kr": "[심연] 해머몬",
       "br": "[Abismo] Hammer Mon",
-      "tw": "[Abyss] Iron Guard"
+      "tw": "【深淵】鎚子獸"
     },
     "point": 36,
     "group": "exclusive",
@@ -2637,7 +2637,7 @@
       "en": "[Abyss] Harrier Cyclops",
       "kr": "[심연] 해리어 사이클롭스",
       "br": "[Abismo] Ciclope Harrier",
-      "tw": "[Abyss] Harrier Cyclops"
+      "tw": "【深淵】海利爾獨眼巨人指揮官"
     },
     "point": 40,
     "group": "exclusive",
@@ -2665,7 +2665,7 @@
       "en": "[Abyss] Harrier Dark Elven Magic Archer",
       "kr": "[심연] 해리어 다크엘프 마법궁수",
       "br": "[Abismo] Elfa Negra Arqueira Harrier",
-      "tw": "[Abyss] Harrier Dark Elven Magic Archer"
+      "tw": "【深淵】海利爾暗黑精靈魔法弓手"
     },
     "point": 38,
     "group": "exclusive",
@@ -2693,7 +2693,7 @@
       "en": "[Abyss] Harrier Dark Elven Horseman",
       "kr": "[심연] 해리어 다크엘프 기마병",
       "br": "[Abismo] Elfa Negra Cavaleira Harrier",
-      "tw": "[Abyss] Harrier Dark Elven Horseman"
+      "tw": "【深淵】海利爾暗黑精靈騎兵"
     },
     "point": 42,
     "group": "exclusive",
@@ -2721,7 +2721,7 @@
       "en": "[Abyss] Miston",
       "kr": "[심연] 미스톤",
       "br": "[Abismo] Meowpedra",
-      "tw": "[Abyss] Miston"
+      "tw": "【深淵】黑霧"
     },
     "point": 34,
     "group": "exclusive",
@@ -2749,7 +2749,7 @@
       "en": "[Abyss] Harrier Assassin Master",
       "kr": "[심연] 해리어 어쌔신 마스터",
       "br": "[Abismo] Mestre Assassino Harrier",
-      "tw": "[Abyss] Harrier Assassin Master"
+      "tw": "【深淵】海利爾刺客大師"
     },
     "point": 40,
     "group": "exclusive",
@@ -2777,7 +2777,7 @@
       "en": "[Abyss] Commander 'The Dark Sword'",
       "kr": "[심연] 마군단 흑검대장",
       "br": "[Abismo] Mestre Espadachim Demoniáco",
-      "tw": "[Abyss] Commander 'The Dark Sword'"
+      "tw": "【深淵】魔界軍團劍隊長"
     },
     "point": 40,
     "group": "exclusive",
@@ -2805,7 +2805,7 @@
       "en": "[Abyss] Gargoyle",
       "kr": "[심연] 가고일",
       "br": "[Abismo] Gagoil",
-      "tw": "[Abyss] Gargoyle"
+      "tw": "【深淵】石像鬼"
     },
     "point": 34,
     "group": "exclusive",
@@ -2833,7 +2833,7 @@
       "en": "[Abyss] Hera",
       "kr": "[심연] 헤라",
       "br": "[Abismo] Hera",
-      "tw": "[Abyss] Hera"
+      "tw": "【深淵】赫拉"
     },
     "point": 34,
     "group": "exclusive",
@@ -2861,7 +2861,7 @@
       "en": "[Abyss] Harrier Elite Gatekeeper",
       "kr": "[심연] 해리어 상급 수문장",
       "br": "[Abismo] Guardião de Elite Harrier",
-      "tw": "[Abyss] Harrier Elite Gatekeeper"
+      "tw": "【深淵】海利爾上級門神"
     },
     "point": 42,
     "group": "exclusive",
@@ -2889,7 +2889,7 @@
       "en": "[Abyss] Harrier Black Knight Shield Bearer",
       "kr": "[심연] 해리어 설원 방패병",
       "br": "[Abismo] Escudeiro Nevado Harrier",
-      "tw": "[Abyss] Harrier Black Knight Shield Bearer"
+      "tw": "【深淵】海利爾雪原盾兵"
     },
     "point": 34,
     "group": "exclusive",
@@ -2917,7 +2917,7 @@
       "en": "[Abyss] Harrier Black Knight Spearman",
       "kr": "[심연] 해리어 설원 창병",
       "br": "[Abismo] Lanceiro Nevado Harrier",
-      "tw": "[Abyss] Harrier Black Knight Spearman"
+      "tw": "【深淵】海利爾雪原槍兵"
     },
     "point": 34,
     "group": "exclusive",
@@ -2945,7 +2945,7 @@
       "en": "[Abyss] Harrier Black Tempest",
       "kr": "[심연] 해리어 설원 템페스트",
       "br": "[Abismo] Tempestade Nevada Harrier",
-      "tw": "[Abyss] Harrier Black Tempest"
+      "tw": "【深淵】海利爾雪原黑色風暴"
     },
     "point": 34,
     "group": "exclusive",
@@ -2973,7 +2973,7 @@
       "en": "[Abyss] Harrier Elven Assassin",
       "kr": "[심연] 해리어 엘프 암살자",
       "br": "[Abismo] Elfa Assassina Harrier",
-      "tw": "[Abyss] Harrier Elven Assassin"
+      "tw": "【深淵】海利爾精靈刺客"
     },
     "point": 38,
     "group": "exclusive",
@@ -3001,7 +3001,7 @@
       "en": "[Abyss] Harrier Cyclops Sentry",
       "kr": "[심연] 해리어 사이클롭스 초병",
       "br": "[Abismo] Sentinela Ciclope Harrier",
-      "tw": "[Abyss] Harrier Cyclops Sentry"
+      "tw": "【深淵】海利爾獨眼巨人哨兵"
     },
     "point": 38,
     "group": "exclusive",
@@ -3029,7 +3029,7 @@
       "en": "[Abyss] Harrier Highlander's Illusion",
       "kr": "[심연] 해리어 하이랜더 기사의 잔영",
       "br": "[Abismo] Espírito do Cavaleiro Highlander Harrier",
-      "tw": "[Abyss] Harrier Highlander's Illusion"
+      "tw": "【深淵】海利爾高地騎士殘影"
     },
     "point": 42,
     "group": "exclusive",
@@ -3057,7 +3057,7 @@
       "en": "[Abyss] Harrier Apostle of Revelation",
       "kr": "[심연] 해리어 신탁의 사도",
       "br": "[Abismo] Apóstulo da Revelação Harrier",
-      "tw": "[Abyss] Harrier Apostle of Revelation"
+      "tw": "【深淵】海利爾神諭使徒"
     },
     "point": 42,
     "group": "exclusive",
@@ -3085,7 +3085,7 @@
       "en": "[Abyss] Harrier Iron Infantry",
       "kr": "[심연] 강철 보병",
       "br": "[Abismo] Infantaria de Aço",
-      "tw": "[Abyss] Harrier Iron Infantry"
+      "tw": "【深淵】鋼鐵步兵"
     },
     "point": 36,
     "group": "exclusive",
@@ -3113,7 +3113,7 @@
       "en": "[Abyss] Goblin Worker",
       "kr": "[심연] 고블린 일꾼",
       "br": "[Abismo]  Goblin Operário",
-      "tw": "[Abyss] Goblin Worker"
+      "tw": "【深淵】哥布林工人"
     },
     "point": 32,
     "group": "exclusive",
@@ -3141,7 +3141,7 @@
       "en": "[Abyss] Goblin Jester",
       "kr": "[심연] 고블린 재주꾼",
       "br": "[Abismo] Goblin Talentoso",
-      "tw": "[Abyss] Goblin Jester"
+      "tw": "【深淵】哥布林雜技兵"
     },
     "point": 36,
     "group": "exclusive",
@@ -3169,7 +3169,7 @@
       "en": "[Abyss] Greedy Stavrogin",
       "kr": "[심연] 탐욕의 스타브로긴",
       "br": "[Abismo] Ganancioso Stavrogin",
-      "tw": "[Abyss] Greedy Stavrogin"
+      "tw": "【深淵】貪婪的斯塔夫洛金"
     },
     "point": 40,
     "group": "exclusive",
@@ -3197,7 +3197,7 @@
       "en": "[Abyss] Temple Apostle",
       "kr": "[심연] 사원의 신도",
       "br": "[Abismo] Apóstulo do Templo",
-      "tw": "[Abyss] Temple Apostle"
+      "tw": "【深淵】寺院信徒"
     },
     "point": 38,
     "group": "exclusive",
@@ -3225,7 +3225,7 @@
       "en": "[Abyss] Shadow Apostle",
       "kr": "[심연] 그림자 신도",
       "br": "[Abismo] Apóstulo Sombrio",
-      "tw": "[Abyss] Shadow Apostle"
+      "tw": "【深淵】暗影信徒"
     },
     "point": 38,
     "group": "exclusive",
@@ -3253,7 +3253,7 @@
       "en": "[Abyss] Eliste Sentry Robot",
       "kr": "[심연] 강화 경비 로봇",
       "br": "[Abismo] Robô Sentinela de Elite",
-      "tw": "[Abyss] Eliste Sentry Robot"
+      "tw": "【深淵】強化警備機器人"
     },
     "point": 40,
     "group": "exclusive",
@@ -3281,7 +3281,7 @@
       "en": "4Ever! Chaser",
       "kr": "4Ever! 체이서",
       "br": "Chaser Para Sempre!",
-      "tw": "4Ever! Chaser"
+      "tw": "4Ever! 追逐者"
     },
     "point": 4,
     "group": "exclusive",
@@ -3309,7 +3309,7 @@
       "en": "Sad Harpe",
       "kr": "슬픈 하르페",
       "br": "Harpe Triste",
-      "tw": "Sad Harpe"
+      "tw": "悲傷的哈爾菲"
     },
     "point": 60,
     "group": "exclusive",
