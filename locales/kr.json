@@ -40,6 +40,7 @@
       "expectedGain": "예상 레벨 획득",
       "chartTitle": "점수 범위별 누락 획득 확률 및 예상 레벨 획득",
       "notApplicable": "해당없음",
+      "showIncompleteOnly": "미완료만 표시",
 
       "exportData": "내보내기",
       "importData": "가져오기",

@@ -40,6 +40,7 @@
       "expectedGain": "預期獲得等級",
       "chartTitle": "依點數範圍的缺失獲得機率與預期獲得等級",
       "notApplicable": "不適用",
+      "showIncompleteOnly": "僅顯示未完成",
 
       "exportData": "匯出",
       "importData": "匯入",

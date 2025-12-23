@@ -258,6 +258,28 @@ body.dark-mode .lang-option.active:hover {
   cursor: pointer;
 }
 
+.filter-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
+  user-select: none;
+  margin-right: 13px;
+}
+
+.filter-checkbox input[type="checkbox"] {
+  margin: 0;
+}
+
+.filter-checkbox label {
+  cursor: pointer;
+}
+
+/* Dark mode for filter checkbox */
+body.dark-mode .filter-checkbox label {
+  color: #e0e0e0;
+}
+
 .search-box {
   margin-left: auto;
   font-size: 14px;
@@ -431,8 +453,8 @@ tbody tr:last-child td {
 
 /* Checkbox styling with white checkmark */
 input[type="checkbox"] {
-  width: 18px;
-  height: 18px;
+  min-width: 18px;
+  min-height: 18px;
   cursor: pointer;
   appearance: none;
   -webkit-appearance: none;
@@ -619,7 +641,7 @@ body.dark-mode .summary-divider {
   }
 
   .search-box {
-    margin-left: 0;
+    margin-left: auto;
   }
 
   .search-box input {

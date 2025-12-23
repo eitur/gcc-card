@@ -111,6 +111,7 @@ function resetAll() {
   document.getElementById("searchBox").value = '';
   document.getElementById("filterAcquiredFrom").value = '';
   document.getElementById("filterGroup").value = '';
+  document.getElementById("filterIncomplete").checked = false;
   
   // Clear sort
   sortColumn = null;
@@ -251,9 +252,24 @@ function getFilteredCards() {
   const search = document.getElementById("searchBox").value.toLowerCase();
   const filterAcquiredFrom = document.getElementById("filterAcquiredFrom").value;
   const filterGroup = document.getElementById("filterGroup").value;
+  const filterIncomplete = document.getElementById("filterIncomplete")?.checked || false;
 
   return cards.filter(c => {
-    const cardName = getCardName(c.id).toLowerCase(); // Use new function
+    const cardName = getCardName(c.id).toLowerCase();
+
+    if (filterIncomplete) {
+      // Exclude uncollectible cards
+      if (c.group === 'uncollectible') {
+        return false;
+      }
+      
+      // Only show cards that are not at Lv3
+      const currentData = selected.get(c.id);
+      if (currentData && currentData.level === 3) {
+        return false;
+      }
+    }
+
     return cardName.includes(search) &&
       (filterAcquiredFrom ? c.acquiredFrom === filterAcquiredFrom : true) &&
       (filterGroup ? c.group == filterGroup : true);

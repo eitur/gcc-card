@@ -130,6 +130,11 @@
     </div>
 
     <div class="filters">
+      <div class="filter-checkbox">
+        <input type="checkbox" id="filterIncomplete" onchange="renderTable()">
+        <label for="filterIncomplete" data-i18n="ui.showIncompleteOnly">Show incomplete only</label>
+      </div>
+
       <span data-i18n="ui.group">Group</span>:
       <select id="filterGroup" onchange="renderTable()">
         <option value="" data-i18n="ui.all">All</option>
