@@ -784,7 +784,7 @@
     }
   },
   {
-    "id": 759,
+    "id": 763,
     "names": {
       "en": "Where the Gaze Lingers",
       "kr": "시선이 머무는 곳",
@@ -795,7 +795,7 @@
     "group": 7,
     "individualProbability": 0.034482758620689655,
     "groupCount": 29,
-    "image": "u6.webp",
+    "image": "u10.webp",
     "acquiredFrom": "solene",
     "copy": {
       "interval": {

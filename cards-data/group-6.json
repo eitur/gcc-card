@@ -2184,40 +2184,12 @@
     }
   },
   {
-    "id": 753,
-    "names": {
-      "en": "Sentinel Sentry",
-      "kr": "센티넬 감시병",
-      "br": "Vigia Sentinela",
-      "tw": "哨兵監視兵"
-    },
-    "point": 58,
-    "group": 6,
-    "individualProbability": 0.011494252873563218,
-    "groupCount": 87,
-    "image": "u0.webp",
-    "acquiredFrom": "solene",
-    "copy": {
-      "interval": {
-        "1": 1,
-        "2": 3,
-        "3": 5
-      },
-      "cumulated": {
-        "0": 0,
-        "1": 1,
-        "2": 4,
-        "3": 9
-      }
-    }
-  },
-  {
     "id": 754,
     "names": {
-      "en": "Adrite Mutant",
-      "kr": "아드라이트 변이체",
-      "br": "Mutante de Adrite",
-      "tw": "阿德萊特變異體"
+      "en": "Sentinel Guard",
+      "kr": "센티넬 경비대원",
+      "br": "Guarda Sentinela",
+      "tw": "哨兵警備隊員"
     },
     "point": 58,
     "group": 6,
@@ -2242,10 +2214,10 @@
   {
     "id": 755,
     "names": {
-      "en": "Adrite Mutant Core",
-      "kr": "아드라이트 변이체 코어",
-      "br": "Núcleo de Mutante de Adrite",
-      "tw": "阿德萊特變異體核心"
+      "en": "Sentinel Armored Soldier",
+      "kr": "센티넬 기갑병",
+      "br": "Soldado Blindado Sentinela",
+      "tw": "哨兵機甲兵"
     },
     "point": 58,
     "group": 6,
@@ -2270,12 +2242,12 @@
   {
     "id": 756,
     "names": {
-      "en": "Sentinel Commader",
-      "kr": "센티넬 지휘관",
-      "br": "Comandante Sentinela",
-      "tw": "哨兵指揮官"
+      "en": "Sentinel Sniper",
+      "kr": "센티넬 저격병",
+      "br": "Atirador Sentinela",
+      "tw": "哨兵狙擊兵"
     },
-    "point": 60,
+    "point": 58,
     "group": 6,
     "individualProbability": 0.011494252873563218,
     "groupCount": 87,
@@ -2298,12 +2270,12 @@
   {
     "id": 757,
     "names": {
-      "en": "Sentinel Amalgam",
-      "kr": "센티넬 융합체",
-      "br": "Amálgama Sentinela",
-      "tw": "哨兵融合體"
+      "en": "Sentinel Sentry",
+      "kr": "센티넬 감시병",
+      "br": "Vigia Sentinela",
+      "tw": "哨兵監視兵"
     },
-    "point": 60,
+    "point": 58,
     "group": 6,
     "individualProbability": 0.011494252873563218,
     "groupCount": 87,
@@ -2326,12 +2298,12 @@
   {
     "id": 758,
     "names": {
-      "en": "Sentinel Grand General",
-      "kr": "센티넬 총대장",
-      "br": "General Supremo Sentinela",
-      "tw": "哨兵總隊長"
+      "en": "Adrite Mutant",
+      "kr": "아드라이트 변이체",
+      "br": "Mutante de Adrite",
+      "tw": "阿德萊特變異體"
     },
-    "point": 62,
+    "point": 58,
     "group": 6,
     "individualProbability": 0.011494252873563218,
     "groupCount": 87,
@@ -2352,14 +2324,42 @@
     }
   },
   {
-    "id": 760,
+    "id": 759,
     "names": {
-      "en": "Sentinel Guard",
-      "kr": "센티넬 경비대원",
-      "br": "Guarda Sentinela",
-      "tw": "哨兵警備隊員"
+      "en": "Adrite Mutant Core",
+      "kr": "아드라이트 변이체 코어",
+      "br": "Núcleo de Mutante de Adrite",
+      "tw": "阿德萊特變異體核心"
     },
     "point": 58,
+    "group": 6,
+    "individualProbability": 0.011494252873563218,
+    "groupCount": 87,
+    "image": "u6.webp",
+    "acquiredFrom": "solene",
+    "copy": {
+      "interval": {
+        "1": 1,
+        "2": 3,
+        "3": 5
+      },
+      "cumulated": {
+        "0": 0,
+        "1": 1,
+        "2": 4,
+        "3": 9
+      }
+    }
+  },
+  {
+    "id": 760,
+    "names": {
+      "en": "Sentinel Commader",
+      "kr": "센티넬 지휘관",
+      "br": "Comandante Sentinela",
+      "tw": "哨兵指揮官"
+    },
+    "point": 60,
     "group": 6,
     "individualProbability": 0.011494252873563218,
     "groupCount": 87,
@@ -2382,12 +2382,12 @@
   {
     "id": 761,
     "names": {
-      "en": "Sentinel Armored Soldier",
-      "kr": "센티넬 기갑병",
-      "br": "Soldado Blindado Sentinela",
-      "tw": "哨兵機甲兵"
+      "en": "Sentinel Amalgam",
+      "kr": "센티넬 융합체",
+      "br": "Amálgama Sentinela",
+      "tw": "哨兵融合體"
     },
-    "point": 58,
+    "point": 60,
     "group": 6,
     "individualProbability": 0.011494252873563218,
     "groupCount": 87,
@@ -2410,12 +2410,12 @@
   {
     "id": 762,
     "names": {
-      "en": "Sentinel Sniper",
-      "kr": "센티넬 저격병",
-      "br": "Atirador Sentinela",
-      "tw": "哨兵狙擊兵"
+      "en": "Sentinel Grand General",
+      "kr": "센티넬 총대장",
+      "br": "General Supremo Sentinela",
+      "tw": "哨兵總隊長"
     },
-    "point": 58,
+    "point": 62,
     "group": 6,
     "individualProbability": 0.011494252873563218,
     "groupCount": 87,
